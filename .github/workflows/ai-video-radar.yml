@@ -5,6 +5,13 @@ on:
     # Beijing 07:00 = previous-day UTC 23:00. GitHub may delay scheduled runs.
     - cron: '0 23 * * *'
   workflow_dispatch:
+  push:
+    branches: [master, main]
+    paths:
+      - 'ai-video-radar/radar.py'
+      - 'ai-video-radar/config.json'
+      - 'ai-video-radar/tests/**'
+      - '.github/workflows/ai-video-radar.yml'
 
 permissions:
   contents: write
