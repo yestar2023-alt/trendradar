@@ -1,0 +1,27 @@
+{
+  "timezone": "Asia/Shanghai",
+  "max_sitemaps_per_site": 60,
+  "max_urls_per_site": 60000,
+  "max_detail_pages_per_run": 30,
+  "timeout_seconds": 16,
+  "delay_seconds": 0.35,
+  "sources": [
+    {"id":"summrs","name":"Summrs","base":"https://www.summrs.com","listings":["/","/blog"],"path_patterns":["/blog/","/templates/","/video/","/effects/","/ai-"]},
+    {"id":"tiktok","name":"TikTok Creative Center","base":"https://ads.tiktok.com","use_sitemap":false,"listings":["/creative/creativeCenter/trends"],"path_patterns":["/creative/creativeCenter/trends/"]},
+    {"id":"capcut","name":"CapCut Trending","base":"https://www.capcut.com","use_sitemap":false,"listings":["/explore/latest-trend"],"path_patterns":["/template-detail/","/templates/","/explore/"]},
+    {"id":"viggle","name":"Viggle Meme","base":"https://viggle.ai","listings":["/meme"],"path_patterns":["/meme/","/template/","/templates/","/video/"]},
+    {"id":"higgsfield","name":"Higgsfield Viral","base":"https://higgsfield.ai","listings":["/viral","/apps/trending-templates"],"path_patterns":["/viral/","/apps/","/effects/","/templates/"]},
+    {"id":"makeviral","name":"MakeViral","base":"https://www.makeviral.ai","listings":["/","/templates"],"path_patterns":["/templates/","/blog/"]},
+    {"id":"zooop","name":"Zooop","base":"https://zooop.ai","listings":["/","/blog"],"path_patterns":["/blog/","/templates/","/ai-","/video-"]},
+    {"id":"pixverse","name":"PixVerse","base":"https://pixverse.ai","listings":["/","/effects","/templates"],"path_patterns":["/template/","/templates/","/effect/","/effects/"]},
+    {"id":"mediaio","name":"Media.io","base":"https://www.media.io","listings":["/video-effects/"],"path_patterns":["/video-effects/","/ai-video-effects/","/ai-"]}
+  ],
+  "aliases": {
+    "a2o lite neon dance": "a2o lite neon ai dance",
+    "a2o lite neon": "a2o lite neon ai dance",
+    "hotel lobby ai": "hotel lobby ai video",
+    "hotel lobby": "hotel lobby ai video",
+    "gas station dance trend": "gas station dance ai",
+    "te he perdido entre la gente ia": "te he perdido entre la gente ai"
+  }
+}
