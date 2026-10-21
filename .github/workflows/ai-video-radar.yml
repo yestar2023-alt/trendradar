@@ -1,0 +1,58 @@
+name: AI Video URL Delta Radar
+
+on:
+  schedule:
+    # Beijing 07:00 = previous-day UTC 23:00. GitHub may delay scheduled runs.
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-video-radar-daily
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Detect location and run tests
+        id: locate
+        shell: bash
+        run: |
+          if test -f ai-video-radar/radar.py; then echo "root=ai-video-radar" >> "$GITHUB_OUTPUT"; else echo "root=." >> "$GITHUB_OUTPUT"; fi
+          python -m unittest discover -s "$(test -f ai-video-radar/radar.py && echo ai-video-radar/tests || echo tests)" -v
+      - name: Crawl and compare snapshots
+        run: python "${{ steps.locate.outputs.root }}/radar.py" --root "${{ steps.locate.outputs.root }}"
+      - name: Persist daily snapshot and report in Git
+        shell: bash
+        env:
+          RADAR_ROOT: ${{ steps.locate.outputs.root }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add "$RADAR_ROOT/data" "$RADAR_ROOT/reports"
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: snapshot and report $(TZ=Asia/Shanghai date +%F)"
+            git push
+          fi
+      - name: Upload report as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-video-radar-${{ github.run_id }}
+          path: |
+            ${{ steps.locate.outputs.root }}/reports/latest.md
+            ${{ steps.locate.outputs.root }}/reports/*.csv
+          if-no-files-found: ignore
+          retention-days: 30
