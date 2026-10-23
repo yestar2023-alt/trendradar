@@ -29,6 +29,28 @@ jobs:
           python ai-video-radar/upstream/upstream.py --root ai-video-radar/upstream
           cat ai-video-radar/upstream/reports/latest.md
           python -c "import json; from pathlib import Path; s=json.loads(Path('ai-video-radar/upstream/data/state.json').read_text()); assert s.get('sources'), 'LIVE_RSS_UNAVAILABLE: no successful feed'"
+      - name: Probe alternate public feeds
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          from urllib.request import Request,urlopen
+          from urllib.error import HTTPError,URLError
+          channel='UC2t5bjwHdUX4vM2g8TRDq5g'
+          urls=[
+            'https://www.youtube.com/feeds/videos.xml?channel_id='+channel,
+            'https://www.youtube.com/feeds/videos.xml?playlist_id=UU'+channel[2:],
+            'https://www.youtube.com/feeds/videos.xml?playlist_id=UULF'+channel[2:],
+            'https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ',
+          ]
+          for url in urls:
+              try:
+                  with urlopen(Request(url,headers={'User-Agent':'Mozilla/5.0'}),timeout=10) as response:
+                      content=response.read(1000)
+                      print(url, 'HTTP',response.status, 'sample_bytes',len(content),flush=True)
+              except Exception as exc:
+                  print(url,type(exc).__name__,str(exc)[:150],flush=True)
+          PY
       - name: Upload diagnostics
         if: always()
         uses: actions/upload-artifact@v4
