@@ -220,7 +220,7 @@ def report(result):
         "# AI Shorts 新玩法归组与独立模仿证据（自动候选）","",
         "- 数据时间（北京）："+bj(result["source_snapshot_at"]),
         "- 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询",
-        f'- 24小时视频快照池：{result["snapshot_video_count"]} 条；窄词规则识别主题：{result["named_theme_count"]} 个',
+        f'- 保存的历史状态池：{result["snapshot_video_count"]} 条；仅使用最近24小时发布的视频归组为 {result["named_theme_count"]} 个主题',
         f'- 有两个及以上独立账号文字自述AI的**候选主题**：{result["claimed_multi_creator_themes"]}（不等于同一玩法的模仿已证实）',
         "- 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**","",
         "> **务必注意：** 此处的“同主题”仅根据明确文字片段聚合，未经视频画面验证。",
