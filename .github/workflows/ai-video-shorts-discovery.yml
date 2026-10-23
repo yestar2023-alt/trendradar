@@ -52,7 +52,10 @@ jobs:
           captured=themes.utc(state['scans'][-1]['time'])
           # Freeze the clock to the source observation, not runner wall clock;
           # this permits rerunning PRs without fake "fresh today" claims.
-          emerging.run(root,captured+timedelta(seconds=2))
+          identified=emerging.run(root,captured+timedelta(seconds=2))
+          print(json.dumps([{'anchor':g['anchor'],'classification':g['classification'],
+                             'creators':g['unique_channels']}
+                            for g in identified['cross_creator_groups']],ensure_ascii=False))
           themes.run(root,captured+timedelta(seconds=2))
           PY
       - name: Search recent AI-made short-video candidates
