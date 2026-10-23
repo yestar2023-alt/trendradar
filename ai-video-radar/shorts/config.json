@@ -1,7 +1,7 @@
 {
   "timezone": "Asia/Shanghai",
   "window_hours": 24,
-  "max_searches_per_scan": 8,
+  "max_searches_per_scan": 3,
   "max_detail_ids": 600,
   "min_views": 1500,
   "min_avg_views_per_hour": 160,
@@ -38,5 +38,6 @@
       "q": "video IA viral",
       "order": "viewCount"
     }
-  ]
+  ],
+  "search_rotation": "3 of 8 queries per 4-hour run; cycles across all 8 and avoids permanently dropping any"
 }
