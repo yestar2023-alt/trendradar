@@ -34,7 +34,7 @@ THEMES = [
          known="2026-09-25", url="https://knowyourmeme.com/memes/black-cat-clapping",
          note="9月已出现的存量热门梗，不能把今日二创叫首发", risk="原创素材版权与宠物照片权利"),
     dict(id="cinema_breakout", name="4D Cinema Breakout / 影院破屏",
-         pattern=r"(?:4d\s*(?:theat(?:er|re)|cinema|bioskop)|(?:cinema|theat(?:er|re))\s*(?:breakout|out\s+of\s+screen))",
+         pattern=r"(?:4d\s*(?:theat(?:er|re)|cinema|bioskop)|bioskop\s*4d|(?:cinema|theat(?:er|re))\s*(?:breakout|out\s+of\s+screen))",
          input="一张本人照片+原创影院场景", outcome="银幕的虚构物体冲向座位",
          known="2026-09-30", url="https://www.makeviral.ai/templates/ai-cinema-breakout-video",
          note="至少9月已有独立模板；新闻/解说视频不代表新AI二创", risk="影视IP与原视频素材授权"),
