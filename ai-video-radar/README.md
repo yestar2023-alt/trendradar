@@ -79,62 +79,65 @@ TikTok Creative Center、CapCut 和部分模板商店高度依赖客户端 JS �
 公共仓库存储的都是公开 URL、标题、检查时间，不放 API Key 或个人数据。GitHub Actions 的定时运行可能因服务排队而延迟；长期不活动的公开仓库可能暂停 schedule，需定期检查 Actions。
 ## SEO 关键词复核（KGR / EKGR / KDROI）
 
-2026-10-23 起，每次扫描除原报告外，还会针对最近 7 份日报中的候选生成：
+这里的 **三个公式全部按 2026-10-23 用户提供的截图**，与先前的 KDROI/CPC 机会分数算法不同：
 
-- `reports/seo-latest.csv`（最新 SEO 数据表）
-- `reports/YYYY-MM-DD-seo.csv`（每日快照）
-- `reports/latest.md` 的“SEO 指标复核”板块
-
-**不伪造任何数据**。没有真实月搜索量、标题竞争数、自然搜索 KD 或 CPC 时，显示“— / 等待真实数据”。Google Ads `competition_index` 不等于 SEO 关键词难度 KD，也不会拿它替代。
-
-指标计算方式：
-
-- KGR = Allintitle 搜索结果估计数 / 月均搜索量（仅 volume > 0 时计算）。
-- EKGR = Allintitle × (1 + KD / 100) / 月均搜索量（要求有效 KD）。
-- KDROI 分数 = 月均搜索量 × CPC(USD) / (KD + 1)（是 kdroi.io 定义的**机会分数**，不是实际的投资收益率，也不等于别处的 KDROI 百分比）。
-
-经典 KGR 更适用于月量较低（常见约 250 以下）的稳定长尾搜索词。刚出现 1–7 天的新热词，其 12 个月搜索量经常没有或滞后，不能因为缺值或为零直接判定不值得做。
-
-### 无需付费 API：导入真实数据
-
-在 `data/keyword_metrics.csv` 填入第三方数据，列名：
-
-```csv
-keyword,volume,allintitle,kd,cpc,source,checked_at,location,language
+```text
+KGR     = Google intitle 结果数 / 月搜索量
+EKGR    = Google intitle 结果数 × (1 + KD / 100) / 月搜索量
+KDROI % = (日搜索量 × $0.10 × 365 / (所需外链数 × $100) - 1) × 100
 ```
 
-例如（**数字仅说明格式，绝非当前市场实测数据**）：
+- **intitle 不等于 allintitle**：老版本的 `allintitle` 缓存/CSV 不自动转为 `intitle`，需要重新取得正确数据。
+- `KD` 指自然搜索关键词竞争难度（0–100），不是 Google Ads 竞争指数。
+- 有真实日搜索量时直接使用；否则按 **月平均搜索量 × 12/365** 估算日搜索量，并明确标记。新热词的月均搜索量可能显著滞后。
+- 所需外链数必须 > 0；默认未填写时不计算 KDROI。**只有主动设置** `SEO_ESTIMATE_BACKLINKS_FROM_KD=1` 时，才使用 `KD/5` 作为极其粗糙的估算，并在结果中注明，不要误当成实际外链需求。
+- $0.10 每次搜索收益、$100 每条外链是截图中的**固定模型假设**，并非真实用户点击、客单价或建站利润。KDROI 可以为负数；结果为百分数而不是机会分数。
+- 当字段缺失时写“—”，不伪造搜索量、Intitle 或外链需求。
+
+自动扫描之后，输出 `reports/seo-latest.csv`、`reports/YYYY-MM-DD-seo.csv`，并在 `reports/latest.md` 展示对应的指标、来源和推算标记。每天复核最近 7 份日报中的关键词。
+
+### 免费导入真实数据
+
+在 `data/keyword_metrics.csv` 中填写：
 
 ```csv
-example ai dance,120,12,20,1.50,my-own-seo-export,2026-10-23,United States,English
+keyword,volume,daily_volume,intitle,kd,required_backlinks,source,checked_at,location,language
 ```
 
-可以把 Semrush、Ahrefs 或其他来源整理成这些列：`volume` 为指定市场月均搜索量，`allintitle` 为 Google 同一市场/语言的 allintitle 估算结果数，`kd` 为自然搜索 KD(0–100)，`cpc` 为美元；最好填写源名称、采集日期、地区和语言。重复词请保留一行。默认按规范化后的完整关键词匹配，不会擅自把不同玩法混在一起。
+**仅作格式示范的假设数字，非实测数据：**
 
-编辑并提交 CSV 会触发 Actions 再次运行（也可以手动 Run workflow），**不需要付费账户**。单独核查某个词：
+```csv
+example ai dance,120,20,12,20,2,manual,2026-10-23,United States,English
+```
+
+该示例 KGR = 0.10，EKGR = 0.12，KDROI = 265%。其中日搜索量 20 明显不同于月量 120 的常规平均值，只是为了单独验证三个输入；真实使用时应确保数据源、市场和时间口径一致。
+
+单独计算：
 
 ```bash
 python ai-video-radar/seo_metrics.py --root ai-video-radar --keyword "firestarter dance ai" --keyword "dime dime baby ai"
 ```
 
-终端直接打印实际有的数据和缺失项，同时生成 `reports/seo-manual.csv`。
+导入 CSV 后在 Actions 手动执行 `AI Video URL Delta Radar`，新的 SEO 报表会从该 CSV 和已有缓存取值，不需要付费 API。
 
-### 可选：通过 DataForSEO 自动获取（按 API 用量付费）
+### 可选自动取数（DataForSEO 按 API 请求量收费）
 
-默认 **关闭**，GitHub Actions 不调用任何付费 SEO API。
+默认 **关闭**。先在 GitHub 仓库 Settings → Secrets and variables → Actions 添加：
 
-在仓库 **Settings → Secrets and variables → Actions**：
+- Secret `DATAFORSEO_LOGIN`、`DATAFORSEO_PASSWORD`。
+- Variable `SEO_AUTO_FETCH=1`，控制最大每次新增取数的 `SEO_MAX_KEYWORDS_PER_RUN=3`（系统硬限制最多 10）。
+- 可选 variable `SEO_FETCH_INTITLE=1`，使用 Google 的 `intitle:"关键词"` 结果估计数（单独付费查询；**不要再设置旧的 SEO_FETCH_ALLINTITLE**）。结果数本身是搜索引擎的近似值。
+- 可选 variable `SEO_ESTIMATE_BACKLINKS_FROM_KD=1`，没有真实外链数时使用 KD÷5 并明确标记“估算”；如果追求严谨，**不要打开**。
+- `SEO_LOCATION`、`SEO_LANGUAGE` 用来选取 SEO 数据市场；默认美国/英语，**并不限制主新词雷达的全球监控范围**。
 
-1. 添加 Repository secrets `DATAFORSEO_LOGIN` 和 `DATAFORSEO_PASSWORD`，**不要把凭证放进 CSV 或代码中**。
-2. 添加 Repository variable `SEO_AUTO_FETCH` = `1`，再设 `SEO_MAX_KEYWORDS_PER_RUN` = `3`（最多允许 10）。
-3. 如果还需要 **KGR/EKGR 的 Allintitle 结果**，添加 variable `SEO_FETCH_ALLINTITLE` = `1`。这个开关默认关闭，因为包含 `allintitle:` 的 SERP 请求在 DataForSEO 官方计价中按**5 倍**收费。
-4. 默认仅查询 `United States / English` 的 SEO 市场指标；可设 `SEO_LOCATION` / `SEO_LANGUAGE` 以更换市场。**这不会改变主雷达的全球监测范围。**
+DataForSEO Keyword Overview 提供月搜索量和自然搜索 KD；Intitle 结果需要通过另一次 Google SERP 请求；**所需外链数无法从这些指标直接得到**，需另找数据源、手动填写或显式启用粗略估计。CSV 同名关键词可补齐缓存中的外链数据。默认缓存已取得的数据以避免重复计费；修改市场时需要主动清理相应旧缓存，否则缓存依旧标记原采集市场。
 
-自动模式使用 DataForSEO Labs Google Keyword Overview 读取 `volume`、`cpc` 和自然搜索 `keyword_difficulty`。单独启用 Allintitle 时通过付费 Google SERP API 读取近似结果数。缓存到 `data/seo_metrics_cache.json`，同一个词默认不自动重复付费抓取；数据无法提供则注明。CSV 同名记录覆盖缓存，便于手动修正。重抓需要清理相应缓存记录再执行。
+KGR/EKGR 是启发式筛选方法，尤其要人工检查排名页，不是 Google 官方指标。对于刚出现 1–7 天的 AI 视频新词，不能仅因为月量为零或无数据而放弃。
 
-**注意**：不同 SEO 平台的 KD 计算不同；Allintitle 结果数量是搜索引擎近似估计，不是精确网页计数。不要把 KGR/KDROI 当成谷歌算法或确定收入。建站决策仍需要检查真实 SERP、短视频社媒证据、搜索意图、模型成本和潜在收益。
+### 数据说明
 
-相关文档：
-- DataForSEO Keyword Overview: https://docs.dataforseo.com/v3/dataforseo_labs-google-keyword_overview-live/
-- DataForSEO Google Organic Live Advanced: https://docs.dataforseo.com/v3/serp/google/organic/live/advanced/
-- kdroi.io 定义：https://www.kdroi.io/faq
+原有日报的历史文件不会 retroactively 改写，本版本以升级后的新报表字段计算。第三方月量/KD 以及 Intitle 结果可能有误差；不要对上述 ROI 作真实收益承诺。
+
+参考接口：
+- https://docs.dataforseo.com/v3/dataforseo_labs-google-keyword_overview-live/
+- https://docs.dataforseo.com/v3/serp/google/organic/live/advanced/

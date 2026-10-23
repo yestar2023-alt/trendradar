@@ -296,25 +296,30 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
             keyword=row['topic']; q=parse.quote_plus(keyword)
             lines.append(f'- **{keyword}**： [TikTok](https://www.tiktok.com/search?q={q}) · [YouTube](https://www.youtube.com/results?search_query={q}) · [Google](https://www.google.com/search?q={q}) · [Google Trends](https://trends.google.com/trends/explore?q={q})')
         lines+=['','本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。','']
-    lines += ['## SEO 指标复核（最近 7 份日报中的候选）', '',
-              '> 指标来自导入文件或显式启用的第三方付费 API。— 代表未取得数据，不表示搜索量为 0。'
-              ' KGR/EKGR 仅是选词参考，尤其不适合以月搜索量数据判断刚爆发的新词。',
-              '> KDROI 是 \`月搜索量 × CPC ÷ (KD + 1)\` 的**机会分数**，不是投资回报率百分比；'
-              ' 默认美国/英语 API 取数不等于全球搜索量。',
-              '',
-              '| 候选词 | 月量 | Allintitle | KD | CPC($) | KGR | EKGR | KDROI 分数 | 市场 | 来源 / 日期 | 数据状态 |',
-              '|---|---:|---:|---:|---:|---:|---:|---:|---|---|---|']
+    lines += [
+        '## SEO 指标复核（最近 7 份日报中的候选）', '',
+        '> 按参考公式：KGR = Intitle结果数 / 月搜索量；EKGR = Intitle结果数 × (1 + KD/100) / 月搜索量。',
+        '> KDROI(%) = ((日搜索量 × 0.1 × 365) / (所需外链数 × 100) - 1) × 100%。'
+        ' 假定 $0.1 每次搜索与 $100 每条外链，**这只是模型情景，不是真实财务回报预测**。',
+        '> 日搜索量缺失时，以月均搜索量 × 12 / 365 推算；所需外链数缺失时默认不计算 KDROI，'
+        '可选择启用 KD÷5 估算（会明确标注）。Intitle 和 Allintitle 不可混用。',
+        '> “—”表示暂无证据，不等于真实数值为0；新词初期月均量可能滞后。',
+        '',
+        '| 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |',
+        '|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|'
+    ]
     if seo_rows:
         for keyword, m in seo_rows.items():
             market = str(m.get('location', '—')) + '/' + str(m.get('language', '—'))
             source = str(m.get('source', '—')) + ' / ' + str(m.get('checked_at', '—'))
-            values = [keyword, fmt(m.get('volume')), fmt(m.get('allintitle')),
-                      fmt(m.get('kd')), fmt(m.get('cpc')), fmt(m.get('kgr')),
-                      fmt(m.get('ekgr')), fmt(m.get('kdroi_score')), market, source,
-                      str(m.get('status', '—'))]
+            provenance = str(m.get('daily_volume_basis', '—')) + ' / ' + str(m.get('backlinks_basis', '—'))
+            values = [keyword, fmt(m.get('volume')), fmt(m.get('daily_volume')),
+                      fmt(m.get('intitle')), fmt(m.get('kd')), fmt(m.get('required_backlinks')),
+                      fmt(m.get('kgr')), fmt(m.get('ekgr')), fmt(m.get('kdroi_pct')),
+                      provenance, market, source, str(m.get('status', '—'))]
             lines.append('| ' + ' | '.join(str(x).replace('|','/').replace('\\n',' ') for x in values) + ' |')
     else:
-        lines.append('| 暂无可复核候选 | — | — | — | — | — | — | — | — | — | — |')
+        lines.append('| 暂无可复核候选 | — | — | — | — | — | — | — | — | — | — | — | — | — |')
     lines += ['','可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。','']
     lines+=['## 各站检查状态','', '| 来源 | Sitemap | 模板/榜单列表 |','|---|---|---|']
     for r in checks: lines.append(f'| {r["name"]} | {r["sitemap"].replace("|","/")} | {r["listing"].replace("|","/")} |')
