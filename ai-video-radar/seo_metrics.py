@@ -61,6 +61,7 @@ def row_from_dict(value):
     # Preserve the source's explicit provenance fields on cache reload.
     row['daily_volume_basis'] = data.get('daily_volume_basis') or ''
     row['backlinks_basis'] = data.get('backlinks_basis') or ''
+    row['intitle_checked_at'] = data.get('intitle_checked_at') or ''
     return row
 
 
@@ -97,8 +98,9 @@ def calculate(value, *, estimate_backlinks=False):
     result['kdroi_pct'] = round(((daily * 0.1 * 365 / (backlinks * 100)) - 1) * 100, 2) if daily is not None and backlinks is not None and backlinks > 0 else None
 
     available = [result.get(x) is not None for x in ('volume', 'daily_volume', 'intitle', 'kd', 'required_backlinks')]
-    result['status'] = ('指标齐全（含估算）' if result['kdroi_pct'] is not None and '估算' in result['backlinks_basis']
-                        else '指标齐全' if all(x is not None for x in (result['kgr'], result['ekgr'], result['kdroi_pct']))
+    complete = all(x is not None for x in (result['kgr'], result['ekgr'], result['kdroi_pct']))
+    result['status'] = ('指标齐全（含外链估算）' if complete and '估算' in result['backlinks_basis']
+                        else '指标齐全' if complete
                         else '部分指标缺失' if any(available) else '等待真实数据')
     if volume == 0:
         result['status'] = '月搜索量为0，KGR/EKGR无法计算'
@@ -184,8 +186,11 @@ def maybe_fetch_dataforseo(keywords, cache):
 
     # Never silently reuse old 'allintitle' cached counts as 'intitle' results.
     if os.getenv('SEO_FETCH_INTITLE') == '1':
-        remaining = [k for k in candidates if norm(k) in cache and cache[norm(k)].get('intitle') is None][:cap]
+        remaining = [k for k in candidates if norm(k) in cache
+                     and cache[norm(k)].get('intitle') is None
+                     and not cache[norm(k)].get('intitle_checked_at')][:cap]
         for keyword in remaining:
+            cache[norm(keyword)]['intitle_checked_at'] = now
             try:
                 response = _request_dfseo('/v3/serp/google/organic/live/advanced',
                     {'keyword': 'intitle:"' + keyword.replace('"', '') + '"',
