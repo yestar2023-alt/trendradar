@@ -320,7 +320,9 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
     for r in checks: lines.append(f'| {r["name"]} | {r["sitemap"].replace("|","/")} | {r["listing"].replace("|","/")} |')
     lines+=['','## 说明','', '首次成功抓取只建立基线，不产生新增词。部分网站是 JS 动态页面，HTML/Sitemap 可能不公开，失败会如实显示。Sitemap `lastmod` 仅作为修改时间参考，不作为发布日期。','']
     content='\n'.join(lines)
-    (reports/(today+'.md')).write_text(content,encoding='utf-8')
+    daily_md = reports / (today + '.md')
+    if candidates or not daily_md.exists():
+        daily_md.write_text(content,encoding='utf-8')
     (reports/'latest.md').write_text(content,encoding='utf-8')
     # Do not erase the first discovery's historical CSV during another same-day run.
     # latest.md is still regenerated with this run's actual count.
