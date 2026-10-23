@@ -29,7 +29,7 @@ UNVERIFIED = "仅候选/尚未确认新玩法"
 # For known older formats, the link is evidence of previous existence, not a claimed original.
 THEMES = [
     dict(id="a2o_lite_neon", name="A2O LITE NEON AI 双人舞蹈",
-         pattern=r"(?:a2o\\s*lite|a20\\s*lite|a2olite|a20lite).{0,35}neon|(?:neon.{0,35}(?:a2o|a20)\\s*lite)",
+         pattern=r"(?:a2o\s*lite|a20\s*lite|a2olite|a20lite).{0,35}neon|(?:neon.{0,35}(?:a2o|a20)\s*lite)",
          input="两张获得授权的成年人照片或宠物照片",
          outcome="替换NEON双人编舞原角色进行动作模仿",
          known="2026-10-20", url="https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video",
