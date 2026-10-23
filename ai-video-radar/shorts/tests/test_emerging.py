@@ -44,6 +44,20 @@ class TestEmerging(unittest.TestCase):
         self.assertEqual(r["independent_claimed_and_same_action_candidates"],0)
         self.assertEqual(r["confirmed_new_seo_keywords"],0)
 
+    def test_rejects_broad_concatenated_social_hashtags(self):
+        generic = [
+            "#trendingshorts", "#AIDance", "#AITransformation",
+            "#funnycats", "#cartoonshorts", "#catshorts",
+            "#satisfying", "#aishort", "#AIGeneratedShorts",
+        ]
+        for tag in generic:
+            self.assertTrue(emerging.is_generic_hashtag(tag), tag)
+        a=video("AAAAAAAAAAA","Cool video #trendingShorts #aishort","UCone")
+        b=video("BBBBBBBBBBB","Other video #trendingShorts #aishort","UCtwo")
+        r=emerging.build(state({"a":a,"b":b}),NOW)
+        self.assertEqual(r["shared_name_groups"],0)
+        self.assertEqual(r["confirmed_new_seo_keywords"],0)
+
     def test_dynamic_specific_phrase_across_creators(self):
         a=video("AAAAAAAAAAA","KDA Firestarter Dance AI #shorts #aigenerated","UCone")
         b=video("BBBBBBBBBBB","KDA Firestarter Dance Challenge #aivideo","UCtwo")
