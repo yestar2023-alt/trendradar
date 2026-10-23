@@ -15,46 +15,24 @@
 
 | 候选词 | 月量 | Allintitle | KD | CPC($) | KGR | EKGR | KDROI 分数 | 市场 | 来源 / 日期 | 数据状态 |
 |---|---:|---:|---:|---:|---:|---:|---:|---|---|---|
-| ai cupid trend knock cupid out with your handbag | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| ai danger video put danger right behind you | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| ai doodle dance partner dance with your sketch twin | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| walking away from explosion ai explosion walk trend | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| ai makeup filter full glam on your photo in seconds | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| wedding money rain ai dance while cash rains on you | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| biker birthday cake trend ai motorbike birthday video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| check one check two filter rap the jme verse with ai | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| enchantress filter ai turn into a dark moon witch | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| firestarter dance ai do the kda chorus from one photo | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| gangnam style dance ai star in the viral trio reel | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| hot tea prank ai you or your dog in the cafe prank | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| i put my heart in this meme ai grab the mic as you | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| the no scrubs tlc ai video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| ain t no mountain high enough trend ai subway singing | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| corpse bride makeup ai become a ghost bride on video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| malfoid ai turn into female draco malfoy from a selfie | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| nightwing trend ai mask up then dance in costume | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| thank you baby meme ai your baby does the dance | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| times square billboard ai your face on the big screen | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| stop sign what stop sign ai the bodycam meme with you | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| white chicks car scene ai a thousand miles with friends | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| make your thank you baby ai video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| make your what stop sign ai video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| an ai pet video of your cat or dog stealing cake | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| bby wow guy ai video cat dog party meme | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| pet afterlife check in ai cat dog fantasy video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| pet fridge cake heist ai cat dog video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut kanne kanmaniye | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut trending slowmo | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut trending templates | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut ခ တ စ န လ | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut what makes you happy | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut new trending slowmo | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut tere bin jee nahi | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut always knew i could | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut viral my video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut kisi se pyaar karna | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut viral slowmo video | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
-| capcut most popular templat | — | — | — | — | — | — | — | 未注明/未注明 | manual_csv / 未注明 | 等待真实数据 |
+| the no scrubs tlc ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| corpse bride makeup ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| malfoid ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| nightwing trend ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| thank you baby meme ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| times square billboard ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| stop sign what stop sign ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| white chicks car scene ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your thank you baby ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your what stop sign ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| an ai pet video of your cat or dog stealing cake | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| bby wow guy ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| pet afterlife check in ai cat dog fantasy video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| pet fridge cake heist ai cat dog video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ain't no mountain high enough trend | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your white chicks car scene video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| bby wow guy pet dance | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make a pet afterlife check in video from one cat or dog photo | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
