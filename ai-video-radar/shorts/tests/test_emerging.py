@@ -87,8 +87,8 @@ class TestEmerging(unittest.TestCase):
         self.assertIn("https://www.youtube.com/watch?v=AAAAAAAAAAA",emerging.report(r))
 
     def test_same_author_multi_upload_not_cross_creator(self):
-        a=video("AAAAAAAAAAA","KDA Firestarter Dance AI","UCone")
-        b=video("BBBBBBBBBBB","KDA Firestarter Dance AI part 2","UCone")
+        a=video("AAAAAAAAAAA","KDA Firestarter Dance AI","UCone",views=150000)
+        b=video("BBBBBBBBBBB","KDA Firestarter Dance AI part 2","UCone",views=140000)
         r=emerging.build(state({"a":a,"b":b}),NOW)
         self.assertEqual(r["shared_name_groups"],0)
         self.assertEqual(len(r["high_velocity_single_creator_watchlist"]),1)
@@ -126,11 +126,12 @@ class TestEmerging(unittest.TestCase):
         self.assertFalse(r["high_velocity_single_creator_watchlist"])
 
     def test_true_sample_growth_and_original_time(self):
-        x=video("AAAAAAAAAAA","Zaitoon Se Bana Kaaba AI Transformation","UCone",views=30000)
+        x=video("AAAAAAAAAAA","Zaitoon Se Bana Kaaba AI Transformation","UCone",views=130000)
         r=emerging.build(state({"a":x}),NOW)
         self.assertEqual(len(r["high_velocity_single_creator_watchlist"]),1)
         lead=r["high_velocity_single_creator_watchlist"][0]
         self.assertEqual(lead["observed_growth_per_hour"],2500.0)
+        self.assertIn("早期观察",lead["view_tier"])
         self.assertEqual(lead["first_seen_at"],FIRST)
         self.assertEqual(lead["published_at"],PUBLISHED)
 
@@ -217,7 +218,7 @@ class TestEmerging(unittest.TestCase):
             root=Path(tmp)
             (root/"data").mkdir()
             (root/"data/state.json").write_text(
-                json.dumps(state({"a":video("AAAAAAAAAAA","Zaitoon Se Bana Kaaba AI Transformation")})),
+                json.dumps(state({"a":video("AAAAAAAAAAA","Zaitoon Se Bana Kaaba AI Transformation",views=130000)})),
                 encoding="utf-8")
             result=emerging.run(root,NOW)
             self.assertEqual(result["confirmed_new_seo_keywords"],0)

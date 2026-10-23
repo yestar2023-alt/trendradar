@@ -31,7 +31,16 @@ class ThemeTests(unittest.TestCase):
         result=themes.build(state(data),NOW)
         self.assertEqual(result["named_theme_count"],0)
         self.assertEqual(result["confirmed_new_seo_keywords"],0)
-        self.assertEqual(len(result["unmatched_creative_candidates"]),2)
+        self.assertEqual(len(result["unmatched_creative_candidates"]),0)  # 10k is NOT a viral video
+
+    def test_unmatched_requires_single_video_at_least_one_million(self):
+        data={
+            "A":v("A","AI exploding giant potato short","creator1",views=999999),
+            "B":v("B","AI surreal watermelon transformation","creator2",views=1000000),
+        }
+        result=themes.build(state(data),NOW)
+        self.assertEqual(len(result["unmatched_creative_candidates"]),1)
+        self.assertIn("watermelon",result["unmatched_creative_candidates"][0]["title"])
 
     def test_distinct_creator_not_same_channel_uploads(self):
         data={

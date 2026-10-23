@@ -254,10 +254,13 @@ def discover(state, config, key, now, get=api_json):
                 active_ids.add(vid)
         except (ValueError, KeyError, TypeError):
             pass
-    all_ids = set(matched) | active_ids
-    # A cap limits total detail requests; current discoveries take priority.
+    # Keep previously discovered million-view candidates across rotating query slots.
+    # Every reported metric must still come from a fresh videos.list response.
     max_ids = config.get("max_detail_ids", 700)
-    priorities = sorted(matched) + sorted(active_ids - set(matched))
+    priorities = sorted(matched) + sorted(
+        active_ids - set(matched),
+        key=lambda vid: (state["videos"].get(vid, {}).get("views") or 0),
+        reverse=True)
     all_ids = priorities[:max_ids]
     details, fail = fetch_video_details(all_ids, key, get)
     initial = state["first_success_at"] is None
@@ -285,7 +288,8 @@ def discover(state, config, key, now, get=api_json):
             if not samples or samples[-1]["at"] != sample["at"]:
                 samples.append(sample)
             video["samples"] = samples[-18:]
-        if vid in matched and timedelta(0) <= (now - parsed_time(meta["published_at"])) <= timedelta(hours=24):
+        if timedelta(0) <= (now - parsed_time(meta["published_at"])) <= timedelta(hours=24):
+            # Also include past discovery matches whose stats were refreshed today.
             accepted_now.append(video)
 
     # Keep data for a week; no indefinite retention of API metadata.
@@ -316,91 +320,106 @@ def text_cell(value):
     return str(value if value is not None else "未知").replace("|", "/").replace("\n", " ").replace("\r", " ")[:170]
 
 
+def classify_viral_tier(video, config):
+    """One individual video >= 1M views is a candidate viral hit, never a sum."""
+    views = video.get("views")
+    if video.get("ai_metadata_confidence") != "medium" or not isinstance(views, int):
+        return "unverified_or_unrelated"
+    if views >= config.get("viral_min_views", 1_000_000):
+        return "million_view_candidate"
+    if views >= config.get("early_watch_min_views", 100_000):
+        return "early_watch_not_viral"
+    return "below_review_threshold"
+
+
 def write_reports(root, now, config, items, metadata):
     folder = root/"reports"
     folder.mkdir(parents=True, exist_ok=True)
     successful = metadata["successful_queries"]
     statuses = metadata["statuses"]
-    cutoff = now - timedelta(hours=24)
-    hot = [
-        x for x in items if x["ai_metadata_confidence"] == "medium"
-        and x.get("views") is not None
-        and x["views"] >= config.get("min_views", 1000)
-        and (recent_score(x, now) or 0) >= config.get("min_avg_views_per_hour", 150)
-    ]
-    hot.sort(key=lambda v: (observed_growth(v["samples"]) or -1,
-                            recent_score(v, now) or -1,
-                            v["views"] or 0), reverse=True)
+    cutoff = now-timedelta(hours=24)
+    threshold = config.get("viral_min_views", 1_000_000)
+    if threshold < 1_000_000:
+        raise ValueError("Million-view viral floor cannot be lowered below 1,000,000")
+    all_million = [v for v in items if (v.get("views") or 0) >= threshold]
+    viral = [v for v in items if classify_viral_tier(v, config) == "million_view_candidate"]
+    early = [v for v in items if classify_viral_tier(v, config) == "early_watch_not_viral"]
+    viral.sort(key=lambda v: (v["views"] or -1, observed_growth(v.get("samples", [])) or -1), reverse=True)
+    early.sort(key=lambda v: (observed_growth(v.get("samples", [])) or -1, v["views"] or -1), reverse=True)
     lines = [
-        "# 24 小时 AI 视频 Shorts 发现雷达（候选，非最终确认）", "",
+        "# 最近24小时 AI 短视频：百万爆款候选（未核验画面）", "",
         f"- 北京时间：{now.astimezone(BJ):%Y-%m-%d %H:%M}",
-        f"- 发布窗口：{to_bj(utc_iso(cutoff))} — {to_bj(utc_iso(now))}（北京时间）",
-        f"- 查询成功率：{successful}/{len(statuses)}；失败：{len(statuses)-successful}",
-        f"- 符合最近 24 小时且视频不超过 180 秒的候选：{len(items)}",
-        f"- 作者元数据声称 AI 制作、达到参考热度门槛：{len(hot)}",
-        f"- 相对于历史观察首次发现：{metadata['new_since_prior']}（首次成功采集只建基线）",
-        f"- 采集方式：YouTube Data API search.list + videos.list，非九站关键词差分", "",
-        "> **重要**：YouTube API 的 videoDuration=short 意味着少于 4 分钟，并非严格的 Shorts 标识。",
-        "> 本程序进一步筛选 ≤180 秒，但无法通过公开 Data API 判断宽高比；因此这里只称 Shorts 候选。",
-        "> 「AI 制作」仅根据作者公开文字/标签判断，尚未观看视频确认。观看量是累计播放量，",
-        "> 「发布以来平均每小时播放」不是实际逐小时增长；只有多次采样才能计算观测增长。", "",
-        "## 有热度的 AI 短视频候选（最多 20 条）", "",
-        "| 视频（原始链接） | 类别 | 发布（北京） | 播放量 | 发布以来均速/时 | 两次采样实际增速/时 | AI 证据 |",
-        "|---|---|---|---:|---:|---:|---|",
+        f"- 视频发布时间窗口：{to_bj(utc_iso(cutoff))} — {to_bj(utc_iso(now))}（北京时间）",
+        f"- 本轮搜索成功率：{successful}/{len(statuses)}；失败：{len(statuses)-successful}",
+        f"- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：{len(items)}",
+        f"- 全部候选中单条观看量≥{threshold:,}的视频：{len(all_million)}（含非AI/未验证AI内容）",
+        f"- **百万爆款 AI 候选：{len(viral)}**（单条≥{threshold:,}，且作者文字/标签自述AI）",
+        f"- **早期观察，非爆款：{len(early)}**（单条≥{config.get('early_watch_min_views',100_000):,}但未满百万）",
+        f"- 历史快照后首次观察到的原视频：{metadata['new_since_prior']}",
+        f"- 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控", "",
+        "> **严格定义**：爆款门槛是最近24小时内发布的单条视频，当前累计≥100万次观看。",
+        "> 这里只能称为百万播放的AI候选；作者标签不能证明画面真正由AI生成或属于同一可复制新玩法。",
+        "> YouTube Data API的短时长筛选与后续≤180秒判断，不能证实正式Shorts的宽高比或分类。",
+        "> 单次累计播放量不是增速；真实观测增速需要两次以上有时间戳的采样。",
+        "> 关键词搜索非全站全量；本轮没有百万候选不等于YouTube没有百万视频。", "",
+        "## 百万爆款候选（单条≥100万，最多20条）", "",
+        "| 原视频链接 | 频道 | 官方发布时间（北京） | 本次累计播放量 | 真实观测增速/小时 | AI证据 |",
+        "|---|---|---|---:|---:|---|",
     ]
-    for v in hot[:20]:
-        speed = observed_growth(v.get("samples", []))
+    for v in viral[:20]:
+        g = observed_growth(v.get("samples", []))
         lines.append(
-            f'| [{text_cell(v["title"])}]({v["url"]}) | {v["category"]} | {to_bj(v["published_at"])}'
-            f' | {v["views"]:,} | {recent_score(v, now):,.1f}'
-            f' | {f"{speed:,.1f}" if speed is not None else "待第二次采样"} | {v["ai_metadata_reason"]} |'
+            f'| [{text_cell(v["title"])}]({v["url"]}) | {text_cell(v["channel"])}'
+            f' | {to_bj(v["published_at"])} | {v["views"]:,}'
+            f' | {f"{g:,.1f}" if g is not None else "待第二次采样"}'
+            f' | {v["ai_metadata_reason"]} |'
         )
-    if not hot:
-        lines.append("| — | — | — | — | — | — | 本轮无达到门槛且具备 AI 元数据声明的候选 |")
-    lines += ["", "## 其他刚发布的短视频线索（最多 15 条，待进一步识别）", "",
-              "| 标题 | 发布时间（北京） | 观看量 | AI 可信度 | 匹配搜索词 |",
-              "|---|---|---:|---|---|"]
-    extra = [x for x in items if x not in hot]
-    extra.sort(key=lambda x: x.get("views") or 0, reverse=True)
-    for v in extra[:15]:
+    if not viral:
+        lines.append("| — | — | — | — | — | 本轮无合格百万AI候选，禁止用低播放视频凑数 |")
+    lines.extend(["", "## 早期潜力观察（10万–99.9万；明确不是爆款，最多5条）", "",
+                  "| 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |",
+                  "|---|---|---:|---:|"])
+    for v in early[:5]:
+        g = observed_growth(v.get("samples", []))
         lines.append(f'| [{text_cell(v["title"])}]({v["url"]}) | {to_bj(v["published_at"])}'
-                     f' | {v["views"] if v["views"] is not None else "未知"}'
-                     f' | {v["ai_metadata_confidence"]} | {text_cell(", ".join(v.get("queries",[])))} |')
-    if not extra:
-        lines.append("| — | — | — | — | — |")
-    lines += ["", "## 搜索覆盖和失败项", "",
-              "| 本轮查询 | 排序 | 状态 | 返回视频条数 |",
-              "|---|---|---|---:|"]
+                     f' | {v["views"]:,} | {f"{g:,.1f}" if g is not None else "待第二次采样"} |')
+    if not early:
+        lines.append("| — | — | — | — |")
+    lines.extend(["", "## 搜索覆盖和失败项", "",
+                  "| 本轮查询 | 排序 | 状态 | 返回视频条数 |",
+                  "|---|---|---|---:|"])
     for item in statuses:
-        rows = (str(item.get("found", 0)) if item["status"] == "success"
-                else "失败：" + item.get("detail", "未知")[:120])
-        lines.append(f'| {text_cell(item["query"])} | {item["order"]} | {item["status"]} | {rows} |')
+        row = (str(item.get("found", 0)) if item["status"]=="success"
+               else "失败：" + item.get("detail","未知")[:120])
+        lines.append(f'| {text_cell(item["query"])} | {item["order"]} | {item["status"]} | {row} |')
     if metadata.get("lookup_failures"):
-        lines += ["", "**部分视频详情请求失败：**" + "; ".join(metadata["lookup_failures"][:3])]
+        lines.append("**部分视频详情失败：**" + "; ".join(metadata["lookup_failures"][:3]))
     if not successful:
-        lines += ["", "**数据未更新/抓取失败，不能确认今日新增。**"]
+        lines.append("**数据未更新/抓取失败，不能确认本轮新增。**")
     if metadata["baseline"]:
-        lines += ["", "**本轮为第一份有效搜索基线。** 可以看到最近 24 小时发布的视频，但无法断言它们相对历史系统今天才新增。"]
-    lines += ["", "## SEO 研究规则", "",
-              "视频播放量不是搜索量；视频热度不等于新关键词。需要核实原始玩法、独立二创数量、",
-              "不同账号传播、Google 搜索意图、生成器竞品与 IP/音乐/肖像风险，才进入建站 Top。"]
+        lines.append("本轮是首次历史基线；系统首次观察时间不等于原视频官方发布时间。")
+    lines.extend(["", "## 进一步SEO判断", "",
+                  "完整候选清单见 latest.csv；低播放量视频只用于历史研究，不进入爆款榜。",
+                  "百万播放并不等于SEO新词或具体AI玩法已确认。还需要视频画面、独立模仿、",
+                  "Google搜索需求、竞品时间线及版权/肖像核验。"])
     content = "\n".join(lines)+"\n"
     (folder/"latest.md").write_text(content, encoding="utf-8")
     (folder/f'{now.astimezone(BJ):%Y-%m-%d}.md').write_text(content, encoding="utf-8")
     csvcols = ["video_id","title","url","channel","published_at","first_seen_at","last_seen_at",
                "views","likes","comments","duration_seconds","category","ai_metadata_confidence",
                "ai_metadata_reason","shorts_hint","shorts_verified","queries",
-               "published_avg_views_per_hour","observed_growth_views_per_hour"]
+               "published_avg_views_per_hour","observed_growth_views_per_hour","viral_tier"]
     with (folder/"latest.csv").open("w", newline="", encoding="utf-8-sig") as handle:
         writer = csv.DictWriter(handle, fieldnames=csvcols)
         writer.writeheader()
-        for x in items:
-            data = {field: x.get(field) for field in csvcols}
+        for x in sorted(items,key=lambda v:v.get("views") or -1,reverse=True):
+            data = {field:x.get(field) for field in csvcols}
             data["queries"] = " | ".join(x.get("queries", []))
             data["published_avg_views_per_hour"] = recent_score(x, now)
             data["observed_growth_views_per_hour"] = observed_growth(x.get("samples", []))
+            data["viral_tier"] = classify_viral_tier(x, config)
             writer.writerow(data)
-    return hot
+    return viral, early
 
 
 def run(root, config, key=None, get=api_json, now=None):
@@ -426,13 +445,15 @@ def run(root, config, key=None, get=api_json, now=None):
         tmp.write_text(json.dumps(state, ensure_ascii=False, sort_keys=True, separators=(",",":")),
                        encoding="utf-8")
         tmp.replace(state_path)
-    hot = write_reports(root, now, config, items, meta)
+    viral, early = write_reports(root, now, config, items, meta)
     response = {
         "connected": connected,
         "queries_succeeded": meta["successful_queries"],
         "queries_total": len(meta["statuses"]),
         "recent_24h_short_candidates": len(items),
-        "metadata_ai_hot_candidates": len(hot),
+        "million_view_ai_candidates": len(viral),
+        "early_watch_not_viral": len(early),
+        "metadata_ai_hot_candidates": len(viral),  # compatibility: now >= 1M only
         "first_observed_after_baseline": meta["new_since_prior"],
     }
     print(json.dumps(response, ensure_ascii=False))

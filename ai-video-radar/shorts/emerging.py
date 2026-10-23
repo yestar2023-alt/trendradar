@@ -344,7 +344,9 @@ def build(state, now):
             continue
         if not len(title_terms(v))>=2:
             continue
-        if (v.get("views") or 0)<4000:
+        # Preserve low-view metadata in history, but keep the visible single-
+        # creator review list focused on meaningful early signals (>=100k).
+        if (v.get("views") or 0)<100_000:
             continue
         if v["channel_id"] in seen_channels:
             continue
@@ -357,6 +359,7 @@ def build(state, now):
             "suggested_search_phrase_unverified":named[0][1],
             "confidence":"单作者、作者自述AI；需核验画面和模仿",
             "historically_known_named_format":False,
+            "view_tier":("百万播放候选，仍需验证AI" if (v.get("views") or 0)>=1_000_000 else "10万级早期观察，不是爆款"),
         })
         if len(singles)>=12:
             break
@@ -423,16 +426,16 @@ def report(info):
                 f' | {x["ai_evidence"]} |'
             )
         rows.append("")
-    rows+=["## 单作者高增长候选：下一步应该找独立模仿证据","",
-           "| 作者 | 具体视频（原链接） | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |",
-           "|---|---|---|---|---:|---:|"]
+    rows+=["## 单作者观察名单（至少10万播放；不足百万不叫爆款）","",
+           "| 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |",
+           "|---|---|---|---|---|---:|---:|"]
     for x in info["high_velocity_single_creator_watchlist"]:
         g=x["observed_growth_per_hour"]
         rows.append(f'| {clean(x["channel"])} | [{clean(x["title"])}]({x["url"]})'
-                    f' | {bj(x["published_at"])} | {bj(x["first_seen_at"])} | {x["views"]}'
+                    f' | {x["view_tier"]} | {bj(x["published_at"])} | {bj(x["first_seen_at"])} | {x["views"]}'
                     f' | {f"{g:,.1f}" if g is not None else "待二次采样"} |')
     if not info["high_velocity_single_creator_watchlist"]:
-        rows.append("| — | 本轮没有达到基础条件的单作者候选 | — | — | — | — |")
+        rows.append("| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |")
     rows+=["","## 人工核验清单","",
            "从上表选择有具体可复制行为的候选，先**实际打开视频**：",
            "1. 是否真由 AI 生成？是否属于正式 Shorts？效果的动作/镜头能否从自有素材重现？",
