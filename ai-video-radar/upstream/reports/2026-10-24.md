@@ -1,9 +1,9 @@
 # AI 视频上游信号报告（YouTube Data API 试运行）
 
-- 抓取时间（北京时间）：2026-10-24 03:56
+- 抓取时间（北京时间）：2026-10-24 07:06
 - 成功频道：1/1
 - 失败/未配置频道：0/1
-- 经成功历史快照对比的首次观察视频：3
+- 经成功历史快照对比的首次观察视频：0
 
 > 这只代表上游新视频，并不是已确认 AI 新玩法。视频发布与首次观察是不同时间。
 
@@ -15,9 +15,7 @@
 
 | 首次观察（北京） | 原视频发布时间（北京） | 来源 | 链接 | 当前播放量 | 上次采样至今增长 |
 |---|---|---|---|---:|---:|
-| 2026-10-24 03:56 | 2026-10-24 01:00 | League of Legends Official | [you’ve been invited to the feast @supertf @TenshiLeague](https://www.youtube.com/watch?v=TsYVVcAFZz4) | 16528 | — |
-| 2026-10-24 03:56 | 2026-10-23 23:00 | League of Legends Official | [K/DA - WATCH ME ft. Sophie Powers, Mimi Webb (Official Lyric Video)](https://www.youtube.com/watch?v=R-JywodifoE) | 542624 | — |
-| 2026-10-24 03:56 | 2026-10-23 23:00 | League of Legends Official | [K/DA - WATCH ME - Official Lyric Video](https://www.youtube.com/watch?v=c22iye91RFg) | 13169 | — |
+| — | — | — | 无已核实增量视频（可能处于首次基线） | — | — |
 
 ## 审核规则
 
