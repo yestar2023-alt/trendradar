@@ -29,7 +29,7 @@ UNVERIFIED = "仅候选/尚未确认新玩法"
 # For known older formats, the link is evidence of previous existence, not a claimed original.
 THEMES = [
     dict(id="jhinga_lala", name="Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
-         pattern=r"jhinga\\s*lala\\s*hu\\s*hu",
+         pattern=r"jhinga\s*lala\s*hu\s*hu",
          input="自有授权素材或本人肖像", outcome="跟随现有口号/音乐进行搞笑短舞",
          known="2026-09-15", url="https://www.youtube.com/watch?v=hFpsTmThUpo",
          note="9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
