@@ -252,17 +252,29 @@ def load_state(path: Path):
     with gzip.open(path,'rt',encoding='utf-8') as f: return json.load(f)
 
 
+def seo_query(topic, title):
+    """Prefer the concise name BEFORE a descriptive marketing subtitle."""
+    label = re.sub(r'^CapCut template\s*:\s*', '', title or '', flags=re.I).strip()
+    if ':' in label:
+        lead = label.split(':', 1)[0].strip()
+        if 2 <= len(lead.split()) <= 8:
+            return ' '.join(lead.casefold().split())
+    return topic
+
+
 def recent_seo_topics(root, candidates, max_topics=40):
     """Keep recently discovered opportunities visible after their first delta day."""
-    recent = [r['topic'] for r in candidates]
+    recent = [seo_query(r['topic'], r['pages'][0].get('title', '') if r.get('pages') else '')
+              for r in candidates]
     for p in sorted((root / 'reports').glob('????-??-??.csv'), reverse=True)[:7]:
         try:
             with p.open(encoding='utf-8-sig', newline='') as f:
-                recent.extend(r.get('topic', '') for r in csv.DictReader(f))
+                recent.extend(seo_query(r.get('topic', ''), r.get('title', ''))
+                              for r in csv.DictReader(f))
         except (OSError, UnicodeError):
             continue
     unique = list(dict.fromkeys(t for t in recent if t))
-    # Prefer AI-related topics for limited paid lookup slots; preserve all source countries.
+    # Prefer AI-related queries for limited paid lookup slots; keep original source evidence.
     return sorted(unique, key=lambda s: (0 if 'ai' in s.casefold().split() else 1,
                                          unique.index(s)))[:max_topics]
 
