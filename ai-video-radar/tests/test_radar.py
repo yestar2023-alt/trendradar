@@ -81,6 +81,29 @@ class RadarTests(unittest.TestCase):
             radar.run(root,cfg,FakeFetcher(one))
             r=radar.run(root,cfg,FakeFetcher(pages([BASE+'/templates/one',BASE+'/templates/two'])))
             self.assertEqual(r['new_urls'],1)
+    def test_seo_keyword_from_page_title(self):
+        self.assertEqual(
+            radar.seo_query('firestarter dance ai do the kda chorus from one photo',
+                            'Firestarter Dance AI: Do the KDA Chorus From One Photo'),
+            'firestarter dance ai')
+        self.assertEqual(radar.seo_query('capcut kanne', 'CapCut template: Kanne Kanmaniye'),
+                         'capcut kanne')
+
+    def test_repeat_run_does_not_erase_daily_csv(self):
+        src={**SRC,'use_sitemap':False}
+        cfg={**CFG,'sources':[src]}
+        a=[BASE+'/templates/dance-one']
+        b=a+[BASE+'/templates/firestarter-dance']
+        with tempfile.TemporaryDirectory() as t:
+            root=Path(t)
+            radar.run(root,cfg,FakeFetcher(pages(a)))
+            radar.run(root,cfg,FakeFetcher(pages(b)))
+            csv_file=next((root/'reports').glob('????-??-??.csv'))
+            first=csv_file.read_text(encoding='utf-8-sig')
+            self.assertIn('firestarter dance',first)
+            radar.run(root,cfg,FakeFetcher(pages(b)))
+            self.assertEqual(csv_file.read_text(encoding='utf-8-sig'),first)
+
     def test_clean_and_same_host_only(self):
         self.assertEqual(radar.clean_url(BASE+'/templates/test/?utm=1'),BASE+'/templates/test')
         self.assertFalse(radar.allowed_host('https://example.test.evil.org/index.xml',BASE))
