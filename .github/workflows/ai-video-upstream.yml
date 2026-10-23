@@ -1,6 +1,13 @@
 name: AI Video Upstream Radar Pilot
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - 'ai-video-radar/upstream/upstream.py'
+      - 'ai-video-radar/upstream/config.json'
+      - 'ai-video-radar/upstream/tests/**'
+      - '.github/workflows/ai-video-upstream.yml'
   pull_request:
     paths:
       - 'ai-video-radar/upstream/**'
