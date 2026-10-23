@@ -66,6 +66,7 @@ explore newtrend shortsviral viralshorts videoai viralvideo
 # and concatenated variants from becoming falsely high-priority trends.
 GENERIC_HASH_PARTS = sorted(set("""
 ai ia video videos short shorts shortsvideo youtube yt shortsfeed
+created generated generating generator
 viral trending trend fyp instagram tiktok reel reels
 funny comedy cute cat cats kitten dog dogs pet pets
 animation animated cartoon cartoons satisfying effect effects
