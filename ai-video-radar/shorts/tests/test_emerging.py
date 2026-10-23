@@ -137,6 +137,37 @@ class TestEmerging(unittest.TestCase):
         self.assertTrue(item["previously_observed_older_video"])
         self.assertEqual(item["video_count"],2)
 
+    def test_bulk_cross_account_pasted_title_is_not_independent_imitation(self):
+        title="Rocket Coconut Morph Effect AI #aigenerated"
+        rows={
+            "a":video("AAAAAAAAAAA",title,"UCone"),
+            "b":video("BBBBBBBBBBB",title,"UCtwo"),
+            "c":video("CCCCCCCCCCC",title,"UCthree"),
+        }
+        result=emerging.build(state(rows),NOW)
+        matches=[g for g in result["cross_creator_groups"]
+                 if g["anchor"]=="rocket coconut morph"]
+        self.assertTrue(matches)
+        self.assertEqual(matches[0]["classification"],"possible_reuploads")
+        self.assertEqual(matches[0]["near_duplicate_caption_fraction"],1.0)
+        self.assertLessEqual(matches[0]["priority_points_not_seo_score"],12)
+        self.assertEqual(result["independent_claimed_and_same_action_candidates"],0)
+
+    def test_jhinga_lala_is_old_even_with_cross_author_posts(self):
+        a=video("AAAAAAAAAAA","Jhinga lala hu hu kaka dada mama #aivideo","UCone")
+        b=video("BBBBBBBBBBB","Jhinga lala hu hu kaka dada mama #aishorts","UCtwo")
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        item=next(x for x in result["cross_creator_groups"]
+                  if x["anchor"]=="jhinga lala hu hu")
+        self.assertEqual(item["classification"],"known")
+        self.assertEqual(item["priority_points_not_seo_score"],0)
+
+    def test_shared_generic_non_ai_recipe_does_not_become_a_trend(self):
+        a=video("AAAAAAAAAAA","Homemade Pizza Recipe","UCone",confidence="low")
+        b=video("BBBBBBBBBBB","Homemade Pizza Sauce","UCtwo",confidence="medium")
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        self.assertEqual(result["shared_name_groups"],0)
+
     def test_report_json_persists_without_new_api_calls(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
