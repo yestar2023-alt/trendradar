@@ -61,7 +61,9 @@ jobs:
           git add "$RADAR_ROOT/data" "$RADAR_ROOT/reports"
           if ! git diff --cached --quiet; then
             git commit -m "radar: snapshot and report $(TZ=Asia/Shanghai date +%F)"
-            git push
+            # A code/CSV push may happen during the scan. Never force-push the snapshot.
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
           fi
       - name: Upload report as workflow artifact
         if: always()
