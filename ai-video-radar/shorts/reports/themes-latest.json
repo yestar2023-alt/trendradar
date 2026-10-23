@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-10-23T13:20:03.078540+00:00",
-  "source_snapshot_at": "2026-10-23T13:19:55Z",
-  "snapshot_video_count": 683,
+  "built_at": "2026-10-23T13:26:21.252740+00:00",
+  "source_snapshot_at": "2026-10-23T13:26:15Z",
+  "snapshot_video_count": 685,
   "named_theme_count": 8,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
@@ -21,7 +21,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 154132,
+      "max_observed_views": 156611,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
         {
@@ -32,8 +32,8 @@
           "channel_id": "UC9whJ41IQ73zTBlJ22gZYcg",
           "published_at": "2026-10-22T13:28:12Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 154132,
-          "observed_growth_per_hour": 38942.7,
+          "views": 156611,
+          "observed_growth_per_hour": 23485.3,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
@@ -54,7 +54,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 25400,
+      "max_observed_views": 25412,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
         {
@@ -65,8 +65,8 @@
           "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
           "published_at": "2026-10-22T15:33:12Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 25400,
-          "observed_growth_per_hour": 60.7,
+          "views": 25412,
+          "observed_growth_per_hour": 113.7,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -78,8 +78,8 @@
           "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
           "published_at": "2026-10-22T15:34:00Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 8168,
-          "observed_growth_per_hour": 70.8,
+          "views": 8204,
+          "observed_growth_per_hour": 341.1,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -91,8 +91,8 @@
           "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
           "published_at": "2026-10-22T16:45:02Z",
           "first_seen_at": "2026-10-23T07:48:46Z",
-          "views": 3090,
-          "observed_growth_per_hour": 20.2,
+          "views": 3091,
+          "observed_growth_per_hour": 9.5,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -104,8 +104,8 @@
           "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
           "published_at": "2026-10-22T16:30:34Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 1913,
-          "observed_growth_per_hour": 0.0,
+          "views": 1915,
+          "observed_growth_per_hour": 18.9,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
@@ -159,7 +159,7 @@
       "channel_count": 3,
       "claimed_ai_creations": 2,
       "independent_claimed_creator_count": 2,
-      "max_observed_views": 14101,
+      "max_observed_views": 14483,
       "first_observed_at": "2026-10-23T13:13:59Z",
       "examples": [
         {
@@ -170,8 +170,8 @@
           "channel_id": "UCfXRO_7vs6L6047cpctYzSQ",
           "published_at": "2026-10-23T08:29:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 14101,
-          "observed_growth_per_hour": 2457.3,
+          "views": 14483,
+          "observed_growth_per_hour": 3618.9,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         },
@@ -183,8 +183,8 @@
           "channel_id": "UCaStXt6840lYxag3tm-uRHw",
           "published_at": "2026-10-23T03:09:39Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 2640,
-          "observed_growth_per_hour": 273.0,
+          "views": 2664,
+          "observed_growth_per_hour": 227.4,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -218,7 +218,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 150434,
+      "max_observed_views": 151725,
       "first_observed_at": "2026-10-23T13:13:59Z",
       "examples": [
         {
@@ -229,8 +229,8 @@
           "channel_id": "UC2zslXP9ANcwccO2OCpdfIg",
           "published_at": "2026-10-22T15:59:46Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 150434,
-          "observed_growth_per_hour": 20153.9,
+          "views": 151725,
+          "observed_growth_per_hour": 12230.5,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
@@ -284,7 +284,7 @@
       "channel_count": 2,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 31376,
+      "max_observed_views": 31434,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
         {
@@ -295,8 +295,8 @@
           "channel_id": "UCCv0yf-fqW6ZD0b7oBKqiAA",
           "published_at": "2026-10-22T18:00:02Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 31376,
-          "observed_growth_per_hour": 303.4,
+          "views": 31434,
+          "observed_growth_per_hour": 549.5,
           "ai_evidence": "解说/教程/资讯",
           "creative_claimed": false
         },
@@ -308,8 +308,8 @@
           "channel_id": "UCKTvtdTGQAI2CYpirVl2dyg",
           "published_at": "2026-10-22T22:30:10Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 13374,
-          "observed_growth_per_hour": 1547.2,
+          "views": 13790,
+          "observed_growth_per_hour": 3941.1,
           "ai_evidence": "解说/教程/资讯",
           "creative_claimed": false
         }
@@ -330,7 +330,7 @@
       "channel_count": 12,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 9266,
+      "max_observed_views": 9305,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
         {
@@ -341,8 +341,8 @@
           "channel_id": "UCXDtw21HbJONR6Asf-JaXGQ",
           "published_at": "2026-10-22T23:50:24Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 9266,
-          "observed_growth_per_hour": 991.0,
+          "views": 9305,
+          "observed_growth_per_hour": 369.5,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -354,8 +354,8 @@
           "channel_id": "UCsrfaCu6RFZq1ECPNipktkA",
           "published_at": "2026-10-23T00:30:38Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 7937,
-          "observed_growth_per_hour": 20.2,
+          "views": 7952,
+          "observed_growth_per_hour": 142.1,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -367,8 +367,8 @@
           "channel_id": "UCDimBbytW31JgLkUfyUwAJQ",
           "published_at": "2026-10-22T23:50:10Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 7481,
-          "observed_growth_per_hour": 262.9,
+          "views": 7585,
+          "observed_growth_per_hour": 985.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -380,8 +380,8 @@
           "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
           "published_at": "2026-10-23T00:00:34Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 6927,
-          "observed_growth_per_hour": 20.2,
+          "views": 6928,
+          "observed_growth_per_hour": 9.5,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -406,8 +406,8 @@
           "channel_id": "UC0SOo5Wnp4_f1dVpYkA6ICw",
           "published_at": "2026-10-23T08:57:54Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1892,
-          "observed_growth_per_hour": 0.0,
+          "views": 1882,
+          "observed_growth_per_hour": -94.7,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -432,8 +432,8 @@
           "channel_id": "UCWJcjFLlyZuB6RvEgbrhdaw",
           "published_at": "2026-10-22T23:50:37Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1598,
-          "observed_growth_per_hour": 40.4,
+          "views": 1600,
+          "observed_growth_per_hour": 18.9,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
@@ -442,184 +442,184 @@
   ],
   "unmatched_creative_candidates": [
     {
-      "title": "🐸 Funny Frog vs Pink Frog 😱😂 | AI Animal Animation #Shorts",
-      "url": "https://www.youtube.com/watch?v=V0E0vDkqsfw",
-      "views": 12699,
-      "channel": "GameRift",
+      "title": "🍬 मिठाई की चोरी || Ai Baby Video || #shorts​ #ytshorts​ #viral​ #aivideo​ #aianimation​",
+      "url": "https://www.youtube.com/watch?v=pNTPQTb2Wbs",
+      "views": 70818,
+      "channel": "Ai Baby Toon",
       "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T09:23:26Z",
-      "observed_growth_per_hour": 14592.1
+      "published_at": "2026-10-22T13:54:30Z",
+      "observed_growth_per_hour": 35388.6
     },
     {
-      "title": "😱 Zaitoon Se Bana Kaaba? 🫒🕋 | Amazing AI Transformation #Shorts",
-      "url": "https://www.youtube.com/watch?v=oi1yxypRVAw",
-      "views": 200397,
-      "channel": "Rabbul Alameen Vision",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T15:30:20Z",
-      "observed_growth_per_hour": 9798.9
-    },
-    {
-      "title": "2 AI Cats Dancing on Dama Dam Mast Qalandar 😂💃 #Shorts#DancingCats #AICats #FunnyCats #Shorts",
-      "url": "https://www.youtube.com/watch?v=78B50ZvYMS0",
-      "views": 49437,
-      "channel": "Funzy shorts ",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T14:41:37Z",
-      "observed_growth_per_hour": 8029.2
-    },
-    {
-      "title": "👟 ¡PIERDEN LAS BOTAS ANTES DEL PARTIDO! #lamineyamal #pedri #shorts #aigenerated",
-      "url": "https://www.youtube.com/watch?v=HS4A4hkz8d8",
-      "views": 1840084,
-      "channel": "Futbol AI",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T17:30:31Z",
-      "observed_growth_per_hour": 7958.4
+      "title": "गल्ली क्रिकेट 🏏🥎🏃🏻| 90s Nostalgia #shorts ✨",
+      "url": "https://www.youtube.com/watch?v=iYYeBJsaF8U",
+      "views": 106317,
+      "channel": "Lahanpan Dega Deva",
+      "first_seen_at": "2026-10-23T13:19:55Z",
+      "published_at": "2026-10-23T02:30:15Z",
+      "observed_growth_per_hour": 31026.3
     },
     {
       "title": "❤️চ্যালেঞ্জ!আরোহী VS গুণ্ডা নানু সাহস ও আত্মবিশ্বাসের অসাধারণ গল্প #shorts #aishorts #horse #animals",
       "url": "https://www.youtube.com/watch?v=h7v965_qV_E",
-      "views": 267111,
+      "views": 269588,
       "channel": "AI 160 STORY ",
       "first_seen_at": "2026-10-23T07:15:24Z",
       "published_at": "2026-10-22T13:43:33Z",
-      "observed_growth_per_hour": 5258.4
+      "observed_growth_per_hour": 23466.3
+    },
+    {
+      "title": "😱 Zaitoon Se Bana Kaaba? 🫒🕋 | Amazing AI Transformation #Shorts",
+      "url": "https://www.youtube.com/watch?v=oi1yxypRVAw",
+      "views": 202282,
+      "channel": "Rabbul Alameen Vision",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T15:30:20Z",
+      "observed_growth_per_hour": 17857.9
     },
     {
       "title": "The Susan Dell Memes Are Getting SCARIER 👽💀",
       "url": "https://www.youtube.com/watch?v=K_0Nsytsgvo",
-      "views": 55987,
+      "views": 57519,
       "channel": "NO FACE",
       "first_seen_at": "2026-10-23T07:48:46Z",
       "published_at": "2026-10-22T19:00:26Z",
-      "observed_growth_per_hour": 4105.6
+      "observed_growth_per_hour": 14513.7
+    },
+    {
+      "title": "2 AI Cats Dancing on Dama Dam Mast Qalandar 😂💃 #Shorts#DancingCats #AICats #FunnyCats #Shorts",
+      "url": "https://www.youtube.com/watch?v=78B50ZvYMS0",
+      "views": 50697,
+      "channel": "Funzy shorts ",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T14:41:37Z",
+      "observed_growth_per_hour": 11936.8
+    },
+    {
+      "title": "👟 ¡PIERDEN LAS BOTAS ANTES DEL PARTIDO! #lamineyamal #pedri #shorts #aigenerated",
+      "url": "https://www.youtube.com/watch?v=HS4A4hkz8d8",
+      "views": 1841078,
+      "channel": "Futbol AI",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T17:30:31Z",
+      "observed_growth_per_hour": 9416.8
+    },
+    {
+      "title": "🐸 Funny Frog vs Pink Frog 😱😂 | AI Animal Animation #Shorts",
+      "url": "https://www.youtube.com/watch?v=V0E0vDkqsfw",
+      "views": 13537,
+      "channel": "GameRift",
+      "first_seen_at": "2026-10-23T13:13:59Z",
+      "published_at": "2026-10-23T09:23:26Z",
+      "observed_growth_per_hour": 7938.9
     },
     {
       "title": "Ai Generated Videos ||  Train To Mere Ghar Ki Train Hai #shorts #youtubeshorts",
       "url": "https://www.youtube.com/watch?v=Djk1aS9h2zo",
-      "views": 13586,
+      "views": 13915,
       "channel": "Anuj_Tutter00",
       "first_seen_at": "2026-10-23T13:13:59Z",
       "published_at": "2026-10-23T09:30:19Z",
-      "observed_growth_per_hour": 2679.8
-    },
-    {
-      "title": "اللهم إني أسألك حسن الخاتمة #ai #aianimation #aivideo #الاسلام #ai #دينيه #ذكاء_اصطناعي #الله #aiart",
-      "url": "https://www.youtube.com/watch?v=mwXduqX9C7o",
-      "views": 19637,
-      "channel": "AI XON",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T16:51:05Z",
-      "observed_growth_per_hour": 2214.6
-    },
-    {
-      "title": "Frozen Character Gender Swapped | AI live action | AI Transformation",
-      "url": "https://www.youtube.com/watch?v=E24mzcXAYqU",
-      "views": 10420,
-      "channel": "GenderAI",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T16:00:30Z",
-      "observed_growth_per_hour": 2153.9
+      "observed_growth_per_hour": 3116.8
     },
     {
       "title": "This Is What AI Was Actually Made For 😂",
       "url": "https://www.youtube.com/watch?v=5b8IJNb6mCE",
-      "views": 62562,
+      "views": 62879,
       "channel": "RainbowLeya",
       "first_seen_at": "2026-10-23T07:15:24Z",
       "published_at": "2026-10-22T17:00:01Z",
-      "observed_growth_per_hour": 1698.9
+      "observed_growth_per_hour": 3003.2
     },
     {
-      "title": "2 Places That Look AI-Generated But Are 100% REAL! 😱🌍✈️",
-      "url": "https://www.youtube.com/watch?v=LRo9RtNNHvc",
-      "views": 16449,
-      "channel": "FACTS LOVER ",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T13:47:58Z",
-      "observed_growth_per_hour": 1183.1
-    },
-    {
-      "title": "Anar vs santra #aishorts #ai #aistory  #aiart #aianimation #anime",
-      "url": "https://www.youtube.com/watch?v=W6HXIbYSNRc",
-      "views": 11417,
-      "channel": "Ai creator churari",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T13:37:43Z",
-      "observed_growth_per_hour": 677.5
-    },
-    {
-      "title": "🏟️ ¡LAMINE CONSTRUYE EL CAMP NOU EN LA PLAYA!  #lamineyamal #pedri #shorts #aigenerated",
-      "url": "https://www.youtube.com/watch?v=mc0NFoL7W9M",
-      "views": 31686,
-      "channel": "Futbol AI",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T21:25:16Z",
-      "observed_growth_per_hour": 627.0
-    },
-    {
-      "title": "india vs pakistan kom jitega esame # #art #cortoon #aivideo",
-      "url": "https://www.youtube.com/watch?v=QnL0ATjqNxk",
-      "views": 9161,
-      "channel": "Masti Lalganj up 50 ",
+      "title": "बहू की निकल गई चीख! 😱🤣 #shorts #saasbahucomedy #funnyvideo #makeupfail #aianimation #3dcartoon",
+      "url": "https://www.youtube.com/watch?v=n-nfRnK0tVM",
+      "views": 30409,
+      "channel": "Sasural Ka Circus 😂",
       "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T00:40:05Z",
-      "observed_growth_per_hour": 606.7
+      "published_at": "2026-10-22T13:34:20Z",
+      "observed_growth_per_hour": 2528.8
     },
     {
-      "title": "POV: ChatGPT in 2080 Looking for Its Creator 💀🤖#ChatGPT #AIMemes #FunnyMemes #RelatableMemes #shorts",
-      "url": "https://www.youtube.com/watch?v=jqqZlvl54JQ",
-      "views": 27747,
-      "channel": "Zubban-e-Shayari",
+      "title": "اللهم إني أسألك حسن الخاتمة #ai #aianimation #aivideo #الاسلام #ai #دينيه #ذكاء_اصطناعي #الله #aiart",
+      "url": "https://www.youtube.com/watch?v=mwXduqX9C7o",
+      "views": 19852,
+      "channel": "AI XON",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T13:30:07Z",
-      "observed_growth_per_hour": 475.3
-    },
-    {
-      "title": "Plan geht schief 😂 Chile 4 #3danimation #lustig #humor #cartoonshorts #aianimation #deutsch",
-      "url": "https://www.youtube.com/watch?v=JpBPqnpB9UY",
-      "views": 8459,
-      "channel": "Sucre ",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T15:39:53Z",
-      "observed_growth_per_hour": 394.4
+      "published_at": "2026-10-22T16:51:05Z",
+      "observed_growth_per_hour": 2036.8
     },
     {
       "title": "¡LAMINE PIERDE SU PERRO! #lamineyamal #nicowilliams #shorts #aigenerated",
       "url": "https://www.youtube.com/watch?v=2-VGhY2cJLI",
-      "views": 126174,
+      "views": 126363,
       "channel": "Futbol AI",
       "first_seen_at": "2026-10-23T07:15:24Z",
       "published_at": "2026-10-22T13:45:31Z",
-      "observed_growth_per_hour": 364.0
+      "observed_growth_per_hour": 1790.5
     },
     {
-      "title": "😂 Crazy Cartoon World#shorts  #aianimation  #funnycartoons  #CartoonShorts #aicartoons #viralshorts",
-      "url": "https://www.youtube.com/watch?v=dhDLVMAQuqo",
-      "views": 8075,
-      "channel": "Toonora World",
+      "title": "#animation #ai #ai #aivideo",
+      "url": "https://www.youtube.com/watch?v=mshxEp2wIuA",
+      "views": 11227,
+      "channel": "Abdurashid_Ai",
+      "first_seen_at": "2026-10-23T13:13:59Z",
+      "published_at": "2026-10-22T15:08:56Z",
+      "observed_growth_per_hour": 1491.8
+    },
+    {
+      "title": "Frozen Character Gender Swapped | AI live action | AI Transformation",
+      "url": "https://www.youtube.com/watch?v=E24mzcXAYqU",
+      "views": 10575,
+      "channel": "GenderAI",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T13:36:35Z",
-      "observed_growth_per_hour": 303.4
+      "published_at": "2026-10-22T16:00:30Z",
+      "observed_growth_per_hour": 1468.4
     },
     {
-      "title": "AI-Generated Kaaba Construction 🕋 | Kabah Ki Ronaq Kabah Ka Manzar #shorts #kabah #aivideo #islam",
-      "url": "https://www.youtube.com/watch?v=Mhb28H1tmAU",
-      "views": 21973,
-      "channel": "Islamic Kids Stories",
+      "title": "POV: ChatGPT in 2080 Looking for Its Creator 💀🤖#ChatGPT #AIMemes #FunnyMemes #RelatableMemes #shorts",
+      "url": "https://www.youtube.com/watch?v=jqqZlvl54JQ",
+      "views": 27900,
+      "channel": "Zubban-e-Shayari",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T13:46:57Z",
-      "observed_growth_per_hour": 283.1
+      "published_at": "2026-10-22T13:30:07Z",
+      "observed_growth_per_hour": 1449.5
     },
     {
-      "title": "\"বন্ধুদের dance party।।🥁🎉।। #shorts #octapadspd20pro",
-      "url": "https://www.youtube.com/watch?v=Zr06DvwL0Qc",
-      "views": 8977,
-      "channel": "SURESH OCTAPAD ",
-      "first_seen_at": "2026-10-23T07:48:46Z",
-      "published_at": "2026-10-23T04:15:25Z",
-      "observed_growth_per_hour": 283.1
+      "title": "🏟️ ¡LAMINE CONSTRUYE EL CAMP NOU EN LA PLAYA!  #lamineyamal #pedri #shorts #aigenerated",
+      "url": "https://www.youtube.com/watch?v=mc0NFoL7W9M",
+      "views": 31813,
+      "channel": "Futbol AI",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T21:25:16Z",
+      "observed_growth_per_hour": 1203.2
+    },
+    {
+      "title": "Plan geht schief 😂 Chile 4 #3danimation #lustig #humor #cartoonshorts #aianimation #deutsch",
+      "url": "https://www.youtube.com/watch?v=JpBPqnpB9UY",
+      "views": 8586,
+      "channel": "Sucre ",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T15:39:53Z",
+      "observed_growth_per_hour": 1203.2
+    },
+    {
+      "title": "2 Places That Look AI-Generated But Are 100% REAL! 😱🌍✈️",
+      "url": "https://www.youtube.com/watch?v=LRo9RtNNHvc",
+      "views": 16563,
+      "channel": "FACTS LOVER ",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:47:58Z",
+      "observed_growth_per_hour": 1080.0
+    },
+    {
+      "title": "Anar vs santra #aishorts #ai #aistory  #aiart #aianimation #anime",
+      "url": "https://www.youtube.com/watch?v=W6HXIbYSNRc",
+      "views": 11512,
+      "channel": "Ai creator churari",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:37:43Z",
+      "observed_growth_per_hour": 900.0
     }
   ]
 }
