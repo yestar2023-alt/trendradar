@@ -44,7 +44,7 @@ jobs:
       - name: Crawl and compare snapshots
         env:
           SEO_AUTO_FETCH: ${{ vars.SEO_AUTO_FETCH }}
-          SEO_FETCH_ALLINTITLE: ${{ vars.SEO_FETCH_ALLINTITLE }}
+          SEO_FETCH_INTITLE: ${{ vars.SEO_FETCH_INTITLE }}
           SEO_MAX_KEYWORDS_PER_RUN: ${{ vars.SEO_MAX_KEYWORDS_PER_RUN }}
           SEO_LOCATION: ${{ vars.SEO_LOCATION }}
           SEO_LANGUAGE: ${{ vars.SEO_LANGUAGE }}
