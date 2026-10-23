@@ -58,6 +58,14 @@ class TestEmerging(unittest.TestCase):
         self.assertEqual(r["shared_name_groups"],0)
         self.assertEqual(r["confirmed_new_seo_keywords"],0)
 
+    def test_artificialintelligence_generic_tag_not_named_effect(self):
+        a=video("AAAAAAAAAAA","POV ChatGPT 2080 #artificialintelligence","UCone")
+        b=video("BBBBBBBBBBB","USA AI video #artificialintelligence","UCtwo")
+        self.assertTrue(emerging.is_generic_hashtag("#artificialintelligence"))
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        self.assertFalse(any(g["anchor"]=="#artificialintelligence"
+                             for g in result["cross_creator_groups"]))
+
     def test_dynamic_specific_phrase_across_creators(self):
         a=video("AAAAAAAAAAA","KDA Firestarter Dance AI #shorts #aigenerated","UCone")
         b=video("BBBBBBBBBBB","KDA Firestarter Dance Challenge #aivideo","UCtwo")

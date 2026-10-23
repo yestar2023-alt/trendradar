@@ -220,11 +220,26 @@ def observed_growth(samples):
     return round((last["views"] - first["views"]) / interval, 1)
 
 
+def choose_queries(config, now):
+    """Rotate rather than permanently scanning only the first N keywords."""
+    source = config["queries"]
+    if not source:
+        return []
+    limit = min(len(source), max(1, config.get("max_searches_per_scan", 3)))
+    # 6 four-hour UTC slots every day: 0, 4, 8, 12, 16, 20.
+    ordinal = int(now.timestamp() // (4 * 3600))
+    start = (ordinal * limit) % len(source)
+    return [source[(start + offset) % len(source)] for offset in range(limit)]
+
+
 def discover(state, config, key, now, get=api_json):
     state.setdefault("videos", {})
     state.setdefault("scans", [])
     state.setdefault("first_success_at", None)
-    queries = config["queries"][:config.get("max_searches_per_scan", 8)]
+    # Rotate a small query subset across scheduled scans to reduce rate limiting.
+    # The rotation is derived from Beijing four-hour slots, so failed runs do not
+    # stall the query cycle; fixed-time reruns are deterministic.
+    queries = choose_queries(config, now)
     matched, query_status = search_recent(queries, key, now, get)
     usable = sum(s["status"] == "success" for s in query_status)
     if not usable:

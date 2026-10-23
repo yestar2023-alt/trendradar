@@ -55,6 +55,17 @@ class Mock:
 
 
 class TestDiscover(unittest.TestCase):
+    def test_query_rotation_covers_all_without_burst(self):
+        cfg = {"queries":[{"q":str(i)} for i in range(8)],"max_searches_per_scan":3}
+        selected = []
+        for offset in range(4):
+            current = NOW + timedelta(hours=4*offset)
+            q = discover.choose_queries(cfg, current)
+            self.assertEqual(len(q), 3)
+            selected.extend(item["q"] for item in q)
+        self.assertEqual(set(selected),{str(i) for i in range(8)})
+        self.assertEqual(discover.choose_queries(cfg,NOW),discover.choose_queries(cfg,NOW))
+
     def test_duration_and_short_is_not_verified(self):
         self.assertEqual(discover.duration_seconds("PT3M"),180)
         self.assertEqual(discover.duration_seconds("PT3M1S"),181)
