@@ -218,7 +218,7 @@ class TestEmerging(unittest.TestCase):
             root=Path(tmp)
             (root/"data").mkdir()
             (root/"data/state.json").write_text(
-                json.dumps(state({"a":video("AAAAAAAAAAA","Zaitoon Se Bana Kaaba AI Transformation")})),
+                json.dumps(state({"a":video("AAAAAAAAAAA","Zaitoon Se Bana Kaaba AI Transformation",views=130000)})),
                 encoding="utf-8")
             result=emerging.run(root,NOW)
             self.assertEqual(result["confirmed_new_seo_keywords"],0)
