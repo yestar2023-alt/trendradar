@@ -10,51 +10,53 @@
 
 ## SEO 指标复核（最近 7 份日报中的候选）
 
-> 指标来自导入文件或显式启用的第三方付费 API。— 代表未取得数据，不表示搜索量为 0。 KGR/EKGR 仅是选词参考，尤其不适合以月搜索量数据判断刚爆发的新词。
-> KDROI 是 \`月搜索量 × CPC ÷ (KD + 1)\` 的**机会分数**，不是投资回报率百分比； 默认美国/英语 API 取数不等于全球搜索量。
+> 按参考公式：KGR = Intitle结果数 / 月搜索量；EKGR = Intitle结果数 × (1 + KD/100) / 月搜索量。
+> KDROI(%) = ((日搜索量 × 0.1 × 365) / (所需外链数 × 100) - 1) × 100%。 假定 $0.1 每次搜索与 $100 每条外链，**这只是模型情景，不是真实财务回报预测**。
+> 日搜索量缺失时，以月均搜索量 × 12 / 365 推算；所需外链数缺失时默认不计算 KDROI，可选择启用 KD÷5 估算（会明确标注）。Intitle 和 Allintitle 不可混用。
+> “—”表示暂无证据，不等于真实数值为0；新词初期月均量可能滞后。
 
-| 候选词 | 月量 | Allintitle | KD | CPC($) | KGR | EKGR | KDROI 分数 | 市场 | 来源 / 日期 | 数据状态 |
-|---|---:|---:|---:|---:|---:|---:|---:|---|---|---|
-| ai cupid trend | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai danger video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai doodle dance partner | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| walking away from explosion ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai makeup filter | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| wedding money rain ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| enchantress filter ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| firestarter dance ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| gangnam style dance ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| hot tea prank ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| i put my heart in this meme ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| the no scrubs tlc ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| corpse bride makeup ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| malfoid ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| nightwing trend ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| thank you baby meme ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| times square billboard ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| stop sign what stop sign ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| white chicks car scene ai | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your thank you baby ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your what stop sign ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| an ai pet video of your cat or dog stealing cake | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| bby wow guy ai video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| pet afterlife check in ai cat dog fantasy video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| pet fridge cake heist ai cat dog video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut kanne kanmaniye | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut trending slowmo | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut trending templates | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut ခ တ စ န လ | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut what makes you happy | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut new trending slowmo | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut tere bin jee nahi | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut always knew i could | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut viral my video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut kisi se pyaar karna | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut viral slowmo video | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut most popular templat | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut meri zindagi he tu | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut aesthetic slowmo | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| capcut ranjha ban k ava | — | — | — | — | — | — | — | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
+| ai cupid trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai danger video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai doodle dance partner | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| walking away from explosion ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai makeup filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| wedding money rain ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| enchantress filter ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| firestarter dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| gangnam style dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| hot tea prank ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| i put my heart in this meme ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| the no scrubs tlc ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| corpse bride makeup ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| malfoid ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| nightwing trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| thank you baby meme ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| times square billboard ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| stop sign what stop sign ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| white chicks car scene ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your thank you baby ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your what stop sign ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| an ai pet video of your cat or dog stealing cake | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| bby wow guy ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| pet afterlife check in ai cat dog fantasy video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| pet fridge cake heist ai cat dog video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut kanne kanmaniye | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut trending slowmo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut trending templates | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut ခ တ စ န လ | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut what makes you happy | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut new trending slowmo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut tere bin jee nahi | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut always knew i could | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut viral my video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut kisi se pyaar karna | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut viral slowmo video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut most popular templat | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut meri zindagi he tu | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut aesthetic slowmo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capcut ranjha ban k ava | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
@@ -67,7 +69,7 @@
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 5 links from 1/1 listings |
 | Higgsfield Viral | 186 relevant URLs in sitemap | 28 links from 2/2 listings |
-| MakeViral | 219 relevant URLs in sitemap | 262 links from 2/2 listings |
+| MakeViral | 219 relevant URLs in sitemap | 202 links from 2/2 listings |
 | Zooop | 154 relevant URLs in sitemap | 89 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
 | Media.io | 1222 relevant URLs in sitemap | 134 links from 1/1 listings |
