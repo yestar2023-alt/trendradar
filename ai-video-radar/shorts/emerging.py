@@ -52,6 +52,9 @@ christmas halloween bangladesh india pakistan brazil spain football soccer
 """.split())
 COMMON_HASH = set("""
 trendingshorts shortstrending satisfying funnysatisfying foodshorts
+cooking relatable digitalcreator hindicomedy funnyanimals catlovers
+minecraft aicooking cutebaby funnysnake bhojpuri 3danimation
+catsoftiktok catcartoon recipe pizzarecipe ghiblistyle
 funnycats dancingcats catshorts cartoonshorts aishort aiimages aiimage aiart
 aitransformation aidance aitool aiimages aiimage aistorytelling
 danceshorts girlshorts musicshorts animememes aiartist
@@ -67,6 +70,8 @@ explore newtrend shortsviral viralshorts videoai viralvideo
 GENERIC_HASH_PARTS = sorted(set("""
 ai ia video videos short shorts shortsvideo youtube yt shortsfeed
 created generated generating generator
+cooking cook relatable digital creator hindi animals animal
+lovers lover baby babies snake 3d mine craft recipe
 viral trending trend fyp instagram tiktok reel reels
 funny comedy cute cat cats kitten dog dogs pet pets
 animation animated cartoon cartoons satisfying effect effects
@@ -212,6 +217,12 @@ def old_known(video):
     return next((t["name"] for t in THEMES if t["known"] and matches_theme(video.get("title"),t)),None)
 
 
+def main_caption_signature(video: dict) -> str:
+    """Same uninformative pasted title on many channels is not fresh imitation."""
+    t = unicodedata.normalize("NFKC", title_text(video)).casefold().replace("k/da", "kda")
+    return " ".join(WORD.findall(t))
+
+
 def candidate_excerpts(rows, limit=4):
     rows = sorted(rows,key=lambda x:(x.get("views") or 0),reverse=True)
     result=[]
@@ -231,8 +242,13 @@ def compress_group(key, group, older_seen):
     motion_sets = [actions(v) for v in group]
     common_action=set.intersection(*motion_sets) if motion_sets else set()
     known = sorted({old_known(v) for v in group if old_known(v)})
+    signatures=Counter(main_caption_signature(v) for v in group)
+    leading_caption_fraction=(max(signatures.values()) / len(group)) if group else 0
+    likely_copied_caption=(len(group)>=3 and leading_caption_fraction>=0.7)
+
     # Repeated named actor/event is not evidence of one reusable *effect*.
     kind = ("known" if known else
+            "possible_reuploads" if likely_copied_caption else
             "potential_same_action" if common_action and len(claimed)>=2 else
             "shared_phrase_only")
     # This is a human review *priority*, never a probability or SEO potential.
@@ -245,6 +261,7 @@ def compress_group(key, group, older_seen):
              (12 if kind=="potential_same_action" else 0))
     if kind=="known": score=0
     if kind=="shared_phrase_only": score=min(score,35)
+    if kind=="possible_reuploads": score=min(score,12)
     return {
         "anchor":key[1], "anchor_type":key[0],
         "unique_channels":len(channels),
@@ -252,6 +269,7 @@ def compress_group(key, group, older_seen):
         "video_count":len(group),
         "title_actions_shared":sorted(common_action),
         "classification":kind,
+        "near_duplicate_caption_fraction":round(leading_caption_fraction,2),
         "previously_observed_older_video":bool(older_seen),
         "priority_points_not_seo_score":round(min(score,100),1),
         "examples":candidate_excerpts(group)
@@ -283,11 +301,17 @@ def build(state, now):
         creators={v["channel_id"] for v in rows}
         if len(creators) < 2:
             continue
+        # Creator claims are not proof of an AI-generated video, but a
+        # cross-creator lead requires at least two *independent* such claims.
+        if len({v["channel_id"] for v in rows if role(v)=="作者文字自述AI"}) < 2:
+            continue
         # One generic entity appearing in many unrelated titles should not be
         # called the same action. Keep it as shared-title evidence only.
         groups.append(compress_group(key,rows,prior.get(key,set())))
     groups.sort(key=lambda g: (
-        g["classification"]=="potential_same_action",
+        3 if g["classification"]=="potential_same_action" else
+        2 if g["classification"]=="shared_phrase_only" else
+        1 if g["classification"]=="possible_reuploads" else 0,
         g["ai_claimed_channels"],g["unique_channels"],
         len(g["anchor"].split()),g["priority_points_not_seo_score"]),reverse=True)
 
@@ -379,12 +403,13 @@ def report(info):
     for n,group in enumerate(info["cross_creator_groups"],1):
         verdict={"potential_same_action":"同名且有共同动作描述——优先人工比对镜头",
                  "shared_phrase_only":"仅同名/同题材——未确认同一效果",
+                 "possible_reuploads":"多账号粘贴近似相同标题——疑似批量转发，未证实独立创作",
                  "known":"历史已有玩法——排除“今日首发”"}.get(group["classification"],"未核实")
         rows.extend([
             f'### {n}. {clean(group["anchor"])}',"",
             f'- 初判：{verdict}；历史快照里是否发现更早视频：{"是" if group["previously_observed_older_video"] else "未观察到（不等于新）"}',
             f'- 独立频道：{group["unique_channels"]}；其中AI文字自述频道：{group["ai_claimed_channels"]}；视频：{group["video_count"]}',
-            f'- 相同动作词：{", ".join(group["title_actions_shared"]) or "无"}；人工复核优先级分：{group["priority_points_not_seo_score"]}/100（并非SEO评分）',
+            f'- 相同动作词：{", ".join(group["title_actions_shared"]) or "无"}；主文案复用比例：{group["near_duplicate_caption_fraction"]:.0%}；人工复核优先级分：{group["priority_points_not_seo_score"]}/100（并非SEO评分）',
             "", "| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |",
             "|---|---|---|---|---:|---:|---|",
         ])
