@@ -1,223 +1,61 @@
 {
-  "generated_at": "2026-10-23T13:14:06.183144+00:00",
-  "source_snapshot_at": "2026-10-23T13:13:59Z",
-  "source_video_count": 662,
-  "published_last_24h_with_channel": 435,
-  "shared_name_groups": 8,
-  "independent_claimed_and_same_action_candidates": 1,
+  "generated_at": "2026-10-23T13:20:03.150293+00:00",
+  "source_snapshot_at": "2026-10-23T13:19:55Z",
+  "source_video_count": 683,
+  "published_last_24h_with_channel": 448,
+  "shared_name_groups": 2,
+  "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "profile jump",
-      "anchor_type": "phrase",
+      "anchor": "#artificialintelligence",
+      "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
-      "title_actions_shared": [
-        "jump"
-      ],
-      "classification": "potential_same_action",
-      "near_duplicate_caption_fraction": 1.0,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 78.6,
-      "examples": [
-        {
-          "title": "Instagram New Profile Jump Ai Video Trend | Instagram #trending #treadingreel ",
-          "channel": "AllWord Guy ",
-          "channel_id": "UCsrL7Vne4bfi9zBN4oz6apg",
-          "url": "https://www.youtube.com/watch?v=VxeJ4A1c1Zw",
-          "published_at": "2026-10-23T00:44:55Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 25,
-          "observed_growth_per_hour": 1.8,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "jump"
-          ]
-        },
-        {
-          "title": "Instagram New Profile Jump AI Video Trend 🔥 | अपनी फोटो से AI वीडियो कैसे बनाएं 😱",
-          "channel": "Tech varun",
-          "channel_id": "UCXujJp4TtfGF67kmqpVJOFg",
-          "url": "https://www.youtube.com/watch?v=X3dfgNYRazM",
-          "published_at": "2026-10-23T08:18:38Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 4,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "jump"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "#beforeandafter",
-      "anchor_type": "tag",
-      "unique_channels": 4,
-      "ai_claimed_channels": 2,
-      "video_count": 4,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.25,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Abandoned Metro Station → Hidden Speakeasy 🚇 Part 1 | AI Interior Transformation #shorts",
-          "channel": "SPACE RECODED",
-          "channel_id": "UCoPu8LVoBsxy0tVp4Kxz0Eg",
-          "url": "https://www.youtube.com/watch?v=yVuzxxDCjyk",
-          "published_at": "2026-10-22T16:02:28Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 1625,
-          "observed_growth_per_hour": 25.8,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "🌿 Overgrown Backyard Transformed Into a Luxury Garden! 😍 #Shorts #usa #AIVideo #BeforeAndAfter",
-          "channel": "OmniPlex AI",
-          "channel_id": "UCIBPesNzfHv9CJP60e55eVw",
-          "url": "https://www.youtube.com/watch?v=QCj0dL2BPs4",
-          "published_at": "2026-10-22T13:24:31Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1530,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
-        },
-        {
-          "title": "#Shorts #AITransformation #HomeMakeover #LivingRoomMakeover #BeforeAndAfter",
-          "channel": "Aan",
-          "channel_id": "UCuKrggq2W8Ed0O5w1vnYW4w",
-          "url": "https://www.youtube.com/watch?v=bDotYQExVCY",
-          "published_at": "2026-10-22T13:48:00Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1196,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Abandoned Balcony Turned Into a Luxury Paradise! 🤯🌿 #Shorts #garden #beforeandafter #fypシ゚viral",
-          "channel": "Renovate Rush",
-          "channel_id": "UCfutgPpnj50YCRdf0m_Dxgw",
-          "url": "https://www.youtube.com/watch?v=EHaVeZhhojk",
-          "published_at": "2026-10-22T20:45:15Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1009,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": [
-            "turn"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "#entertainment",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
+      "near_duplicate_caption_fraction": 0.5,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "அந்தாக்ஷரி ஆரம்பம் - Part 1 #tamil #tamilshorts #comedy #aishorts #funny #aianimation #love",
-          "channel": "Manjula Patti",
-          "channel_id": "UCpJul5wjoX5s7ICpMzu0DKA",
-          "url": "https://www.youtube.com/watch?v=jEet3MvtyBE",
-          "published_at": "2026-10-22T14:00:29Z",
+          "title": "POV: ChatGPT in 2080 Looking for Its Creator 💀🤖#ChatGPT #AIMemes #FunnyMemes #RelatableMemes #shorts",
+          "channel": "Zubban-e-Shayari",
+          "channel_id": "UCA8f5x_6aJOcZTB36-GAKbw",
+          "url": "https://www.youtube.com/watch?v=jqqZlvl54JQ",
+          "published_at": "2026-10-22T13:30:07Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 2606,
-          "observed_growth_per_hour": 128.6,
+          "views": 27747,
+          "observed_growth_per_hour": 475.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "His Daughter Thought His Hair Was Ruined Forever! 😱🎈 #Shorts #babycomedy #funnybabies #army",
-          "channel": "Military Kids ",
-          "channel_id": "UCbrhdWnFILOFTzqsoULijJg",
-          "url": "https://www.youtube.com/watch?v=eKd1W8aw8qw",
-          "published_at": "2026-10-22T22:00:37Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1557,
+          "title": "usa ai viral video 🇺🇸🔥| #usa #usareels #aicontent #artificialintelligence",
+          "channel": "usaaivideo",
+          "channel_id": "UCsT2IruoXd4qwub-9utOtuQ",
+          "url": "https://www.youtube.com/watch?v=-DdaL_MgRg8",
+          "published_at": "2026-10-22T15:42:00Z",
+          "first_seen_at": "2026-10-23T13:19:55Z",
+          "views": 275,
           "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "2040 Ka iPhone #ai #aivideo #entertainment #trend #viral #viralvideo #aishorts #aiart #iphone",
-          "channel": "Faizan Ai",
-          "channel_id": "UCjVXTgBj68Xvo5gP4s8Cc9A",
-          "url": "https://www.youtube.com/watch?v=2mrA-Hb6E6k",
-          "published_at": "2026-10-23T01:19:45Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 139,
-          "observed_growth_per_hour": 5.7,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     },
     {
-      "anchor": "michael jackson",
+      "anchor": "a2o lite",
       "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
       "title_actions_shared": [],
-      "classification": "shared_phrase_only",
+      "classification": "known",
       "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Michael Jackson – Billie Jean | AI Dance Cover #shorts #shortvideo #dance #short #subscribe",
-          "channel": "CinePixel Moves",
-          "channel_id": "UCSReKfYuKQPOMmvPNYV6K7w",
-          "url": "https://www.youtube.com/watch?v=h5Q4G5WmUvE",
-          "published_at": "2026-10-22T15:14:29Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 4172,
-          "observed_growth_per_hour": 123.2,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "\"Just Having Fun! 🕺 AI dance collab with Michael Jackson for Entertainment Purposes Only #travel1uan",
-          "channel": "Travel 1uan ",
-          "channel_id": "UCQJGe5Hvmgvym8o3kg0ZG3g",
-          "url": "https://www.youtube.com/watch?v=xVwFsh0E7dA",
-          "published_at": "2026-10-23T05:38:36Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 3535,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "dance"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "#a2olite",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 0,
       "examples": [
         {
           "title": "마빡 X 태영 - Neon(A2O LITE) [AI Dance]🕺💃⚽ (ft.뿌꾸)",
@@ -226,8 +64,8 @@
           "url": "https://www.youtube.com/watch?v=4QsUJk3RJyw",
           "published_at": "2026-10-23T08:29:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 13858,
-          "observed_growth_per_hour": null,
+          "views": 14101,
+          "observed_growth_per_hour": 2457.3,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "dance"
@@ -241,145 +79,14 @@
           "published_at": "2026-10-23T01:00:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
           "views": 1608,
-          "observed_growth_per_hour": null,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#deepfake",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "This Is What AI Was Actually Made For 😂",
-          "channel": "RainbowLeya",
-          "channel_id": "UCXhn05trKz1_vGi8UujtKMQ",
-          "url": "https://www.youtube.com/watch?v=5b8IJNb6mCE",
-          "published_at": "2026-10-22T17:00:01Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 62394,
-          "observed_growth_per_hour": 2206.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Memes are allowed but fake videos are not 🚫 #deepfake #aivideo #shorts",
-          "channel": "Abhijeet Mishra",
-          "channel_id": "UC9pDsy6ORmFxeXsmiOl18qw",
-          "url": "https://www.youtube.com/watch?v=LClZJhKmp4A",
-          "published_at": "2026-10-22T14:30:23Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 837,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#terminator",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "This Is What AI Was Actually Made For 😂",
-          "channel": "RainbowLeya",
-          "channel_id": "UCXhn05trKz1_vGi8UujtKMQ",
-          "url": "https://www.youtube.com/watch?v=5b8IJNb6mCE",
-          "published_at": "2026-10-22T17:00:01Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 62394,
-          "observed_growth_per_hour": 2206.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "POV: ChatGPT in 2080 Looking for Its Creator 💀🤖#ChatGPT #AIMemes #FunnyMemes #RelatableMemes #shorts",
-          "channel": "Zubban-e-Shayari",
-          "channel_id": "UCA8f5x_6aJOcZTB36-GAKbw",
-          "url": "https://www.youtube.com/watch?v=jqqZlvl54JQ",
-          "published_at": "2026-10-22T13:30:07Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 27700,
-          "observed_growth_per_hour": 1418.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "gangnam style",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "known",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 0,
-      "examples": [
-        {
-          "title": "BTS Jimin, V & Jungkook Doing Gangnam Style 😂💜 | Cute AI Animation #Shorts",
-          "channel": "sreeverse",
-          "channel_id": "UC2zslXP9ANcwccO2OCpdfIg",
-          "url": "https://www.youtube.com/watch?v=pTu2YmMjMuc",
-          "published_at": "2026-10-22T15:59:46Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 148441,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🔥 Viral Group Dance 💃 Gangnam Style |AI photo to video Google Flow AI",
-          "channel": "Wahid Tech Ai",
-          "channel_id": "UCkDOM4o7bgKMyr0QJrOryGQ",
-          "url": "https://www.youtube.com/watch?v=OAI8MvVy4e8",
-          "published_at": "2026-10-22T13:19:25Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 987,
-          "observed_growth_per_hour": 76.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "dance"
-          ]
         }
       ]
     }
   ],
   "high_velocity_single_creator_watchlist": [
-    {
-      "title": "❤️চ্যালেঞ্জ!আরোহী VS গুণ্ডা নানু সাহস ও আত্মবিশ্বাসের অসাধারণ গল্প #shorts #aishorts #horse #animals",
-      "channel": "AI 160 STORY ",
-      "channel_id": "UCvQTf1uusCcSxFndB51yRVw",
-      "url": "https://www.youtube.com/watch?v=h7v965_qV_E",
-      "published_at": "2026-10-22T13:43:33Z",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 266591,
-      "observed_growth_per_hour": 21970.8,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "#cinematicstory",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false
-    },
     {
       "title": "😱 Zaitoon Se Bana Kaaba? 🫒🕋 | Amazing AI Transformation #Shorts",
       "channel": "Rabbul Alameen Vision",
@@ -387,8 +94,8 @@
       "url": "https://www.youtube.com/watch?v=oi1yxypRVAw",
       "published_at": "2026-10-22T15:30:20Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 199428,
-      "observed_growth_per_hour": 20966.6,
+      "views": 200397,
+      "observed_growth_per_hour": 9798.9,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "zaitoon se bana kaaba",
@@ -402,8 +109,8 @@
       "url": "https://www.youtube.com/watch?v=78B50ZvYMS0",
       "published_at": "2026-10-22T14:41:37Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 48643,
-      "observed_growth_per_hour": 6462.8,
+      "views": 49437,
+      "observed_growth_per_hour": 8029.2,
       "ai_evidence": "作者文字自述AI",
       "actions": [
         "dance"
@@ -419,11 +126,26 @@
       "url": "https://www.youtube.com/watch?v=HS4A4hkz8d8",
       "published_at": "2026-10-22T17:30:31Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 1839297,
-      "observed_growth_per_hour": 3702.2,
+      "views": 1840084,
+      "observed_growth_per_hour": 7958.4,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "pierden botas antes partido",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false
+    },
+    {
+      "title": "❤️চ্যালেঞ্জ!আরোহী VS গুণ্ডা নানু সাহস ও আত্মবিশ্বাসের অসাধারণ গল্প #shorts #aishorts #horse #animals",
+      "channel": "AI 160 STORY ",
+      "channel_id": "UCvQTf1uusCcSxFndB51yRVw",
+      "url": "https://www.youtube.com/watch?v=h7v965_qV_E",
+      "published_at": "2026-10-22T13:43:33Z",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "views": 267111,
+      "observed_growth_per_hour": 5258.4,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "#cinematicstory",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false
     },
@@ -434,8 +156,8 @@
       "url": "https://www.youtube.com/watch?v=K_0Nsytsgvo",
       "published_at": "2026-10-22T19:00:26Z",
       "first_seen_at": "2026-10-23T07:48:46Z",
-      "views": 55581,
-      "observed_growth_per_hour": 2553.6,
+      "views": 55987,
+      "observed_growth_per_hour": 4105.6,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "susan dell getting scarier",
@@ -443,17 +165,17 @@
       "historically_known_named_format": false
     },
     {
-      "title": "Savage Baby Waiter & Funny Husband 😂 | Viral AI Animation #shorts #explore #newtrend #viralshorts",
-      "channel": "HoneyVerse",
-      "channel_id": "UC9iQGeK50OCN8_olDuBH9HA",
-      "url": "https://www.youtube.com/watch?v=3ThUY0QHGI0",
-      "published_at": "2026-10-22T13:15:35Z",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 28492,
-      "observed_growth_per_hour": 2433.1,
+      "title": "Ai Generated Videos ||  Train To Mere Ghar Ki Train Hai #shorts #youtubeshorts",
+      "channel": "Anuj_Tutter00",
+      "channel_id": "UCdZwq7JDZ1v7Rwlllc9wqnw",
+      "url": "https://www.youtube.com/watch?v=Djk1aS9h2zo",
+      "published_at": "2026-10-23T09:30:19Z",
+      "first_seen_at": "2026-10-23T13:13:59Z",
+      "views": 13586,
+      "observed_growth_per_hour": 2679.8,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
-      "suggested_search_phrase_unverified": "savage waiter husband",
+      "suggested_search_phrase_unverified": "train mere ghar ki",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false
     },
@@ -464,8 +186,8 @@
       "url": "https://www.youtube.com/watch?v=mwXduqX9C7o",
       "published_at": "2026-10-22T16:51:05Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 19418,
-      "observed_growth_per_hour": 2088.1,
+      "views": 19637,
+      "observed_growth_per_hour": 2214.6,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "إني أسألك حسن الخاتمة",
@@ -473,32 +195,34 @@
       "historically_known_named_format": false
     },
     {
-      "title": "AI-Generated Kaaba Construction 🕋 | Kabah Ki Ronaq Kabah Ka Manzar #shorts #kabah #aivideo #islam",
-      "channel": "Islamic Kids Stories",
-      "channel_id": "UCuZJXqMfn8kS7xk1n8Ee85w",
-      "url": "https://www.youtube.com/watch?v=Mhb28H1tmAU",
-      "published_at": "2026-10-22T13:46:57Z",
+      "title": "Frozen Character Gender Swapped | AI live action | AI Transformation",
+      "channel": "GenderAI",
+      "channel_id": "UC1bMtoYv1M3nGKrzF9mV3DA",
+      "url": "https://www.youtube.com/watch?v=E24mzcXAYqU",
+      "published_at": "2026-10-22T16:00:30Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 21945,
-      "observed_growth_per_hour": 1511.0,
+      "views": 10420,
+      "observed_growth_per_hour": 2153.9,
       "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "kaaba construction",
+      "actions": [
+        "swap"
+      ],
+      "suggested_search_phrase_unverified": "frozen character gender swapped",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false
     },
     {
-      "title": "POV: ChatGPT in 2080 Looking for Its Creator 💀🤖#ChatGPT #AIMemes #FunnyMemes #RelatableMemes #shorts",
-      "channel": "Zubban-e-Shayari",
-      "channel_id": "UCA8f5x_6aJOcZTB36-GAKbw",
-      "url": "https://www.youtube.com/watch?v=jqqZlvl54JQ",
-      "published_at": "2026-10-22T13:30:07Z",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 27700,
-      "observed_growth_per_hour": 1418.9,
+      "title": "🐸 Funny Frog vs Giant Animal 😱😂 | AI Animal Animation #Shorts",
+      "channel": "GameRift",
+      "channel_id": "UCGzbz35Hl05wYGBc3LpLkDA",
+      "url": "https://www.youtube.com/watch?v=vsej6Qyy-C4",
+      "published_at": "2026-10-22T14:01:25Z",
+      "first_seen_at": "2026-10-23T13:13:59Z",
+      "views": 7288,
+      "observed_growth_per_hour": 2073.0,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
-      "suggested_search_phrase_unverified": "looking creator",
+      "suggested_search_phrase_unverified": "frog giant",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false
     },
@@ -509,28 +233,11 @@
       "url": "https://www.youtube.com/watch?v=LRo9RtNNHvc",
       "published_at": "2026-10-22T13:47:58Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 16332,
-      "observed_growth_per_hour": 1251.6,
+      "views": 16449,
+      "observed_growth_per_hour": 1183.1,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "places look",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false
-    },
-    {
-      "title": "\"বন্ধুদের dance party।।🥁🎉।। #shorts #octapadspd20pro",
-      "channel": "SURESH OCTAPAD ",
-      "channel_id": "UCnfOwapA3iMecBkkz5F1UNg",
-      "url": "https://www.youtube.com/watch?v=Zr06DvwL0Qc",
-      "published_at": "2026-10-23T04:15:25Z",
-      "first_seen_at": "2026-10-23T07:48:46Z",
-      "views": 8949,
-      "observed_growth_per_hour": 1024.1,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [
-        "dance"
-      ],
-      "suggested_search_phrase_unverified": "বন party",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false
     },
@@ -541,11 +248,26 @@
       "url": "https://www.youtube.com/watch?v=W6HXIbYSNRc",
       "published_at": "2026-10-22T13:37:43Z",
       "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 11350,
-      "observed_growth_per_hour": 866.0,
+      "views": 11417,
+      "observed_growth_per_hour": 677.5,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "anar santra",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false
+    },
+    {
+      "title": "india vs pakistan kom jitega esame # #art #cortoon #aivideo",
+      "channel": "Masti Lalganj up 50 ",
+      "channel_id": "UCSjdDFiEdWtpDXLt0C0YRkw",
+      "url": "https://www.youtube.com/watch?v=QnL0ATjqNxk",
+      "published_at": "2026-10-23T00:40:05Z",
+      "first_seen_at": "2026-10-23T13:13:59Z",
+      "views": 9161,
+      "observed_growth_per_hour": 606.7,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "india pakistan kom jitega",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false
     }
