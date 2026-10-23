@@ -211,7 +211,9 @@ def build(state, now):
         except (ValueError, KeyError, TypeError):
             continue
         _, creative = classify(v)
-        if creative and (v.get("views") or 0)>=8000:
+        # The main unmatched review queue is ONLY for individual >=1M videos.
+        # Lower-view creative ideas remain visible in the separate early-watch report.
+        if creative and (v.get("views") or 0)>=1_000_000:
             unmatched.append({
                 "title":v.get("title",""),"url":v.get("url",""),
                 "views":v.get("views"), "channel":v.get("channel"),
@@ -236,6 +238,7 @@ def report(result):
         f'- 保存的历史状态池：{result["snapshot_video_count"]} 条；仅使用最近24小时发布的视频归组为 {result["named_theme_count"]} 个主题',
         f'- 有两个及以上独立账号文字自述AI的**候选主题**：{result["claimed_multi_creator_themes"]}（不等于同一玩法的模仿已证实）',
         "- 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**","",
+        "> 本报告主题归组包含低播放历史线索，不将任何低于100万的单条视频称为爆款。",
         "> **务必注意：** 此处的“同主题”仅根据明确文字片段聚合，未经视频画面验证。",
         "> 不能把单账号连续上传当作跨账号模仿，也不能把媒体解说当原创AI玩法。",
         "> 只有独立视频截图/动作、跨平台传播、搜索意图及竞品历史都复核后，才可给出真正新词 Top。","",
@@ -258,7 +261,7 @@ def report(result):
             speed = (f'{v["observed_growth_per_hour"]:,.1f}' if v["observed_growth_per_hour"] is not None else "待多次采样")
             lines.append(f'| {clean(v["channel"])} | [{clean(v["title"])}]({v["url"]}) | {bj(v["published_at"])} | {bj(v["first_seen_at"])} | {v["views"] if v["views"] is not None else "未知"} | {v["ai_evidence"]} | {speed} |')
         lines.append("")
-    lines += ["## 高热但尚未归入具体玩法的 AI 自述视频（人工核验队列）","",
+    lines += ["## 单条超过100万播放，但尚未匹配具体玩法的 AI 自述视频","",
               "| 原视频 | 频道 | 播放量 | 观测增速/时 |","|---|---|---:|---:|"]
     for item in result["unmatched_creative_candidates"][:20]:
         speed=item["observed_growth_per_hour"]
