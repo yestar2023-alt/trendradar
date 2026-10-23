@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-23T15:41:52.863550+00:00",
-  "source_snapshot_at": "2026-10-23T15:41:47Z",
-  "source_video_count": 774,
-  "published_last_24h_with_channel": 360,
-  "shared_name_groups": 4,
+  "generated_at": "2026-10-23T19:57:17.003107+00:00",
+  "source_snapshot_at": "2026-10-23T19:57:12Z",
+  "source_video_count": 873,
+  "published_last_24h_with_channel": 336,
+  "shared_name_groups": 7,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
       "anchor": "#tranding",
       "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.33,
       "previously_observed_older_video": false,
       "priority_points_not_seo_score": 35,
       "examples": [
@@ -26,8 +26,20 @@
           "url": "https://www.youtube.com/watch?v=8n9LlHjiZ6o",
           "published_at": "2026-10-23T09:17:12Z",
           "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 1411,
-          "observed_growth_per_hour": null,
+          "views": 2841,
+          "observed_growth_per_hour": 335.9,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Dr. Doggy Will See You Now! 🐶🩺😂 | AI Animation #shorts #shorts #viral #viralshorts #tranding",
+          "channel": "Nova vibe",
+          "channel_id": "UC-OsYQ3C2W0Z1e_R8yDtF7w",
+          "url": "https://www.youtube.com/watch?v=8SeQc1RJjdM",
+          "published_at": "2026-10-23T04:30:26Z",
+          "first_seen_at": "2026-10-23T14:57:11Z",
+          "views": 2326,
+          "observed_growth_per_hour": 4.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -40,6 +52,120 @@
           "first_seen_at": "2026-10-23T13:13:59Z",
           "views": 270,
           "observed_growth_per_hour": 0.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "happy diwali",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "diwali special 2027sanpwa ai video happy diwali 🪔🎆 #diwali #snake #diwalispecial #sad #reels #trend",
+          "channel": "Sachin Kumar",
+          "channel_id": "UCMdGBfRd3HrYomesDUQAi5w",
+          "url": "https://www.youtube.com/watch?v=9hlLT_gJkwI",
+          "published_at": "2026-10-23T11:12:23Z",
+          "first_seen_at": "2026-10-23T13:13:59Z",
+          "views": 905,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Happy diwali 🎇 #trending #aivideo #trend",
+          "channel": "Agastya ai stories ",
+          "channel_id": "UC_UcNpFRw0m_NjWsBC4EUHQ",
+          "url": "https://www.youtube.com/watch?v=bUYBDUhfeqw",
+          "published_at": "2026-10-23T14:01:25Z",
+          "first_seen_at": "2026-10-23T19:57:12Z",
+          "views": 3,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#dailyvlog",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "truck have accident #2026 #automobile #aivideo #velog #dailyvlog #trending #trend #vlog #shorts #new",
+          "channel": "M Ali vlogs ",
+          "channel_id": "UCetY2VGxLEWplFyp5gxMoLQ",
+          "url": "https://www.youtube.com/watch?v=gbWnuzAfYf4",
+          "published_at": "2026-10-23T03:00:05Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 436,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "#aivideo #cartoon #dance #dailyvlog #trend 🥰😄",
+          "channel": "ai fun",
+          "channel_id": "UCxkpKzucs-q2bz08TFBC61Q",
+          "url": "https://www.youtube.com/watch?v=3OEN2AZLkXQ",
+          "published_at": "2026-10-23T17:55:59Z",
+          "first_seen_at": "2026-10-23T19:57:12Z",
+          "views": 1,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#radhakrishna",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "🌺मनिहारी का वेश बनाया🦚#shortvideo #bhakti #ytshorts #radhakrishna #aivideo #shortsfeed",
+          "channel": "Monika Yadav",
+          "channel_id": "UChr29DSQXuA0bJWZvhVoYFQ",
+          "url": "https://www.youtube.com/watch?v=7cna2uBWze8",
+          "published_at": "2026-10-23T03:00:07Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 1032,
+          "observed_growth_per_hour": -1163.6,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "trend #viralvideo #shortvideo #shorts #radhakrishna#aivideo",
+          "channel": "Saroja S yadav",
+          "channel_id": "UCg-01EVGGQ4G0vgJcjEhcEw",
+          "url": "https://www.youtube.com/watch?v=_Gn0CI1gYOY",
+          "published_at": "2026-10-23T15:38:55Z",
+          "first_seen_at": "2026-10-23T19:57:12Z",
+          "views": 39,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -64,8 +190,8 @@
           "url": "https://www.youtube.com/watch?v=9IrojAJKWf4",
           "published_at": "2026-10-22T20:46:30Z",
           "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 1389,
-          "observed_growth_per_hour": null,
+          "views": 1397,
+          "observed_growth_per_hour": 1.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -84,7 +210,7 @@
       ]
     },
     {
-      "anchor": "#alaqsamosque",
+      "anchor": "#jerusalem",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -140,8 +266,8 @@
           "url": "https://www.youtube.com/watch?v=4QsUJk3RJyw",
           "published_at": "2026-10-23T08:29:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 23372,
-          "observed_growth_per_hour": 4167.2,
+          "views": 37711,
+          "observed_growth_per_hour": 3368.4,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "dance"
@@ -154,8 +280,8 @@
           "url": "https://www.youtube.com/watch?v=zMGmpYaNwlI",
           "published_at": "2026-10-23T01:00:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1690,
-          "observed_growth_per_hour": 36.3,
+          "views": 1718,
+          "observed_growth_per_hour": 6.6,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -170,30 +296,14 @@
       "url": "https://www.youtube.com/watch?v=iYYeBJsaF8U",
       "published_at": "2026-10-23T02:30:15Z",
       "first_seen_at": "2026-10-23T13:19:55Z",
-      "views": 180298,
-      "observed_growth_per_hour": 36076.8,
+      "views": 293172,
+      "observed_growth_per_hour": 26515.3,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "गल 90s nostalgia",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"
-    },
-    {
-      "title": "👟 ¡PIERDEN LAS BOTAS ANTES DEL PARTIDO! #lamineyamal #pedri #shorts #aigenerated",
-      "channel": "Futbol AI",
-      "channel_id": "UC4axf-DS3EdFNCb_MeuKeEw",
-      "url": "https://www.youtube.com/watch?v=HS4A4hkz8d8",
-      "published_at": "2026-10-22T17:30:31Z",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "views": 1873671,
-      "observed_growth_per_hour": 20703.1,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "pierden botas antes partido",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "百万播放候选，仍需验证AI"
     }
   ]
 }
