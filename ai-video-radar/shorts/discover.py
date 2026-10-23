@@ -192,6 +192,7 @@ def normalized_video(vid, obj, matches, now):
         "category": topic,
         "shorts_hint": shorts_hint,
         "shorts_verified": False,
+        "source_tags": [str(t)[:80] for t in (snippet.get("tags") or [])[:30] if t],
         "synthetic_media_disclosed": status.get("containsSyntheticMedia", None),
         "queries": sorted(matches),
         "last_seen_at": utc_iso(now),
