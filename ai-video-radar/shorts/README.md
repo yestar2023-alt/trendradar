@@ -56,3 +56,22 @@
 针对已知存量玩法引用更早的公开历史证据，标为「已有玩法/不算今日新词」。纯单频道系列、未核实肖像/音乐/电影 IP 内容列为待查。**自动报告永远不给“确认新关键词”**，仍需独立核验 TikTok/YouTube 早期二创、竞品首次上线和 Google 搜索意图。
 
 本阶段不下载第三方视频，不自动生成有版权风险的视频，不自动创建 SEO 页面或域名。
+
+
+## 自动挖掘未知具体玩法（emerging.py）
+
+上一层 themes.py 使用人工审阅的已知具体名称及历史旧梗规则。本层 emerging.py 会直接分析官方 Data API 采集的近24小时发布视频标题、YouTube 作者元标签、频道ID以及历史真实播放量采样，从中提取 **未事先写入名单的具体命名片段**（例如后续可能出现的新歌名/舞蹈名），并查找多个不同频道的同名线索。无需任何额外 YouTube API 搜索，也无需 LLM API Key。
+
+- 报告：reports/emerging-latest.md；结构化数据：reports/emerging-latest.json（GitHub Actions 每次扫描更新）。
+- 只根据 **channelId** 计算独立频道，同一频道连续发很多条不算跨账号扩散。
+- 将 AI cat dance、AI animation、AI meme 等类别泛词排除，不作为新的具体玩法名；历史已有玩法仍归到旧梗而非新词。
+- 跨账号且文字包含共同动作词的线索排在前面，但 **动作词相同仍不能证明视觉效果一致**，必须人工观看原视频确认。
+- 把没有跨账号证据但真实播放量增长较快的具体单条视频放入“人工寻找模仿”队列。
+- 真实发布（publishedAt）、雷达首次观测（first_seen_at）和两次采样增长（views/hour）严格区分。
+- 单纯重复某球员、电影 IP 或人物名不能视为新的 AI 生成玩法。
+- 尚未人工查原视频、竞品、Google SERP 时，自动确认的新 SEO 关键词始终是 0，不能把候选冒充已验证 Top。
+- 存量历史状态缺少 source_tags 字段不会报错；新版采集会从 snippets.tags 自动补全。
+
+运行：`python ai-video-radar/shorts/emerging.py --root ai-video-radar/shorts`；单测：`python -m unittest discover -s ai-video-radar/shorts/tests -v`。
+
+**进一步限制：** 仅依据标题/标签的完全词组与哈希标签匹配，仍可能遗漏视觉相同但用不同语言表达的作品，或将同名不同效果归到一起。真正的相同动作/镜头需要后续视觉抽检，不能只做字符串比对。

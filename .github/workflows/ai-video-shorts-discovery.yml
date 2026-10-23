@@ -11,6 +11,7 @@ on:
       - 'ai-video-radar/shorts/discover.py'
       - 'ai-video-radar/shorts/config.json'
       - 'ai-video-radar/shorts/tests/**'
+      - 'ai-video-radar/shorts/emerging.py'
       - '.github/workflows/ai-video-shorts-discovery.yml'
   workflow_dispatch:
   schedule:
@@ -35,16 +36,45 @@ jobs:
           python-version: '3.12'
       - name: Test recent 24h, duplicate handling, state history and partial failures
         run: python -m unittest discover -s ai-video-radar/shorts/tests -v
+      - name: Offline integration smoke test using persisted YouTube snapshot (PR only)
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import sys
+          from datetime import timedelta
+          sys.path.insert(0, 'ai-video-radar/shorts')
+          import emerging, themes
+          root=Path('ai-video-radar/shorts')
+          state=json.loads((root/'data/state.json').read_text())
+          captured=themes.utc(state['scans'][-1]['time'])
+          # Freeze the clock to the source observation, not runner wall clock;
+          # this permits rerunning PRs without fake "fresh today" claims.
+          identified=emerging.run(root,captured+timedelta(seconds=2))
+          print(json.dumps([{'anchor':g['anchor'],'classification':g['classification'],
+                             'creators':g['unique_channels']}
+                            for g in identified['cross_creator_groups']],ensure_ascii=False))
+          themes.run(root,captured+timedelta(seconds=2))
+          PY
       - name: Search recent AI-made short-video candidates
+        if: github.event_name != 'pull_request'
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python ai-video-radar/shorts/discover.py --root ai-video-radar/shorts
           sed -n '1,70p' ai-video-radar/shorts/reports/latest.md
       - name: Group specific replicable themes and reject existing memes
+        if: github.event_name != 'pull_request'
         run: |
           python ai-video-radar/shorts/themes.py --root ai-video-radar/shorts
           sed -n '1,100p' ai-video-radar/shorts/reports/themes-latest.md
+      - name: Mine previously unknown named short-video patterns
+        if: github.event_name != 'pull_request'
+        run: |
+          python ai-video-radar/shorts/emerging.py --root ai-video-radar/shorts
+          sed -n '1,120p' ai-video-radar/shorts/reports/emerging-latest.md
       - name: Upload evidence and diagnostics
         if: always()
         uses: actions/upload-artifact@v4
@@ -55,6 +85,8 @@ jobs:
             ai-video-radar/shorts/reports/latest.csv
             ai-video-radar/shorts/reports/themes-latest.md
             ai-video-radar/shorts/reports/themes-latest.json
+            ai-video-radar/shorts/reports/emerging-latest.md
+            ai-video-radar/shorts/reports/emerging-latest.json
             ai-video-radar/shorts/data/state.json
           if-no-files-found: ignore
           retention-days: 30
