@@ -45,6 +45,7 @@ jobs:
         env:
           SEO_AUTO_FETCH: ${{ vars.SEO_AUTO_FETCH }}
           SEO_FETCH_INTITLE: ${{ vars.SEO_FETCH_INTITLE }}
+          SEO_ESTIMATE_BACKLINKS_FROM_KD: ${{ vars.SEO_ESTIMATE_BACKLINKS_FROM_KD }}
           SEO_MAX_KEYWORDS_PER_RUN: ${{ vars.SEO_MAX_KEYWORDS_PER_RUN }}
           SEO_LOCATION: ${{ vars.SEO_LOCATION }}
           SEO_LANGUAGE: ${{ vars.SEO_LANGUAGE }}
