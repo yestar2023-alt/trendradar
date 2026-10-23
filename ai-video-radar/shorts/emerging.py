@@ -169,7 +169,7 @@ def phrases(video: dict) -> set[tuple[str, str]]:
         for width in (2, 3, 4):
             for start in range(len(words)-width+1):
                 chunk = words[start:start+width]
-                if not any(len(w) >= 5 for w in chunk):
+                if not any(len(w) >= 5 or any(c.isdigit() for c in w) for w in chunk):
                     continue
                 if all(w in SUBJECT_ONLY for w in chunk):
                     continue
