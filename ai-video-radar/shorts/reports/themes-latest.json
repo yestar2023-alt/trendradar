@@ -1,0 +1,573 @@
+{
+  "built_at": "2026-10-23T07:48:52.261764+00:00",
+  "source_snapshot_at": "2026-10-23T07:48:46Z",
+  "snapshot_video_count": 429,
+  "named_theme_count": 8,
+  "claimed_multi_creator_themes": 0,
+  "confirmed_new_seo_keywords": 0,
+  "themes": [
+    {
+      "theme_id": "living_food",
+      "name": "Living Food / 食物拟人短剧",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "食物拟人化并说话/表演",
+      "input": "食物照片或文字描述",
+      "risk": "商标包装、音乐、童声和配音",
+      "caution": "标签只是类别线索，需验证是否是具体相同镜头/动作而非食物动画泛类",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 1,
+      "independent_claimed_creator_count": 1,
+      "max_observed_views": 77914,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "3v6qp2B9CJg",
+          "title": "😂🌯 Funny Shawarma AI Animation | Malayalam Comedy Shorts | Living Food",
+          "url": "https://www.youtube.com/watch?v=3v6qp2B9CJg",
+          "channel": "INFINITY REELSS",
+          "channel_id": "UC9whJ41IQ73zTBlJ22gZYcg",
+          "published_at": "2026-10-22T13:28:12Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 77914,
+          "observed_growth_per_hour": 11436.6,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        }
+      ]
+    },
+    {
+      "theme_id": "celebrity_aging",
+      "name": "Celebrity Aging / 明星老年化",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "人脸随年龄变化",
+      "input": "获得授权的成人肖像",
+      "risk": "明星肖像、真人深伪和角色版权",
+      "caution": "人物特效大类而非新玩法，避免从单一榜单拼新词",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 1,
+      "independent_claimed_creator_count": 1,
+      "max_observed_views": 22217,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "wOu0WwVyzf8",
+          "title": "Who Aged The Best? 80-Year-Old Rappers Edition 👴👀 #shorts",
+          "url": "https://www.youtube.com/watch?v=wOu0WwVyzf8",
+          "channel": "RateZilla",
+          "channel_id": "UC9XDT5JSquQ2v0bvbu4OrZg",
+          "published_at": "2026-10-22T11:52:02Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 22217,
+          "observed_growth_per_hour": 206.8,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        }
+      ]
+    },
+    {
+      "theme_id": "robot_girl",
+      "name": "Robot Girl Dance / 机械人偶跳舞",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "仿真人偶启动并跳舞",
+      "input": "成年人自有肖像或原创虚构角色",
+      "risk": "肖像、深伪误导与过度性化",
+      "caution": "同一作者连续发片不代表跨作者爆发，可能是真实拍摄/剪辑",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 2,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 23379,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "caS4LCkku8Q",
+          "title": "🤖 Real Doll Or Autonomous AI Robot Girl? ⚡部屋に現れた美少女ロボット #RobotGirl #dance",
+          "url": "https://www.youtube.com/watch?v=caS4LCkku8Q",
+          "channel": "Barbin.ili芭比",
+          "channel_id": "UCV6rVpeDc16dZXJf15fUUCQ",
+          "published_at": "2026-10-22T13:00:17Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 23379,
+          "observed_growth_per_hour": 667.1,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "TT-xdqYbmlw",
+          "title": "🤖🎀 Barbie Robot Girl Power On Mode! ⚡完璧なAIメカドール #RobotGirl #dance",
+          "url": "https://www.youtube.com/watch?v=TT-xdqYbmlw",
+          "channel": "Barbin.ili芭比",
+          "channel_id": "UCV6rVpeDc16dZXJf15fUUCQ",
+          "published_at": "2026-10-22T08:00:08Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 16418,
+          "observed_growth_per_hour": 287.7,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "random_photo_mix",
+      "name": "ChatGPT Mixed 2 Random Photos / 双图混搭",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "两张原本无关的图片形成意外混搭画面",
+      "input": "两张授权图片",
+      "risk": "肖像、图片版权及商标",
+      "caution": "可能只是单频道系列图片而非视频生成器搜索需求；需要观看内容核验",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 4,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 22311,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "W3mauchSpGw",
+          "title": "ChatGPT Mixed 2 Random Photos Part 1😂💀 | Funny AI Images #Shorts",
+          "url": "https://www.youtube.com/watch?v=W3mauchSpGw",
+          "channel": "Mavon Hub ",
+          "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
+          "published_at": "2026-10-22T15:33:12Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 22311,
+          "observed_growth_per_hour": 1411.6,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "9rZnD-ZM8ro",
+          "title": "ChatGPT Mixed 2 Random Photos Part 2😂💀 | Funny AI Images #Shorts",
+          "url": "https://www.youtube.com/watch?v=9rZnD-ZM8ro",
+          "channel": "Mavon Hub ",
+          "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
+          "published_at": "2026-10-22T15:34:00Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 4787,
+          "observed_growth_per_hour": 510.7,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "TqGYljNBJmI",
+          "title": "ChatGPT Mixed 2 Random Photos Part 5😂💀 | Funny AI Images #Shorts",
+          "url": "https://www.youtube.com/watch?v=TqGYljNBJmI",
+          "channel": "Mavon Hub ",
+          "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
+          "published_at": "2026-10-22T16:45:02Z",
+          "first_seen_at": "2026-10-23T07:48:46Z",
+          "views": 2590,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "Jek5_dRujbs",
+          "title": "ChatGPT Mixed 2 Random Photos Part 4😂💀 | Funny AI Images #Shorts",
+          "url": "https://www.youtube.com/watch?v=Jek5_dRujbs",
+          "channel": "Mavon Hub ",
+          "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
+          "published_at": "2026-10-22T16:30:34Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 1741,
+          "observed_growth_per_hour": 124.1,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "food_tree",
+      "name": "Food Grows on Trees / 食物长在树上",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "食物像果实一样长在树上",
+      "input": "指定食物+植物",
+      "risk": "内容误导与品牌商标",
+      "caution": "同频道系列不能当独立模仿扩散；可能只是老概念变体",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 2,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 1393,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "iFjUF-sB_cY",
+          "title": "😱 Aloo Tikki Grows on a Tree?! 🌳🤯 | Amazing AI Food Transformation #Shorts",
+          "url": "https://www.youtube.com/watch?v=iFjUF-sB_cY",
+          "channel": "TreeGrowthWorld",
+          "channel_id": "UCOzPTdT2FdhBiweskT7UbSQ",
+          "published_at": "2026-10-22T12:56:42Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 1393,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "Ej2XRcziESE",
+          "title": "From Seed to Spicy Chaat 😍🌱 | Amazing AI Food Transformation #Shorts",
+          "url": "https://www.youtube.com/watch?v=Ej2XRcziESE",
+          "channel": "TreeGrowthWorld",
+          "channel_id": "UCOzPTdT2FdhBiweskT7UbSQ",
+          "published_at": "2026-10-22T12:52:02Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 1285,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "cat_clapping",
+      "name": "Black Cat Clapping / 拍手猫",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "宠物站起并慢拍手",
+      "input": "一张自有宠物照",
+      "risk": "原创素材版权与宠物照片权利",
+      "caution": "9月已出现的存量热门梗，不能把今日二创叫首发",
+      "existing_before": "2026-09-25",
+      "previous_evidence_url": "https://knowyourmeme.com/memes/black-cat-clapping",
+      "videos": 3,
+      "channel_count": 3,
+      "claimed_ai_creations": 1,
+      "independent_claimed_creator_count": 1,
+      "max_observed_views": 7979,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "VPQ2m3lxdTQ",
+          "title": "Cat Clapping Meme Edit #meme #animals #ai #cat #dog #clapping #fypviral #lol",
+          "url": "https://www.youtube.com/watch?v=VPQ2m3lxdTQ",
+          "channel": "That_Soccer_Editor",
+          "channel_id": "UC91P4ndtKPZsc-n7SoH--9g",
+          "published_at": "2026-10-22T12:44:25Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 7979,
+          "observed_growth_per_hour": 1208.4,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "AcqI-kuI7cg",
+          "title": "Ranking Best Cat Clapping Hand",
+          "url": "https://www.youtube.com/watch?v=AcqI-kuI7cg",
+          "channel": "LoopnCut",
+          "channel_id": "UCqr_Yt-F_SKD25D2FeqUTzw",
+          "published_at": "2026-10-22T14:45:01Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 1646,
+          "observed_growth_per_hour": 57.5,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        },
+        {
+          "video_id": "D2uIgMAgxWo",
+          "title": "clapping cat trending #cat #cat meme😹 #shorts #ai #cute animals #viral",
+          "url": "https://www.youtube.com/watch?v=D2uIgMAgxWo",
+          "channel": "Learn FunBro",
+          "channel_id": "UCJ2aCKIw5G56Hn_vh4UTLIw",
+          "published_at": "2026-10-22T09:33:28Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 1524,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "gangnam_trio",
+      "name": "Gangnam Style AI Dance / 三人轮流跳舞",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "三人轮流跟随舞蹈动作",
+      "input": "一至三张成年人授权照片",
+      "risk": "歌曲音乐版权与原舞蹈素材授权",
+      "caution": "商业生成器已经存在；不能把同歌的不同舞蹈自动合并为单一模板",
+      "existing_before": "2026-10-12",
+      "previous_evidence_url": "https://www.makeviral.ai/templates/gangnam-style-ai-dance",
+      "videos": 2,
+      "channel_count": 2,
+      "claimed_ai_creations": 1,
+      "independent_claimed_creator_count": 1,
+      "max_observed_views": 3929,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "JVr6hIVgoqI",
+          "title": "Trending Gangnam Style Ai Video Editing | Instagram Trending Gangnam Style Ai Video Kaise Banaye",
+          "url": "https://www.youtube.com/watch?v=JVr6hIVgoqI",
+          "channel": "Editz Prince",
+          "channel_id": "UCRuvduO8P49inMTzgJbMsOQ",
+          "published_at": "2026-10-22T12:29:52Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 3929,
+          "observed_growth_per_hour": 223.0,
+          "ai_evidence": "解说/教程/资讯",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "OAI8MvVy4e8",
+          "title": "🔥 Viral Group Dance 💃 Gangnam Style |AI photo to video Google Flow AI",
+          "url": "https://www.youtube.com/watch?v=OAI8MvVy4e8",
+          "channel": "Wahid Tech Ai",
+          "channel_id": "UCkDOM4o7bgKMyr0QJrOryGQ",
+          "published_at": "2026-10-22T13:19:25Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 572,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        }
+      ]
+    },
+    {
+      "theme_id": "cinema_breakout",
+      "name": "4D Cinema Breakout / 影院破屏",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "银幕的虚构物体冲向座位",
+      "input": "一张本人照片+原创影院场景",
+      "risk": "影视IP与原视频素材授权",
+      "caution": "至少9月已有独立模板；新闻/解说视频不代表新AI二创",
+      "existing_before": "2026-09-30",
+      "previous_evidence_url": "https://www.makeviral.ai/templates/ai-cinema-breakout-video",
+      "videos": 2,
+      "channel_count": 2,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 29942,
+      "first_observed_at": "2026-10-23T07:15:24Z",
+      "examples": [
+        {
+          "video_id": "a6-3MvQGDDs",
+          "title": "These Viral 4D Theater Videos Are Actually AI! 🤯🎬 #Shorts",
+          "url": "https://www.youtube.com/watch?v=a6-3MvQGDDs",
+          "channel": "Nexa",
+          "channel_id": "UCCv0yf-fqW6ZD0b7oBKqiAA",
+          "published_at": "2026-10-22T18:00:02Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 29942,
+          "observed_growth_per_hour": 1560.8,
+          "ai_evidence": "解说/教程/资讯",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "BxHPEJruYAc",
+          "title": "Bioskop 4D Ini Viral, Tapi Ternyata Video AI! 😱🎬 #bioskop #film #faktaunik",
+          "url": "https://www.youtube.com/watch?v=BxHPEJruYAc",
+          "channel": "Ava Fact",
+          "channel_id": "UCKTvtdTGQAI2CYpirVl2dyg",
+          "published_at": "2026-10-22T22:30:10Z",
+          "first_seen_at": "2026-10-23T07:15:24Z",
+          "views": 8345,
+          "observed_growth_per_hour": 1728.1,
+          "ai_evidence": "解说/教程/资讯",
+          "creative_claimed": false
+        }
+      ]
+    }
+  ],
+  "unmatched_creative_candidates": [
+    {
+      "title": "😱 Zaitoon Se Bana Kaaba? 🫒🕋 | Amazing AI Transformation #Shorts",
+      "url": "https://www.youtube.com/watch?v=oi1yxypRVAw",
+      "views": 85783,
+      "channel": "Rabbul Alameen Vision",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T15:30:20Z",
+      "observed_growth_per_hour": 27580.8
+    },
+    {
+      "title": "Rainbow Snake's Superpower Shocked Everyone! 🐍🔥 #shorts",
+      "url": "https://www.youtube.com/watch?v=COJ1oZ-aWUg",
+      "views": 74518,
+      "channel": "GameRift",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T12:20:38Z",
+      "observed_growth_per_hour": 17840.0
+    },
+    {
+      "title": "❤️চ্যালেঞ্জ!আরোহী VS গুণ্ডা নানু সাহস ও আত্মবিশ্বাসের অসাধারণ গল্প #shorts #aishorts #horse #animals",
+      "url": "https://www.youtube.com/watch?v=h7v965_qV_E",
+      "views": 147503,
+      "channel": "AI 160 STORY ",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:43:33Z",
+      "observed_growth_per_hour": 17149.5
+    },
+    {
+      "title": "👟 ¡PIERDEN LAS BOTAS ANTES DEL PARTIDO! #lamineyamal #pedri #shorts #aigenerated",
+      "url": "https://www.youtube.com/watch?v=HS4A4hkz8d8",
+      "views": 1819230,
+      "channel": "Futbol AI",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T17:30:31Z",
+      "observed_growth_per_hour": 12684.5
+    },
+    {
+      "title": "Savage Baby Waiter & Funny Husband 😂 | Viral AI Animation #shorts #explore #newtrend #viralshorts",
+      "url": "https://www.youtube.com/watch?v=3ThUY0QHGI0",
+      "views": 15304,
+      "channel": "HoneyVerse",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:15:35Z",
+      "observed_growth_per_hour": 4180.8
+    },
+    {
+      "title": "2 AI Cats Dancing on Dama Dam Mast Qalandar 😂💃 #Shorts#DancingCats #AICats #FunnyCats #Shorts",
+      "url": "https://www.youtube.com/watch?v=78B50ZvYMS0",
+      "views": 13613,
+      "channel": "Funzy shorts ",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T14:41:37Z",
+      "observed_growth_per_hour": 3778.0
+    },
+    {
+      "title": "Ranking Funniest Baby's Talking 🤣 #shorts",
+      "url": "https://www.youtube.com/watch?v=yHss1_A8sDY",
+      "views": 60690,
+      "channel": "Karo Vargas Video",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T10:13:57Z",
+      "observed_growth_per_hour": 3774.4
+    },
+    {
+      "title": "POV: ChatGPT in 2080 Looking for Its Creator 💀🤖#ChatGPT #AIMemes #FunnyMemes #RelatableMemes #shorts",
+      "url": "https://www.youtube.com/watch?v=jqqZlvl54JQ",
+      "views": 20009,
+      "channel": "Zubban-e-Shayari",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:30:07Z",
+      "observed_growth_per_hour": 3272.7
+    },
+    {
+      "title": "This Is What AI Was Actually Made For 😂",
+      "url": "https://www.youtube.com/watch?v=5b8IJNb6mCE",
+      "views": 50432,
+      "channel": "RainbowLeya",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T17:00:01Z",
+      "observed_growth_per_hour": 3067.7
+    },
+    {
+      "title": "funny animation short 🤣🤣#shorts #shortsfeed #viral #animation #ai",
+      "url": "https://www.youtube.com/watch?v=4W9XZKC9b74",
+      "views": 12146,
+      "channel": "sumantobi",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T12:30:14Z",
+      "observed_growth_per_hour": 2026.6
+    },
+    {
+      "title": "اللهم إني أسألك حسن الخاتمة #ai #aianimation #aivideo #الاسلام #ai #دينيه #ذكاء_اصطناعي #الله #aiart",
+      "url": "https://www.youtube.com/watch?v=mwXduqX9C7o",
+      "views": 8100,
+      "channel": "AI XON",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T16:51:05Z",
+      "observed_growth_per_hour": 1769.4
+    },
+    {
+      "title": "ഭയത്തോടെ ഇന്ദു |ഹൃദയം തൊട്ടവൻ | #shortsfeed #aivideo #aianimation",
+      "url": "https://www.youtube.com/watch?v=FyVqFr16TDk",
+      "views": 16271,
+      "channel": "Taya Vlogs & Deals",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T11:56:37Z",
+      "observed_growth_per_hour": 1746.1
+    },
+    {
+      "title": "Sofia the First Characters in Real Life | AI Transformation",
+      "url": "https://www.youtube.com/watch?v=qXinSvq0SUQ",
+      "views": 15952,
+      "channel": "Power Anime",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T12:42:40Z",
+      "observed_growth_per_hour": 1742.5
+    },
+    {
+      "title": "Parvati Gets Angry at Ganga 😡😂 | Mahadev AI Comedy#viral  #shorts #mahadev",
+      "url": "https://www.youtube.com/watch?v=3iGiWSu2Yoc",
+      "views": 27659,
+      "channel": "Priti Verma",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T08:42:54Z",
+      "observed_growth_per_hour": 1640.0
+    },
+    {
+      "title": "#aianimation #funnyshorts #funnyvideos",
+      "url": "https://www.youtube.com/watch?v=2AN1iKAGFI8",
+      "views": 17289,
+      "channel": "Crazy Makeover",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T08:20:03Z",
+      "observed_growth_per_hour": 1415.2
+    },
+    {
+      "title": "They Mocked Her Torn Bag… Then She Did THIS! 😱✨ #Shorts #diy #craft #handmade #bestoutofwaste",
+      "url": "https://www.youtube.com/watch?v=BSReTwO-S7M",
+      "views": 13413,
+      "channel": "Laiba Ai Creation",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T08:00:33Z",
+      "observed_growth_per_hour": 1174.2
+    },
+    {
+      "title": "AI GENERATED VS REAL LIFE 🤯🔥 #shorts",
+      "url": "https://www.youtube.com/watch?v=HqwRVBJN90k",
+      "views": 17682,
+      "channel": "ApexLore",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:00:14Z",
+      "observed_growth_per_hour": 1123.9
+    },
+    {
+      "title": "😅baby boy's funny video 😱। #ai #aishort",
+      "url": "https://www.youtube.com/watch?v=v8BlSopRI_A",
+      "views": 33525,
+      "channel": "Munna Or Munni",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T08:30:30Z",
+      "observed_growth_per_hour": 1114.9
+    },
+    {
+      "title": "¡LAMINE PIERDE SU PERRO! #lamineyamal #nicowilliams #shorts #aigenerated",
+      "url": "https://www.youtube.com/watch?v=2-VGhY2cJLI",
+      "views": 124256,
+      "channel": "Futbol AI",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T13:45:31Z",
+      "observed_growth_per_hour": 1093.3
+    },
+    {
+      "title": "Chawal Ka Pizza? 😱🤯 #shorts #viral #tasty #trending #ai #youtubeshorts #ytshorts #subscribe",
+      "url": "https://www.youtube.com/watch?v=y6MMXhcWbR4",
+      "views": 13369,
+      "channel": "Luck 🍀",
+      "first_seen_at": "2026-10-23T07:15:24Z",
+      "published_at": "2026-10-22T09:03:14Z",
+      "observed_growth_per_hour": 965.6
+    }
+  ]
+}
