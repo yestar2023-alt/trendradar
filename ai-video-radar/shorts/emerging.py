@@ -47,13 +47,13 @@ hindi english malayalam tamil japanese chinese language official
 # No exact pair of these alone should be considered a distinct reproducible format.
 SUBJECT_ONLY = set("""
 lamine yamal pedri ronaldo messi trump netanyahu biden putin elon musk
-mrbeast disney marvel league legends minecraft roblox naruto sonic
+mrbeast disney marvel league legends minecraft roblox naruto sonic michael jackson terminator
 christmas halloween bangladesh india pakistan brazil spain football soccer
 """.split())
 COMMON_HASH = set("""
 trendingshorts shortstrending satisfying funnysatisfying foodshorts
 cooking relatable digitalcreator hindicomedy funnyanimals catlovers
-minecraft aicooking cutebaby funnysnake bhojpuri 3danimation
+minecraft aicooking cutebaby funnysnake bhojpuri 3danimation terminator beforeandafter entertainment deepfake
 catsoftiktok catcartoon recipe pizzarecipe ghiblistyle
 funnycats dancingcats catshorts cartoonshorts aishort aiimages aiimage aiart
 aitransformation aidance aitool aiimages aiimage aistorytelling
@@ -169,7 +169,7 @@ def phrases(video: dict) -> set[tuple[str, str]]:
         for width in (2, 3, 4):
             for start in range(len(words)-width+1):
                 chunk = words[start:start+width]
-                if not any(len(w) >= 5 for w in chunk):
+                if not any(len(w) >= 5 or any(c.isdigit() for c in w) for w in chunk):
                     continue
                 if all(w in SUBJECT_ONLY for w in chunk):
                     continue
@@ -244,7 +244,7 @@ def compress_group(key, group, older_seen):
     known = sorted({old_known(v) for v in group if old_known(v)})
     signatures=Counter(main_caption_signature(v) for v in group)
     leading_caption_fraction=(max(signatures.values()) / len(group)) if group else 0
-    likely_copied_caption=(len(group)>=3 and leading_caption_fraction>=0.7)
+    likely_copied_caption=(len(group)>=2 and leading_caption_fraction>=0.95)
 
     # Repeated named actor/event is not evidence of one reusable *effect*.
     kind = ("known" if known else

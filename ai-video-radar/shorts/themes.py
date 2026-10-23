@@ -21,13 +21,20 @@ NEWS_OR_TUTORIAL = re.compile(
     r"\b(?:how\s+to|tutorial|guide|news|explained|explain|reaction|reacted|"
     r"fact\s*check|these\s+viral|is\s+it\s+real|actually\s+ai|"
     r"editing\s+tutorial|kaise\s+banaye|review)\b|教程|讲解|如何制作|评测|解说|"
-    r"ternyata\s+video\s+ai", re.I)
+    r"ternyata\s+video\s+ai|कैसे\s*बनाएं|कैसे\s*बनाये|कैसे\s*बनाए|बनाना\s*सीखें|कैसे\s*करें", re.I)
 KNOWN_STOCK = "已有玩法/不算今日新词"
 UNVERIFIED = "仅候选/尚未确认新玩法"
 
 # Narrow expressions describe replicable shot/story/effect, not broad content categories.
 # For known older formats, the link is evidence of previous existence, not a claimed original.
 THEMES = [
+    dict(id="a2o_lite_neon", name="A2O LITE NEON AI 双人舞蹈",
+         pattern=r"(?:a2o\s*lite|a20\s*lite|a2olite|a20lite).{0,35}neon|(?:neon.{0,35}(?:a2o|a20)\s*lite)",
+         input="两张获得授权的成年人照片或宠物照片",
+         outcome="替换NEON双人编舞原角色进行动作模仿",
+         known="2026-10-20", url="https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video",
+         note="10月20日已有生成器教程；作者自标日期并非独立归档首发验证，不能称今天才出现",
+         risk="音乐、编舞、角色/艺人肖像与粉丝衍生作品授权"),
     dict(id="jhinga_lala", name="Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
          pattern=r"jhinga\s*lala\s*hu\s*hu",
          input="自有授权素材或本人肖像", outcome="跟随现有口号/音乐进行搞笑短舞",

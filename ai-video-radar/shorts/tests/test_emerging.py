@@ -168,6 +168,34 @@ class TestEmerging(unittest.TestCase):
         result=emerging.build(state({"a":a,"b":b}),NOW)
         self.assertEqual(result["shared_name_groups"],0)
 
+    def test_identical_two_channel_headline_is_weak_not_confirmed_effect(self):
+        title="Instagram New Profile Jump AI Video Trend #aivideo"
+        a=video("AAAAAAAAAAA",title,"UCone",views=25)
+        b=video("BBBBBBBBBBB",title,"UCtwo",views=4)
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        group=next(x for x in result["cross_creator_groups"]
+                   if x["anchor"]=="profile jump")
+        self.assertEqual(group["classification"],"possible_reuploads")
+        self.assertLessEqual(group["priority_points_not_seo_score"],12)
+        self.assertEqual(result["independent_claimed_and_same_action_candidates"],0)
+
+    def test_hindi_howto_is_not_independent_ai_created_short(self):
+        a=video("AAAAAAAAAAA","Instagram New Profile Jump AI Video Trend","UCone")
+        b=video("BBBBBBBBBBB",
+                "Instagram New Profile Jump AI Video Trend / अपनी फोटो से AI वीडियो कैसे बनाएं",
+                "UCtwo")
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        self.assertEqual(result["shared_name_groups"],0)
+
+    def test_a2o_lite_neon_already_has_competing_generator(self):
+        a=video("AAAAAAAAAAA","A2O LITE NEON AI Dance","UCone")
+        b=video("BBBBBBBBBBB","A2O LITE NEON AI Dance Cover","UCtwo")
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        group=next(x for x in result["cross_creator_groups"]
+                   if x["anchor"]=="a2o lite neon")
+        self.assertEqual(group["classification"],"known")
+        self.assertEqual(group["priority_points_not_seo_score"],0)
+
     def test_report_json_persists_without_new_api_calls(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp)
