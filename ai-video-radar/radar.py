@@ -21,6 +21,7 @@ from datetime import datetime, timezone
 from urllib import error, parse, request, robotparser
 import xml.etree.ElementTree as ET
 from zoneinfo import ZoneInfo
+from seo_metrics import enrich, fmt, write_metrics_csv
 
 AGENT = 'AIVideoKeywordRadar/1.0 (+read-only; daily site-monitoring)'
 SKIP_EXT = ('.png','.jpg','.jpeg','.gif','.webp','.svg','.css','.js','.woff','.woff2','.pdf','.mp4','.webm','.ico','.map','.xml','.gz','.json','.txt')
@@ -251,7 +252,22 @@ def load_state(path: Path):
     with gzip.open(path,'rt',encoding='utf-8') as f: return json.load(f)
 
 
-def write_report(root, today, checks, candidates, meta):
+def recent_seo_topics(root, candidates, max_topics=40):
+    """Keep recently discovered opportunities visible after their first delta day."""
+    recent = [r['topic'] for r in candidates]
+    for p in sorted((root / 'reports').glob('????-??-??.csv'), reverse=True)[:7]:
+        try:
+            with p.open(encoding='utf-8-sig', newline='') as f:
+                recent.extend(r.get('topic', '') for r in csv.DictReader(f))
+        except (OSError, UnicodeError):
+            continue
+    unique = list(dict.fromkeys(t for t in recent if t))
+    # Prefer AI-related topics for limited paid lookup slots; preserve all source countries.
+    return sorted(unique, key=lambda s: (0 if 'ai' in s.casefold().split() else 1,
+                                         unique.index(s)))[:max_topics]
+
+
+def write_report(root, today, checks, candidates, meta, seo_rows=None):
     reports=root/'reports'; reports.mkdir(parents=True,exist_ok=True)
     lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条**',f'- **需核实的新关键词候选：{len(candidates)} 个**','']
     if not candidates:
@@ -268,6 +284,26 @@ def write_report(root, today, checks, candidates, meta):
             keyword=row['topic']; q=parse.quote_plus(keyword)
             lines.append(f'- **{keyword}**： [TikTok](https://www.tiktok.com/search?q={q}) · [YouTube](https://www.youtube.com/results?search_query={q}) · [Google](https://www.google.com/search?q={q}) · [Google Trends](https://trends.google.com/trends/explore?q={q})')
         lines+=['','本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。','']
+    lines += ['## SEO 指标复核（最近 7 份日报中的候选）', '',
+              '> 指标来自导入文件或显式启用的第三方付费 API。— 代表未取得数据，不表示搜索量为 0。'
+              ' KGR/EKGR 仅是选词参考，尤其不适合以月搜索量数据判断刚爆发的新词。',
+              '> KDROI 是 \`月搜索量 × CPC ÷ (KD + 1)\` 的**机会分数**，不是投资回报率百分比；'
+              ' 默认美国/英语 API 取数不等于全球搜索量。',
+              '',
+              '| 候选词 | 月量 | Allintitle | KD | CPC($) | KGR | EKGR | KDROI 分数 | 市场 | 来源 / 日期 | 数据状态 |',
+              '|---|---:|---:|---:|---:|---:|---:|---:|---|---|---|']
+    if seo_rows:
+        for keyword, m in seo_rows.items():
+            market = str(m.get('location', '—')) + '/' + str(m.get('language', '—'))
+            source = str(m.get('source', '—')) + ' / ' + str(m.get('checked_at', '—'))
+            values = [keyword, fmt(m.get('volume')), fmt(m.get('allintitle')),
+                      fmt(m.get('kd')), fmt(m.get('cpc')), fmt(m.get('kgr')),
+                      fmt(m.get('ekgr')), fmt(m.get('kdroi_score')), market, source,
+                      str(m.get('status', '—'))]
+            lines.append('| ' + ' | '.join(str(x).replace('|','/').replace('\\n',' ') for x in values) + ' |')
+    else:
+        lines.append('| 暂无可复核候选 | — | — | — | — | — | — | — | — | — | — |')
+    lines += ['','可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。','']
     lines+=['## 各站检查状态','', '| 来源 | Sitemap | 模板/榜单列表 |','|---|---|---|']
     for r in checks: lines.append(f'| {r["name"]} | {r["sitemap"].replace("|","/")} | {r["listing"].replace("|","/")} |')
     lines+=['','## 说明','', '首次成功抓取只建立基线，不产生新增词。部分网站是 JS 动态页面，HTML/Sitemap 可能不公开，失败会如实显示。Sitemap `lastmod` 仅作为修改时间参考，不作为发布日期。','']
@@ -321,7 +357,11 @@ def run(root, cfg, fetcher):
         r['pages'].append({'site':item['site'],'url':url,'title':title,'title_verified':verified,'channel':item['channel']})
     save_json_atomic(statefile,state)
     meta={'new_urls':new_count,'ok':ok,'bad':bad}
-    result=write_report(root,today,checks,list(candidates.values()),meta)
+    selected = recent_seo_topics(root, list(candidates.values()))
+    seo_rows = enrich(selected, root)
+    write_metrics_csv(root / 'reports' / (today + '-seo.csv'), seo_rows)
+    write_metrics_csv(root / 'reports' / 'seo-latest.csv', seo_rows)
+    result=write_report(root,today,checks,list(candidates.values()),meta,seo_rows)
     print('\n'+result[:4000],flush=True)
     return meta
 
