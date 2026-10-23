@@ -103,12 +103,12 @@ def named_hashtags(video: dict) -> set[str]:
     # Metadata tags are supplied by videos.list.snippet.tags, when present.
     tags = video.get("source_tags") or []
     alltags = HASHTAG.findall(t)
-    alltags.extend(t.lstrip("#") if t.startswith("#") else "" for t in tags[:30] if t)
+    alltags.extend(str(t).lstrip("#") for t in tags[:30] if t)
     out = set()
     for raw in alltags:
         key = unicodedata.normalize("NFKC", str(raw)).casefold().replace("_", "")
         key = key.strip("-#")
-        if (len(key) >= 7 and key not in COMMON_HASH and
+        if (re.fullmatch(r"[\w-]{7,50}", key, re.UNICODE) and key not in COMMON_HASH and
             key not in STOP and not key.startswith("shorts") and
             not key.startswith("aigenerated") and not key.startswith("viral") and
             not key.isdigit()):
