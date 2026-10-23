@@ -41,6 +41,10 @@ jobs:
         run: |
           python ai-video-radar/shorts/discover.py --root ai-video-radar/shorts
           sed -n '1,70p' ai-video-radar/shorts/reports/latest.md
+      - name: Group specific replicable themes and reject existing memes
+        run: |
+          python ai-video-radar/shorts/themes.py --root ai-video-radar/shorts
+          sed -n '1,100p' ai-video-radar/shorts/reports/themes-latest.md
       - name: Upload evidence and diagnostics
         if: always()
         uses: actions/upload-artifact@v4
@@ -49,6 +53,8 @@ jobs:
           path: |
             ai-video-radar/shorts/reports/latest.md
             ai-video-radar/shorts/reports/latest.csv
+            ai-video-radar/shorts/reports/themes-latest.md
+            ai-video-radar/shorts/reports/themes-latest.json
             ai-video-radar/shorts/data/state.json
           if-no-files-found: ignore
           retention-days: 30
