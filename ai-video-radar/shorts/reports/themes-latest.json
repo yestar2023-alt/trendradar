@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-10-23T14:58:54.735345+00:00",
-  "source_snapshot_at": "2026-10-23T14:58:50Z",
-  "snapshot_video_count": 750,
+  "built_at": "2026-10-23T15:41:52.729816+00:00",
+  "source_snapshot_at": "2026-10-23T15:41:47Z",
+  "snapshot_video_count": 774,
   "named_theme_count": 6,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
@@ -17,39 +17,13 @@
       "caution": "可能只是单频道系列图片而非视频生成器搜索需求；需要观看内容核验",
       "existing_before": null,
       "previous_evidence_url": null,
-      "videos": 4,
+      "videos": 2,
       "channel_count": 1,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 25719,
+      "max_observed_views": 3142,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
-        {
-          "video_id": "W3mauchSpGw",
-          "title": "ChatGPT Mixed 2 Random Photos Part 1😂💀 | Funny AI Images #Shorts",
-          "url": "https://www.youtube.com/watch?v=W3mauchSpGw",
-          "channel": "Mavon Hub ",
-          "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
-          "published_at": "2026-10-22T15:33:12Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 25719,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "9rZnD-ZM8ro",
-          "title": "ChatGPT Mixed 2 Random Photos Part 2😂💀 | Funny AI Images #Shorts",
-          "url": "https://www.youtube.com/watch?v=9rZnD-ZM8ro",
-          "channel": "Mavon Hub ",
-          "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
-          "published_at": "2026-10-22T15:34:00Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 8514,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
         {
           "video_id": "TqGYljNBJmI",
           "title": "ChatGPT Mixed 2 Random Photos Part 5😂💀 | Funny AI Images #Shorts",
@@ -58,8 +32,8 @@
           "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
           "published_at": "2026-10-22T16:45:02Z",
           "first_seen_at": "2026-10-23T07:48:46Z",
-          "views": 3131,
-          "observed_growth_per_hour": 0.0,
+          "views": 3142,
+          "observed_growth_per_hour": 15.4,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -71,8 +45,8 @@
           "channel_id": "UCneJyirhTF_smYXUQqD0mAA",
           "published_at": "2026-10-22T16:30:34Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 1942,
-          "observed_growth_per_hour": 0.0,
+          "views": 1954,
+          "observed_growth_per_hour": 16.8,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
@@ -118,7 +92,7 @@
           "published_at": "2026-10-23T01:06:02Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
           "views": 1303,
-          "observed_growth_per_hour": 472.7,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -152,7 +126,7 @@
       "channel_count": 3,
       "claimed_ai_creations": 2,
       "independent_claimed_creator_count": 2,
-      "max_observed_views": 20389,
+      "max_observed_views": 23372,
       "first_observed_at": "2026-10-23T13:13:59Z",
       "examples": [
         {
@@ -163,8 +137,8 @@
           "channel_id": "UCfXRO_7vs6L6047cpctYzSQ",
           "published_at": "2026-10-23T08:29:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 20389,
-          "observed_growth_per_hour": 14000.0,
+          "views": 23372,
+          "observed_growth_per_hour": 4167.2,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         },
@@ -176,8 +150,8 @@
           "channel_id": "UCaStXt6840lYxag3tm-uRHw",
           "published_at": "2026-10-23T03:09:39Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 3186,
-          "observed_growth_per_hour": 1418.2,
+          "views": 3476,
+          "observed_growth_per_hour": 405.1,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -189,8 +163,8 @@
           "channel_id": "UC4E3dpr6LArU-yaCFrzZ2YA",
           "published_at": "2026-10-23T01:00:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1608,
-          "observed_growth_per_hour": 0.0,
+          "views": 1690,
+          "observed_growth_per_hour": 36.3,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
@@ -211,7 +185,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 165460,
+      "max_observed_views": 174888,
       "first_observed_at": "2026-10-23T13:13:59Z",
       "examples": [
         {
@@ -222,8 +196,8 @@
           "channel_id": "UC2zslXP9ANcwccO2OCpdfIg",
           "published_at": "2026-10-22T15:59:46Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 165460,
-          "observed_growth_per_hour": 690.9,
+          "views": 174888,
+          "observed_growth_per_hour": 13170.7,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
@@ -244,7 +218,7 @@
       "channel_count": 2,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 31690,
+      "max_observed_views": 31783,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
         {
@@ -255,8 +229,8 @@
           "channel_id": "UCCv0yf-fqW6ZD0b7oBKqiAA",
           "published_at": "2026-10-22T18:00:02Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 31690,
-          "observed_growth_per_hour": 0.0,
+          "views": 31783,
+          "observed_growth_per_hour": 129.9,
           "ai_evidence": "解说/教程/资讯",
           "creative_claimed": false
         },
@@ -268,8 +242,8 @@
           "channel_id": "UCKTvtdTGQAI2CYpirVl2dyg",
           "published_at": "2026-10-22T22:30:10Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 21371,
-          "observed_growth_per_hour": 0.0,
+          "views": 25360,
+          "observed_growth_per_hour": 5572.5,
           "ai_evidence": "解说/教程/资讯",
           "creative_claimed": false
         }
@@ -286,11 +260,11 @@
       "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
       "existing_before": "2026-09-15",
       "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
-      "videos": 9,
-      "channel_count": 9,
+      "videos": 8,
+      "channel_count": 8,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 9727,
+      "max_observed_views": 10074,
       "first_observed_at": "2026-10-23T07:15:24Z",
       "examples": [
         {
@@ -301,8 +275,21 @@
           "channel_id": "UCXDtw21HbJONR6Asf-JaXGQ",
           "published_at": "2026-10-22T23:50:24Z",
           "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 9727,
-          "observed_growth_per_hour": 0.0,
+          "views": 10074,
+          "observed_growth_per_hour": 484.7,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "sZ0TRCEsxj4",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
+          "url": "https://www.youtube.com/watch?v=sZ0TRCEsxj4",
+          "channel": "Sarvan 9875",
+          "channel_id": "UCDimBbytW31JgLkUfyUwAJQ",
+          "published_at": "2026-10-22T23:50:10Z",
+          "first_seen_at": "2026-10-23T13:13:59Z",
+          "views": 9508,
+          "observed_growth_per_hour": 851.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -316,19 +303,6 @@
           "first_seen_at": "2026-10-23T13:13:59Z",
           "views": 8037,
           "observed_growth_per_hour": 0.0,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "sZ0TRCEsxj4",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=sZ0TRCEsxj4",
-          "channel": "Sarvan 9875",
-          "channel_id": "UCDimBbytW31JgLkUfyUwAJQ",
-          "published_at": "2026-10-22T23:50:10Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 7585,
-          "observed_growth_per_hour": 985.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -353,8 +327,8 @@
           "channel_id": "UC0SOo5Wnp4_f1dVpYkA6ICw",
           "published_at": "2026-10-23T08:57:54Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 2041,
-          "observed_growth_per_hour": 1345.5,
+          "views": 2180,
+          "observed_growth_per_hour": 194.2,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -366,8 +340,8 @@
           "channel_id": "UCWJcjFLlyZuB6RvEgbrhdaw",
           "published_at": "2026-10-22T23:50:37Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1639,
-          "observed_growth_per_hour": 0.0,
+          "views": 1681,
+          "observed_growth_per_hour": 58.7,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -379,20 +353,20 @@
           "channel_id": "UCkGTdwHMdWJaf1tYTB-eb6w",
           "published_at": "2026-10-22T16:39:52Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1398,
-          "observed_growth_per_hour": 0.0,
+          "views": 1402,
+          "observed_growth_per_hour": 1.8,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
         {
-          "video_id": "l4KIgaBEKqI",
-          "title": "Jhinga lala hu hu kaka dada mama #funny​ #comedy​ #dance​ #ai​ #youtubeshorts​ #shorts​ #trending​",
-          "url": "https://www.youtube.com/watch?v=l4KIgaBEKqI",
-          "channel": "Funny Sketch Wala",
-          "channel_id": "UCPUX4W9Bz3PDzwQCNVrUQnQ",
-          "published_at": "2026-10-22T15:40:34Z",
+          "video_id": "9v8oB23rVvI",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=9v8oB23rVvI",
+          "channel": "Maa official Vlogs ",
+          "channel_id": "UCoCAuVP-J4od6WGFIfkABDA",
+          "published_at": "2026-10-23T01:59:26Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1271,
+          "views": 1243,
           "observed_growth_per_hour": 0.0,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
@@ -402,175 +376,13 @@
   ],
   "unmatched_creative_candidates": [
     {
-      "title": "गल्ली क्रिकेट 🏏🥎🏃🏻| 90s Nostalgia #shorts ✨",
-      "url": "https://www.youtube.com/watch?v=iYYeBJsaF8U",
-      "views": 154473,
-      "channel": "Lahanpan Dega Deva",
-      "first_seen_at": "2026-10-23T13:19:55Z",
-      "published_at": "2026-10-23T02:30:15Z",
-      "observed_growth_per_hour": 141309.1
-    },
-    {
-      "title": "😱 Zaitoon Se Bana Kaaba? 🫒🕋 | Amazing AI Transformation #Shorts",
-      "url": "https://www.youtube.com/watch?v=oi1yxypRVAw",
-      "views": 232879,
-      "channel": "Rabbul Alameen Vision",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T15:30:20Z",
-      "observed_growth_per_hour": 137781.8
-    },
-    {
       "title": "👟 ¡PIERDEN LAS BOTAS ANTES DEL PARTIDO! #lamineyamal #pedri #shorts #aigenerated",
       "url": "https://www.youtube.com/watch?v=HS4A4hkz8d8",
-      "views": 1858851,
+      "views": 1873671,
       "channel": "Futbol AI",
       "first_seen_at": "2026-10-23T07:15:24Z",
       "published_at": "2026-10-22T17:30:31Z",
-      "observed_growth_per_hour": 52763.6
-    },
-    {
-      "title": "Ai Generated Videos ||  Train To Mere Ghar Ki Train Hai #shorts #youtubeshorts",
-      "url": "https://www.youtube.com/watch?v=Djk1aS9h2zo",
-      "views": 21332,
-      "channel": "Anuj_Tutter00",
-      "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T09:30:19Z",
-      "observed_growth_per_hour": 34254.5
-    },
-    {
-      "title": "🐸 Funny Frog vs Giant Animal 😱😂 | AI Animal Animation #Shorts",
-      "url": "https://www.youtube.com/watch?v=NvdZyCvvSqQ",
-      "views": 11260,
-      "channel": "GameRift",
-      "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T08:20:06Z",
-      "observed_growth_per_hour": 24654.5
-    },
-    {
-      "title": "This Is What AI Was Actually Made For 😂",
-      "url": "https://www.youtube.com/watch?v=5b8IJNb6mCE",
-      "views": 66511,
-      "channel": "RainbowLeya",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T17:00:01Z",
-      "observed_growth_per_hour": 7454.5
-    },
-    {
-      "title": "\"বন্ধুদের dance party।।🥁🎉।। #shorts #octapadspd20pro",
-      "url": "https://www.youtube.com/watch?v=Zr06DvwL0Qc",
-      "views": 9769,
-      "channel": "SURESH OCTAPAD ",
-      "first_seen_at": "2026-10-23T07:48:46Z",
-      "published_at": "2026-10-23T04:15:25Z",
-      "observed_growth_per_hour": 2327.3
-    },
-    {
-      "title": "\"One Liitle Pigeon Sitting in a Tree\" JUST EVOLVED 💀🕊 (Meme Song) 🔥",
-      "url": "https://www.youtube.com/watch?v=vDDSBCHeET4",
-      "views": 20667,
-      "channel": "NO FACE",
-      "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T02:00:11Z",
-      "observed_growth_per_hour": 2318.0
-    },
-    {
-      "title": "#animation #ai #ai #aivideo",
-      "url": "https://www.youtube.com/watch?v=mshxEp2wIuA",
-      "views": 11227,
-      "channel": "Abdurashid_Ai",
-      "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-22T15:08:56Z",
-      "observed_growth_per_hour": 1491.8
-    },
-    {
-      "title": "🏟️ ¡LAMINE CONSTRUYE EL CAMP NOU EN LA PLAYA!  #lamineyamal #pedri #shorts #aigenerated",
-      "url": "https://www.youtube.com/watch?v=mc0NFoL7W9M",
-      "views": 31813,
-      "channel": "Futbol AI",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T21:25:16Z",
-      "observed_growth_per_hour": 1203.2
-    },
-    {
-      "title": "The Susan Dell Memes Are Getting SCARIER 👽💀",
-      "url": "https://www.youtube.com/watch?v=K_0Nsytsgvo",
-      "views": 64612,
-      "channel": "NO FACE",
-      "first_seen_at": "2026-10-23T07:48:46Z",
-      "published_at": "2026-10-22T19:00:26Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "🌙 Power Cut Hua... Phir Pura Parivar Chhat Par Pahuncha 💡 | Ghibli Village Story",
-      "url": "https://www.youtube.com/watch?v=zx_OCutWVxc",
-      "views": 27031,
-      "channel": "Ghibli Style Mini Vlog",
-      "first_seen_at": "2026-10-23T13:19:55Z",
-      "published_at": "2026-10-23T04:24:33Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "🐸 Funny Frog vs Pink Frog 😱😂 | AI Animal Animation #Shorts",
-      "url": "https://www.youtube.com/watch?v=V0E0vDkqsfw",
-      "views": 23524,
-      "channel": "GameRift",
-      "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T09:23:26Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "اللهم إني أسألك حسن الخاتمة #ai #aianimation #aivideo #الاسلام #ai #دينيه #ذكاء_اصطناعي #الله #aiart",
-      "url": "https://www.youtube.com/watch?v=mwXduqX9C7o",
-      "views": 23489,
-      "channel": "AI XON",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T16:51:05Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "🐂 बचपन के मिट्टी वाले खिलौने!#1990KaGaon #GhibliStyle #BachpanKiYaadein #VillageLife #AIAnimation",
-      "url": "https://www.youtube.com/watch?v=9pM_qun98XE",
-      "views": 20388,
-      "channel": "Bijay Roy",
-      "first_seen_at": "2026-10-23T14:57:11Z",
-      "published_at": "2026-10-23T01:39:30Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "Frozen Character Gender Swapped | AI live action | AI Transformation",
-      "url": "https://www.youtube.com/watch?v=E24mzcXAYqU",
-      "views": 11906,
-      "channel": "GenderAI",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T16:00:30Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "Minecraft में ये क्या हो गया 😂🍔 | Funniest AI Animation #Shorts",
-      "url": "https://www.youtube.com/watch?v=YXpiY-jOKEU",
-      "views": 11587,
-      "channel": "𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇_𝘿𝙃𝘼𝙉𝘼𝙉𝙅𝘼𝙔_𝟎𝟎7",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-23T00:32:25Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "india vs pakistan kom jitega esame # #art #cortoon #aivideo",
-      "url": "https://www.youtube.com/watch?v=QnL0ATjqNxk",
-      "views": 9712,
-      "channel": "Masti Lalganj up 50 ",
-      "first_seen_at": "2026-10-23T13:13:59Z",
-      "published_at": "2026-10-23T00:40:05Z",
-      "observed_growth_per_hour": 0.0
-    },
-    {
-      "title": "Plan geht schief 😂 Chile 4 #3danimation #lustig #humor #cartoonshorts #aianimation #deutsch",
-      "url": "https://www.youtube.com/watch?v=JpBPqnpB9UY",
-      "views": 9564,
-      "channel": "Sucre ",
-      "first_seen_at": "2026-10-23T07:15:24Z",
-      "published_at": "2026-10-22T15:39:53Z",
-      "observed_growth_per_hour": 0.0
+      "observed_growth_per_hour": 20703.1
     }
   ]
 }
