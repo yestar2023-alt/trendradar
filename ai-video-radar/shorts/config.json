@@ -1,0 +1,42 @@
+{
+  "timezone": "Asia/Shanghai",
+  "window_hours": 24,
+  "max_searches_per_scan": 8,
+  "max_detail_ids": 600,
+  "min_views": 1500,
+  "min_avg_views_per_hour": 160,
+  "queries": [
+    {
+      "q": "AI generated shorts",
+      "order": "viewCount"
+    },
+    {
+      "q": "AI dance",
+      "order": "viewCount"
+    },
+    {
+      "q": "AI cat video",
+      "order": "viewCount"
+    },
+    {
+      "q": "AI animation",
+      "order": "viewCount"
+    },
+    {
+      "q": "AI meme",
+      "order": "viewCount"
+    },
+    {
+      "q": "AI transformation",
+      "order": "viewCount"
+    },
+    {
+      "q": "AI video trend",
+      "order": "date"
+    },
+    {
+      "q": "video IA viral",
+      "order": "viewCount"
+    }
+  ]
+}
