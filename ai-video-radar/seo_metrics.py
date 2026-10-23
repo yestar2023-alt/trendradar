@@ -166,7 +166,7 @@ def enrich(keywords, root, *, fetch=True):
     out = {}
     for word in dict.fromkeys(keywords):
         key = norm(word)
-        value = manual.get(key) or cache.get(key) or row_from_dict({'keyword': word})
+        value = manual.get(key) or cache.get(key) or row_from_dict({'keyword': word, 'source': '尚无数据源'})
         value = dict(value, keyword=word)
         out[word] = calculate(value)
     return out
