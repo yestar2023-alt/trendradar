@@ -111,18 +111,21 @@ def maybe_fetch_dataforseo(keywords, cache):
     if not login or not password:
         print('SEO: 自动取数已启用，但缺少 DATAFORSEO_LOGIN/PASSWORD；跳过。')
         return cache
-    cap = max(0, min(10, int(os.getenv('SEO_MAX_KEYWORDS_PER_RUN', '3'))))
+    cap = max(0, min(10, int(os.getenv('SEO_MAX_KEYWORDS_PER_RUN') or '3')))
     # Reuse cache. No automatic refetch of cached entries to avoid recurring charges.
     missing = [k for k in dict.fromkeys(keywords) if norm(k) not in cache and len(k) <= 80 and len(k.split()) <= 10][:cap]
     if not missing: return cache
-    loc = os.getenv('SEO_LOCATION', 'United States')
-    language = os.getenv('SEO_LANGUAGE', 'English')
+    loc = os.getenv('SEO_LOCATION') or 'United States'
+    language = os.getenv('SEO_LANGUAGE') or 'English'
     try:
         results = _request_dfseo('/v3/dataforseo_labs/google/keyword_overview/live',
                                  {'keywords': missing, 'location_name': loc, 'language_name': language},
                                  login, password)
         items = [i for r in results for i in (r.get('items') or [])]
         now = date.today().isoformat()
+        for kw in missing:
+            cache[norm(kw)] = row_from_dict({'keyword': kw, 'source': 'DataForSEO: 无可用数据',
+                'checked_at': now, 'location': loc, 'language': language})
         for item in items:
             key = norm(item.get('keyword'))
             if not key or key not in [norm(k) for k in missing]: continue
