@@ -337,7 +337,7 @@ def write_reports(root, now, config, items, metadata):
         lines.append(
             f'| [{text_cell(v["title"])}]({v["url"]}) | {v["category"]} | {to_bj(v["published_at"])}'
             f' | {v["views"]:,} | {recent_score(v, now):,.1f}'
-            f' | {speed if speed is not None else "待第二次采样"} | {v["ai_metadata_reason"]} |'
+            f' | {f"{speed:,.1f}" if speed is not None else "待第二次采样"} | {v["ai_metadata_reason"]} |'
         )
     if not hot:
         lines.append("| — | — | — | — | — | — | 本轮无达到门槛且具备 AI 元数据声明的候选 |")
