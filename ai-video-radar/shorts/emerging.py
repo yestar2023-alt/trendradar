@@ -51,7 +51,7 @@ mrbeast disney marvel league legends minecraft roblox naruto sonic michael jacks
 christmas halloween bangladesh india pakistan brazil spain football soccer
 """.split())
 COMMON_HASH = set("""
-trendingshorts shortstrending satisfying funnysatisfying foodshorts artificialintelligence genai
+trendingshorts shortstrending satisfying funnysatisfying foodshorts automobile villagelife villagevlog ruralvlog ruralife artificialintelligence genai
 cooking relatable digitalcreator hindicomedy funnyanimals catlovers
 minecraft aicooking cutebaby funnysnake bhojpuri 3danimation terminator beforeandafter entertainment deepfake
 catsoftiktok catcartoon recipe pizzarecipe ghiblistyle
