@@ -3,8 +3,6 @@
   "window_hours": 24,
   "max_searches_per_scan": 3,
   "max_detail_ids": 600,
-  "min_views": 1500,
-  "min_avg_views_per_hour": 160,
   "queries": [
     {
       "q": "AI generated shorts",
@@ -39,5 +37,7 @@
       "order": "viewCount"
     }
   ],
-  "search_rotation": "3 of 8 queries per 4-hour run; cycles across all 8 and avoids permanently dropping any"
+  "search_rotation": "3 of 8 queries per 4-hour run; cycles across all 8 and avoids permanently dropping any",
+  "viral_min_views": 1000000,
+  "early_watch_min_views": 100000
 }
