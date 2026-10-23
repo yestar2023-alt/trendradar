@@ -51,12 +51,47 @@ mrbeast disney marvel league legends minecraft roblox naruto sonic
 christmas halloween bangladesh india pakistan brazil spain football soccer
 """.split())
 COMMON_HASH = set("""
+trendingshorts shortstrending satisfying funnysatisfying foodshorts
+funnycats dancingcats catshorts cartoonshorts aishort aiimages aiimage aiart
+aitransformation aidance aitool aiimages aiimage aistorytelling
+danceshorts girlshorts musicshorts animememes aiartist
 ai ia aivideo aigenerated aianimation aishorts shorts short shortvideo
 shortsfeed youtubeshorts youtubeshort ytshorts viral trend trending
 reels tiktok fyp funny animation dance dancing meme memes funnycat
 cats cat dogs dog pet cute aiart aiimages aiartwork
 explore newtrend shortsviral viralshorts videoai viralvideo
 """.split())
+# Tags built entirely from generic social-media words are not named effects.
+# This prevents #TrendingShorts, #AIDance, #FunnyCats, #AITransformation,
+# and concatenated variants from becoming falsely high-priority trends.
+GENERIC_HASH_PARTS = sorted(set("""
+ai ia video videos short shorts shortsvideo youtube yt shortsfeed
+viral trending trend fyp instagram tiktok reel reels
+funny comedy cute cat cats kitten dog dogs pet pets
+animation animated cartoon cartoons satisfying effect effects
+transformation transform transition dance dancing challenge
+meme memes art artist content original official news
+photo photos image images story stories vlog vlogs
+usashorts india usa funnyvideo funnyvideos shortsviral
+""".split()),key=len,reverse=True)
+
+
+def is_generic_hashtag(value: str) -> bool:
+    key = value.casefold().lstrip("#").replace("_","").replace("-","")
+    if key in STOP or key in COMMON_HASH:
+        return True
+    memo={}
+    def segmented(i):
+        if i==len(key):
+            return True
+        if i in memo:
+            return memo[i]
+        memo[i]=any(key.startswith(part,i) and segmented(i+len(part))
+                    for part in GENERIC_HASH_PARTS)
+        return memo[i]
+    return segmented(0)
+
+
 # A shared *action* makes a same-named-video topic more interesting, but still
 # needs watching: metadata alone cannot establish identical choreography/effect.
 ACTION_ROOTS = {
@@ -108,8 +143,7 @@ def named_hashtags(video: dict) -> set[str]:
     for raw in alltags:
         key = unicodedata.normalize("NFKC", str(raw)).casefold().replace("_", "")
         key = key.strip("-#")
-        if (re.fullmatch(r"[\w-]{7,50}", key, re.UNICODE) and key not in COMMON_HASH and
-            key not in STOP and not key.startswith("shorts") and
+        if (re.fullmatch(r"[\w-]{7,50}", key, re.UNICODE) and not is_generic_hashtag(key) and not key.startswith("shorts") and
             not key.startswith("aigenerated") and not key.startswith("viral") and
             not key.isdigit()):
             out.add(key)
@@ -209,6 +243,7 @@ def compress_group(key, group, older_seen):
              min(12,4*math.log10(max(positive_growth,1)))+
              (12 if kind=="potential_same_action" else 0))
     if kind=="known": score=0
+    if kind=="shared_phrase_only": score=min(score,35)
     return {
         "anchor":key[1], "anchor_type":key[0],
         "unique_channels":len(channels),
