@@ -238,7 +238,7 @@ def report(result):
             f'- 混淆与排除：{t["caution"]}；风险：{t["risk"]}',
         ]
         if t.get("existing_before"):
-            lines.append(f'- **不属于今日新发现玩法的历史证据：** {t["existing_before"]} 前已出现页面或内容（具体早期程度待来源确认），[{clean(t["previous_evidence_url"])}]({t["previous_evidence_url"]})')
+            lines.append(f'- **不属于今日新发现玩法的历史证据：** 不晚于 {t["existing_before"]} 已有相关内容或商业页面（不能推断真正起源），[{clean(t["previous_evidence_url"])}]({t["previous_evidence_url"]})')
         lines.extend(["","| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |",
                       "|---|---|---|---|---:|---|---:|"])
         for v in t["examples"]:
