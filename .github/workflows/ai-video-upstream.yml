@@ -1,0 +1,86 @@
+name: AI Video Upstream Radar Pilot
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'ai-video-radar/upstream/upstream.py'
+      - 'ai-video-radar/upstream/config.json'
+      - 'ai-video-radar/upstream/tests/**'
+      - '.github/workflows/ai-video-upstream.yml'
+  pull_request:
+    paths:
+      - 'ai-video-radar/upstream/**'
+      - '.github/workflows/ai-video-upstream.yml'
+  workflow_dispatch:
+  schedule:
+    # UTC 00:15/04:15/08:15/12:15/16:15/20:15
+    # Beijing 08:15/12:15/16:15/20:15/00:15/04:15
+    # Only runs on default branch after the PR is explicitly merged.
+    - cron: '15 0,4,8,12,16,20 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-video-upstream-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test_and_collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test API parsing, deltas and failure safety
+        run: python -m unittest discover -s ai-video-radar/upstream/tests -v
+
+      - name: Check API credential availability
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        shell: bash
+        run: |
+          if test -z "$YOUTUBE_API_KEY"; then
+            echo "::warning::No YOUTUBE_API_KEY repository secret. Live API cannot run until configured in Settings > Secrets and variables > Actions."
+          else
+            echo "::notice::YOUTUBE_API_KEY secret is configured (value hidden)."
+          fi
+
+      - name: Collect live YouTube Data API uploads
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        shell: bash
+        run: |
+          set +e
+          python ai-video-radar/upstream/upstream.py --root ai-video-radar/upstream
+          result=$?
+          set -e
+          cat ai-video-radar/upstream/reports/latest.md
+          exit "$result"
+
+      - name: Save the live diagnostic report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-upstream-report-${{ github.run_id }}
+          path: |
+            ai-video-radar/upstream/data/state.json
+            ai-video-radar/upstream/reports/*.md
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Persist successful snapshots only on master
+        if: success() && github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ai-video-radar/upstream/data ai-video-radar/upstream/reports
+          if ! git diff --cached --quiet; then
+            git commit -m "upstream: YouTube video snapshot $(TZ=Asia/Shanghai date +%F)"
+            git push origin HEAD:master
+          fi

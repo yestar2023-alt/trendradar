@@ -1,0 +1,11 @@
+{
+  "timezone": "Asia/Shanghai",
+  "max_pages": 2,
+  "channels": [
+    {
+      "id": "riot_league",
+      "name": "League of Legends Official",
+      "channel_id": "UC2t5bjwHdUX4vM2g8TRDq5g"
+    }
+  ]
+}
