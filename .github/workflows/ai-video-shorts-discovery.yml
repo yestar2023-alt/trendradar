@@ -1,0 +1,72 @@
+name: AI Shorts 24h Discovery
+
+on:
+  pull_request:
+    paths:
+      - 'ai-video-radar/shorts/**'
+      - '.github/workflows/ai-video-shorts-discovery.yml'
+  push:
+    branches: [master]
+    paths:
+      - 'ai-video-radar/shorts/discover.py'
+      - 'ai-video-radar/shorts/config.json'
+      - 'ai-video-radar/shorts/tests/**'
+      - '.github/workflows/ai-video-shorts-discovery.yml'
+  workflow_dispatch:
+  schedule:
+    # UTC 00:15,04:15,08:15,12:15,16:15,20:15 = Beijing +8 hours
+    - cron: '15 0,4,8,12,16,20 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-shorts-24h-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test recent 24h, duplicate handling, state history and partial failures
+        run: python -m unittest discover -s ai-video-radar/shorts/tests -v
+      - name: Search recent AI-made short-video candidates
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python ai-video-radar/shorts/discover.py --root ai-video-radar/shorts
+          sed -n '1,70p' ai-video-radar/shorts/reports/latest.md
+      - name: Upload evidence and diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-shorts-24h-${{ github.run_id }}
+          path: |
+            ai-video-radar/shorts/reports/latest.md
+            ai-video-radar/shorts/reports/latest.csv
+            ai-video-radar/shorts/data/state.json
+          if-no-files-found: ignore
+          retention-days: 30
+      - name: Persist successful historical snapshots on master
+        if: success() && github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ai-video-radar/shorts/data ai-video-radar/shorts/reports
+          if ! git diff --cached --quiet; then
+            git commit -m "shorts: 24h discovery snapshot $(TZ=Asia/Shanghai date +%F-%H%M)"
+            for n in 1 2 3; do
+              if git pull --rebase origin master && git push origin HEAD:master; then
+                exit 0
+              fi
+              sleep 5
+            done
+            echo "::error::Snapshot persistence push failed after 3 attempts"
+            exit 1
+          fi
