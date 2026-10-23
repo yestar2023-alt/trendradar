@@ -89,7 +89,7 @@ class TestDiscover(unittest.TestCase):
             self.assertNotIn(C,csvtext)
             self.assertIn(D,csvtext)
             report=(Path(d)/"reports/latest.md").read_text()
-            self.assertIn("首次成功采集只建基线",report)
+            self.assertIn("本轮是首次历史基线",report)
 
     def test_first_baseline_second_true_delta_growth(self):
         with tempfile.TemporaryDirectory() as d:
@@ -187,7 +187,7 @@ class TestDiscover(unittest.TestCase):
             out=discover.run(root,CFG,key="test-key",get=fail,now=NOW+timedelta(hours=4))
             self.assertFalse(out["connected"])
             self.assertEqual((root/"data/state.json").read_bytes(),state)
-            self.assertIn("不能确认今日新增",(root/"reports/latest.md").read_text())
+            self.assertIn("不能确认本轮新增",(root/"reports/latest.md").read_text())
 
     def test_metadata_does_not_prove_ai_video(self):
         confidence,reason,_,_=discover.classify_metadata("AI Video Tool Review","",[],False)
