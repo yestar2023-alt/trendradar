@@ -147,7 +147,7 @@ class TestDiscover(unittest.TestCase):
                              get=Mock({A:video(A,views=2_000_000,title="AI video tools review")}),
                              now=NOW)
             self.assertEqual(out["million_view_ai_candidates"],0)
-            self.assertIn("2,000,000",(root/"reports/latest.md").read_text())
+            self.assertIn("全部候选中单条观看量≥1,000,000的视频：1",(root/"reports/latest.md").read_text())
             self.assertIn("本轮无合格百万AI候选",(root/"reports/latest.md").read_text())
 
     def test_search_queries_use_24h_cutoff_and_limited_calls(self):
