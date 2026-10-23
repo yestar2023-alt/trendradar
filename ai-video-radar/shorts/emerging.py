@@ -25,7 +25,7 @@ a an the this that is are was were be been for of on in at to from by with into 
 and but not what which who why how when our your you we i it its their his her
 video videos short shorts shortvideo shortsfeed youtube youtubeshorts ytshorts
 trend trends trending viral new latest original ai ia aigenerated aivideo aianimation
-aishorts aiart aistory aigirl aigeneratedvideo aiimages
+aishorts aiart aistory aigirl aigeneratedvideo aiimages artificialintelligence machinelearning genai
 generated generating made create created maker edit editing editor generator
 animation animated anime cartoon cartoons 3d render vfx
 funny fun humor comedy cute amazing unbelievable incredible insane wow omg
@@ -51,7 +51,7 @@ mrbeast disney marvel league legends minecraft roblox naruto sonic michael jacks
 christmas halloween bangladesh india pakistan brazil spain football soccer
 """.split())
 COMMON_HASH = set("""
-trendingshorts shortstrending satisfying funnysatisfying foodshorts
+trendingshorts shortstrending satisfying funnysatisfying foodshorts artificialintelligence genai
 cooking relatable digitalcreator hindicomedy funnyanimals catlovers
 minecraft aicooking cutebaby funnysnake bhojpuri 3danimation terminator beforeandafter entertainment deepfake
 catsoftiktok catcartoon recipe pizzarecipe ghiblistyle
