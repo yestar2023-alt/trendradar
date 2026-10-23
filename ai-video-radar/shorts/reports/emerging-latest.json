@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-10-23T19:57:17.003107+00:00",
-  "source_snapshot_at": "2026-10-23T19:57:12Z",
-  "source_video_count": 873,
-  "published_last_24h_with_channel": 336,
-  "shared_name_groups": 7,
+  "generated_at": "2026-10-23T23:08:26.470638+00:00",
+  "source_snapshot_at": "2026-10-23T23:08:22Z",
+  "source_video_count": 947,
+  "published_last_24h_with_channel": 371,
+  "shared_name_groups": 6,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
       "anchor": "#tranding",
       "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
+      "unique_channels": 4,
+      "ai_claimed_channels": 4,
+      "video_count": 4,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
+      "near_duplicate_caption_fraction": 0.25,
       "previously_observed_older_video": false,
       "priority_points_not_seo_score": 35,
       "examples": [
+        {
+          "title": "sharingbread 🍞 #catshorts #aicat #viral #ai #aishorts #cattears #sadcat #emotionalcat #tranding",
+          "channel": "Cat Tears",
+          "channel_id": "UCuMjIpw7oK1-7P9exVRR9zQ",
+          "url": "https://www.youtube.com/watch?v=B3cS2th4b2Y",
+          "published_at": "2026-10-23T11:00:32Z",
+          "first_seen_at": "2026-10-23T23:08:22Z",
+          "views": 3875,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
         {
           "title": "बॉस को लगा मशीन है… लेकिन अंदर से निकला आलू! 🤖🤣 #shorts #viral #tranding #shortsfeed #aivideo",
           "channel": "SRK FUN ADDA ",
@@ -26,8 +38,8 @@
           "url": "https://www.youtube.com/watch?v=8n9LlHjiZ6o",
           "published_at": "2026-10-23T09:17:12Z",
           "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 2841,
-          "observed_growth_per_hour": 335.9,
+          "views": 3130,
+          "observed_growth_per_hour": 90.7,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,8 +50,8 @@
           "url": "https://www.youtube.com/watch?v=8SeQc1RJjdM",
           "published_at": "2026-10-23T04:30:26Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 2326,
-          "observed_growth_per_hour": 4.9,
+          "views": 2325,
+          "observed_growth_per_hour": -0.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -172,7 +184,7 @@
       ]
     },
     {
-      "anchor": "#foryoupage",
+      "anchor": "#islamicvideo",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -180,45 +192,7 @@
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
       "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "The Library of Lost Costumes #fantasy #magical #halloween #foryoupage #cosmos #storytime#aianimation",
-          "channel": "WiniQ",
-          "channel_id": "UCxBk6ZnOEL1UoGzr6SoCuSw",
-          "url": "https://www.youtube.com/watch?v=9IrojAJKWf4",
-          "published_at": "2026-10-22T20:46:30Z",
-          "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 1397,
-          "observed_growth_per_hour": 1.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "#fyp #goviral #foryou #aivideo #youtube #youtubeshorts #trending #trend #foryoupage #viralvideo",
-          "channel": "AK Storytelling ",
-          "channel_id": "UCd-f9jp5Vh2nbs9sMhCwaEw",
-          "url": "https://www.youtube.com/watch?v=DbvxGXMbeeY",
-          "published_at": "2026-10-23T07:37:07Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 2,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#jerusalem",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
+      "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
@@ -250,12 +224,12 @@
     {
       "anchor": "a2o lite",
       "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "known",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.33,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 0,
       "examples": [
@@ -266,8 +240,8 @@
           "url": "https://www.youtube.com/watch?v=4QsUJk3RJyw",
           "published_at": "2026-10-23T08:29:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 37711,
-          "observed_growth_per_hour": 3368.4,
+          "views": 40834,
+          "observed_growth_per_hour": 980.2,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "dance"
@@ -280,10 +254,24 @@
           "url": "https://www.youtube.com/watch?v=zMGmpYaNwlI",
           "published_at": "2026-10-23T01:00:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1718,
-          "observed_growth_per_hour": 6.6,
+          "views": 1729,
+          "observed_growth_per_hour": 3.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
+        },
+        {
+          "title": "🤔혹시 ai가 춤못추는 것도 관상보고 어느정도 반영 하는걸까... (A2O LITE) [AI Dance] #패러디 #니온패러디 #a20lite",
+          "channel": "킴스체인몰",
+          "channel_id": "UCcyiXYwudeyRfaIb3BgGNig",
+          "url": "https://www.youtube.com/watch?v=eKMaVdbOYG4",
+          "published_at": "2026-10-23T01:40:39Z",
+          "first_seen_at": "2026-10-23T23:08:22Z",
+          "views": 1553,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "dance"
+          ]
         }
       ]
     }
@@ -296,11 +284,30 @@
       "url": "https://www.youtube.com/watch?v=iYYeBJsaF8U",
       "published_at": "2026-10-23T02:30:15Z",
       "first_seen_at": "2026-10-23T13:19:55Z",
-      "views": 293172,
-      "observed_growth_per_hour": 26515.3,
+      "views": 300724,
+      "observed_growth_per_hour": 2370.3,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "गल 90s nostalgia",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings | AI #Shorts #qazitouqeer",
+      "channel": "AI BRAIN SHORTS",
+      "channel_id": "UCuxS3AJpjC6NcLPvfR1_Omw",
+      "url": "https://www.youtube.com/watch?v=iYaUtV_ZvWk",
+      "published_at": "2026-10-23T11:46:39Z",
+      "first_seen_at": "2026-10-23T23:08:22Z",
+      "views": 337752,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [
+        "dance",
+        "sing"
+      ],
+      "suggested_search_phrase_unverified": "bauna heartbreak qazi luv",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"

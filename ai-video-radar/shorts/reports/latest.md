@@ -1,13 +1,13 @@
 # 最近24小时 AI 短视频：百万爆款候选（未核验画面）
 
-- 北京时间：2026-10-24 03:57
-- 视频发布时间窗口：2026-10-23 03:57 — 2026-10-24 03:57（北京时间）
-- 本轮搜索成功率：3/3；失败：0
-- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：248
+- 北京时间：2026-10-24 07:08
+- 视频发布时间窗口：2026-10-23 07:08 — 2026-10-24 07:08（北京时间）
+- 本轮搜索成功率：2/3；失败：1
+- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：224
 - 全部候选中单条观看量≥1,000,000的视频：0（含非AI/未验证AI内容）
 - **百万爆款 AI 候选：0**（单条≥1,000,000，且作者文字/标签自述AI）
-- **早期观察，非爆款：1**（单条≥100,000但未满百万）
-- 历史快照后首次观察到的原视频：99
+- **早期观察，非爆款：2**（单条≥100,000但未满百万）
+- 历史快照后首次观察到的原视频：74
 - 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控
 
 > **严格定义**：爆款门槛是最近24小时内发布的单条视频，当前累计≥100万次观看。
@@ -26,15 +26,16 @@
 
 | 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |
 |---|---|---:|---:|
-| [गल्ली क्रिकेट 🏏🥎🏃🏻/ 90s Nostalgia #shorts ✨](https://www.youtube.com/watch?v=iYYeBJsaF8U) | 2026-10-23 10:30 | 293,172 | 28,714.5 |
+| [गल्ली क्रिकेट 🏏🥎🏃🏻/ 90s Nostalgia #shorts ✨](https://www.youtube.com/watch?v=iYYeBJsaF8U) | 2026-10-23 10:30 | 300,724 | 20,156.2 |
+| [Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings / AI #Shorts #qazitouqeer](https://www.youtube.com/watch?v=iYaUtV_ZvWk) | 2026-10-23 19:46 | 337,752 | 待第二次采样 |
 
 ## 搜索覆盖和失败项
 
 | 本轮查询 | 排序 | 状态 | 返回视频条数 |
 |---|---|---|---:|
-| AI video trend | date | success | 50 |
-| video IA viral | viewCount | success | 50 |
-| AI generated shorts | viewCount | success | 50 |
+| AI dance | viewCount | success | 50 |
+| AI cat video | viewCount | success | 50 |
+| AI animation | viewCount | failed | 失败：YouTube API search HTTP 429; reason=rateLimitExceeded |
 
 ## 进一步SEO判断
 
