@@ -9,6 +9,8 @@ on:
     branches: [master, main]
     paths:
       - 'ai-video-radar/radar.py'
+      - 'ai-video-radar/seo_metrics.py'
+      - 'ai-video-radar/data/keyword_metrics.csv'
       - 'ai-video-radar/config.json'
       - 'ai-video-radar/tests/**'
       - '.github/workflows/ai-video-radar.yml'
@@ -40,6 +42,14 @@ jobs:
           if test -f ai-video-radar/radar.py; then echo "root=ai-video-radar" >> "$GITHUB_OUTPUT"; else echo "root=." >> "$GITHUB_OUTPUT"; fi
           python -m unittest discover -s "$(test -f ai-video-radar/radar.py && echo ai-video-radar/tests || echo tests)" -v
       - name: Crawl and compare snapshots
+        env:
+          SEO_AUTO_FETCH: ${{ vars.SEO_AUTO_FETCH }}
+          SEO_FETCH_ALLINTITLE: ${{ vars.SEO_FETCH_ALLINTITLE }}
+          SEO_MAX_KEYWORDS_PER_RUN: ${{ vars.SEO_MAX_KEYWORDS_PER_RUN }}
+          SEO_LOCATION: ${{ vars.SEO_LOCATION }}
+          SEO_LANGUAGE: ${{ vars.SEO_LANGUAGE }}
+          DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
+          DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
         run: python "${{ steps.locate.outputs.root }}/radar.py" --root "${{ steps.locate.outputs.root }}"
       - name: Persist daily snapshot and report in Git
         shell: bash
