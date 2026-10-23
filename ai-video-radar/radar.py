@@ -310,11 +310,15 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
     content='\n'.join(lines)
     (reports/(today+'.md')).write_text(content,encoding='utf-8')
     (reports/'latest.md').write_text(content,encoding='utf-8')
-    with (reports/(today+'.csv')).open('w',encoding='utf-8-sig',newline='') as f:
-        w=csv.writer(f);w.writerow(['first_seen','topic','source','url','title','title_verified','channel','status'])
-        for r in candidates:
-            for page in r['pages']:
-                w.writerow([r['first_seen'],r['topic'],page['site'],page['url'],page['title'],page['title_verified'],page['channel'],'observed_new_since_previous_snapshot'])
+    # Do not erase the first discovery's historical CSV during another same-day run.
+    # latest.md is still regenerated with this run's actual count.
+    daily_csv = reports / (today + '.csv')
+    if candidates or not daily_csv.exists():
+        with daily_csv.open('w',encoding='utf-8-sig',newline='') as f:
+            w=csv.writer(f);w.writerow(['first_seen','topic','source','url','title','title_verified','channel','status'])
+            for r in candidates:
+                for page in r['pages']:
+                    w.writerow([r['first_seen'],r['topic'],page['site'],page['url'],page['title'],page['title_verified'],page['channel'],'observed_new_since_previous_snapshot'])
     return content
 
 
