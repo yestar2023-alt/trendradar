@@ -66,6 +66,14 @@ class TestEmerging(unittest.TestCase):
         self.assertFalse(any(g["anchor"]=="#artificialintelligence"
                              for g in result["cross_creator_groups"]))
 
+    def test_generic_subject_tags_do_not_assert_shared_effect(self):
+        for tag in ("#automobile", "#villagelife"):
+            self.assertTrue(emerging.is_generic_hashtag(tag),tag)
+        a=video("AAAAAAAAAAA","An AI football cartoon #automobile","UCone")
+        b=video("BBBBBBBBBBB","AI car accident #automobile","UCtwo")
+        result=emerging.build(state({"a":a,"b":b}),NOW)
+        self.assertFalse(any(g["anchor"]=="#automobile" for g in result["cross_creator_groups"]))
+
     def test_dynamic_specific_phrase_across_creators(self):
         a=video("AAAAAAAAAAA","KDA Firestarter Dance AI #shorts #aigenerated","UCone")
         b=video("BBBBBBBBBBB","KDA Firestarter Dance Challenge #aivideo","UCtwo")
