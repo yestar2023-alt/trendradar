@@ -189,6 +189,50 @@ class TestDiscover(unittest.TestCase):
             self.assertEqual((root/"data/state.json").read_bytes(),state)
             self.assertIn("不能确认本轮新增",(root/"reports/latest.md").read_text())
 
+    def test_disclosed_synthetic_video_without_ai_words_qualifies_at_ten_million(self):
+        """An explicit creator A/S disclosure beats absence of AI hashtags."""
+        clip = video(A, title="The cat flew across the street #shorts",
+                     views=10_000_000, disclosed=True)
+        clip["snippet"]["description"] = "A surprising scene."
+        clip["snippet"]["tags"] = ["shorts"]
+        self.assertEqual(discover.classify_metadata(
+            clip["snippet"]["title"], clip["snippet"]["description"],
+            clip["snippet"]["tags"], True)[0], "medium")
+        with tempfile.TemporaryDirectory() as d:
+            api = Mock({A: clip})
+            out = discover.run(Path(d), CFG, key="test-key", get=api, now=NOW)
+            self.assertEqual(out["million_view_ai_candidates"], 1)
+            self.assertTrue(any(call[0] == "videos" and
+                                "status" in call[1]["part"] for call in api.calls))
+            report = (Path(d)/"reports/latest.md").read_text()
+            self.assertIn("10,000,000", report)
+            self.assertIn("作者主动声明", report)
+            csvtext = (Path(d)/"reports/latest.csv").read_text(encoding="utf-8-sig")
+            self.assertIn("synthetic_media_disclosed", csvtext)
+            self.assertIn(",true,", csvtext)
+
+    def test_absent_disclosure_and_no_ai_words_does_not_qualify(self):
+        """Absent API field must not be interpreted as explicit false or as AI."""
+        clip = video(A, title="A cat playing #shorts", views=100_000_000)
+        clip["snippet"]["description"] = "A cat plays."
+        clip["snippet"]["tags"] = ["shorts"]
+        clip["status"] = {}
+        with tempfile.TemporaryDirectory() as d:
+            out = discover.run(Path(d), CFG, key="test-key",
+                               get=Mock({A: clip}), now=NOW)
+            self.assertEqual(out["million_view_ai_candidates"], 0)
+            csvtext = (Path(d)/"reports/latest.csv").read_text(encoding="utf-8-sig")
+            self.assertIn("not_returned", csvtext)
+        confidence, _, _, _ = discover.classify_metadata(
+            "A cat playing", "Just a cat", [], None)
+        self.assertEqual(confidence, "unknown")
+
+    def test_creator_synthetic_disclosure_does_not_promote_tutorial(self):
+        confidence, reason, _, _ = discover.classify_metadata(
+            "AI tools tutorial", "", [], True)
+        self.assertEqual(confidence, "low")
+        self.assertIn("教学", reason)
+
     def test_metadata_does_not_prove_ai_video(self):
         confidence,reason,_,_=discover.classify_metadata("AI Video Tool Review","",[],False)
         self.assertEqual(confidence,"low")
