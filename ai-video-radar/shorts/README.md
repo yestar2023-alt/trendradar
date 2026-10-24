@@ -26,14 +26,23 @@
 
 ## 搜索策略与配额
 
-默认每 4 小时轮换 3 个全球关键词搜索（共 8 个词根覆盖不同轮次），主打新发布的 AI dance、AI cat、AI animation、AI meme、AI transformation、AI generated shorts 和西语 AI 视频。其中多数按观看量排序，少量按发布时间排序捕捉低播放新作品。
+默认每 4 小时合计调用 **3 次 search.list**：2 次从原来的 8 组 AI 搜索词中轮换（AI dance、AI cat、AI animation、AI meme、AI transformation、西语词等），**另 1 次真正不带 q 参数**，轮换国家/地区搜索过去24小时内高播放的短时长视频（order=viewCount），最多返回50条/地区/轮次。国家样本：US、IN、BR、MX、ID、JP、KR、PH、GB、ES、FR、TR。两路视频去重后统一用 videos.list(part=snippet,status,statistics,contentDetails) 读取官方播放量和创作者主动合成内容声明。
 
-2026 年 10 月 15 日更新的 YouTube 官方文档明确规定：`search.list` 目前默认每项目每天最多 100 次调用的独立 Search Queries 配额桶，通常每次消耗 1 次搜索额度；不是旧文档经常提到的“每次 100 点”。3 次 × 6 轮 = 每天计划约 18 次搜索，且每次只取 1 页（上限 50 条）。`videos.list` 另按基础 API 调用配额计费。应在 Google Cloud 中查看项目的**实际配额**，如有其他项目使用同一个 Key/项目，则会共享配额。此机制和限额未来可能变化。
+2026 年 10 月 15 日更新的 YouTube 官方文档明确规定：`search.list` 目前默认每项目每天最多 100 次调用的独立 Search Queries 配额桶，通常每次消耗 1 次搜索额度；不是旧文档经常提到的“每次 100 点”。2个AI搜索+1个无关键词地区搜索 × 6 轮 = 每天计划约 18 次搜索，且每次只取 1 页（上限 50 条）。`videos.list` 另按基础 API 调用配额计费。应在 Google Cloud 中查看项目的**实际配额**，如有其他项目使用同一个 Key/项目，则会共享配额。此机制和限额未来可能变化。
 
 文档：
 - https://developers.google.com/youtube/data/reference/rest/v3/search/list
 - https://developers.google.com/youtube/data/determine_quota_cost
 - https://support.google.com/youtube/answer/15424877
+
+
+### 无AI关键词标题的视频发现边界
+
+区域宽口径查询不传 q，不等于搜索字符串 AI、shorts 或 viral；YouTube search.list 的 q 参数是可选的，regionCode 是内容地区参数，并不证明上传者来自这个国家。这只是一页50条的地区搜索索引抽样，**不是全世界的Shorts热门榜**。如果一条视频标题/标签没有AI，但 status.containsSyntheticMedia=true 且播放>=1,000,000，就会进入创作者自声明的百万候选。没有自声明也没有明确AI作品元数据的高播放普通视频不自动称为AI。视频时长<=180秒也不能证明官方Shorts身份。
+
+报告会分开显示宽口径搜索成功/失败数量、此轮命中且刚发布24小时内的短视频条数，以及标题/标签不带AI而凭创作者自声明进入百万榜的数量。原始 CSV 的 queries 栏存 broad_no_keyword:国家码，便于追踪来源。某次宽口径查询429时不会偷偷用AI关键词结果替代。
+
+YouTube 自 2025 年 7 月 21 日起将 videos.list(chart=mostPopular) 主要改为热门音乐/电影/游戏，因此这里**不用 mostPopular 充当全品类 Shorts 热榜**。参见 https://developers.google.com/youtube/data/reference/rest/v3/search/list 和 https://developers.google.com/youtube/data/revision_history 。未来仍可进一步加入可信作者频道、跨平台榜单、视觉核验及持续爆发榜。
 
 ## 报告解读
 
