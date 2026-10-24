@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T03:19:21.581232+00:00",
-  "source_snapshot_at": "2026-10-24T03:19:16Z",
-  "source_video_count": 982,
-  "published_last_24h_with_channel": 269,
+  "generated_at": "2026-10-24T03:30:30.452646+00:00",
+  "source_snapshot_at": "2026-10-24T03:30:24Z",
+  "source_video_count": 1061,
+  "published_last_24h_with_channel": 345,
   "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
@@ -20,26 +20,26 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "sharingbread 🍞 #catshorts #aicat #viral #ai #aishorts #cattears #sadcat #emotionalcat #tranding",
-          "channel": "Cat Tears",
-          "channel_id": "UCuMjIpw7oK1-7P9exVRR9zQ",
-          "url": "https://www.youtube.com/watch?v=B3cS2th4b2Y",
-          "published_at": "2026-10-23T11:00:32Z",
-          "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 4648,
-          "observed_growth_per_hour": 184.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
           "title": "बॉस को लगा मशीन है… लेकिन अंदर से निकला आलू! 🤖🤣 #shorts #viral #tranding #shortsfeed #aivideo",
           "channel": "SRK FUN ADDA ",
           "channel_id": "UCSQDJWovMnnSoA6vgZEbbDA",
           "url": "https://www.youtube.com/watch?v=8n9LlHjiZ6o",
           "published_at": "2026-10-23T09:17:12Z",
           "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 4486,
-          "observed_growth_per_hour": 324.3,
+          "views": 4838,
+          "observed_growth_per_hour": 1897.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "sharingbread 🍞 #catshorts #aicat #viral #ai #aishorts #cattears #sadcat #emotionalcat #tranding",
+          "channel": "Cat Tears",
+          "channel_id": "UCuMjIpw7oK1-7P9exVRR9zQ",
+          "url": "https://www.youtube.com/watch?v=B3cS2th4b2Y",
+          "published_at": "2026-10-23T11:00:32Z",
+          "first_seen_at": "2026-10-23T23:08:22Z",
+          "views": 4695,
+          "observed_growth_per_hour": 253.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -50,8 +50,8 @@
           "url": "https://www.youtube.com/watch?v=8SeQc1RJjdM",
           "published_at": "2026-10-23T04:30:26Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 2334,
-          "observed_growth_per_hour": 2.2,
+          "views": 2329,
+          "observed_growth_per_hour": -26.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -64,6 +64,56 @@
           "first_seen_at": "2026-10-23T13:13:59Z",
           "views": 270,
           "observed_growth_per_hour": 0.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#islamicvideo",
+      "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 2,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Jannat Ki Khoobsurti ✨ #Islam #Jannat #Quran #Shorts #Viral #IslamicVideo",
+          "channel": "Purani Duniya01",
+          "channel_id": "UCo5hkWKb0VhRFcq3vFYPu9A",
+          "url": "https://www.youtube.com/watch?v=EjxlzvsgcJA",
+          "published_at": "2026-10-23T14:43:18Z",
+          "first_seen_at": "2026-10-24T03:30:24Z",
+          "views": 2493,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
+        {
+          "title": "مسجد اقصیٰ ، آمین۔ 🤲#MasjidAlAqsa #AlAqsaMosque #Jerusalem #IslamicVideo #AITransformation #Mechfyp",
+          "channel": "Islam-w9p2t Islam",
+          "channel_id": "UCGMcCPevYlirmrkDBLaF8pw",
+          "url": "https://www.youtube.com/watch?v=bu9IiZUNoxg",
+          "published_at": "2026-10-23T04:49:29Z",
+          "first_seen_at": "2026-10-23T14:57:11Z",
+          "views": 1311,
+          "observed_growth_per_hour": 2.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "😱🤲#MasjidAlAqsa #AlAqsaMosque #Jerusalem #IslamicVideo #AITransformation #MechanicalToy #Shorts",
+          "channel": "Zikr-e-Ilahi",
+          "channel_id": "UCKpVHJSpgt-D7KJf4iSc_EA",
+          "url": "https://www.youtube.com/watch?v=HgCs6LT93Ng",
+          "published_at": "2026-10-23T07:00:04Z",
+          "first_seen_at": "2026-10-23T15:41:47Z",
+          "views": 1050,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -126,8 +176,8 @@
           "url": "https://www.youtube.com/watch?v=hPs1FhOnxKE",
           "published_at": "2026-10-23T08:00:23Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 2883,
-          "observed_growth_per_hour": 49.3,
+          "views": 2893,
+          "observed_growth_per_hour": 53.9,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "turn"
@@ -140,46 +190,8 @@
           "url": "https://www.youtube.com/watch?v=Z1VCMLQGhn4",
           "published_at": "2026-10-23T08:26:13Z",
           "first_seen_at": "2026-10-24T03:19:16Z",
-          "views": 1730,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#masjidalaqsa",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "مسجد اقصیٰ ، آمین۔ 🤲#MasjidAlAqsa #AlAqsaMosque #Jerusalem #IslamicVideo #AITransformation #Mechfyp",
-          "channel": "Islam-w9p2t Islam",
-          "channel_id": "UCGMcCPevYlirmrkDBLaF8pw",
-          "url": "https://www.youtube.com/watch?v=bu9IiZUNoxg",
-          "published_at": "2026-10-23T04:49:29Z",
-          "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 1311,
-          "observed_growth_per_hour": 2.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "😱🤲#MasjidAlAqsa #AlAqsaMosque #Jerusalem #IslamicVideo #AITransformation #MechanicalToy #Shorts",
-          "channel": "Zikr-e-Ilahi",
-          "channel_id": "UCKpVHJSpgt-D7KJf4iSc_EA",
-          "url": "https://www.youtube.com/watch?v=HgCs6LT93Ng",
-          "published_at": "2026-10-23T07:00:04Z",
-          "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 1050,
-          "observed_growth_per_hour": null,
+          "views": 1731,
+          "observed_growth_per_hour": 5.4,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -188,20 +200,52 @@
   ],
   "high_velocity_single_creator_watchlist": [
     {
+      "title": "🚘 Abandoned Rolls-Royce Phantom Restoration Kiya! 😱🔥 #shorts #restoration #rollsroyce",
+      "channel": "Vk Magical World",
+      "channel_id": "UCMTrJ-7ZdPIlRJZBQbn4bMA",
+      "url": "https://www.youtube.com/watch?v=2b7LEI1OXcM",
+      "published_at": "2026-10-23T06:40:08Z",
+      "first_seen_at": "2026-10-23T19:57:12Z",
+      "views": 100999,
+      "observed_growth_per_hour": 10805.4,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "rolls royce phantom restoration",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
       "title": "Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings | AI #Shorts #qazitouqeer",
       "channel": "AI BRAIN SHORTS",
       "channel_id": "UCuxS3AJpjC6NcLPvfR1_Omw",
       "url": "https://www.youtube.com/watch?v=iYaUtV_ZvWk",
       "published_at": "2026-10-23T11:46:39Z",
       "first_seen_at": "2026-10-23T23:08:22Z",
-      "views": 358948,
-      "observed_growth_per_hour": 5068.8,
+      "views": 360107,
+      "observed_growth_per_hour": 6246.1,
       "ai_evidence": "作者文字自述AI",
       "actions": [
         "dance",
         "sing"
       ],
-      "suggested_search_phrase_unverified": "bauna heartbreak qazi luv",
+      "suggested_search_phrase_unverified": "heartbreak qazi luv while",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "Ai Generated Videos ||  Train To Mere Ghar Ki Train Hai #shorts #youtubeshorts",
+      "channel": "Anuj_Tutter00",
+      "channel_id": "UCdZwq7JDZ1v7Rwlllc9wqnw",
+      "url": "https://www.youtube.com/watch?v=Djk1aS9h2zo",
+      "published_at": "2026-10-23T09:30:19Z",
+      "first_seen_at": "2026-10-23T13:13:59Z",
+      "views": 100808,
+      "observed_growth_per_hour": 5561.7,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "train mere ghar ki",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"
