@@ -119,29 +119,47 @@ def classify_metadata(title, description, tags, synthetic_flag):
     return confidence, reason, topic, shorts_hint
 
 
+def query_label(item):
+    """Stable provenance label. No-query regional discovery is not an AI search."""
+    if item.get("source") == "broad_region":
+        return "broad_no_keyword:" + str(item["regionCode"])
+    return item["q"]
+
+
 def search_recent(queries, key, now, get=api_json):
     after = utc_iso(now - timedelta(hours=24))
     before = utc_iso(now)
     ids = {}
     status = []
     for item in queries:
-        q = item["q"]
+        source = item.get("source", "ai_keyword")
+        label = query_label(item)
         ordering = item.get("order", "viewCount")
+        params = {"part": "snippet", "type": "video",
+                  "order": ordering, "videoDuration": "short",
+                  "maxResults": 50, "publishedAfter": after,
+                  "publishedBefore": before, "safeSearch": "moderate"}
+        if source == "broad_region":
+            # q is intentionally OMITTED, not set to an empty string or "AI".
+            # This samples high-view recently published short videos in a
+            # rotating content region, NOT the deprecated global trending list.
+            params["regionCode"] = item["regionCode"]
+        else:
+            params["q"] = item["q"]
         try:
-            found = get("search", {"part": "snippet", "type": "video", "q": q,
-                                    "order": ordering, "videoDuration": "short",
-                                    "maxResults": 50, "publishedAfter": after,
-                                    "publishedBefore": before, "safeSearch": "moderate"}, key)
+            found = get("search", params, key)
             count = 0
             for result in found.get("items", []):
                 video = result.get("id", {})
                 vid = video.get("videoId") if isinstance(video, dict) and video.get("kind") == "youtube#video" else None
                 if vid and VIDEO_ID.fullmatch(vid):
-                    ids.setdefault(vid, set()).add(q)
+                    ids.setdefault(vid, set()).add(label)
                     count += 1
-            status.append({"query": q, "order": ordering, "status": "success", "found": count})
+            status.append({"query": label, "source": source, "order": ordering,
+                           "status": "success", "found": count})
         except Exception as exc:
-            status.append({"query": q, "order": ordering, "status": "failed", "detail": str(exc)[:160]})
+            status.append({"query": label, "source": source, "order": ordering,
+                           "status": "failed", "detail": str(exc)[:160]})
     return ids, status
 
 
@@ -226,15 +244,31 @@ def observed_growth(samples):
 
 
 def choose_queries(config, now):
-    """Rotate rather than permanently scanning only the first N keywords."""
-    source = config["queries"]
-    if not source:
-        return []
-    limit = min(len(source), max(1, config.get("max_searches_per_scan", 3)))
-    # 6 four-hour UTC slots every day: 0, 4, 8, 12, 16, 20.
+    """Rotate 2 AI queries + 1 regional no-keyword sample within the SAME cap.
+
+    A source without q is a broad sample (not an exhaustive trending feed).
+    Without broad config, existing AI-only installations keep prior behavior.
+    """
+    source = config.get("queries", [])
+    limit = max(1, int(config.get("max_searches_per_scan", 3)))
+    broad = config.get("broad_discovery", {})
+    regions = broad.get("region_codes", [])
+    use_broad = bool(broad.get("enabled") and regions and limit >= 2)
+    ai_slots = min(len(source), limit - int(use_broad))
+    # 6 four-hour UTC slots daily. Deterministic even if a scheduled run fails.
     ordinal = int(now.timestamp() // (4 * 3600))
-    start = (ordinal * limit) % len(source)
-    return [source[(start + offset) % len(source)] for offset in range(limit)]
+    selected = []
+    if ai_slots:
+        start = (ordinal * ai_slots) % len(source)
+        selected = [source[(start + offset) % len(source)]
+                    for offset in range(ai_slots)]
+    if use_broad:
+        region = str(regions[ordinal % len(regions)]).upper()
+        if not re.fullmatch(r"[A-Z]{2}", region):
+            raise ValueError("Invalid broad-discovery ISO country code")
+        selected.append({"q": "", "order": "viewCount",
+                         "regionCode": region, "source": "broad_region"})
+    return selected
 
 
 def discover(state, config, key, now, get=api_json):
@@ -297,6 +331,20 @@ def discover(state, config, key, now, get=api_json):
             # Also include past discovery matches whose stats were refreshed today.
             accepted_now.append(video)
 
+    # Report this scan's no-keyword source evidence separately from historical
+    # provenance. A creator disclosure is not a verified AI-generated effect.
+    broad_ids = {vid for vid, labels in matched.items()
+                 if any(label.startswith("broad_no_keyword:") for label in labels)}
+    broad_items = [v for v in accepted_now if v["video_id"] in broad_ids]
+    broad_disclosed_million_without_ai_words = [
+        v for v in broad_items
+        if v.get("synthetic_media_disclosed") is True
+        and isinstance(v.get("views"), int) and v["views"] >= 1_000_000
+        and not AI_TOKEN.search(
+            v.get("title", "") + " " + " ".join(v.get("source_tags", [])))
+        and classify_viral_tier(v, config) == "million_view_candidate"
+    ]
+
     # Keep data for a week; no indefinite retention of API metadata.
     keep = now - timedelta(days=7)
     state["videos"] = {
@@ -318,6 +366,9 @@ def discover(state, config, key, now, get=api_json):
         "statuses": query_status, "lookup_failures": fail, "successful_queries": usable,
         "eligible": len(accepted_now), "baseline": initial,
         "new_since_prior": new_since_prior,
+        "broad_short_candidates": len(broad_items),
+        "broad_disclosed_million_without_ai_words":
+            len(broad_disclosed_million_without_ai_words),
     }, True
 
 
@@ -343,6 +394,8 @@ def write_reports(root, now, config, items, metadata):
     successful = metadata["successful_queries"]
     statuses = metadata["statuses"]
     cutoff = now-timedelta(hours=24)
+    broad_statuses = [s for s in statuses if s.get("source") == "broad_region"]
+    broad_success = sum(s["status"] == "success" for s in broad_statuses)
     threshold = config.get("viral_min_views", 1_000_000)
     if threshold < 1_000_000:
         raise ValueError("Million-view viral floor cannot be lowered below 1,000,000")
@@ -356,6 +409,8 @@ def write_reports(root, now, config, items, metadata):
         f"- 北京时间：{now.astimezone(BJ):%Y-%m-%d %H:%M}",
         f"- 视频发布时间窗口：{to_bj(utc_iso(cutoff))} — {to_bj(utc_iso(now))}（北京时间）",
         f"- 本轮搜索成功率：{successful}/{len(statuses)}；失败：{len(statuses)-successful}",
+        f"- 无AI关键词的跨地区热门短视频抽样：{broad_success}/{len(broad_statuses)}次成功；本轮命中24小时短视频：{metadata.get('broad_short_candidates', 0)}条",
+        f"- 其中只靠作者合成内容声明（标题/标签无AI词）检出的百万候选：{metadata.get('broad_disclosed_million_without_ai_words', 0)}条",
         f"- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：{len(items)}",
         f"- 全部候选中单条观看量≥{threshold:,}的视频：{len(all_million)}（含非AI/未验证AI内容）",
         f"- **百万爆款 AI/合成媒体候选：{len(viral)}**（单条≥{threshold:,}，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）",
@@ -367,7 +422,8 @@ def write_reports(root, now, config, items, metadata):
         "> 标题/标签自述AI也未得到画面核验。官方平台自动添加的 Made with AI 标记（如C2PA、YouTube工具）可能不出现在这个API字段里。",
         "> YouTube Data API的短时长筛选与后续≤180秒判断，不能证实正式Shorts的宽高比或分类。",
         "> 单次累计播放量不是增速；真实观测增速需要两次以上有时间戳的采样。",
-        "> 关键词搜索非全站全量；本轮没有百万候选不等于YouTube没有百万视频。", "",
+        "> 关键词搜索与各国无关键词查询都是**抽样**，并非全站所有Shorts；regionCode不是精确来源国筛选。本轮没有百万候选不等于YouTube没有百万视频。",
+        "> 无关键词查询每轮轮换一个国家/地区，且沿用搜索接口的最近24小时+短时长筛选；不是 YouTube 的 mostPopular 榜单。", "",
         "## 百万爆款候选（单条≥100万，最多20条）", "",
         "| 原视频链接 | 频道 | 官方发布时间（北京） | 本次累计播放量 | 真实观测增速/小时 | AI证据 |",
         "|---|---|---|---:|---:|---|",
@@ -402,6 +458,8 @@ def write_reports(root, now, config, items, metadata):
         lines.append("**部分视频详情失败：**" + "; ".join(metadata["lookup_failures"][:3]))
     if not successful:
         lines.append("**数据未更新/抓取失败，不能确认本轮新增。**")
+    if broad_statuses and not broad_success:
+        lines.append("**无关键词地区发现本轮失败；即使AI关键词成功，也不能声称覆盖无AI标题作品。**")
     if metadata["baseline"]:
         lines.append("本轮是首次历史基线；系统首次观察时间不等于原视频官方发布时间。")
     lines.extend(["", "## 进一步SEO判断", "",
@@ -439,9 +497,10 @@ def run(root, config, key=None, get=api_json, now=None):
     state_path = root/"data/state.json"
     state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
     if not key:
-        statuses = [{"query": item["q"], "order": item.get("order","viewCount"),
+        statuses = [{"query": query_label(item), "source": item.get("source", "ai_keyword"),
+                     "order": item.get("order","viewCount"),
                      "status": "failed", "detail": "YOUTUBE_API_KEY 未配置"}
-                    for item in config["queries"][:config.get("max_searches_per_scan",8)]]
+                    for item in choose_queries(config, now)]
         items = []
         meta = {"statuses": statuses, "lookup_failures": [],
                 "successful_queries": 0, "eligible": 0, "baseline": False,
@@ -464,6 +523,12 @@ def run(root, config, key=None, get=api_json, now=None):
         "recent_24h_short_candidates": len(items),
         "million_view_ai_candidates": len(viral),
         "early_watch_not_viral": len(early),
+        "broad_queries_succeeded": sum(
+            s.get("source") == "broad_region" and s["status"] == "success"
+            for s in meta["statuses"]),
+        "broad_short_candidates": meta.get("broad_short_candidates", 0),
+        "broad_disclosed_million_without_ai_words":
+            meta.get("broad_disclosed_million_without_ai_words", 0),
         "metadata_ai_hot_candidates": len(viral),  # compatibility: now >= 1M only
         "first_observed_after_baseline": meta["new_since_prior"],
     }

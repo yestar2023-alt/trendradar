@@ -44,7 +44,7 @@ class Mock:
         self.calls.append((resource,dict(params)))
         assert key == "test-key"
         if resource == "search":
-            if self.fail_query == params["q"]:
+            if self.fail_query is not None and self.fail_query == params.get("q"):
                 raise RuntimeError("simulated search failure")
             return {"items":[{"id":{"kind":"youtube#video","videoId":vid}} for vid in (self.search_ids if self.search_ids is not None else self.videos)]}
         if resource == "videos":
@@ -232,6 +232,118 @@ class TestDiscover(unittest.TestCase):
             "AI tools tutorial", "", [], True)
         self.assertEqual(confidence, "low")
         self.assertIn("教学", reason)
+
+    def test_broad_query_rotates_regions_and_preserves_three_search_budget(self):
+        cfg = {"queries": [{"q": str(i), "order": "viewCount"} for i in range(8)],
+               "max_searches_per_scan": 3,
+               "broad_discovery": {"enabled": True,
+                                   "region_codes": ["US", "BR", "IN", "JP"]}}
+        ai_queries = []
+        regions = []
+        for offset in range(4):
+            chosen = discover.choose_queries(cfg, NOW + timedelta(hours=4*offset))
+            self.assertEqual(len(chosen), 3)
+            self.assertEqual(len([x for x in chosen
+                                  if x.get("source") == "broad_region"]), 1)
+            ai_queries.extend(x["q"] for x in chosen if x["q"])
+            regions.append(chosen[-1]["regionCode"])
+        self.assertEqual(set(ai_queries), {str(i) for i in range(8)})
+        self.assertEqual(set(regions), {"US", "BR", "IN", "JP"})
+        self.assertEqual(discover.choose_queries(cfg, NOW),
+                         discover.choose_queries(cfg, NOW))
+
+    def test_no_keyword_request_has_no_q_and_is_still_24h_short_limited(self):
+        query = {"q": "", "source": "broad_region",
+                 "regionCode": "BR", "order": "viewCount"}
+        api = Mock()
+        found, status = discover.search_recent([query], "test-key", NOW, api)
+        self.assertIn(A, found)
+        self.assertEqual(status[0]["source"], "broad_region")
+        self.assertEqual(status[0]["query"], "broad_no_keyword:BR")
+        params = api.calls[0][1]
+        self.assertNotIn("q", params)
+        self.assertEqual(params["regionCode"], "BR")
+        self.assertEqual(params["order"], "viewCount")
+        self.assertEqual(params["videoDuration"], "short")
+        self.assertEqual(params["publishedAfter"], "2026-10-22T06:00:00Z")
+        self.assertEqual(params["maxResults"], 50)
+
+    def test_unlabeled_hundred_million_creator_declared_clip_discovered_by_broad(self):
+        clip_a = video(A, title="Funny flying cat #shorts",
+                       views=100_000_000, disclosed=True)
+        clip_a["snippet"]["tags"] = ["shorts"]
+        clip_a["snippet"]["description"] = "A silly story without keywords."
+        clip_b = video(B, title="AI created puppy dance",
+                       views=1_200_000, disclosed=False)
+        cfg = {**CFG, "max_searches_per_scan": 3,
+               "broad_discovery": {"enabled": True, "region_codes": ["US"]}}
+
+        class SplitSearch(Mock):
+            def __call__(self, resource, params, key):
+                if resource == "search":
+                    self.calls.append((resource, dict(params)))
+                    vid = A if "q" not in params else B
+                    return {"items": [{"id": {"kind": "youtube#video",
+                                              "videoId": vid}}]}
+                return super().__call__(resource, params, key)
+
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            api = SplitSearch({A: clip_a, B: clip_b})
+            out = discover.run(root, cfg, key="test-key", get=api, now=NOW)
+            self.assertEqual(out["queries_total"], 3)
+            self.assertEqual(out["queries_succeeded"], 3)
+            self.assertEqual(out["broad_queries_succeeded"], 1)
+            self.assertEqual(out["broad_short_candidates"], 1)
+            self.assertEqual(out["broad_disclosed_million_without_ai_words"], 1)
+            self.assertEqual(out["million_view_ai_candidates"], 2)
+            self.assertEqual(len([x for x in api.calls if x[0] == "search"]), 3)
+            report = (root/"reports/latest.md").read_text()
+            self.assertIn("100,000,000", report)
+            self.assertIn("broad_no_keyword:US", report)
+            self.assertIn("只靠作者合成内容声明", report)
+            state = json.loads((root/"data/state.json").read_text())
+            self.assertIn("broad_no_keyword:US", state["videos"][A]["queries"])
+            self.assertNotIn("broad_no_keyword:US", state["videos"][B]["queries"])
+
+    def test_broad_failure_does_not_hide_successful_ai_source(self):
+        cfg = {**CFG, "max_searches_per_scan": 3,
+               "broad_discovery": {"enabled": True, "region_codes": ["IN"]}}
+        class BroadFailure(Mock):
+            def __call__(self, resource, params, key):
+                if resource == "search" and "q" not in params:
+                    self.calls.append((resource, dict(params)))
+                    raise RuntimeError("simulated region search HTTP 429")
+                return super().__call__(resource, params, key)
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            out = discover.run(root, cfg, key="test-key",
+                               get=BroadFailure({A: video(A, views=2_000_000)}),
+                               now=NOW)
+            self.assertTrue(out["connected"])
+            self.assertEqual(out["queries_succeeded"], 2)
+            self.assertEqual(out["broad_queries_succeeded"], 0)
+            report = (root/"reports/latest.md").read_text()
+            self.assertIn("simulated region search HTTP 429", report)
+            self.assertIn("无关键词地区发现本轮失败", report)
+            self.assertIn(A, report)
+
+    def test_broad_source_neither_proves_ai_nor_overrides_24h_duration(self):
+        cfg = {**CFG, "max_searches_per_scan": 3,
+               "broad_discovery": {"enabled": True, "region_codes": ["MX"]}}
+        no_ai = video(A, title="Wild cat #shorts", views=100_000_000)
+        no_ai["status"] = {}
+        no_ai["snippet"]["description"] = "Ordinary clip"
+        no_ai["snippet"]["tags"] = []
+        long_video = video(B, title="Animal transformations #shorts",
+                           duration="PT5M", views=100_000_000)
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            out = discover.run(root, cfg, key="test-key",
+                               get=Mock({A: no_ai, B: long_video}), now=NOW)
+            self.assertEqual(out["million_view_ai_candidates"], 0)
+            self.assertEqual(out["recent_24h_short_candidates"], 1)
+            self.assertEqual(out["broad_disclosed_million_without_ai_words"], 0)
 
     def test_metadata_does_not_prove_ai_video(self):
         confidence,reason,_,_=discover.classify_metadata("AI Video Tool Review","",[],False)
