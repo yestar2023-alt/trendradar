@@ -101,12 +101,17 @@ def classify_metadata(title, description, tags, synthetic_flag):
     if is_education:
         confidence = "low"
         reason = "标题为教学、评测或资讯内容，不可直接当作 AI 生成作品"
+    elif synthetic_flag is True:
+        # YouTube status.containsSyntheticMedia: creator's *own* altered/synthetic
+        # declaration, not a guarantee of fully AI-generated footage.
+        confidence = "medium"
+        reason = "YouTube API：作者主动声明含合成/修改内容（未经画面核验）"
     elif strongly_claimed:
         confidence = "medium"
         reason = "标题/标签自述 AI 制作（未经画面核验）"
-    elif any_claim or synthetic_flag is True:
+    elif any_claim:
         confidence = "low"
-        reason = "仅文字/合成媒体声明相关（不等于 AI 视频已确认）"
+        reason = "仅笼统文字提及 AI（无法确认视频由 AI 制作）"
     else:
         confidence = "unknown"
         reason = "搜索命中但元数据缺乏 AI 制作证据"
@@ -353,12 +358,13 @@ def write_reports(root, now, config, items, metadata):
         f"- 本轮搜索成功率：{successful}/{len(statuses)}；失败：{len(statuses)-successful}",
         f"- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：{len(items)}",
         f"- 全部候选中单条观看量≥{threshold:,}的视频：{len(all_million)}（含非AI/未验证AI内容）",
-        f"- **百万爆款 AI 候选：{len(viral)}**（单条≥{threshold:,}，且作者文字/标签自述AI）",
+        f"- **百万爆款 AI/合成媒体候选：{len(viral)}**（单条≥{threshold:,}，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）",
         f"- **早期观察，非爆款：{len(early)}**（单条≥{config.get('early_watch_min_views',100_000):,}但未满百万）",
         f"- 历史快照后首次观察到的原视频：{metadata['new_since_prior']}",
         f"- 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控", "",
         "> **严格定义**：爆款门槛是最近24小时内发布的单条视频，当前累计≥100万次观看。",
-        "> 这里只能称为百万播放的AI候选；作者标签不能证明画面真正由AI生成或属于同一可复制新玩法。",
+        "> YouTube API 的 status.containsSyntheticMedia=true 是作者主动声明**写实合成/修改内容**，不是完整 AI 视频鉴定；字段缺失不是 false，更不等于非AI。",
+        "> 标题/标签自述AI也未得到画面核验。官方平台自动添加的 Made with AI 标记（如C2PA、YouTube工具）可能不出现在这个API字段里。",
         "> YouTube Data API的短时长筛选与后续≤180秒判断，不能证实正式Shorts的宽高比或分类。",
         "> 单次累计播放量不是增速；真实观测增速需要两次以上有时间戳的采样。",
         "> 关键词搜索非全站全量；本轮没有百万候选不等于YouTube没有百万视频。", "",
@@ -407,13 +413,18 @@ def write_reports(root, now, config, items, metadata):
     (folder/f'{now.astimezone(BJ):%Y-%m-%d}.md').write_text(content, encoding="utf-8")
     csvcols = ["video_id","title","url","channel","published_at","first_seen_at","last_seen_at",
                "views","likes","comments","duration_seconds","category","ai_metadata_confidence",
-               "ai_metadata_reason","shorts_hint","shorts_verified","queries",
+               "ai_metadata_reason","synthetic_media_disclosed","shorts_hint","shorts_verified","queries",
                "published_avg_views_per_hour","observed_growth_views_per_hour","viral_tier"]
     with (folder/"latest.csv").open("w", newline="", encoding="utf-8-sig") as handle:
         writer = csv.DictWriter(handle, fieldnames=csvcols)
         writer.writeheader()
         for x in sorted(items,key=lambda v:v.get("views") or -1,reverse=True):
             data = {field:x.get(field) for field in csvcols}
+            # Preserve tri-state; blank/omitted API data is NOT an explicit No.
+            flag = x.get("synthetic_media_disclosed")
+            data["synthetic_media_disclosed"] = ("true" if flag is True
+                                                  else "false" if flag is False
+                                                  else "not_returned")
             data["queries"] = " | ".join(x.get("queries", []))
             data["published_avg_views_per_hour"] = recent_score(x, now)
             data["observed_growth_views_per_hour"] = observed_growth(x.get("samples", []))
