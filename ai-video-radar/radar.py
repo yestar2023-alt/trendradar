@@ -279,9 +279,52 @@ def recent_seo_topics(root, candidates, max_topics=40):
                                          unique.index(s)))[:max_topics]
 
 
+def url_is_create_flow(url):
+    """A button destination (/create) is not evidence of a NEW trend landing page."""
+    path=parse.urlsplit(url).path.rstrip('/').casefold()
+    return path.endswith('/create') or path.endswith('/generate')
+
+
+def persist_all_new_urls(root, today, changes):
+    """Persist EVERY URL delta before the expensive 30-page title-verification cap.
+
+    Merge subsequent scans on the same day without deleting earlier discoveries.
+    This is an observed URL delta, never the claimed page publication time.
+    """
+    if not changes:
+        return 0
+    reports=root/'reports'
+    reports.mkdir(parents=True, exist_ok=True)
+    daily=reports/(today+'-all-new-urls.csv')
+    rows={}
+    fields=['first_observed_date','source','url','url_type','channel',
+            'source_listing_title','title_verified','observation']
+    if daily.exists():
+        with daily.open(encoding='utf-8-sig',newline='') as handle:
+            rows.update((r['url'],r) for r in csv.DictReader(handle) if r.get('url'))
+    for url,item in changes.items():
+        entry=item.get('entry') or {}
+        raw_title=(entry.get('title') or '') if isinstance(entry,dict) else ''
+        rows.setdefault(url,{
+            'first_observed_date':today,
+            'source':item['site'],'url':url,
+            'url_type':'create_flow_not_new_template_proof' if url_is_create_flow(url) else 'candidate_detail_url',
+            'channel':item['channel'],
+            'source_listing_title':str(raw_title)[:180],
+            'title_verified':False,
+            'observation':'observed_new_since_previous_successful_snapshot_not_publish_date'
+        })
+    for output in (daily,reports/'latest-all-new-urls.csv'):
+        with output.open('w',encoding='utf-8-sig',newline='') as handle:
+            writer=csv.DictWriter(handle,fieldnames=fields)
+            writer.writeheader()
+            writer.writerows(rows.values())
+    return len(rows)
+
+
 def write_report(root, today, checks, candidates, meta, seo_rows=None):
     reports=root/'reports'; reports.mkdir(parents=True,exist_ok=True)
-    lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条**',f'- **需核实的新关键词候选：{len(candidates)} 个**','']
+    lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条**',f'- **需核实的新关键词候选（优先处理详情页，最多处理30条）：{len(candidates)} 个**',f'- **本轮原始URL全量明细存档：{meta.get("raw_urls_saved",0)} 条**（如非零，可查看 `reports/{today}-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）','']
     if not candidates:
         lines+=['## 结论','', '**今日无已确认新增关键词。** 可能是本次属于首次建档，或目标网站没有可验证增量。','']
     else:
@@ -370,8 +413,12 @@ def run(root, cfg, fetcher):
         checks.append({'name':site['name'],'sitemap':s_status,'listing':l_status})
         print(f'{site["name"]}: sitemap={s_status}; listing={l_status}',flush=True)
     new_count=len(changes)
+    # Do not silently lose URLs beyond max_detail_pages_per_run. Save raw deltas
+    # first, then prefer actual template/guide pages over /create button routes.
+    raw_urls_saved=persist_all_new_urls(root,today,changes)
+    ordered_changes=sorted(changes.items(),key=lambda pair:(url_is_create_flow(pair[0]),pair[0]))
     candidates={}
-    for url,item in list(changes.items())[:cfg.get('max_detail_pages_per_run',30)]:
+    for url,item in ordered_changes[:cfg.get('max_detail_pages_per_run',30)]:
         title,verified=title_for_url(url,item['entry'],fetcher)
         topic=canonical_topic(title,url,cfg.get('aliases',{}))
         if topic in NOISE or len(topic)<4: continue
@@ -379,7 +426,7 @@ def run(root, cfg, fetcher):
         r=candidates.setdefault(topic,{'topic':topic,'first_seen':state['first_seen_topics'][topic],'pages':[]})
         r['pages'].append({'site':item['site'],'url':url,'title':title,'title_verified':verified,'channel':item['channel']})
     save_json_atomic(statefile,state)
-    meta={'new_urls':new_count,'ok':ok,'bad':bad}
+    meta={'new_urls':new_count,'raw_urls_saved':raw_urls_saved,'ok':ok,'bad':bad}
     selected = recent_seo_topics(root, list(candidates.values()))
     seo_rows = enrich(selected, root)
     write_metrics_csv(root / 'reports' / (today + '-seo.csv'), seo_rows)

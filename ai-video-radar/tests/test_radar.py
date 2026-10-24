@@ -104,6 +104,49 @@ class RadarTests(unittest.TestCase):
             radar.run(root,cfg,FakeFetcher(pages(b)))
             self.assertEqual(csv_file.read_text(encoding='utf-8-sig'),first)
 
+    def test_every_url_delta_saved_even_with_small_detail_cap(self):
+        src={**SRC,'use_sitemap':False}
+        cfg={**CFG,'sources':[src],'max_detail_pages_per_run':1}
+        initial=[BASE+'/templates/old']
+        new=[BASE+'/templates/abc/create',BASE+'/templates/real-new-trend',
+             BASE+'/templates/new-two',BASE+'/templates/new-three']
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder)
+            radar.run(root,cfg,FakeFetcher(pages(initial)))
+            result=radar.run(root,cfg,FakeFetcher(pages(initial+new)))
+            self.assertEqual(result['new_urls'],4)
+            self.assertEqual(result['raw_urls_saved'],4)
+            daily=next((root/'reports').glob('*-all-new-urls.csv'))
+            import csv
+            with daily.open(encoding='utf-8-sig',newline='') as f:
+                rows=list(csv.DictReader(f))
+            self.assertEqual(len(rows),4)
+            self.assertEqual({x['url'] for x in rows},set(new))
+            self.assertEqual(next(x['url_type'] for x in rows
+                                  if x['url'].endswith('/create')),
+                             'create_flow_not_new_template_proof')
+            # Only one expensive title lookup, and it must NOT be /create.
+            selected=(root/'reports'/'latest.md').read_text()
+            self.assertNotIn('make your abc',selected)
+            self.assertIn('new three',selected)
+            self.assertIn('原始URL全量明细存档：4 条',selected)
+            # A same-day no-delta scan must not wipe yesterday's evidence.
+            radar.run(root,cfg,FakeFetcher(pages(initial+new)))
+            with daily.open(encoding='utf-8-sig',newline='') as f:
+                self.assertEqual(len(list(csv.DictReader(f))),4)
+
+    def test_full_url_delta_helper_merges_new_discoveries_same_day(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder)
+            one={BASE+'/templates/a':{'site':'Example','channel':'listing',
+                                      'entry':{'title':'A'}}}
+            two={BASE+'/templates/b/create':{'site':'Example','channel':'listing',
+                                             'entry':{'title':'Make B'}}}
+            self.assertEqual(radar.persist_all_new_urls(root,'2026-10-24',one),1)
+            self.assertEqual(radar.persist_all_new_urls(root,'2026-10-24',two),2)
+            self.assertEqual(radar.persist_all_new_urls(root,'2026-10-24',one),2)
+            self.assertTrue((root/'reports'/'latest-all-new-urls.csv').exists())
+
     def test_clean_and_same_host_only(self):
         self.assertEqual(radar.clean_url(BASE+'/templates/test/?utm=1'),BASE+'/templates/test')
         self.assertFalse(radar.allowed_host('https://example.test.evil.org/index.xml',BASE))
