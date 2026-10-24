@@ -37,7 +37,26 @@
       "order": "viewCount"
     }
   ],
-  "search_rotation": "3 of 8 queries per 4-hour run; cycles across all 8 and avoids permanently dropping any",
+  "search_rotation": "Every four hours: 2 rotating AI-keyword queries + 1 q-less regional high-view short video query; 3 total, no increased search quota; 8 AI terms rotate and 12 regions rotate",
   "viral_min_views": 1000000,
-  "early_watch_min_views": 100000
+  "early_watch_min_views": 100000,
+  "broad_discovery": {
+    "enabled": true,
+    "region_codes": [
+      "US",
+      "IN",
+      "BR",
+      "MX",
+      "ID",
+      "JP",
+      "KR",
+      "PH",
+      "GB",
+      "ES",
+      "FR",
+      "TR"
+    ],
+    "searches_per_scan": 1,
+    "notes": "1 q-less regional viewCount search every 4h replaces 1 AI keyword query: 3 total; 12-region rotating sample; not an exhaustive global feed"
+  }
 }
