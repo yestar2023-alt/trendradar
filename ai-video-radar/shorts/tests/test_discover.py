@@ -44,7 +44,7 @@ class Mock:
         self.calls.append((resource,dict(params)))
         assert key == "test-key"
         if resource == "search":
-            if self.fail_query == params.get("q"):
+            if self.fail_query is not None and self.fail_query == params.get("q"):
                 raise RuntimeError("simulated search failure")
             return {"items":[{"id":{"kind":"youtube#video","videoId":vid}} for vid in (self.search_ids if self.search_ids is not None else self.videos)]}
         if resource == "videos":
