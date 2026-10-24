@@ -371,6 +371,11 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
     daily_md = reports / (today + '.md')
     if candidates or not daily_md.exists():
         daily_md.write_text(content,encoding='utf-8')
+    else:
+        # A later same-day scan with 0 NEW deltas must not erase the morning's
+        # real findings from the primary latest report. The daily dated report
+        # is the durable source of truth for that day's successful discoveries.
+        content=daily_md.read_text(encoding='utf-8')
     (reports/'latest.md').write_text(content,encoding='utf-8')
     # Do not erase the first discovery's historical CSV during another same-day run.
     # latest.md is still regenerated with this run's actual count.

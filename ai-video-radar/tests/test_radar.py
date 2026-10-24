@@ -103,6 +103,9 @@ class RadarTests(unittest.TestCase):
             self.assertIn('firestarter dance',first)
             radar.run(root,cfg,FakeFetcher(pages(b)))
             self.assertEqual(csv_file.read_text(encoding='utf-8-sig'),first)
+            # A second scan MUST keep the morning's discovered URL visible.
+            self.assertIn('firestarter dance',(root/'reports'/'latest.md').read_text())
+            self.assertIn('新 URL：1 条',(root/'reports'/'latest.md').read_text())
 
     def test_every_url_delta_saved_even_with_small_detail_cap(self):
         src={**SRC,'use_sitemap':False}
