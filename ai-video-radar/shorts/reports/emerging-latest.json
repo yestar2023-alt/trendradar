@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-24T03:30:30.452646+00:00",
-  "source_snapshot_at": "2026-10-24T03:30:24Z",
-  "source_video_count": 1061,
-  "published_last_24h_with_channel": 345,
-  "shared_name_groups": 4,
+  "generated_at": "2026-10-24T04:35:41.004160+00:00",
+  "source_snapshot_at": "2026-10-24T04:35:35Z",
+  "source_video_count": 1128,
+  "published_last_24h_with_channel": 372,
+  "shared_name_groups": 5,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
       "anchor": "#tranding",
       "anchor_type": "tag",
-      "unique_channels": 4,
-      "ai_claimed_channels": 4,
-      "video_count": 4,
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.25,
-      "previously_observed_older_video": false,
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=8n9LlHjiZ6o",
           "published_at": "2026-10-23T09:17:12Z",
           "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 4838,
-          "observed_growth_per_hour": 1897.0,
+          "views": 7783,
+          "observed_growth_per_hour": 2710.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,20 +38,8 @@
           "url": "https://www.youtube.com/watch?v=B3cS2th4b2Y",
           "published_at": "2026-10-23T11:00:32Z",
           "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 4695,
-          "observed_growth_per_hour": 253.3,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Dr. Doggy Will See You Now! 🐶🩺😂 | AI Animation #shorts #shorts #viral #viralshorts #tranding",
-          "channel": "Nova vibe",
-          "channel_id": "UC-OsYQ3C2W0Z1e_R8yDtF7w",
-          "url": "https://www.youtube.com/watch?v=8SeQc1RJjdM",
-          "published_at": "2026-10-23T04:30:26Z",
-          "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 2329,
-          "observed_growth_per_hour": -26.9,
+          "views": 4936,
+          "observed_growth_per_hour": 221.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -88,8 +76,8 @@
           "url": "https://www.youtube.com/watch?v=EjxlzvsgcJA",
           "published_at": "2026-10-23T14:43:18Z",
           "first_seen_at": "2026-10-24T03:30:24Z",
-          "views": 2493,
-          "observed_growth_per_hour": null,
+          "views": 2683,
+          "observed_growth_per_hour": 174.9,
           "ai_evidence": "AI制作未验证",
           "actions": []
         },
@@ -176,8 +164,8 @@
           "url": "https://www.youtube.com/watch?v=hPs1FhOnxKE",
           "published_at": "2026-10-23T08:00:23Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 2893,
-          "observed_growth_per_hour": 53.9,
+          "views": 3002,
+          "observed_growth_per_hour": 100.3,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "turn"
@@ -190,8 +178,46 @@
           "url": "https://www.youtube.com/watch?v=Z1VCMLQGhn4",
           "published_at": "2026-10-23T08:26:13Z",
           "first_seen_at": "2026-10-24T03:19:16Z",
-          "views": 1731,
-          "observed_growth_per_hour": 5.4,
+          "views": 1730,
+          "observed_growth_per_hour": -0.9,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#funnyfrog",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "FROGGY & SNAPPY'S FANTASY ADVENTURE! #funnyfrog #animation #cartoon #funnyanimals #aianimation",
+          "channel": "Animation",
+          "channel_id": "UCTcpKcS0W2i_uW2Wgzb5Aqw",
+          "url": "https://www.youtube.com/watch?v=qXaI6Kr2Unw",
+          "published_at": "2026-10-23T10:26:39Z",
+          "first_seen_at": "2026-10-24T04:35:35Z",
+          "views": 82493,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "chubby frog part -5🐸🐸 #ChubbyFrog #FunnyFrog #FrogComedy #FunnyAnimals #AIAnimation #cartoon #shorts",
+          "channel": "Ai cartoon Hub",
+          "channel_id": "UCeAG5M7zNktLe0oFxTrkknA",
+          "url": "https://www.youtube.com/watch?v=XUB3o_DLVKo",
+          "published_at": "2026-10-23T09:57:52Z",
+          "first_seen_at": "2026-10-24T04:35:35Z",
+          "views": 7166,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -206,30 +232,11 @@
       "url": "https://www.youtube.com/watch?v=2b7LEI1OXcM",
       "published_at": "2026-10-23T06:40:08Z",
       "first_seen_at": "2026-10-23T19:57:12Z",
-      "views": 100999,
-      "observed_growth_per_hour": 10805.4,
+      "views": 114252,
+      "observed_growth_per_hour": 12199.1,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "rolls royce phantom restoration",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    },
-    {
-      "title": "Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings | AI #Shorts #qazitouqeer",
-      "channel": "AI BRAIN SHORTS",
-      "channel_id": "UCuxS3AJpjC6NcLPvfR1_Omw",
-      "url": "https://www.youtube.com/watch?v=iYaUtV_ZvWk",
-      "published_at": "2026-10-23T11:46:39Z",
-      "first_seen_at": "2026-10-23T23:08:22Z",
-      "views": 360107,
-      "observed_growth_per_hour": 6246.1,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [
-        "dance",
-        "sing"
-      ],
-      "suggested_search_phrase_unverified": "heartbreak qazi luv while",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"
@@ -241,11 +248,30 @@
       "url": "https://www.youtube.com/watch?v=Djk1aS9h2zo",
       "published_at": "2026-10-23T09:30:19Z",
       "first_seen_at": "2026-10-23T13:13:59Z",
-      "views": 100808,
-      "observed_growth_per_hour": 5561.7,
+      "views": 111621,
+      "observed_growth_per_hour": 9953.2,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "train mere ghar ki",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings | AI #Shorts #qazitouqeer",
+      "channel": "AI BRAIN SHORTS",
+      "channel_id": "UCuxS3AJpjC6NcLPvfR1_Omw",
+      "url": "https://www.youtube.com/watch?v=iYaUtV_ZvWk",
+      "published_at": "2026-10-23T11:46:39Z",
+      "first_seen_at": "2026-10-23T23:08:22Z",
+      "views": 368687,
+      "observed_growth_per_hour": 7897.7,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [
+        "dance",
+        "sing"
+      ],
+      "suggested_search_phrase_unverified": "heartbreak qazi luv while",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"

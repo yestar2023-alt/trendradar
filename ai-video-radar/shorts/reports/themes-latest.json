@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-10-24T03:30:30.372729+00:00",
-  "source_snapshot_at": "2026-10-24T03:30:24Z",
-  "snapshot_video_count": 1061,
-  "named_theme_count": 4,
+  "built_at": "2026-10-24T04:35:40.862060+00:00",
+  "source_snapshot_at": "2026-10-24T04:35:35Z",
+  "snapshot_video_count": 1128,
+  "named_theme_count": 5,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
@@ -21,7 +21,7 @@
       "channel_count": 2,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 1731,
+      "max_observed_views": 1730,
       "first_observed_at": "2026-10-24T03:19:16Z",
       "examples": [
         {
@@ -32,8 +32,8 @@
           "channel_id": "UCqfsPRq_pBbZnzk4PFk4s3g",
           "published_at": "2026-10-23T08:26:13Z",
           "first_seen_at": "2026-10-24T03:19:16Z",
-          "views": 1731,
-          "observed_growth_per_hour": 5.4,
+          "views": 1730,
+          "observed_growth_per_hour": -0.9,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         },
@@ -67,7 +67,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 45522,
+      "max_observed_views": 46903,
       "first_observed_at": "2026-10-23T13:13:59Z",
       "examples": [
         {
@@ -78,8 +78,8 @@
           "channel_id": "UCfXRO_7vs6L6047cpctYzSQ",
           "published_at": "2026-10-23T08:29:25Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 45522,
-          "observed_growth_per_hour": 1552.1,
+          "views": 46903,
+          "observed_growth_per_hour": 1271.2,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
@@ -100,7 +100,7 @@
       "channel_count": 5,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 16792,
+      "max_observed_views": 16814,
       "first_observed_at": "2026-10-23T13:13:59Z",
       "examples": [
         {
@@ -111,8 +111,8 @@
           "channel_id": "UCDimBbytW31JgLkUfyUwAJQ",
           "published_at": "2026-10-23T05:00:07Z",
           "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 16792,
-          "observed_growth_per_hour": -59.3,
+          "views": 16814,
+          "observed_growth_per_hour": 20.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -124,8 +124,8 @@
           "channel_id": "UCKob1qvck82TDMLPft40-wg",
           "published_at": "2026-10-23T12:35:02Z",
           "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 9461,
-          "observed_growth_per_hour": 1444.3,
+          "views": 11086,
+          "observed_growth_per_hour": 1495.8,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -137,8 +137,8 @@
           "channel_id": "UCZwXDlvgnEIuHhnUZmQszkw",
           "published_at": "2026-10-23T12:29:47Z",
           "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 7290,
-          "observed_growth_per_hour": 538.9,
+          "views": 7690,
+          "observed_growth_per_hour": 368.2,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -150,8 +150,8 @@
           "channel_id": "UCWJcjFLlyZuB6RvEgbrhdaw",
           "published_at": "2026-10-23T06:45:26Z",
           "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 6235,
-          "observed_growth_per_hour": 0.0,
+          "views": 6402,
+          "observed_growth_per_hour": 153.7,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -163,8 +163,41 @@
           "channel_id": "UC0SOo5Wnp4_f1dVpYkA6ICw",
           "published_at": "2026-10-23T08:57:54Z",
           "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 2382,
-          "observed_growth_per_hour": 0.0,
+          "views": 2413,
+          "observed_growth_per_hour": 28.5,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "cat_clapping",
+      "name": "Black Cat Clapping / 拍手猫",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "宠物站起并慢拍手",
+      "input": "一张自有宠物照",
+      "risk": "原创素材版权与宠物照片权利",
+      "caution": "9月已出现的存量热门梗，不能把今日二创叫首发",
+      "existing_before": "2026-09-25",
+      "previous_evidence_url": "https://knowyourmeme.com/memes/black-cat-clapping",
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 1602,
+      "first_observed_at": "2026-10-24T04:35:35Z",
+      "examples": [
+        {
+          "video_id": "zY8cx8DAqmM",
+          "title": "Clapping Cat Meme | Green Screen #cat #catmeme #ai #cuteanimals #viral Original Video by merkurianin",
+          "url": "https://www.youtube.com/watch?v=zY8cx8DAqmM",
+          "channel": "Param Bold",
+          "channel_id": "UCX-ZblaWZ7Z2ZT5gPHyqNow",
+          "published_at": "2026-10-23T07:19:55Z",
+          "first_seen_at": "2026-10-24T04:35:35Z",
+          "views": 1602,
+          "observed_growth_per_hour": null,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
