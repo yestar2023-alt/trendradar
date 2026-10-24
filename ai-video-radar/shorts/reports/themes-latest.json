@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-10-24T18:47:27.224377+00:00",
-  "source_snapshot_at": "2026-10-24T18:47:22Z",
-  "snapshot_video_count": 1403,
+  "built_at": "2026-10-24T22:28:30.341090+00:00",
+  "source_snapshot_at": "2026-10-24T22:28:25Z",
+  "snapshot_video_count": 1531,
   "named_theme_count": 3,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
@@ -21,7 +21,7 @@
       "channel_count": 3,
       "claimed_ai_creations": 3,
       "independent_claimed_creator_count": 3,
-      "max_observed_views": 5459,
+      "max_observed_views": 6217,
       "first_observed_at": "2026-10-24T12:40:26Z",
       "examples": [
         {
@@ -32,8 +32,8 @@
           "channel_id": "UCtRewoQj-aUnsOtSekckRUg",
           "published_at": "2026-10-24T03:30:27Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 5459,
-          "observed_growth_per_hour": null,
+          "views": 6217,
+          "observed_growth_per_hour": 205.7,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         },
@@ -45,8 +45,8 @@
           "channel_id": "UC_YtdY97Ult-XU-KUDsnkUA",
           "published_at": "2026-10-24T02:23:07Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 1818,
-          "observed_growth_per_hour": null,
+          "views": 2061,
+          "observed_growth_per_hour": 66.0,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         },
@@ -126,7 +126,7 @@
       "channel_count": 7,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 11401,
+      "max_observed_views": 14905,
       "first_observed_at": "2026-10-24T18:47:22Z",
       "examples": [
         {
@@ -137,8 +137,8 @@
           "channel_id": "UC50nH3mzpmyIjuQ-iUa6otg",
           "published_at": "2026-10-24T01:36:53Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 11401,
-          "observed_growth_per_hour": null,
+          "views": 14905,
+          "observed_growth_per_hour": 951.1,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -150,8 +150,8 @@
           "channel_id": "UCsrfaCu6RFZq1ECPNipktkA",
           "published_at": "2026-10-24T03:00:38Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 9512,
-          "observed_growth_per_hour": null,
+          "views": 9490,
+          "observed_growth_per_hour": -6.0,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -163,8 +163,21 @@
           "channel_id": "UCsrfaCu6RFZq1ECPNipktkA",
           "published_at": "2026-10-24T00:00:38Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 5379,
-          "observed_growth_per_hour": null,
+          "views": 5366,
+          "observed_growth_per_hour": -3.5,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "bMUWbnjnklo",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
+          "url": "https://www.youtube.com/watch?v=bMUWbnjnklo",
+          "channel": "Six August",
+          "channel_id": "UCrN3SkEjW3a9C4TMNq7pE7Q",
+          "published_at": "2026-10-24T02:14:13Z",
+          "first_seen_at": "2026-10-24T18:47:22Z",
+          "views": 4428,
+          "observed_growth_per_hour": 221.2,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -177,7 +190,7 @@
           "published_at": "2026-10-24T00:30:30Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
           "views": 4070,
-          "observed_growth_per_hour": null,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -189,21 +202,8 @@
           "channel_id": "UC_CZb8fWBN5TWnAqjSxXYaA",
           "published_at": "2026-10-24T01:35:19Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 3805,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "bMUWbnjnklo",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=bMUWbnjnklo",
-          "channel": "Six August",
-          "channel_id": "UCrN3SkEjW3a9C4TMNq7pE7Q",
-          "published_at": "2026-10-24T02:14:13Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 3613,
-          "observed_growth_per_hour": null,
+          "views": 3859,
+          "observed_growth_per_hour": 14.7,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -215,8 +215,8 @@
           "channel_id": "UCzYi5K9esONVgoBnOHmnECg",
           "published_at": "2026-10-24T00:35:53Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 3044,
-          "observed_growth_per_hour": null,
+          "views": 3303,
+          "observed_growth_per_hour": 70.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -228,8 +228,8 @@
           "channel_id": "UCsrfaCu6RFZq1ECPNipktkA",
           "published_at": "2026-10-24T01:00:20Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 2665,
-          "observed_growth_per_hour": null,
+          "views": 2666,
+          "observed_growth_per_hour": 0.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }

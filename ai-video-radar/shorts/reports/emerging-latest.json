@@ -1,12 +1,112 @@
 {
-  "generated_at": "2026-10-24T18:47:27.347102+00:00",
-  "source_snapshot_at": "2026-10-24T18:47:22Z",
-  "source_video_count": 1403,
-  "published_last_24h_with_channel": 226,
-  "shared_name_groups": 2,
+  "generated_at": "2026-10-24T22:28:30.426391+00:00",
+  "source_snapshot_at": "2026-10-24T22:28:25Z",
+  "source_video_count": 1531,
+  "published_last_24h_with_channel": 304,
+  "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
+    {
+      "anchor": "#wildlife",
+      "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 4,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "cartoon mama Tv",
+          "channel_id": "UCNbAXsue3_Iw0S2MHt2FPaw",
+          "url": "https://www.youtube.com/watch?v=LfZ0j0VwC6o",
+          "published_at": "2026-10-24T01:29:19Z",
+          "first_seen_at": "2026-10-24T22:28:25Z",
+          "views": 5645,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "Funny Tales",
+          "channel_id": "UCxm8-5KooY9UHyXqxF5Sf8g",
+          "url": "https://www.youtube.com/watch?v=ZtA2KpVXcZI",
+          "published_at": "2026-10-24T07:25:01Z",
+          "first_seen_at": "2026-10-24T22:28:25Z",
+          "views": 2157,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Great Reed Warbler Nest Building 🐦 Nature AI Short",
+          "channel": "NYTHERIA BEATS",
+          "channel_id": "UCp_tsEPiNCwizhQcVTyQFcg",
+          "url": "https://www.youtube.com/watch?v=85vBs75mSFg",
+          "published_at": "2026-10-24T01:00:04Z",
+          "first_seen_at": "2026-10-24T18:47:22Z",
+          "views": 1493,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "cartoon mama Tv",
+          "channel_id": "UCNbAXsue3_Iw0S2MHt2FPaw",
+          "url": "https://www.youtube.com/watch?v=NCvTLWzaw3o",
+          "published_at": "2026-10-24T06:53:44Z",
+          "first_seen_at": "2026-10-24T22:28:25Z",
+          "views": 935,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#romantic",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Sana, episode 14#shorts#shortvideo #trending #viral#ai animation #love #romantic",
+          "channel": "Tales of Sana\n\n",
+          "channel_id": "UCAUbYWwoRDUAuaaJcbIKBEA",
+          "url": "https://www.youtube.com/watch?v=OCPHv8wfgxc",
+          "published_at": "2026-10-24T12:30:28Z",
+          "first_seen_at": "2026-10-24T22:28:25Z",
+          "views": 2339,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "romantic Cafe date #aishorts #aivideo #romantic #cafe #aishorts #shortvideo #shorts #myvideo #trend",
+          "channel": "Aistorybyruk ",
+          "channel_id": "UCFJLYup4i7nMtR3VCnuo8_Q",
+          "url": "https://www.youtube.com/watch?v=x9xh2C-2hcw",
+          "published_at": "2026-10-24T07:40:56Z",
+          "first_seen_at": "2026-10-24T12:40:26Z",
+          "views": 729,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
     {
       "anchor": "allah tala ki madad",
       "anchor_type": "phrase",
@@ -26,8 +126,8 @@
           "url": "https://www.youtube.com/watch?v=v-WmzXrQFas",
           "published_at": "2026-10-24T01:00:22Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 31679,
-          "observed_growth_per_hour": null,
+          "views": 31774,
+          "observed_growth_per_hour": 25.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,8 +138,8 @@
           "url": "https://www.youtube.com/watch?v=4DCdJFT4Yrs",
           "published_at": "2026-10-24T01:00:21Z",
           "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 14672,
-          "observed_growth_per_hour": 1556.2,
+          "views": 16092,
+          "observed_growth_per_hour": 385.4,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -64,8 +164,8 @@
           "url": "https://www.youtube.com/watch?v=eLPOJooEjxA",
           "published_at": "2026-10-24T03:30:27Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 5459,
-          "observed_growth_per_hour": null,
+          "views": 6217,
+          "observed_growth_per_hour": 205.7,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -76,30 +176,13 @@
           "url": "https://www.youtube.com/watch?v=EqCWtxzc0t0",
           "published_at": "2026-10-24T02:23:07Z",
           "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 1818,
-          "observed_growth_per_hour": null,
+          "views": 2061,
+          "observed_growth_per_hour": 66.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "🖊️ ¡GAVI SE TATÚA A MBAPPÉ! #gavi #lamineyamal #shorts #aigenerated",
-      "channel": "Futbol AI",
-      "channel_id": "UC4axf-DS3EdFNCb_MeuKeEw",
-      "url": "https://www.youtube.com/watch?v=281FsgIRTcs",
-      "published_at": "2026-10-23T19:57:51Z",
-      "first_seen_at": "2026-10-24T03:30:24Z",
-      "views": 284875,
-      "observed_growth_per_hour": 31805.1,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "gavi se tatúa mbappé",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
