@@ -26,6 +26,43 @@
 |---|---|---|---:|---:|---|
 | — | — | — | — | — | 本轮无合格百万AI候选，禁止用低播放视频凑数 |
 
+## 其他百万播放视频（30条；AI 身份未确认，供人工查看）
+
+> 以下是**2026-10-24 11:30（北京）上一次成功采样的真实数据**，并非当前实时播放量。因为这次 API 查询失败，暂用上次成功快照。它们没有满足作者 AI/合成媒体声明门槛，**不称为已确认 AI 爆款**。其中不少可能是普通真人视频。YouTube API 未返回作者合成媒体声明不等于否认使用 AI。
+
+| 视频原链接 | 频道 | 官方发布时间（北京） | 采样播放量 | 作者合成媒体声明 | 数据来源 |
+|---|---|---|---:|---|---|
+| [The Youngest Soldier's Duel ⚔️](https://www.youtube.com/watch?v=CkVahfpJ4-M) | Gneef | 2026-10-23 19:00 | 8,400,367 | API未返回 | broad_no_keyword:US |
+| [Baby's Crayon Broke & The Reaction Will Melt Your Heart! 🖍️😭 #BabyCrying #CuteBaby #FamilyFun #Sho](https://www.youtube.com/watch?v=zJXUkQKqpOg) | Jeffrey Ebadi | 2026-10-23 11:58 | 5,400,168 | API未返回 | broad_no_keyword:US |
+| [Is the flying Tesla Roadster real??](https://www.youtube.com/watch?v=Kb_kDvwIA2U) | CarterPCs | 2026-10-23 13:38 | 3,418,753 | API未返回 | broad_no_keyword:US |
+| [Alvin, Simon and Theodore 💙💚❤️Easy Halloween trio costume idea!](https://www.youtube.com/watch?v=cNI8Z1SJrwg) | Nisha Noelle | 2026-10-24 04:12 | 2,854,769 | API未返回 | broad_no_keyword:US |
+| [First Dinner in Pakistan Is Always at Mum’s House](https://www.youtube.com/watch?v=83loUgOofQE) | Tayyaba kiran | 2026-10-23 14:22 | 2,599,500 | API未返回 | broad_no_keyword:US |
+| [ともすけのお父さんも変な人やなwwwwww#あるある #小学生](https://www.youtube.com/watch?v=rD0ViUE6r8Y) | ともき | 2026-10-23 18:00 | 2,514,674 | API未返回 | broad_no_keyword:US |
+| [Ujian tersusah di muka bumi...](https://www.youtube.com/watch?v=hhL_45Acd9Y) | Vinco | 2026-10-23 15:01 | 2,246,426 | API未返回 | broad_no_keyword:US |
+| [【武道・武術】防犯用の盾をいよいよ破壊！？木刀で打ち込んでみた！！#aikido  ＃karate #martial #武道 #空手＃筋トレ](https://www.youtube.com/watch?v=kpWnIr1EHdc) | YASU道 | 2026-10-23 17:00 | 1,913,817 | API未返回 | broad_no_keyword:US |
+| [The gift is sleeping 🤪🎁😴 #craft #DIY turning my bed into a giant 8ft present](https://www.youtube.com/watch?v=oAG3lO8Qiog) | Serena Neel | 2026-10-23 23:00 | 1,722,269 | API未返回 | broad_no_keyword:US |
+| [Wolf Lady Game is in a Legal Battle with Fox Lady Game](https://www.youtube.com/watch?v=aP8STn1oqLc) | JustSaySteven | 2026-10-23 12:43 | 1,700,616 | API未返回 | broad_no_keyword:US |
+| [부모의 문제로 자식이 파혼 당한 이유는? #슬기로운의사생활 #슬의생 #언젠가는슬기로울전공의생활 #언슬전 #조정석 #유연석 #안은진 #정경호 #전미도](https://www.youtube.com/watch?v=2AcZHN1Sc9o) | 아워무비 | 2026-10-23 20:35 | 1,565,036 | API未返回 | broad_no_keyword:US |
+| [brittle ice is op](https://www.youtube.com/watch?v=OGlqI_ooNHE) | camman18 | 2026-10-23 23:00 | 1,548,785 | API未返回 | broad_no_keyword:US |
+| [アメリカ生まれアメリカ育ちの友達が作る『フライドチキン』が日本と違いすぎてヤバい！#shorts](https://www.youtube.com/watch?v=mSuAZm9H2zA) | とみビデオ | 2026-10-23 18:12 | 1,508,521 | API未返回 | broad_no_keyword:US |
+| [e se você usasse lentes por 1 ano?](https://www.youtube.com/watch?v=ni2pxDCtZVI) | Josvi | 2026-10-24 05:00 | 1,451,343 | API未返回 | broad_no_keyword:US |
+| [Guess The Emoji! #beatbox #tiktok](https://www.youtube.com/watch?v=9uWaXkMKgas) | Beatbox Klim | 2026-10-23 17:31 | 1,425,063 | API未返回 | broad_no_keyword:US |
+| [마음에 안들면 모든지 갈아버림](https://www.youtube.com/watch?v=LrCEQXAWFPA) | 라마랜드 | 2026-10-23 15:56 | 1,421,492 | API未返回 | broad_no_keyword:US |
+| [Their Hearts Skipped A Beat ! #tmkoc #comedy #trending #reels #shorts #politics #news](https://www.youtube.com/watch?v=9jV7AvLN0Ec) | Taarak Mehta Ka Ooltah Chashmah | 2026-10-23 17:30 | 1,344,901 | API未返回 | broad_no_keyword:US |
+| [కన్నీరు వస్తుంది... Sudheer Helping Kavya or Flirting with Her? at Chef Mantra Project K S6](https://www.youtube.com/watch?v=LfzK6rlQbQ0) | NITIN BHARATH IDEAS | 2026-10-23 12:40 | 1,341,287 | API未返回 | broad_no_keyword:US |
+| [なんか頼りにならない上司](https://www.youtube.com/watch?v=4n9G73nSCmU) | 千年ぶりのYouTube | 2026-10-23 18:07 | 1,336,603 | API未返回 | broad_no_keyword:US |
+| [【時間別】バブル期のタクシー運転手の1日](https://www.youtube.com/watch?v=HDdAuWH3AqI) | わせだや | 2026-10-23 16:50 | 1,322,417 | API未返回 | broad_no_keyword:US |
+| [Mengubah Air Lumpur Menjadi Jernih, Bisa Diminum❓😳](https://www.youtube.com/watch?v=BORnfGR2amA) | Fajar Impossible | 2026-10-23 13:30 | 1,321,644 | API未返回 | broad_no_keyword:US |
+| [Robot VS Manusia Part 2 #Rubik #Malaysia #Indonesia #harizazizan #robot](https://www.youtube.com/watch?v=6btHc3BKrCo) | Hariz Azizan | 2026-10-23 15:00 | 1,203,850 | API未返回 | broad_no_keyword:US |
+| [Nani Ne Banaye Uncle Chips Ghar Pe Hi 😍🔥](https://www.youtube.com/watch?v=zMh4HFj0AqQ) | Ai Kitchen world  | 2026-10-23 12:30 | 1,160,708 | API未返回 | broad_no_keyword:US |
+| [Kenangan Masa SMA:Lulus Corat Coret Seragam #coratcoret #seragamsekolah](https://www.youtube.com/watch?v=VciBBt85_m0) | Kurnia Brahmana | 2026-10-23 12:00 | 1,151,459 | API未返回 | broad_no_keyword:US |
+| ["Store paint rollers inbetween coats like this." 🤯😍😲 #relatable #trending #shorts](https://www.youtube.com/watch?v=0VkCAOZYPA8) | Radhika Maroo | 2026-10-23 17:30 | 1,112,145 | API未返回 | broad_no_keyword:US |
+| [Inilah yang terjadi jika kalian jadi pengibar bendera Liga Champions](https://www.youtube.com/watch?v=IiXXiIbo5ws) | Revisi Terakhir | 2026-10-23 17:15 | 1,071,895 | API未返回 | broad_no_keyword:US |
+| [นี่คือเหตุผลที่ทำไมคนถึงติดตั้งหลังคาที่ยืดได้ 😳](https://www.youtube.com/watch?v=tq3ISD1l-zI) | FoxStory | 2026-10-23 17:05 | 1,064,203 | API未返回 | AI cat video |
+| [아무도 못 나가는 병원에 스스로 들어간 교수](https://www.youtube.com/watch?v=lGDW4CJAkR8) | 무비썬 | 2026-10-23 19:13 | 1,030,255 | API未返回 | broad_no_keyword:US |
+| [新入りの木に嫉妬したグルートの反撃](https://www.youtube.com/watch?v=7vZZJqhl56Y) | モグモグ | 2026-10-23 15:05 | 1,029,907 | API未返回 | broad_no_keyword:US |
+| [Aku Tak Bisa Mendengar dan Bicara, Bahkan Ibupun Kini Meninggalkanku 💔😭](https://www.youtube.com/watch?v=l-7HoBd4JB0) | Nona Film | 2026-10-23 19:00 | 1,021,498 | API未返回 | broad_no_keyword:US |
+
 ## 早期潜力观察（10万–99.9万；明确不是爆款，最多5条）
 
 | 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |
