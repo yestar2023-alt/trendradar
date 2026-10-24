@@ -189,6 +189,52 @@ class TestDiscover(unittest.TestCase):
             self.assertEqual((root/"data/state.json").read_bytes(),state)
             self.assertIn("不能确认本轮新增",(root/"reports/latest.md").read_text())
 
+    def test_unverified_million_videos_are_visible_separately(self):
+        """Never hide million-view video evidence; never call it AI."""
+        verified = video(A, views=2_000_000, disclosed=True)
+        unverified = video(B, title="A mystery flying car #shorts",
+                           views=8_000_000, disclosed=False)
+        unverified["snippet"]["description"] = "Fun clip."
+        unverified["snippet"]["tags"] = []
+        unverified["status"] = {}
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            out = discover.run(root, CFG, key="test-key",
+                               get=Mock({A: verified, B: unverified}), now=NOW)
+            self.assertEqual(out["million_view_ai_candidates"], 1)
+            report = (root/"reports/latest.md").read_text()
+            confirmed = report.split("## 百万爆款候选")[1].split("## 其他百万播放视频")[0]
+            other = report.split("## 其他百万播放视频")[1].split("## 早期潜力观察")[0]
+            self.assertIn(A, confirmed)
+            self.assertNotIn(B, confirmed)
+            self.assertIn(B, other)
+            self.assertNotIn(A, other)
+            self.assertIn("8,000,000", other)
+            self.assertIn("API未返回", other)
+            self.assertIn("其他百万播放待核验视频：1", report)
+            self.assertIn("AI身份未确认", report)
+
+    def test_million_video_watchlist_shows_more_than_twenty(self):
+        videos = {}
+        for i in range(30):
+            video_id = str(i).zfill(11)
+            v = video(video_id, title="Ordinary video #shorts",
+                      views=30_000_000 - i * 200_000)
+            v["status"] = {}
+            v["snippet"]["description"] = "Non-AI everyday video."
+            v["snippet"]["tags"] = []
+            videos[video_id] = v
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            out = discover.run(root, CFG, key="test-key",
+                               get=Mock(videos), now=NOW)
+            self.assertEqual(out["million_view_ai_candidates"], 0)
+            report = (root/"reports/latest.md").read_text()
+            unverified = report.split("## 其他百万播放视频")[1].split("## 早期潜力观察")[0]
+            self.assertIn("30条", unverified)
+            for video_id in videos:
+                self.assertIn("watch?v=" + video_id, unverified)
+
     def test_disclosed_synthetic_video_without_ai_words_qualifies_at_ten_million(self):
         """An explicit creator A/S disclosure beats absence of AI hashtags."""
         clip = video(A, title="The cat flew across the street #shorts",
