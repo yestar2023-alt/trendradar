@@ -402,6 +402,10 @@ def write_reports(root, now, config, items, metadata):
     all_million = [v for v in items if (v.get("views") or 0) >= threshold]
     viral = [v for v in items if classify_viral_tier(v, config) == "million_view_candidate"]
     early = [v for v in items if classify_viral_tier(v, config) == "early_watch_not_viral"]
+    # No AI evidence is not proof of a non-AI video: make high-view data visible.
+    other_million = [v for v in all_million
+                     if classify_viral_tier(v, config) != "million_view_candidate"]
+    other_million.sort(key=lambda v: v.get("views") or -1, reverse=True)
     viral.sort(key=lambda v: (v["views"] or -1, observed_growth(v.get("samples", [])) or -1), reverse=True)
     early.sort(key=lambda v: (observed_growth(v.get("samples", [])) or -1, v["views"] or -1), reverse=True)
     lines = [
@@ -414,6 +418,7 @@ def write_reports(root, now, config, items, metadata):
         f"- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：{len(items)}",
         f"- 全部候选中单条观看量≥{threshold:,}的视频：{len(all_million)}（含非AI/未验证AI内容）",
         f"- **百万爆款 AI/合成媒体候选：{len(viral)}**（单条≥{threshold:,}，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）",
+        f"- **其他百万播放待核验视频：{len(other_million)}**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）",
         f"- **早期观察，非爆款：{len(early)}**（单条≥{config.get('early_watch_min_views',100_000):,}但未满百万）",
         f"- 历史快照后首次观察到的原视频：{metadata['new_since_prior']}",
         f"- 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控", "",
@@ -438,6 +443,26 @@ def write_reports(root, now, config, items, metadata):
         )
     if not viral:
         lines.append("| — | — | — | — | — | 本轮无合格百万AI候选，禁止用低播放视频凑数 |")
+    # Unverified high-view candidates are visible but NEVER called AI hits.
+    lines.extend(["", f"## 其他百万播放视频（{len(other_million)}条；AI身份未确认，单独供人工查看）", "",
+                  "> 这张表可能包含普通非AI爆款，不等于确认由AI生成、可复刻或有SEO机会。API未返回合成声明不是创作者明确否认AI。",
+                  "> 与上方已具AI文字/作者声明的百万候选互斥；只列本轮刷新真实观看数据、近24小时发布的短视频。最多前50条；全量见latest.csv。", "",
+                  "| 原视频（可点击） | 频道 | 官方发布（北京） | 采样播放量 | 合成媒体声明 | 发现来源 |",
+                  "|---|---|---|---:|---|---|"])
+    for v in other_million[:50]:
+        disclosed = v.get("synthetic_media_disclosed")
+        declared = ("是" if disclosed is True
+                    else "否" if disclosed is False
+                    else "API未返回")
+        sources = ", ".join(v.get("queries", []))
+        lines.append(
+            f'| [{text_cell(v["title"])}]({v["url"]})'
+            f' | {text_cell(v["channel"])} | {to_bj(v["published_at"])}'
+            f' | {v["views"]:,} | {declared} | {text_cell(sources)} |'
+        )
+    if not other_million:
+        lines.append("| — | — | — | — | — | 本轮没有未验证的百万视频 |")
+
     lines.extend(["", "## 早期潜力观察（10万–99.9万；明确不是爆款，最多5条）", "",
                   "| 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |",
                   "|---|---|---:|---:|"])
