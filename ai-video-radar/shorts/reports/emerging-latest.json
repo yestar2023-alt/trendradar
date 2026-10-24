@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-24T12:40:31.624886+00:00",
-  "source_snapshot_at": "2026-10-24T12:40:26Z",
-  "source_video_count": 1269,
-  "published_last_24h_with_channel": 237,
-  "shared_name_groups": 1,
+  "generated_at": "2026-10-24T18:47:27.347102+00:00",
+  "source_snapshot_at": "2026-10-24T18:47:22Z",
+  "source_video_count": 1403,
+  "published_last_24h_with_channel": 226,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "happy diwali",
+      "anchor": "allah tala ki madad",
       "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -16,29 +16,67 @@
       "title_actions_shared": [],
       "classification": "possible_reuploads",
       "near_duplicate_caption_fraction": 1.0,
-      "previously_observed_older_video": true,
+      "previously_observed_older_video": false,
       "priority_points_not_seo_score": 12,
       "examples": [
         {
-          "title": "Happy diwali 🪔 #viral #viralshorts #diwali #fastival #mstich #trending #trend #ai #aivideo #fun",
-          "channel": "Shriti kumari sinha",
-          "channel_id": "UCMIt5gngcg-3o7BbgE8j1FQ",
-          "url": "https://www.youtube.com/watch?v=XAHC2zPWzT0",
-          "published_at": "2026-10-24T04:42:53Z",
-          "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 14,
+          "title": "Allah tala ki Madad I Ai generated video #viralshorts #shorts #shortvideo #ytshorts #ytshortsindia",
+          "channel": "Fatima islam",
+          "channel_id": "UC93ZvDlMbqD108F-uTm5sTw",
+          "url": "https://www.youtube.com/watch?v=v-WmzXrQFas",
+          "published_at": "2026-10-24T01:00:22Z",
+          "first_seen_at": "2026-10-24T18:47:22Z",
+          "views": 31679,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Happy diwali 🎇 #trending #aivideo #trend",
-          "channel": "Agastya ai stories ",
-          "channel_id": "UC_UcNpFRw0m_NjWsBC4EUHQ",
-          "url": "https://www.youtube.com/watch?v=bUYBDUhfeqw",
-          "published_at": "2026-10-23T14:01:25Z",
-          "first_seen_at": "2026-10-23T19:57:12Z",
-          "views": 3,
+          "title": "Allah tala ki madad I AI generated video #viral #shorts #islam #india #asia",
+          "channel": "Viral islam0569",
+          "channel_id": "UCQYFD-rjhS1hU5Bl1wIUGoQ",
+          "url": "https://www.youtube.com/watch?v=4DCdJFT4Yrs",
+          "published_at": "2026-10-24T01:00:21Z",
+          "first_seen_at": "2026-10-24T12:40:26Z",
+          "views": 14672,
+          "observed_growth_per_hour": 1556.2,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "gangnam style prompt",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "known",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 0,
+      "examples": [
+        {
+          "title": "Trending Gangnam Style Ai Video Editing Prompt | Instagram Viral Gangnam Style Ai Dance Reels Edit",
+          "channel": "Rajan editz",
+          "channel_id": "UCtRewoQj-aUnsOtSekckRUg",
+          "url": "https://www.youtube.com/watch?v=eLPOJooEjxA",
+          "published_at": "2026-10-24T03:30:27Z",
+          "first_seen_at": "2026-10-24T18:47:22Z",
+          "views": 5459,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Gangnam Style Ai Videos Prompt 🤯😍",
+          "channel": "Artistrajk ",
+          "channel_id": "UC_YtdY97Ult-XU-KUDsnkUA",
+          "url": "https://www.youtube.com/watch?v=EqCWtxzc0t0",
+          "published_at": "2026-10-24T02:23:07Z",
+          "first_seen_at": "2026-10-24T18:47:22Z",
+          "views": 1818,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -46,5 +84,22 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "🖊️ ¡GAVI SE TATÚA A MBAPPÉ! #gavi #lamineyamal #shorts #aigenerated",
+      "channel": "Futbol AI",
+      "channel_id": "UC4axf-DS3EdFNCb_MeuKeEw",
+      "url": "https://www.youtube.com/watch?v=281FsgIRTcs",
+      "published_at": "2026-10-23T19:57:51Z",
+      "first_seen_at": "2026-10-24T03:30:24Z",
+      "views": 284875,
+      "observed_growth_per_hour": 31805.1,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "gavi se tatúa mbappé",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }
