@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T23:08:26.470638+00:00",
-  "source_snapshot_at": "2026-10-23T23:08:22Z",
-  "source_video_count": 947,
-  "published_last_24h_with_channel": 371,
-  "shared_name_groups": 6,
+  "generated_at": "2026-10-24T03:19:21.581232+00:00",
+  "source_snapshot_at": "2026-10-24T03:19:16Z",
+  "source_video_count": 982,
+  "published_last_24h_with_channel": 269,
+  "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=B3cS2th4b2Y",
           "published_at": "2026-10-23T11:00:32Z",
           "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 3875,
-          "observed_growth_per_hour": null,
+          "views": 4648,
+          "observed_growth_per_hour": 184.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,8 +38,8 @@
           "url": "https://www.youtube.com/watch?v=8n9LlHjiZ6o",
           "published_at": "2026-10-23T09:17:12Z",
           "first_seen_at": "2026-10-23T15:41:47Z",
-          "views": 3130,
-          "observed_growth_per_hour": 90.7,
+          "views": 4486,
+          "observed_growth_per_hour": 324.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -50,8 +50,8 @@
           "url": "https://www.youtube.com/watch?v=8SeQc1RJjdM",
           "published_at": "2026-10-23T04:30:26Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 2325,
-          "observed_growth_per_hour": -0.3,
+          "views": 2334,
+          "observed_growth_per_hour": 2.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -108,84 +108,8 @@
       ]
     },
     {
-      "anchor": "#dailyvlog",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "truck have accident #2026 #automobile #aivideo #velog #dailyvlog #trending #trend #vlog #shorts #new",
-          "channel": "M Ali vlogs ",
-          "channel_id": "UCetY2VGxLEWplFyp5gxMoLQ",
-          "url": "https://www.youtube.com/watch?v=gbWnuzAfYf4",
-          "published_at": "2026-10-23T03:00:05Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 436,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "#aivideo #cartoon #dance #dailyvlog #trend 🥰😄",
-          "channel": "ai fun",
-          "channel_id": "UCxkpKzucs-q2bz08TFBC61Q",
-          "url": "https://www.youtube.com/watch?v=3OEN2AZLkXQ",
-          "published_at": "2026-10-23T17:55:59Z",
-          "first_seen_at": "2026-10-23T19:57:12Z",
-          "views": 1,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#radhakrishna",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🌺मनिहारी का वेश बनाया🦚#shortvideo #bhakti #ytshorts #radhakrishna #aivideo #shortsfeed",
-          "channel": "Monika Yadav",
-          "channel_id": "UChr29DSQXuA0bJWZvhVoYFQ",
-          "url": "https://www.youtube.com/watch?v=7cna2uBWze8",
-          "published_at": "2026-10-23T03:00:07Z",
-          "first_seen_at": "2026-10-23T07:15:24Z",
-          "views": 1032,
-          "observed_growth_per_hour": -1163.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "trend #viralvideo #shortvideo #shorts #radhakrishna#aivideo",
-          "channel": "Saroja S yadav",
-          "channel_id": "UCg-01EVGGQ4G0vgJcjEhcEw",
-          "url": "https://www.youtube.com/watch?v=_Gn0CI1gYOY",
-          "published_at": "2026-10-23T15:38:55Z",
-          "first_seen_at": "2026-10-23T19:57:12Z",
-          "views": 39,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#islamicvideo",
-      "anchor_type": "tag",
+      "anchor": "bmw m4",
+      "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
@@ -196,14 +120,54 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
+          "title": "😱 Black Liquid Turns Into a BMW M4! 🖤🚘🔥 #Shorts",
+          "channel": "PixelSculpt AI",
+          "channel_id": "UC39afvc-lRkkZYsH9BcWL5Q",
+          "url": "https://www.youtube.com/watch?v=hPs1FhOnxKE",
+          "published_at": "2026-10-23T08:00:23Z",
+          "first_seen_at": "2026-10-23T14:57:11Z",
+          "views": 2883,
+          "observed_growth_per_hour": 49.3,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "turn"
+          ]
+        },
+        {
+          "title": "BMW M4 Racing Red 🔥 Miniature Car Customization ASMR | AI Car Transformation #Shorts",
+          "channel": "ToonVerse 3D",
+          "channel_id": "UCqfsPRq_pBbZnzk4PFk4s3g",
+          "url": "https://www.youtube.com/watch?v=Z1VCMLQGhn4",
+          "published_at": "2026-10-23T08:26:13Z",
+          "first_seen_at": "2026-10-24T03:19:16Z",
+          "views": 1730,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#masjidalaqsa",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
           "title": "مسجد اقصیٰ ، آمین۔ 🤲#MasjidAlAqsa #AlAqsaMosque #Jerusalem #IslamicVideo #AITransformation #Mechfyp",
           "channel": "Islam-w9p2t Islam",
           "channel_id": "UCGMcCPevYlirmrkDBLaF8pw",
           "url": "https://www.youtube.com/watch?v=bu9IiZUNoxg",
           "published_at": "2026-10-23T04:49:29Z",
           "first_seen_at": "2026-10-23T14:57:11Z",
-          "views": 1288,
-          "observed_growth_per_hour": 5.6,
+          "views": 1311,
+          "observed_growth_per_hour": 2.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -220,79 +184,9 @@
           "actions": []
         }
       ]
-    },
-    {
-      "anchor": "a2o lite",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "known",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 0,
-      "examples": [
-        {
-          "title": "마빡 X 태영 - Neon(A2O LITE) [AI Dance]🕺💃⚽ (ft.뿌꾸)",
-          "channel": "간지태영",
-          "channel_id": "UCfXRO_7vs6L6047cpctYzSQ",
-          "url": "https://www.youtube.com/watch?v=4QsUJk3RJyw",
-          "published_at": "2026-10-23T08:29:25Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 40834,
-          "observed_growth_per_hour": 980.2,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "dance"
-          ]
-        },
-        {
-          "title": "A2O LITE – NEON 🔥 | ARIA × SERIA Dance Cover 💙 #Shorts",
-          "channel": "ARIA Studio",
-          "channel_id": "UC4E3dpr6LArU-yaCFrzZ2YA",
-          "url": "https://www.youtube.com/watch?v=zMGmpYaNwlI",
-          "published_at": "2026-10-23T01:00:25Z",
-          "first_seen_at": "2026-10-23T13:13:59Z",
-          "views": 1729,
-          "observed_growth_per_hour": 3.5,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🤔혹시 ai가 춤못추는 것도 관상보고 어느정도 반영 하는걸까... (A2O LITE) [AI Dance] #패러디 #니온패러디 #a20lite",
-          "channel": "킴스체인몰",
-          "channel_id": "UCcyiXYwudeyRfaIb3BgGNig",
-          "url": "https://www.youtube.com/watch?v=eKMaVdbOYG4",
-          "published_at": "2026-10-23T01:40:39Z",
-          "first_seen_at": "2026-10-23T23:08:22Z",
-          "views": 1553,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "dance"
-          ]
-        }
-      ]
     }
   ],
   "high_velocity_single_creator_watchlist": [
-    {
-      "title": "गल्ली क्रिकेट 🏏🥎🏃🏻| 90s Nostalgia #shorts ✨",
-      "channel": "Lahanpan Dega Deva",
-      "channel_id": "UCnA6XZYG9kxAsDps5kAOP0g",
-      "url": "https://www.youtube.com/watch?v=iYYeBJsaF8U",
-      "published_at": "2026-10-23T02:30:15Z",
-      "first_seen_at": "2026-10-23T13:19:55Z",
-      "views": 300724,
-      "observed_growth_per_hour": 2370.3,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "गल 90s nostalgia",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    },
     {
       "title": "Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings | AI #Shorts #qazitouqeer",
       "channel": "AI BRAIN SHORTS",
@@ -300,8 +194,8 @@
       "url": "https://www.youtube.com/watch?v=iYaUtV_ZvWk",
       "published_at": "2026-10-23T11:46:39Z",
       "first_seen_at": "2026-10-23T23:08:22Z",
-      "views": 337752,
-      "observed_growth_per_hour": null,
+      "views": 358948,
+      "observed_growth_per_hour": 5068.8,
       "ai_evidence": "作者文字自述AI",
       "actions": [
         "dance",

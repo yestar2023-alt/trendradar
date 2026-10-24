@@ -1,17 +1,18 @@
 # 最近24小时 AI 短视频：百万爆款候选（未核验画面）
 
-- 北京时间：2026-10-24 07:08
-- 视频发布时间窗口：2026-10-23 07:08 — 2026-10-24 07:08（北京时间）
-- 本轮搜索成功率：2/3；失败：1
-- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：224
-- 全部候选中单条观看量≥1,000,000的视频：0（含非AI/未验证AI内容）
-- **百万爆款 AI 候选：0**（单条≥1,000,000，且作者文字/标签自述AI）
-- **早期观察，非爆款：2**（单条≥100,000但未满百万）
-- 历史快照后首次观察到的原视频：74
+- 北京时间：2026-10-24 11:19
+- 视频发布时间窗口：2026-10-23 11:19 — 2026-10-24 11:19（北京时间）
+- 本轮搜索成功率：1/3；失败：2
+- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：149
+- 全部候选中单条观看量≥1,000,000的视频：1（含非AI/未验证AI内容）
+- **百万爆款 AI/合成媒体候选：0**（单条≥1,000,000，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）
+- **早期观察，非爆款：1**（单条≥100,000但未满百万）
+- 历史快照后首次观察到的原视频：35
 - 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控
 
 > **严格定义**：爆款门槛是最近24小时内发布的单条视频，当前累计≥100万次观看。
-> 这里只能称为百万播放的AI候选；作者标签不能证明画面真正由AI生成或属于同一可复制新玩法。
+> YouTube API 的 status.containsSyntheticMedia=true 是作者主动声明**写实合成/修改内容**，不是完整 AI 视频鉴定；字段缺失不是 false，更不等于非AI。
+> 标题/标签自述AI也未得到画面核验。官方平台自动添加的 Made with AI 标记（如C2PA、YouTube工具）可能不出现在这个API字段里。
 > YouTube Data API的短时长筛选与后续≤180秒判断，不能证实正式Shorts的宽高比或分类。
 > 单次累计播放量不是增速；真实观测增速需要两次以上有时间戳的采样。
 > 关键词搜索非全站全量；本轮没有百万候选不等于YouTube没有百万视频。
@@ -26,16 +27,15 @@
 
 | 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |
 |---|---|---:|---:|
-| [गल्ली क्रिकेट 🏏🥎🏃🏻/ 90s Nostalgia #shorts ✨](https://www.youtube.com/watch?v=iYYeBJsaF8U) | 2026-10-23 10:30 | 300,724 | 20,156.2 |
-| [Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings / AI #Shorts #qazitouqeer](https://www.youtube.com/watch?v=iYaUtV_ZvWk) | 2026-10-23 19:46 | 337,752 | 待第二次采样 |
+| [Bauna Heartbreak 💔😭 Qazi & Luv Dance While He Sings / AI #Shorts #qazitouqeer](https://www.youtube.com/watch?v=iYaUtV_ZvWk) | 2026-10-23 19:46 | 358,948 | 5,068.8 |
 
 ## 搜索覆盖和失败项
 
 | 本轮查询 | 排序 | 状态 | 返回视频条数 |
 |---|---|---|---:|
-| AI dance | viewCount | success | 50 |
-| AI cat video | viewCount | success | 50 |
-| AI animation | viewCount | failed | 失败：YouTube API search HTTP 429; reason=rateLimitExceeded |
+| AI meme | viewCount | failed | 失败：YouTube API search HTTP 429; reason=rateLimitExceeded |
+| AI transformation | viewCount | success | 50 |
+| AI video trend | date | failed | 失败：YouTube API search HTTP 429; reason=rateLimitExceeded |
 
 ## 进一步SEO判断
 
