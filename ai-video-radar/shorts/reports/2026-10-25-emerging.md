@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-25 06:28
-- 数据库视频：1531；24小时内且有频道ID的非教程候选：304
+- 最新成功快照（北京）：2026-10-25 12:40
+- 数据库视频：1657；24小时内且有频道ID的非教程候选：284
 - 自动发现跨账号同名/同词线索：4
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -13,20 +13,42 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #wildlife
+### 1. #aimusic
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：4
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 独立频道：3；其中AI文字自述频道：3；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| cartoon mama Tv | [Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=LfZ0j0VwC6o) | 2026-10-24 09:29 | 2026-10-25 06:28 | 5645 | 待多次采样 | 作者文字自述AI |
-| Funny Tales | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=ZtA2KpVXcZI) | 2026-10-24 15:25 | 2026-10-25 06:28 | 2157 | 待多次采样 | 作者文字自述AI |
-| NYTHERIA BEATS | [Great Reed Warbler Nest Building 🐦 Nature AI Short](https://www.youtube.com/watch?v=85vBs75mSFg) | 2026-10-24 09:00 | 2026-10-25 02:47 | 1493 | 待多次采样 | 作者文字自述AI |
+| 𝑹𝒐𝒄𝒌𝒔𝒕𝒂𝒓🕉️𝑵𝒆𝒉𝒂 𝑮𝒖𝒑𝒕𝒂🎸 | [#chatgpt #chatgptprompts #aigenerated #aivideo #aishorts #aimusic #viralshorts #youtubeshorts #trend](https://www.youtube.com/watch?v=LOr92bCu4i0) | 2026-10-24 19:35 | 2026-10-24 20:40 | 4 | 待多次采样 | 作者文字自述AI |
+| Karan youtuber 11 | [गांव कि शरदपूर्णिमा क्या होता है #ajjubhaiinmymatch #vilog #ai #aivideo #aishorts #aimusic #shorts](https://www.youtube.com/watch?v=mlw9KUXBZH0) | 2026-10-25 11:23 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
+| village vlogger  | [ai trend// new ai video//#aivideo #aimusic #aishorts #aianimation #ahorts #musicalai](https://www.youtube.com/watch?v=pNOjn1DxuZo) | 2026-10-25 11:32 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
+
+### 2. #wildlife
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：3；其中AI文字自述频道：3；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Funny Tales | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=ZtA2KpVXcZI) | 2026-10-24 15:25 | 2026-10-25 06:28 | 2193 | 5.8 | 作者文字自述AI |
 | cartoon mama Tv | [Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=NCvTLWzaw3o) | 2026-10-24 14:53 | 2026-10-25 06:28 | 935 | 待多次采样 | 作者文字自述AI |
+| Ai vision | [ai video viral trend #ai #viralvideo #biggboss #kidsvideo #shorts #gadi #ship #wildlife #animals](https://www.youtube.com/watch?v=VxviP-Sz1WI) | 2026-10-25 02:03 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 2. #romantic
+### 3. #explorepage
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| ToonyTots Kids | [#ai #aivideo #funny #aianimation #trendingreels #funny #fyp #instagram #fypage #explorepage #trend](https://www.youtube.com/watch?v=J2Nod6nkAmM) | 2026-10-24 14:31 | 2026-10-24 20:40 | 0 | 待多次采样 | 作者文字自述AI |
+| AI VAIRAL STUDIO 🪱🐸 | [3. "जब हाथी ने नखरा किया! 🐘✨"#shorts #trending #ai #aivideo #hindistory #vairalvideo #trend #kahani](https://www.youtube.com/watch?v=o7Dxwlb2qWA) | 2026-10-25 12:10 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
+
+### 4. #romantic
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -34,30 +56,8 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Tales of Sana   | [Sana, episode 14#shorts#shortvideo #trending #viral#ai animation #love #romantic](https://www.youtube.com/watch?v=OCPHv8wfgxc) | 2026-10-24 20:30 | 2026-10-25 06:28 | 2339 | 待多次采样 | 作者文字自述AI |
+| Tales of Sana   | [Sana, episode 14#shorts#shortvideo #trending #viral#ai animation #love #romantic](https://www.youtube.com/watch?v=OCPHv8wfgxc) | 2026-10-24 20:30 | 2026-10-25 06:28 | 2481 | 22.9 | 作者文字自述AI |
 | Aistorybyruk  | [romantic Cafe date #aishorts #aivideo #romantic #cafe #aishorts #shortvideo #shorts #myvideo #trend](https://www.youtube.com/watch?v=x9xh2C-2hcw) | 2026-10-24 15:40 | 2026-10-24 20:40 | 729 | 待多次采样 | 作者文字自述AI |
-
-### 3. allah tala ki madad
-
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Fatima islam | [Allah tala ki Madad I Ai generated video #viralshorts #shorts #shortvideo #ytshorts #ytshortsindia](https://www.youtube.com/watch?v=v-WmzXrQFas) | 2026-10-24 09:00 | 2026-10-25 02:47 | 31774 | 25.8 | 作者文字自述AI |
-| Viral islam0569 | [Allah tala ki madad I AI generated video #viral #shorts #islam #india #asia](https://www.youtube.com/watch?v=4DCdJFT4Yrs) | 2026-10-24 09:00 | 2026-10-24 20:40 | 16092 | 385.4 | 作者文字自述AI |
-
-### 4. gangnam style prompt
-
-- 初判：历史已有玩法——排除“今日首发”；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：0/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Rajan editz | [Trending Gangnam Style Ai Video Editing Prompt / Instagram Viral Gangnam Style Ai Dance Reels Edit](https://www.youtube.com/watch?v=eLPOJooEjxA) | 2026-10-24 11:30 | 2026-10-25 02:47 | 6217 | 205.7 | 作者文字自述AI |
-| Artistrajk  | [Gangnam Style Ai Videos Prompt 🤯😍](https://www.youtube.com/watch?v=EqCWtxzc0t0) | 2026-10-24 10:23 | 2026-10-25 02:47 | 2061 | 66.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 

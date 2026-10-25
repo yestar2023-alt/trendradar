@@ -1,36 +1,74 @@
 {
-  "generated_at": "2026-10-24T22:28:30.426391+00:00",
-  "source_snapshot_at": "2026-10-24T22:28:25Z",
-  "source_video_count": 1531,
-  "published_last_24h_with_channel": 304,
+  "generated_at": "2026-10-25T04:40:19.724312+00:00",
+  "source_snapshot_at": "2026-10-25T04:40:14Z",
+  "source_video_count": 1657,
+  "published_last_24h_with_channel": 284,
   "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "#wildlife",
+      "anchor": "#aimusic",
       "anchor_type": "tag",
       "unique_channels": 3,
       "ai_claimed_channels": 3,
-      "video_count": 4,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": false,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
-          "channel": "cartoon mama Tv",
-          "channel_id": "UCNbAXsue3_Iw0S2MHt2FPaw",
-          "url": "https://www.youtube.com/watch?v=LfZ0j0VwC6o",
-          "published_at": "2026-10-24T01:29:19Z",
-          "first_seen_at": "2026-10-24T22:28:25Z",
-          "views": 5645,
+          "title": "#chatgpt #chatgptprompts #aigenerated #aivideo #aishorts #aimusic #viralshorts #youtubeshorts #trend",
+          "channel": "𝑹𝒐𝒄𝒌𝒔𝒕𝒂𝒓🕉️𝑵𝒆𝒉𝒂 𝑮𝒖𝒑𝒕𝒂🎸",
+          "channel_id": "UChJnWTOSApUygb_wE-IMPJA",
+          "url": "https://www.youtube.com/watch?v=LOr92bCu4i0",
+          "published_at": "2026-10-24T11:35:48Z",
+          "first_seen_at": "2026-10-24T12:40:26Z",
+          "views": 4,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
+        {
+          "title": "गांव कि शरदपूर्णिमा क्या होता है #ajjubhaiinmymatch #vilog #ai #aivideo #aishorts #aimusic #shorts",
+          "channel": "Karan youtuber 11",
+          "channel_id": "UCv3aV4OityAtumUT2VMh1Ug",
+          "url": "https://www.youtube.com/watch?v=mlw9KUXBZH0",
+          "published_at": "2026-10-25T03:23:57Z",
+          "first_seen_at": "2026-10-25T04:40:14Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "ai trend// new ai video//#aivideo #aimusic #aishorts #aianimation #ahorts #musicalai",
+          "channel": "village vlogger ",
+          "channel_id": "UCqIUnkYybKmqWY1_F7eT1bA",
+          "url": "https://www.youtube.com/watch?v=pNOjn1DxuZo",
+          "published_at": "2026-10-25T03:32:27Z",
+          "first_seen_at": "2026-10-25T04:40:14Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#wildlife",
+      "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
         {
           "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
           "channel": "Funny Tales",
@@ -38,20 +76,8 @@
           "url": "https://www.youtube.com/watch?v=ZtA2KpVXcZI",
           "published_at": "2026-10-24T07:25:01Z",
           "first_seen_at": "2026-10-24T22:28:25Z",
-          "views": 2157,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Great Reed Warbler Nest Building 🐦 Nature AI Short",
-          "channel": "NYTHERIA BEATS",
-          "channel_id": "UCp_tsEPiNCwizhQcVTyQFcg",
-          "url": "https://www.youtube.com/watch?v=85vBs75mSFg",
-          "published_at": "2026-10-24T01:00:04Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 1493,
-          "observed_growth_per_hour": null,
+          "views": 2193,
+          "observed_growth_per_hour": 5.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -63,6 +89,56 @@
           "published_at": "2026-10-24T06:53:44Z",
           "first_seen_at": "2026-10-24T22:28:25Z",
           "views": 935,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "ai video viral trend #ai #viralvideo #biggboss #kidsvideo #shorts #gadi #ship #wildlife #animals",
+          "channel": "Ai vision",
+          "channel_id": "UCIjYndW2q7n6eKlETcTIM4Q",
+          "url": "https://www.youtube.com/watch?v=VxviP-Sz1WI",
+          "published_at": "2026-10-24T18:03:41Z",
+          "first_seen_at": "2026-10-25T04:40:14Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#explorepage",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "#ai #aivideo #funny #aianimation #trendingreels #funny #fyp #instagram #fypage #explorepage #trend",
+          "channel": "ToonyTots Kids",
+          "channel_id": "UCT5XoMrZMfWxsellJGhkC9Q",
+          "url": "https://www.youtube.com/watch?v=J2Nod6nkAmM",
+          "published_at": "2026-10-24T06:31:31Z",
+          "first_seen_at": "2026-10-24T12:40:26Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "3. \"जब हाथी ने नखरा किया! 🐘✨\"#shorts #trending #ai #aivideo #hindistory #vairalvideo #trend #kahani",
+          "channel": "AI VAIRAL STUDIO 🪱🐸",
+          "channel_id": "UCXhbHLHrfCxNXiXRtg12UiQ",
+          "url": "https://www.youtube.com/watch?v=o7Dxwlb2qWA",
+          "published_at": "2026-10-25T04:10:36Z",
+          "first_seen_at": "2026-10-25T04:40:14Z",
+          "views": 0,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -88,8 +164,8 @@
           "url": "https://www.youtube.com/watch?v=OCPHv8wfgxc",
           "published_at": "2026-10-24T12:30:28Z",
           "first_seen_at": "2026-10-24T22:28:25Z",
-          "views": 2339,
-          "observed_growth_per_hour": null,
+          "views": 2481,
+          "observed_growth_per_hour": 22.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -102,82 +178,6 @@
           "first_seen_at": "2026-10-24T12:40:26Z",
           "views": 729,
           "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "allah tala ki madad",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "possible_reuploads",
-      "near_duplicate_caption_fraction": 1.0,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 12,
-      "examples": [
-        {
-          "title": "Allah tala ki Madad I Ai generated video #viralshorts #shorts #shortvideo #ytshorts #ytshortsindia",
-          "channel": "Fatima islam",
-          "channel_id": "UC93ZvDlMbqD108F-uTm5sTw",
-          "url": "https://www.youtube.com/watch?v=v-WmzXrQFas",
-          "published_at": "2026-10-24T01:00:22Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 31774,
-          "observed_growth_per_hour": 25.8,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Allah tala ki madad I AI generated video #viral #shorts #islam #india #asia",
-          "channel": "Viral islam0569",
-          "channel_id": "UCQYFD-rjhS1hU5Bl1wIUGoQ",
-          "url": "https://www.youtube.com/watch?v=4DCdJFT4Yrs",
-          "published_at": "2026-10-24T01:00:21Z",
-          "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 16092,
-          "observed_growth_per_hour": 385.4,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "gangnam style prompt",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "known",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 0,
-      "examples": [
-        {
-          "title": "Trending Gangnam Style Ai Video Editing Prompt | Instagram Viral Gangnam Style Ai Dance Reels Edit",
-          "channel": "Rajan editz",
-          "channel_id": "UCtRewoQj-aUnsOtSekckRUg",
-          "url": "https://www.youtube.com/watch?v=eLPOJooEjxA",
-          "published_at": "2026-10-24T03:30:27Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 6217,
-          "observed_growth_per_hour": 205.7,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Gangnam Style Ai Videos Prompt 🤯😍",
-          "channel": "Artistrajk ",
-          "channel_id": "UC_YtdY97Ult-XU-KUDsnkUA",
-          "url": "https://www.youtube.com/watch?v=EqCWtxzc0t0",
-          "published_at": "2026-10-24T02:23:07Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 2061,
-          "observed_growth_per_hour": 66.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
