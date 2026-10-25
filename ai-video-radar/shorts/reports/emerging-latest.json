@@ -1,56 +1,246 @@
 {
-  "generated_at": "2026-10-25T13:11:23.174386+00:00",
-  "source_snapshot_at": "2026-10-25T13:11:18Z",
-  "source_video_count": 1786,
-  "published_last_24h_with_channel": 223,
-  "shared_name_groups": 4,
-  "independent_claimed_and_same_action_candidates": 0,
+  "generated_at": "2026-10-25T19:02:49.491919+00:00",
+  "source_snapshot_at": "2026-10-25T19:02:43Z",
+  "source_video_count": 1926,
+  "published_last_24h_with_channel": 225,
+  "shared_name_groups": 7,
+  "independent_claimed_and_same_action_candidates": 2,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "#funnyfrog",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
+      "anchor": "tiny toy transforms",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [
+        "transform"
+      ],
+      "classification": "potential_same_action",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 85.0,
+      "examples": [
+        {
+          "title": "🤯 A Tiny Toy Transforms Into Masjid al-Haram 🕋✨ | AI Transformation #Shorts #ai #machenical",
+          "channel": "Ai.x_reels",
+          "channel_id": "UCQKunpYrcdX2G0-P9sZ1_kg",
+          "url": "https://www.youtube.com/watch?v=xGh0lamt40E",
+          "published_at": "2026-10-25T01:58:45Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1821,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        },
+        {
+          "title": "🤯 Tiny Toy Transforms into a Lamborghini! 🚗🔥 | Amazing AI Transformation #Shorts",
+          "channel": "MechaVornix",
+          "channel_id": "UCxHbWoG9qavkYkuEY5bK93w",
+          "url": "https://www.youtube.com/watch?v=a-QPngNRrXc",
+          "published_at": "2026-10-25T08:20:17Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1335,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "box transforms",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [
+        "transform"
+      ],
+      "classification": "potential_same_action",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 84.6,
+      "examples": [
+        {
+          "title": "🤯 A GOLDEN BOX TRANSFORMS INTO A BMW! 🚗✨🔥 #BMW #AITransformation #CarTransformation #LuxuryCars #AI",
+          "channel": "Mr Robot edits",
+          "channel_id": "UCZrTJmU5ROr4xiQygOdG7CQ",
+          "url": "https://www.youtube.com/watch?v=VLu3AagJ9OM",
+          "published_at": "2026-10-25T04:03:52Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1442,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        },
+        {
+          "title": "😱 A Magic Box Transforms into Istanbul’s Famous Blue Mosque! 🕌💙 | AI Transformation",
+          "channel": "Magic Box World",
+          "channel_id": "UCUViy-66N2w_q9hC6__5QYQ",
+          "url": "https://www.youtube.com/watch?v=lbXft2kq1jE",
+          "published_at": "2026-10-25T07:36:08Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1234,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "ko restoration kiya",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "🚘 Rusty BMW M5 Ko Restoration Kiya! 😱🔥 #shorts #trending #bmwm5",
+          "channel": "Vk Magical World",
+          "channel_id": "UCMTrJ-7ZdPIlRJZBQbn4bMA",
+          "url": "https://www.youtube.com/watch?v=JCrHHrWiFqo",
+          "published_at": "2026-10-25T05:32:35Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 468709,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "🚘 Wrecked Lamborghini Huracán Ko Restoration Kiya! 😱🔥 #shorts #restoration #lamborghini",
+          "channel": "Hindi Story world ",
+          "channel_id": "UC9PaPzU_jzYgu4lQFfSx42Q",
+          "url": "https://www.youtube.com/watch?v=pnxPBEfh7Cg",
+          "published_at": "2026-10-25T01:39:17Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1592,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "empty land",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "FROGGY & SNAPPY vs THE GIANT EAGLE... !#funnyfrog #animation #cartoon #funnyanimals #aianimation",
-          "channel": "Funny Animal",
-          "channel_id": "UCBgmLhYjKpItarpCPYmAswA",
-          "url": "https://www.youtube.com/watch?v=vkmsOihfgEo",
-          "published_at": "2026-10-24T13:30:02Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 267092,
+          "title": "Empty Land to Luxury Miniature House 😱🏡 | AI Transformation #Shorts",
+          "channel": "ajay verma",
+          "channel_id": "UCtR6S1_mgCW3nOxTOIcMzMQ",
+          "url": "https://www.youtube.com/watch?v=qK2s2TtBH94",
+          "published_at": "2026-10-25T01:38:37Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1331,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "FUNNY FROG DONKEY BALL CHASE! 🐸 #funnyfrog #cartoon #animation #aianimation #funnyanimals",
-          "channel": "@Global7XMedia",
-          "channel_id": "UCy02HkkY3ycxCuiHrdgNDzQ",
-          "url": "https://www.youtube.com/watch?v=78bswH28cZM",
-          "published_at": "2026-10-24T16:12:43Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 8868,
+          "title": "Beautiful Medina-Style Mosque Built from Empty Land | AI Construction #Shorts #AI #Viral",
+          "channel": "Noor Syad Qawwali Studio ",
+          "channel_id": "UC4XBrVdD2OrP9tIEcU0fUnA",
+          "url": "https://www.youtube.com/watch?v=0LjhJTC3XjY",
+          "published_at": "2026-10-25T01:32:04Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 999,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "my profile",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "😍 My Instagram Profile Got an AI Makeover! ✨🤖 | Trending AI Miniature Trend 💖 #diwali #trending",
+          "channel": "Life With Sayali",
+          "channel_id": "UCdrJF9QSFXCXMWFKt8_lFug",
+          "url": "https://www.youtube.com/watch?v=v34lgEdWMAY",
+          "published_at": "2026-10-25T03:35:33Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 1582,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "#SastaAnimation #3DAnimation #FunnyFrog #CartoonComedy #AIAnimation #Shorts",
-          "channel": "AS Tech With Short",
-          "channel_id": "UCml33pPkDhoKODu-8HJuJ6w",
-          "url": "https://www.youtube.com/watch?v=BvwB74sxbak",
-          "published_at": "2026-10-25T00:50:27Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 1774,
+          "title": "😱 My Miniature Self Cleaned My Instagram Profile! ✨ | AI Video Trend #Shorts #viralvideo #trending",
+          "channel": "Nidhi Vishal Singh",
+          "channel_id": "UCtpla5Zr7khZ0JYG0-4CTcA",
+          "url": "https://www.youtube.com/watch?v=dmVUEu6riqs",
+          "published_at": "2026-10-25T02:13:40Z",
+          "first_seen_at": "2026-10-25T04:40:14Z",
+          "views": 42,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#islamicshorts",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Allah kee madad I AI generated video #viral #shorts #islamicshorts #prayer #india #asia",
+          "channel": "Viral islam0569",
+          "channel_id": "UCQYFD-rjhS1hU5Bl1wIUGoQ",
+          "url": "https://www.youtube.com/watch?v=UkZ-kSBeOcw",
+          "published_at": "2026-10-25T01:00:11Z",
+          "first_seen_at": "2026-10-25T04:40:14Z",
+          "views": 14265,
+          "observed_growth_per_hour": 639.4,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Beautiful Medina-Style Mosque Built from Empty Land | AI Construction #Shorts #AI #Viral",
+          "channel": "Noor Syad Qawwali Studio ",
+          "channel_id": "UC4XBrVdD2OrP9tIEcU0fUnA",
+          "url": "https://www.youtube.com/watch?v=0LjhJTC3XjY",
+          "published_at": "2026-10-25T01:32:04Z",
+          "first_seen_at": "2026-10-25T19:02:43Z",
+          "views": 999,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -60,27 +250,15 @@
     {
       "anchor": "#aimusic",
       "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
+      "near_duplicate_caption_fraction": 0.5,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
-        {
-          "title": "নতুন বছরের পার্টি কে দেবে😁#aishorts #aivideo #aianimation #aimusic",
-          "channel": "Mishtaha Edit's",
-          "channel_id": "UCbIiBZZi3QTFUFkGdlqKwMQ",
-          "url": "https://www.youtube.com/watch?v=aoz9L8wP9s8",
-          "published_at": "2026-10-24T14:28:19Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 3383,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
         {
           "title": "गांव कि शरदपूर्णिमा क्या होता है #ajjubhaiinmymatch #vilog #ai #aivideo #aishorts #aimusic #shorts",
           "channel": "Karan youtuber 11",
@@ -106,97 +284,21 @@
           "actions": []
         }
       ]
-    },
-    {
-      "anchor": "ice cream",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🐍 Ice Cream Bechne Wala Snake 😂🍦 | Funny AI Animation #shorts#viral",
-          "channel": "Snake Masti Shorts",
-          "channel_id": "UC1Z6edjauC905IOKJB49J7g",
-          "url": "https://www.youtube.com/watch?v=05EsIlFON6A",
-          "published_at": "2026-10-25T04:36:17Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 3173,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "AI Kittens Ice Cream Chaos 🤣 Which One Is Your Favorite?  #Shorts #Cats #CuteKittens",
-          "channel": "AI World 002",
-          "channel_id": "UCshM7irAlwZDJMa1zLKJ7YQ",
-          "url": "https://www.youtube.com/watch?v=itdSNcqGX4E",
-          "published_at": "2026-10-24T14:08:46Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 1997,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#wildlife",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "AI Animation Cat Video#cat #pets #3danimation #wildlife #funny #animallife #shortvideo #viral #funny",
-          "channel": "Ai animals video ",
-          "channel_id": "UCVwKQFZU-t_Es4LsMNKWqTg",
-          "url": "https://www.youtube.com/watch?v=T82BXiBEAEc",
-          "published_at": "2026-10-25T03:05:05Z",
-          "first_seen_at": "2026-10-25T13:11:18Z",
-          "views": 1823,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "ai video viral trend #ai #viralvideo #biggboss #kidsvideo #shorts #gadi #ship #wildlife #animals",
-          "channel": "Ai vision",
-          "channel_id": "UCIjYndW2q7n6eKlETcTIM4Q",
-          "url": "https://www.youtube.com/watch?v=VxviP-Sz1WI",
-          "published_at": "2026-10-24T18:03:41Z",
-          "first_seen_at": "2026-10-25T04:40:14Z",
-          "views": 0,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
     }
   ],
   "high_velocity_single_creator_watchlist": [
     {
-      "title": "FROGGY & SNAPPY vs THE GIANT EAGLE... !#funnyfrog #animation #cartoon #funnyanimals #aianimation",
-      "channel": "Funny Animal",
-      "channel_id": "UCBgmLhYjKpItarpCPYmAswA",
-      "url": "https://www.youtube.com/watch?v=vkmsOihfgEo",
-      "published_at": "2026-10-24T13:30:02Z",
-      "first_seen_at": "2026-10-25T13:11:18Z",
-      "views": 267092,
+      "title": "🚘 Rusty BMW M5 Ko Restoration Kiya! 😱🔥 #shorts #trending #bmwm5",
+      "channel": "Vk Magical World",
+      "channel_id": "UCMTrJ-7ZdPIlRJZBQbn4bMA",
+      "url": "https://www.youtube.com/watch?v=JCrHHrWiFqo",
+      "published_at": "2026-10-25T05:32:35Z",
+      "first_seen_at": "2026-10-25T19:02:43Z",
+      "views": 468709,
       "observed_growth_per_hour": null,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
-      "suggested_search_phrase_unverified": "froggy snappy giant eagle",
+      "suggested_search_phrase_unverified": "m5 ko restoration kiya",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"
