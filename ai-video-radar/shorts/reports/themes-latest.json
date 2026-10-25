@@ -1,57 +1,11 @@
 {
-  "built_at": "2026-10-25T04:40:19.618102+00:00",
-  "source_snapshot_at": "2026-10-25T04:40:14Z",
-  "snapshot_video_count": 1657,
+  "built_at": "2026-10-25T13:11:23.055493+00:00",
+  "source_snapshot_at": "2026-10-25T13:11:18Z",
+  "snapshot_video_count": 1786,
   "named_theme_count": 2,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
-    {
-      "theme_id": "a2o_lite_neon",
-      "name": "A2O LITE NEON AI 双人舞蹈",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "替换NEON双人编舞原角色进行动作模仿",
-      "input": "两张获得授权的成年人照片或宠物照片",
-      "risk": "音乐、编舞、角色/艺人肖像与粉丝衍生作品授权",
-      "caution": "10月20日已有生成器教程；作者自标日期并非独立归档首发验证，不能称今天才出现",
-      "existing_before": "2026-10-20",
-      "previous_evidence_url": "https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video",
-      "videos": 2,
-      "channel_count": 2,
-      "claimed_ai_creations": 2,
-      "independent_claimed_creator_count": 2,
-      "max_observed_views": 1340,
-      "first_observed_at": "2026-10-24T18:47:22Z",
-      "examples": [
-        {
-          "video_id": "p1Ifj57Ob_k",
-          "title": "엄슈타인 × 흑수염 (Feat. 로동당) | NEON - A2O LITE) AI Dance cover",
-          "url": "https://www.youtube.com/watch?v=p1Ifj57Ob_k",
-          "channel": "피젝스피너",
-          "channel_id": "UCGpVzKg1fJYnW_KxhnDKm9A",
-          "published_at": "2026-10-24T09:34:41Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 1340,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
-        },
-        {
-          "video_id": "x0dk01lkRFI",
-          "title": "NEON A2O Lite AI Dance Cover with @PolloAI Recast #pollorecast",
-          "url": "https://www.youtube.com/watch?v=x0dk01lkRFI",
-          "channel": "San",
-          "channel_id": "UChWNwNFSGA-XSgrvmSnzSLQ",
-          "published_at": "2026-10-24T05:32:26Z",
-          "first_seen_at": "2026-10-24T18:47:22Z",
-          "views": 1307,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
-        }
-      ]
-    },
     {
       "theme_id": "gangnam_trio",
       "name": "Gangnam Style AI Dance / 三人轮流跳舞",
@@ -63,12 +17,12 @@
       "caution": "商业生成器已经存在；不能把同歌的不同舞蹈自动合并为单一模板",
       "existing_before": "2026-10-12",
       "previous_evidence_url": "https://www.makeviral.ai/templates/gangnam-style-ai-dance",
-      "videos": 2,
-      "channel_count": 2,
-      "claimed_ai_creations": 1,
-      "independent_claimed_creator_count": 1,
-      "max_observed_views": 3651,
-      "first_observed_at": "2026-10-24T12:40:26Z",
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 7276,
+      "first_observed_at": "2026-10-25T04:40:14Z",
       "examples": [
         {
           "video_id": "k0yw-QX44nw",
@@ -78,23 +32,43 @@
           "channel_id": "UCXXggObERrQM-cIv8tkgJMA",
           "published_at": "2026-10-24T13:11:28Z",
           "first_seen_at": "2026-10-25T04:40:14Z",
-          "views": 3651,
-          "observed_growth_per_hour": null,
+          "views": 7276,
+          "observed_growth_per_hour": 425.6,
           "ai_evidence": "解说/教程/资讯",
           "creative_claimed": false
-        },
+        }
+      ]
+    },
+    {
+      "theme_id": "cat_clapping",
+      "name": "Black Cat Clapping / 拍手猫",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "宠物站起并慢拍手",
+      "input": "一张自有宠物照",
+      "risk": "原创素材版权与宠物照片权利",
+      "caution": "9月已出现的存量热门梗，不能把今日二创叫首发",
+      "existing_before": "2026-09-25",
+      "previous_evidence_url": "https://knowyourmeme.com/memes/black-cat-clapping",
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 2469,
+      "first_observed_at": "2026-10-25T13:11:18Z",
+      "examples": [
         {
-          "video_id": "4YlYb56fSOU",
-          "title": "New Ai Trend Dance Video Honey Singh Song 👀#GangnamStyle #OpenGangnamStyle ...",
-          "url": "https://www.youtube.com/watch?v=4YlYb56fSOU",
-          "channel": "Bhunnu Creator Tech Ai",
-          "channel_id": "UC95HCW6E4QVQvgc73Fuit7w",
-          "published_at": "2026-10-24T10:30:02Z",
-          "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 349,
+          "video_id": "_VLTSoArzqg",
+          "title": "Clapping Cat Meme | Green Screen #cat #catmeme #ai #cuteanimals #viral Original Video @merkurianin",
+          "url": "https://www.youtube.com/watch?v=_VLTSoArzqg",
+          "channel": "Itz_dj_ankush ",
+          "channel_id": "UCcqyJHQqs-5FxwLmzxjB5Dw",
+          "published_at": "2026-10-24T14:34:03Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 2469,
           "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
         }
       ]
     }

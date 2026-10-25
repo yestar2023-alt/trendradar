@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-10-25T04:40:19.724312+00:00",
-  "source_snapshot_at": "2026-10-25T04:40:14Z",
-  "source_video_count": 1657,
-  "published_last_24h_with_channel": 284,
+  "generated_at": "2026-10-25T13:11:23.174386+00:00",
+  "source_snapshot_at": "2026-10-25T13:11:18Z",
+  "source_video_count": 1786,
+  "published_last_24h_with_channel": 223,
   "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
+    {
+      "anchor": "#funnyfrog",
+      "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "FROGGY & SNAPPY vs THE GIANT EAGLE... !#funnyfrog #animation #cartoon #funnyanimals #aianimation",
+          "channel": "Funny Animal",
+          "channel_id": "UCBgmLhYjKpItarpCPYmAswA",
+          "url": "https://www.youtube.com/watch?v=vkmsOihfgEo",
+          "published_at": "2026-10-24T13:30:02Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 267092,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "FUNNY FROG DONKEY BALL CHASE! 🐸 #funnyfrog #cartoon #animation #aianimation #funnyanimals",
+          "channel": "@Global7XMedia",
+          "channel_id": "UCy02HkkY3ycxCuiHrdgNDzQ",
+          "url": "https://www.youtube.com/watch?v=78bswH28cZM",
+          "published_at": "2026-10-24T16:12:43Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 8868,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "#SastaAnimation #3DAnimation #FunnyFrog #CartoonComedy #AIAnimation #Shorts",
+          "channel": "AS Tech With Short",
+          "channel_id": "UCml33pPkDhoKODu-8HJuJ6w",
+          "url": "https://www.youtube.com/watch?v=BvwB74sxbak",
+          "published_at": "2026-10-25T00:50:27Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 1774,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
     {
       "anchor": "#aimusic",
       "anchor_type": "tag",
@@ -16,17 +66,17 @@
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
       "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": false,
+      "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "#chatgpt #chatgptprompts #aigenerated #aivideo #aishorts #aimusic #viralshorts #youtubeshorts #trend",
-          "channel": "𝑹𝒐𝒄𝒌𝒔𝒕𝒂𝒓🕉️𝑵𝒆𝒉𝒂 𝑮𝒖𝒑𝒕𝒂🎸",
-          "channel_id": "UChJnWTOSApUygb_wE-IMPJA",
-          "url": "https://www.youtube.com/watch?v=LOr92bCu4i0",
-          "published_at": "2026-10-24T11:35:48Z",
-          "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 4,
+          "title": "নতুন বছরের পার্টি কে দেবে😁#aishorts #aivideo #aianimation #aimusic",
+          "channel": "Mishtaha Edit's",
+          "channel_id": "UCbIiBZZi3QTFUFkGdlqKwMQ",
+          "url": "https://www.youtube.com/watch?v=aoz9L8wP9s8",
+          "published_at": "2026-10-24T14:28:19Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 3383,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -58,37 +108,63 @@
       ]
     },
     {
-      "anchor": "#wildlife",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
+      "anchor": "ice cream",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
-          "channel": "Funny Tales",
-          "channel_id": "UCxm8-5KooY9UHyXqxF5Sf8g",
-          "url": "https://www.youtube.com/watch?v=ZtA2KpVXcZI",
-          "published_at": "2026-10-24T07:25:01Z",
-          "first_seen_at": "2026-10-24T22:28:25Z",
-          "views": 2193,
-          "observed_growth_per_hour": 5.8,
+          "title": "🐍 Ice Cream Bechne Wala Snake 😂🍦 | Funny AI Animation #shorts#viral",
+          "channel": "Snake Masti Shorts",
+          "channel_id": "UC1Z6edjauC905IOKJB49J7g",
+          "url": "https://www.youtube.com/watch?v=05EsIlFON6A",
+          "published_at": "2026-10-25T04:36:17Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 3173,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
-          "channel": "cartoon mama Tv",
-          "channel_id": "UCNbAXsue3_Iw0S2MHt2FPaw",
-          "url": "https://www.youtube.com/watch?v=NCvTLWzaw3o",
-          "published_at": "2026-10-24T06:53:44Z",
-          "first_seen_at": "2026-10-24T22:28:25Z",
-          "views": 935,
+          "title": "AI Kittens Ice Cream Chaos 🤣 Which One Is Your Favorite?  #Shorts #Cats #CuteKittens",
+          "channel": "AI World 002",
+          "channel_id": "UCshM7irAlwZDJMa1zLKJ7YQ",
+          "url": "https://www.youtube.com/watch?v=itdSNcqGX4E",
+          "published_at": "2026-10-24T14:08:46Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 1997,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#wildlife",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "AI Animation Cat Video#cat #pets #3danimation #wildlife #funny #animallife #shortvideo #viral #funny",
+          "channel": "Ai animals video ",
+          "channel_id": "UCVwKQFZU-t_Es4LsMNKWqTg",
+          "url": "https://www.youtube.com/watch?v=T82BXiBEAEc",
+          "published_at": "2026-10-25T03:05:05Z",
+          "first_seen_at": "2026-10-25T13:11:18Z",
+          "views": 1823,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -106,83 +182,24 @@
           "actions": []
         }
       ]
-    },
-    {
-      "anchor": "#explorepage",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "#ai #aivideo #funny #aianimation #trendingreels #funny #fyp #instagram #fypage #explorepage #trend",
-          "channel": "ToonyTots Kids",
-          "channel_id": "UCT5XoMrZMfWxsellJGhkC9Q",
-          "url": "https://www.youtube.com/watch?v=J2Nod6nkAmM",
-          "published_at": "2026-10-24T06:31:31Z",
-          "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 0,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "3. \"जब हाथी ने नखरा किया! 🐘✨\"#shorts #trending #ai #aivideo #hindistory #vairalvideo #trend #kahani",
-          "channel": "AI VAIRAL STUDIO 🪱🐸",
-          "channel_id": "UCXhbHLHrfCxNXiXRtg12UiQ",
-          "url": "https://www.youtube.com/watch?v=o7Dxwlb2qWA",
-          "published_at": "2026-10-25T04:10:36Z",
-          "first_seen_at": "2026-10-25T04:40:14Z",
-          "views": 0,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#romantic",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Sana, episode 14#shorts#shortvideo #trending #viral#ai animation #love #romantic",
-          "channel": "Tales of Sana\n\n",
-          "channel_id": "UCAUbYWwoRDUAuaaJcbIKBEA",
-          "url": "https://www.youtube.com/watch?v=OCPHv8wfgxc",
-          "published_at": "2026-10-24T12:30:28Z",
-          "first_seen_at": "2026-10-24T22:28:25Z",
-          "views": 2481,
-          "observed_growth_per_hour": 22.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "romantic Cafe date #aishorts #aivideo #romantic #cafe #aishorts #shortvideo #shorts #myvideo #trend",
-          "channel": "Aistorybyruk ",
-          "channel_id": "UCFJLYup4i7nMtR3VCnuo8_Q",
-          "url": "https://www.youtube.com/watch?v=x9xh2C-2hcw",
-          "published_at": "2026-10-24T07:40:56Z",
-          "first_seen_at": "2026-10-24T12:40:26Z",
-          "views": 729,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "FROGGY & SNAPPY vs THE GIANT EAGLE... !#funnyfrog #animation #cartoon #funnyanimals #aianimation",
+      "channel": "Funny Animal",
+      "channel_id": "UCBgmLhYjKpItarpCPYmAswA",
+      "url": "https://www.youtube.com/watch?v=vkmsOihfgEo",
+      "published_at": "2026-10-24T13:30:02Z",
+      "first_seen_at": "2026-10-25T13:11:18Z",
+      "views": 267092,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "froggy snappy giant eagle",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 # AI Shorts 新玩法归组与独立模仿证据（自动候选）
 
-- 数据时间（北京）：2026-10-25 12:40
+- 数据时间（北京）：2026-10-25 21:11
 - 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询
-- 保存的历史状态池：1657 条；仅使用最近24小时发布的视频归组为 2 个主题
+- 保存的历史状态池：1786 条；仅使用最近24小时发布的视频归组为 2 个主题
 - 有两个及以上独立账号文字自述AI的**候选主题**：0（不等于同一玩法的模仿已证实）
 - 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**
 
@@ -13,33 +13,31 @@
 
 ## 窄义玩法候选与历史
 
-### 1. A2O LITE NEON AI 双人舞蹈
+### 1. Gangnam Style AI Dance / 三人轮流跳舞
 
 - 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
-- 近期匹配视频：2；不同频道：2；文字自述AI的视频：2；其中独立作者频道：2
-- 最大单条观测播放量：1340；首次系统观察：2026-10-25 02:47（不等于真实首发）
-- 可复刻概念：替换NEON双人编舞原角色进行动作模仿；输入素材：两张获得授权的成年人照片或宠物照片
-- 混淆与排除：10月20日已有生成器教程；作者自标日期并非独立归档首发验证，不能称今天才出现；风险：音乐、编舞、角色/艺人肖像与粉丝衍生作品授权
-- **不属于今日新发现玩法的历史证据：** 不晚于 2026-10-20 已有相关内容或商业页面（不能推断真正起源），[https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video](https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video)
-
-| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
-|---|---|---|---|---:|---|---:|
-| 피젝스피너 | [엄슈타인 × 흑수염 (Feat. 로동당) / NEON - A2O LITE) AI Dance cover](https://www.youtube.com/watch?v=p1Ifj57Ob_k) | 2026-10-24 17:34 | 2026-10-25 02:47 | 1340 | 作者文字/标签自述AI | 待多次采样 |
-| San | [NEON A2O Lite AI Dance Cover with @PolloAI Recast #pollorecast](https://www.youtube.com/watch?v=x0dk01lkRFI) | 2026-10-24 13:32 | 2026-10-25 02:47 | 1307 | 作者文字/标签自述AI | 待多次采样 |
-
-### 2. Gangnam Style AI Dance / 三人轮流跳舞
-
-- 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
-- 近期匹配视频：2；不同频道：2；文字自述AI的视频：1；其中独立作者频道：1
-- 最大单条观测播放量：3651；首次系统观察：2026-10-24 20:40（不等于真实首发）
+- 近期匹配视频：1；不同频道：1；文字自述AI的视频：0；其中独立作者频道：0
+- 最大单条观测播放量：7276；首次系统观察：2026-10-25 12:40（不等于真实首发）
 - 可复刻概念：三人轮流跟随舞蹈动作；输入素材：一至三张成年人授权照片
 - 混淆与排除：商业生成器已经存在；不能把同歌的不同舞蹈自动合并为单一模板；风险：歌曲音乐版权与原舞蹈素材授权
 - **不属于今日新发现玩法的历史证据：** 不晚于 2026-10-12 已有相关内容或商业页面（不能推断真正起源），[https://www.makeviral.ai/templates/gangnam-style-ai-dance](https://www.makeviral.ai/templates/gangnam-style-ai-dance)
 
 | 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
 |---|---|---|---|---:|---|---:|
-| ShivamAI | [​How to Create Viral AI Video Using Google Flow 🔥 #shorts #trending #aivideo #ai #gangnamstyle](https://www.youtube.com/watch?v=k0yw-QX44nw) | 2026-10-24 21:11 | 2026-10-25 12:40 | 3651 | 解说/教程/资讯 | 待多次采样 |
-| Bhunnu Creator Tech Ai | [New Ai Trend Dance Video Honey Singh Song 👀#GangnamStyle #OpenGangnamStyle ...](https://www.youtube.com/watch?v=4YlYb56fSOU) | 2026-10-24 18:30 | 2026-10-24 20:40 | 349 | 作者文字/标签自述AI | 待多次采样 |
+| ShivamAI | [​How to Create Viral AI Video Using Google Flow 🔥 #shorts #trending #aivideo #ai #gangnamstyle](https://www.youtube.com/watch?v=k0yw-QX44nw) | 2026-10-24 21:11 | 2026-10-25 12:40 | 7276 | 解说/教程/资讯 | 425.6 |
+
+### 2. Black Cat Clapping / 拍手猫
+
+- 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
+- 近期匹配视频：1；不同频道：1；文字自述AI的视频：0；其中独立作者频道：0
+- 最大单条观测播放量：2469；首次系统观察：2026-10-25 21:11（不等于真实首发）
+- 可复刻概念：宠物站起并慢拍手；输入素材：一张自有宠物照
+- 混淆与排除：9月已出现的存量热门梗，不能把今日二创叫首发；风险：原创素材版权与宠物照片权利
+- **不属于今日新发现玩法的历史证据：** 不晚于 2026-09-25 已有相关内容或商业页面（不能推断真正起源），[https://knowyourmeme.com/memes/black-cat-clapping](https://knowyourmeme.com/memes/black-cat-clapping)
+
+| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
+|---|---|---|---|---:|---|---:|
+| Itz_dj_ankush  | [Clapping Cat Meme / Green Screen #cat #catmeme #ai #cuteanimals #viral Original Video @merkurianin](https://www.youtube.com/watch?v=_VLTSoArzqg) | 2026-10-24 22:34 | 2026-10-25 21:11 | 2469 | AI制作未核实 | 待多次采样 |
 
 ## 单条超过100万播放，但尚未匹配具体玩法的 AI 自述视频
 

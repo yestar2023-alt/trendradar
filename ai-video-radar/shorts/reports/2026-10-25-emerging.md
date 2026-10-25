@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-25 12:40
-- 数据库视频：1657；24小时内且有频道ID的非教程候选：284
+- 最新成功快照（北京）：2026-10-25 21:11
+- 数据库视频：1786；24小时内且有频道ID的非教程候选：223
 - 自动发现跨账号同名/同词线索：4
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -13,31 +13,31 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #aimusic
+### 1. #funnyfrog
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：3；视频：3
 - 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| 𝑹𝒐𝒄𝒌𝒔𝒕𝒂𝒓🕉️𝑵𝒆𝒉𝒂 𝑮𝒖𝒑𝒕𝒂🎸 | [#chatgpt #chatgptprompts #aigenerated #aivideo #aishorts #aimusic #viralshorts #youtubeshorts #trend](https://www.youtube.com/watch?v=LOr92bCu4i0) | 2026-10-24 19:35 | 2026-10-24 20:40 | 4 | 待多次采样 | 作者文字自述AI |
+| Funny Animal | [FROGGY & SNAPPY vs THE GIANT EAGLE... !#funnyfrog #animation #cartoon #funnyanimals #aianimation](https://www.youtube.com/watch?v=vkmsOihfgEo) | 2026-10-24 21:30 | 2026-10-25 21:11 | 267092 | 待多次采样 | 作者文字自述AI |
+| @Global7XMedia | [FUNNY FROG DONKEY BALL CHASE! 🐸 #funnyfrog #cartoon #animation #aianimation #funnyanimals](https://www.youtube.com/watch?v=78bswH28cZM) | 2026-10-25 00:12 | 2026-10-25 21:11 | 8868 | 待多次采样 | 作者文字自述AI |
+| AS Tech With Short | [#SastaAnimation #3DAnimation #FunnyFrog #CartoonComedy #AIAnimation #Shorts](https://www.youtube.com/watch?v=BvwB74sxbak) | 2026-10-25 08:50 | 2026-10-25 21:11 | 1774 | 待多次采样 | 作者文字自述AI |
+
+### 2. #aimusic
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：3；其中AI文字自述频道：3；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Mishtaha Edit's | [নতুন বছরের পার্টি কে দেবে😁#aishorts #aivideo #aianimation #aimusic](https://www.youtube.com/watch?v=aoz9L8wP9s8) | 2026-10-24 22:28 | 2026-10-25 21:11 | 3383 | 待多次采样 | 作者文字自述AI |
 | Karan youtuber 11 | [गांव कि शरदपूर्णिमा क्या होता है #ajjubhaiinmymatch #vilog #ai #aivideo #aishorts #aimusic #shorts](https://www.youtube.com/watch?v=mlw9KUXBZH0) | 2026-10-25 11:23 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
 | village vlogger  | [ai trend// new ai video//#aivideo #aimusic #aishorts #aianimation #ahorts #musicalai](https://www.youtube.com/watch?v=pNOjn1DxuZo) | 2026-10-25 11:32 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 2. #wildlife
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Funny Tales | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=ZtA2KpVXcZI) | 2026-10-24 15:25 | 2026-10-25 06:28 | 2193 | 5.8 | 作者文字自述AI |
-| cartoon mama Tv | [Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=NCvTLWzaw3o) | 2026-10-24 14:53 | 2026-10-25 06:28 | 935 | 待多次采样 | 作者文字自述AI |
-| Ai vision | [ai video viral trend #ai #viralvideo #biggboss #kidsvideo #shorts #gadi #ship #wildlife #animals](https://www.youtube.com/watch?v=VxviP-Sz1WI) | 2026-10-25 02:03 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
-
-### 3. #explorepage
+### 3. ice cream
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -45,10 +45,10 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ToonyTots Kids | [#ai #aivideo #funny #aianimation #trendingreels #funny #fyp #instagram #fypage #explorepage #trend](https://www.youtube.com/watch?v=J2Nod6nkAmM) | 2026-10-24 14:31 | 2026-10-24 20:40 | 0 | 待多次采样 | 作者文字自述AI |
-| AI VAIRAL STUDIO 🪱🐸 | [3. "जब हाथी ने नखरा किया! 🐘✨"#shorts #trending #ai #aivideo #hindistory #vairalvideo #trend #kahani](https://www.youtube.com/watch?v=o7Dxwlb2qWA) | 2026-10-25 12:10 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
+| Snake Masti Shorts | [🐍 Ice Cream Bechne Wala Snake 😂🍦 / Funny AI Animation #shorts#viral](https://www.youtube.com/watch?v=05EsIlFON6A) | 2026-10-25 12:36 | 2026-10-25 21:11 | 3173 | 待多次采样 | 作者文字自述AI |
+| AI World 002 | [AI Kittens Ice Cream Chaos 🤣 Which One Is Your Favorite?  #Shorts #Cats #CuteKittens](https://www.youtube.com/watch?v=itdSNcqGX4E) | 2026-10-24 22:08 | 2026-10-25 21:11 | 1997 | 待多次采样 | 作者文字自述AI |
 
-### 4. #romantic
+### 4. #wildlife
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -56,14 +56,14 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Tales of Sana   | [Sana, episode 14#shorts#shortvideo #trending #viral#ai animation #love #romantic](https://www.youtube.com/watch?v=OCPHv8wfgxc) | 2026-10-24 20:30 | 2026-10-25 06:28 | 2481 | 22.9 | 作者文字自述AI |
-| Aistorybyruk  | [romantic Cafe date #aishorts #aivideo #romantic #cafe #aishorts #shortvideo #shorts #myvideo #trend](https://www.youtube.com/watch?v=x9xh2C-2hcw) | 2026-10-24 15:40 | 2026-10-24 20:40 | 729 | 待多次采样 | 作者文字自述AI |
+| Ai animals video  | [AI Animation Cat Video#cat #pets #3danimation #wildlife #funny #animallife #shortvideo #viral #funny](https://www.youtube.com/watch?v=T82BXiBEAEc) | 2026-10-25 11:05 | 2026-10-25 21:11 | 1823 | 待多次采样 | 作者文字自述AI |
+| Ai vision | [ai video viral trend #ai #viralvideo #biggboss #kidsvideo #shorts #gadi #ship #wildlife #animals](https://www.youtube.com/watch?v=VxviP-Sz1WI) | 2026-10-25 02:03 | 2026-10-25 12:40 | 0 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| Funny Animal | [FROGGY & SNAPPY vs THE GIANT EAGLE... !#funnyfrog #animation #cartoon #funnyanimals #aianimation](https://www.youtube.com/watch?v=vkmsOihfgEo) | 10万级早期观察，不是爆款 | 2026-10-24 21:30 | 2026-10-25 21:11 | 267092 | 待二次采样 |
 
 ## 人工核验清单
 
