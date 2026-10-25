@@ -1,7 +1,7 @@
 {
-  "built_at": "2026-10-25T19:02:49.360934+00:00",
-  "source_snapshot_at": "2026-10-25T19:02:43Z",
-  "snapshot_video_count": 1926,
+  "built_at": "2026-10-25T22:33:05.168167+00:00",
+  "source_snapshot_at": "2026-10-25T22:33:00Z",
+  "snapshot_video_count": 2053,
   "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
@@ -21,7 +21,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 4695,
+      "max_observed_views": 6083,
       "first_observed_at": "2026-10-25T19:02:43Z",
       "examples": [
         {
@@ -32,8 +32,8 @@
           "channel_id": "UC_ogwBJF31rF6JcPrx0cmNA",
           "published_at": "2026-10-25T03:54:36Z",
           "first_seen_at": "2026-10-25T19:02:43Z",
-          "views": 4695,
-          "observed_growth_per_hour": null,
+          "views": 6083,
+          "observed_growth_per_hour": 396.0,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
