@@ -1,44 +1,10 @@
 {
-  "built_at": "2026-10-25T22:33:05.168167+00:00",
-  "source_snapshot_at": "2026-10-25T22:33:00Z",
-  "snapshot_video_count": 2053,
-  "named_theme_count": 1,
+  "built_at": "2026-10-26T04:46:08.522584+00:00",
+  "source_snapshot_at": "2026-10-26T04:46:03Z",
+  "snapshot_video_count": 2181,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "cat_clapping",
-      "name": "Black Cat Clapping / 拍手猫",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "宠物站起并慢拍手",
-      "input": "一张自有宠物照",
-      "risk": "原创素材版权与宠物照片权利",
-      "caution": "9月已出现的存量热门梗，不能把今日二创叫首发",
-      "existing_before": "2026-09-25",
-      "previous_evidence_url": "https://knowyourmeme.com/memes/black-cat-clapping",
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 6083,
-      "first_observed_at": "2026-10-25T19:02:43Z",
-      "examples": [
-        {
-          "video_id": "_lDAYrB_UqQ",
-          "title": "Ranking The Best Clapping Cat Memes",
-          "url": "https://www.youtube.com/watch?v=_lDAYrB_UqQ",
-          "channel": "Hulio",
-          "channel_id": "UC_ogwBJF31rF6JcPrx0cmNA",
-          "published_at": "2026-10-25T03:54:36Z",
-          "first_seen_at": "2026-10-25T19:02:43Z",
-          "views": 6083,
-          "observed_growth_per_hour": 396.0,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }
