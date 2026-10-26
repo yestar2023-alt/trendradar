@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-26 12:46
-- 数据库视频：2181；24小时内且有频道ID的非教程候选：266
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-10-26 23:11
+- 数据库视频：2320；24小时内且有频道ID的非教程候选：174
+- 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #tamilshorts
+### 1. #motivation
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：2；视频：3
@@ -21,23 +21,11 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Saisaranvlogs-Tamil | [😁Thambi papakku nalla thamizh peraa vekkalama #shorts #minivlog #viralshorts #tamilshorts](https://www.youtube.com/watch?v=7KydZBk3U_c) | 2026-10-25 20:54 | 2026-10-26 03:02 | 1601396 | 26,186.4 | AI制作未验证 |
-| நிலவின் நாட்குறிப்பு📜 | [🌧️ மழையும் பேப்பர் கப்பலும் ⛵💛 #TamilShorts #TamilAnimation #FamilyStory #AIAnimation #YouTubeShorts](https://www.youtube.com/watch?v=ycnVz9FgOu0) | 2026-10-25 20:47 | 2026-10-26 12:46 | 11010 | 待多次采样 | 作者文字自述AI |
-| Manjula Patti | [Manjula Patti Dance - Part 3 / #tamil #tamilshorts #aishorts #comedy #aianimation #funny](https://www.youtube.com/watch?v=bCInCRUPpms) | 2026-10-25 17:30 | 2026-10-26 12:46 | 1438 | 待多次采样 | 作者文字自述AI |
-
-### 2. #motivation
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| VIRTUAL_554 | [Ai got the meme wrong 😭 #animation #quotes #motivation #inspiration #minecraft](https://www.youtube.com/watch?v=drXBhgad-f0) | 2026-10-25 14:55 | 2026-10-26 03:02 | 1167 | 待多次采样 | AI制作未验证 |
+|  Heart of Hope | [Tali beras ini dicari oleh pemuda ini #life #motivation #furniture #wood #interiordesign](https://www.youtube.com/watch?v=0xOsCY33eGA) | 2026-10-26 07:10 | 2026-10-26 23:11 | 1381850 | 待多次采样 | AI制作未验证 |
 | DEVIL1237 | [25 October 2026. #viral #devil1237 #shorts #motivation #discipline #ojhasirmotivation #ai  #aivideo](https://www.youtube.com/watch?v=grIlEW5Tcm4) | 2026-10-26 00:38 | 2026-10-26 06:33 | 494 | 待多次采样 | 作者文字自述AI |
 | Amit Tiwari | [Chhath flute 🪈🙏🚩 #motivation #motivational #chhathpuja #shorts #shortvideo #trending #ai](https://www.youtube.com/watch?v=AzyC3AhAG4A) | 2026-10-26 00:49 | 2026-10-26 06:33 | 50 | 待多次采样 | 作者文字自述AI |
 
-### 3. #revenge
+### 2. #revenge
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -52,7 +40,7 @@
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| Vk Magical World | [🚘 Rusty BMW M5 Ko Restoration Kiya! 😱🔥 #shorts #trending #bmwm5](https://www.youtube.com/watch?v=JCrHHrWiFqo) | 10万级早期观察，不是爆款 | 2026-10-25 13:32 | 2026-10-26 03:02 | 780940 | 44,120.8 |
+| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
 
 ## 人工核验清单
 
