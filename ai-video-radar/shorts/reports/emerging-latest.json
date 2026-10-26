@@ -1,100 +1,11 @@
 {
-  "generated_at": "2026-10-26T15:11:48.363272+00:00",
-  "source_snapshot_at": "2026-10-26T15:11:37Z",
-  "source_video_count": 2320,
-  "published_last_24h_with_channel": 174,
-  "shared_name_groups": 2,
+  "generated_at": "2026-10-26T21:00:46.616726+00:00",
+  "source_snapshot_at": "2026-10-26T21:00:40Z",
+  "source_video_count": 2456,
+  "published_last_24h_with_channel": 224,
+  "shared_name_groups": 0,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [
-    {
-      "anchor": "#motivation",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Tali beras ini dicari oleh pemuda ini #life #motivation #furniture #wood #interiordesign",
-          "channel": " Heart of Hope",
-          "channel_id": "UCgKZExqetp8FnaY70xSOY_A",
-          "url": "https://www.youtube.com/watch?v=0xOsCY33eGA",
-          "published_at": "2026-10-25T23:10:08Z",
-          "first_seen_at": "2026-10-26T15:11:37Z",
-          "views": 1381850,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "25 October 2026. #viral #devil1237 #shorts #motivation #discipline #ojhasirmotivation #ai  #aivideo",
-          "channel": "DEVIL1237",
-          "channel_id": "UCSxl2EYGuQSwEGhbOSF9tFA",
-          "url": "https://www.youtube.com/watch?v=grIlEW5Tcm4",
-          "published_at": "2026-10-25T16:38:05Z",
-          "first_seen_at": "2026-10-25T22:33:00Z",
-          "views": 494,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Chhath flute 🪈🙏🚩 #motivation #motivational #chhathpuja #shorts #shortvideo #trending #ai",
-          "channel": "Amit Tiwari",
-          "channel_id": "UCCvORQX0zc80P8tzeoOqpow",
-          "url": "https://www.youtube.com/watch?v=AzyC3AhAG4A",
-          "published_at": "2026-10-25T16:49:40Z",
-          "first_seen_at": "2026-10-25T22:33:00Z",
-          "views": 50,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#revenge",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "CHATGPT IS SICK OF HUMANS! 😂 Even AI Needs A Day Off #aivideo #chatgpt #funny #viral #trend #ai",
-          "channel": "Ai Era",
-          "channel_id": "UC9Wm4yGbHxgVqi3SNSwmjDg",
-          "url": "https://www.youtube.com/watch?v=sOI_rgkZhPc",
-          "published_at": "2026-10-25T17:10:46Z",
-          "first_seen_at": "2026-10-25T22:33:00Z",
-          "views": 541,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "dhoka diya tum ne 😞#romantic #revenge #lovestory #ai #trend #viral #youtubeshorts #aivideo",
-          "channel": "SJ STAR ASSAM ",
-          "channel_id": "UCzJvQjKez5JQf0V39VenpQw",
-          "url": "https://www.youtube.com/watch?v=QQXFGXHQDg4",
-          "published_at": "2026-10-25T16:44:20Z",
-          "first_seen_at": "2026-10-25T22:33:00Z",
-          "views": 14,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    }
-  ],
+  "cross_creator_groups": [],
   "high_velocity_single_creator_watchlist": []
 }
