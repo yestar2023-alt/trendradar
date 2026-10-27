@@ -150,6 +150,23 @@ class RadarTests(unittest.TestCase):
             self.assertEqual(radar.persist_all_new_urls(root,'2026-10-24',one),2)
             self.assertTrue((root/'reports'/'latest-all-new-urls.csv').exists())
 
+    def test_create_only_delta_is_archived_but_not_a_keyword(self):
+        src={**SRC,'use_sitemap':False}
+        cfg={**CFG,'sources':[src]}
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder)
+            radar.run(root,cfg,FakeFetcher(pages([BASE+'/templates/old'])))
+            radar.run(root,cfg,FakeFetcher(pages([
+                BASE+'/templates/old',BASE+'/templates/old/create'])))
+            report=(root/'reports'/'latest.md').read_text()
+            self.assertIn('新 URL：1 条',report)
+            self.assertNotIn('old create |',report)
+            import csv
+            with next((root/'reports').glob('*-all-new-urls.csv')).open(
+                encoding='utf-8-sig',newline='') as handle:
+                rows=list(csv.DictReader(handle))
+            self.assertEqual(rows[0]['url_type'],'create_flow_not_new_template_proof')
+
     def test_clean_and_same_host_only(self):
         self.assertEqual(radar.clean_url(BASE+'/templates/test/?utm=1'),BASE+'/templates/test')
         self.assertFalse(radar.allowed_host('https://example.test.evil.org/index.xml',BASE))
