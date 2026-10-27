@@ -1,11 +1,104 @@
 {
-  "generated_at": "2026-10-26T21:00:46.616726+00:00",
-  "source_snapshot_at": "2026-10-26T21:00:40Z",
-  "source_video_count": 2456,
-  "published_last_24h_with_channel": 224,
-  "shared_name_groups": 0,
+  "generated_at": "2026-10-27T05:03:32.728324+00:00",
+  "source_snapshot_at": "2026-10-27T05:03:27Z",
+  "source_video_count": 2576,
+  "published_last_24h_with_channel": 231,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [],
+  "cross_creator_groups": [
+    {
+      "anchor": "#aitools",
+      "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 2,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Turn any long video into clip and go viral 😱 check it out  #aitools",
+          "channel": "Tushar Jethva",
+          "channel_id": "UCboS_dFt0AgJbDTpk4sS6vQ",
+          "url": "https://www.youtube.com/watch?v=4IGROyuih6s",
+          "published_at": "2026-10-26T13:47:50Z",
+          "first_seen_at": "2026-10-27T05:03:27Z",
+          "views": 5312,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "turn"
+          ]
+        },
+        {
+          "title": "Turn 1 Hour Videos Into Viral Shorts With AI 🤯 #Shorts #aiwebsites #aitools",
+          "channel": "Ai with isha ",
+          "channel_id": "UCrKY997WABZELBCY-k49yXg",
+          "url": "https://www.youtube.com/watch?v=zAnD9k1Bq8I",
+          "published_at": "2026-10-26T09:28:27Z",
+          "first_seen_at": "2026-10-26T15:11:37Z",
+          "views": 1257,
+          "observed_growth_per_hour": 4.2,
+          "ai_evidence": "AI制作未验证",
+          "actions": [
+            "turn"
+          ]
+        },
+        {
+          "title": "पहली 3 सेकंड में वायरल होने का सीक्रेट! 🚀",
+          "channel": "Storyk",
+          "channel_id": "UCWRLwh43mxBLoj60U1IajXg",
+          "url": "https://www.youtube.com/watch?v=QPJVPyj36YY",
+          "published_at": "2026-10-26T14:10:33Z",
+          "first_seen_at": "2026-10-27T05:03:27Z",
+          "views": 365,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#emotional",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Aadmi k Liye Allah Tala ki madad #emotional #aivideo #shortvideo #trendingshorts #viral #trend",
+          "channel": "Viral Emotion",
+          "channel_id": "UCU9mg6g2wiCMc_SOQaH7qGg",
+          "url": "https://www.youtube.com/watch?v=Irv-vF1dDA8",
+          "published_at": "2026-10-27T01:00:33Z",
+          "first_seen_at": "2026-10-27T05:03:27Z",
+          "views": 277,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Bahu ne banaya 56 bhog #recipe #saasbahu #serial #emotional #aivideo #trend #shorts #yt #lateupload",
+          "channel": "Khatarnak Bahu ",
+          "channel_id": "UCJ6KYMGadykWcZV81n_6fkw",
+          "url": "https://www.youtube.com/watch?v=HAkW6b9pHb0",
+          "published_at": "2026-10-26T13:45:40Z",
+          "first_seen_at": "2026-10-26T15:11:37Z",
+          "views": 239,
+          "observed_growth_per_hour": 7.6,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    }
+  ],
   "high_velocity_single_creator_watchlist": []
 }
