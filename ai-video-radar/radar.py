@@ -152,8 +152,9 @@ def scan_sitemap(src, fetcher, config):
     defaults = [base.rstrip('/') + p for p in ('/sitemap.xml', '/sitemap_index.xml', '/sitemap-index.xml')]
     # Try declared ones first; fallback if none are accessible.
     roots = declared if declared else defaults
-    last_error = ''; children = 0
+    last_error = ''
     for initial in (roots, defaults) if declared else (roots,):
+        children = 0  # Each fallback attempt has its own sitemap-document budget.
         queue = list(dict.fromkeys(initial)); visited = set(); urls = {}; found_root = False
         missing_child = False
         while queue:
@@ -421,7 +422,9 @@ def run(root, cfg, fetcher):
     # Do not silently lose URLs beyond max_detail_pages_per_run. Save raw deltas
     # first, then prefer actual template/guide pages over /create button routes.
     raw_urls_saved=persist_all_new_urls(root,today,changes)
-    ordered_changes=sorted(changes.items(),key=lambda pair:(url_is_create_flow(pair[0]),pair[0]))
+    # Keep /create operations in the raw audit CSV, but never promote them to
+    # keyword candidates: they are button destinations, not new trend pages.
+    ordered_changes=sorted(((u,item) for u,item in changes.items() if not url_is_create_flow(u)),key=lambda pair:pair[0])
     candidates={}
     for url,item in ordered_changes[:cfg.get('max_detail_pages_per_run',30)]:
         title,verified=title_for_url(url,item['entry'],fetcher)
