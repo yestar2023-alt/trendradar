@@ -367,7 +367,7 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
     lines += ['','可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。','']
     lines+=['## 各站检查状态','', '| 来源 | Sitemap | 模板/榜单列表 |','|---|---|---|']
     for r in checks: lines.append(f'| {r["name"]} | {r["sitemap"].replace("|","/")} | {r["listing"].replace("|","/")} |')
-    lines+=['','## 说明','', '首次成功抓取只建立基线，不产生新增词。部分网站是 JS 动态页面，HTML/Sitemap 可能不公开，失败会如实显示。Sitemap `lastmod` 仅作为修改时间参考，不作为发布日期。','']
+    lines+=['','逐站采集详情及基线/不可用状态见 [health-latest.csv](health-latest.csv)。频道不可用不等于 0 新增。','','## 说明','', '首次成功抓取只建立基线，不产生新增词。部分网站是 JS 动态页面，HTML/Sitemap 可能不公开，失败会如实显示。Sitemap `lastmod` 仅作为修改时间参考，不作为发布日期。','']
     content='\n'.join(lines)
     daily_md = reports / (today + '.md')
     if candidates or not daily_md.exists():
@@ -396,20 +396,26 @@ def run(root, cfg, fetcher):
     statefile=root/'data'/'state.json.gz'; state=load_state(statefile)
     state.setdefault('sites',{});state.setdefault('first_seen_topics',{})
     checks=[]; changes={}; new_count=0; ok=bad=0
+    health=[]
     for site in cfg['sources']:
         sid=site['id']; current=state['sites'].setdefault(sid,{'channels':{}})
         sitemap, s_status=scan_sitemap(site,fetcher,cfg)
         listing, l_status, listing_paths=scan_listing(site,fetcher)
+        channel_health={}
         for channel, result in [('sitemap',sitemap),('listing',listing)]:
             if result is None:
-                bad+=1; continue
+                bad+=1
+                channel_health[channel]={'status':'unavailable','count':None,'added':None,'reason':s_status if channel=='sitemap' else l_status}
+                continue
             ok+=1
             old_channel=current['channels'].get(channel)
             if channel=='listing' and old_channel and old_channel.get('paths_ok',[])!=listing_paths:
                 bad+=1;ok-=1
                 l_status += '; page set changed, delta skipped for safety'
+                channel_health[channel]={'status':'partial','count':len(result),'added':None,'reason':l_status}
                 continue
             new_urls, reason=new_deltas({sid:current},result,sid,channel)
+            channel_health[channel]={'status':reason,'count':len(result),'added':len(new_urls) if reason=='delta' else None,'reason':s_status if channel=='sitemap' else l_status}
             if reason=='delta':
                 for url in new_urls:
                     # same URL found in multiple channels => coalesce
@@ -417,7 +423,15 @@ def run(root, cfg, fetcher):
             current['channels'][channel]={'urls':result,'checked_at':local_now.isoformat()}
             if channel=='listing': current['channels'][channel]['paths_ok']=listing_paths
         checks.append({'name':site['name'],'sitemap':s_status,'listing':l_status})
+        for channel in ('sitemap','listing'):
+            item=channel_health.get(channel,{})
+            health.append({'source':site['name'],'channel':channel,'checked_at':local_now.isoformat(),**item})
         print(f'{site["name"]}: sitemap={s_status}; listing={l_status}',flush=True)
+    health_path=root/'reports'/'health-latest.csv'
+    health_path.parent.mkdir(parents=True,exist_ok=True)
+    with health_path.open('w',encoding='utf-8-sig',newline='') as handle:
+        writer=csv.DictWriter(handle,fieldnames=['source','channel','checked_at','status','count','added','reason'])
+        writer.writeheader(); writer.writerows(health)
     new_count=len(changes)
     # Do not silently lose URLs beyond max_detail_pages_per_run. Save raw deltas
     # first, then prefer actual template/guide pages over /create button routes.
