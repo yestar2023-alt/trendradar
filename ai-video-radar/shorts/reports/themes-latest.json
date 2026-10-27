@@ -1,44 +1,10 @@
 {
-  "built_at": "2026-10-27T05:03:32.608651+00:00",
-  "source_snapshot_at": "2026-10-27T05:03:27Z",
-  "snapshot_video_count": 2576,
-  "named_theme_count": 1,
+  "built_at": "2026-10-27T14:31:29.877933+00:00",
+  "source_snapshot_at": "2026-10-27T14:31:24Z",
+  "snapshot_video_count": 2713,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "car_restoration",
-      "name": "Car Transformation / 废车变超跑",
-      "status": "仅候选/尚未确认新玩法",
-      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
-      "concept": "车辆从废旧到崭新的视觉变化",
-      "input": "一张车辆照片",
-      "risk": "汽车品牌/Logo 商标与真实维修误导",
-      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
-      "existing_before": null,
-      "previous_evidence_url": null,
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 1,
-      "independent_claimed_creator_count": 1,
-      "max_observed_views": 2259,
-      "first_observed_at": "2026-10-26T15:11:37Z",
-      "examples": [
-        {
-          "video_id": "rZhB0FCNtxM",
-          "title": "viral Toy Car to Real Car Transformation 🔥 | Image to Video AI | Google Flow AI #Shorts",
-          "url": "https://www.youtube.com/watch?v=rZhB0FCNtxM",
-          "channel": "Wahid Tech Ai",
-          "channel_id": "UCkDOM4o7bgKMyr0QJrOryGQ",
-          "published_at": "2026-10-26T09:01:53Z",
-          "first_seen_at": "2026-10-26T15:11:37Z",
-          "views": 2259,
-          "observed_growth_per_hour": 10.9,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }

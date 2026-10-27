@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-27 13:03
-- 数据库视频：2576；24小时内且有频道ID的非教程候选：231
-- 自动发现跨账号同名/同词线索：2
+- 最新成功快照（北京）：2026-10-27 22:31
+- 数据库视频：2713；24小时内且有频道ID的非教程候选：216
+- 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,19 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #aitools
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Tushar Jethva | [Turn any long video into clip and go viral 😱 check it out  #aitools](https://www.youtube.com/watch?v=4IGROyuih6s) | 2026-10-26 21:47 | 2026-10-27 13:03 | 5312 | 待多次采样 | 作者文字自述AI |
-| Ai with isha  | [Turn 1 Hour Videos Into Viral Shorts With AI 🤯 #Shorts #aiwebsites #aitools](https://www.youtube.com/watch?v=zAnD9k1Bq8I) | 2026-10-26 17:28 | 2026-10-26 23:11 | 1257 | 4.2 | AI制作未验证 |
-| Storyk | [पहली 3 सेकंड में वायरल होने का सीक्रेट! 🚀](https://www.youtube.com/watch?v=QPJVPyj36YY) | 2026-10-26 22:10 | 2026-10-27 13:03 | 365 | 待多次采样 | 作者文字自述AI |
-
-### 2. #emotional
+### 1. gone wrong
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -33,8 +21,8 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Viral Emotion | [Aadmi k Liye Allah Tala ki madad #emotional #aivideo #shortvideo #trendingshorts #viral #trend](https://www.youtube.com/watch?v=Irv-vF1dDA8) | 2026-10-27 09:00 | 2026-10-27 13:03 | 277 | 待多次采样 | 作者文字自述AI |
-| Khatarnak Bahu  | [Bahu ne banaya 56 bhog #recipe #saasbahu #serial #emotional #aivideo #trend #shorts #yt #lateupload](https://www.youtube.com/watch?v=HAkW6b9pHb0) | 2026-10-26 21:45 | 2026-10-26 23:11 | 239 | 7.6 | 作者文字自述AI |
+| Mawa Masti | [GTA Prank Gone Wrong! 😂 #viral #comedy #aianimation](https://www.youtube.com/watch?v=vCFDxGsUmt8) | 2026-10-27 09:00 | 2026-10-27 22:31 | 12787 | 待多次采样 | 作者文字自述AI |
+| mr sohan yadav | [Viral Trend Gone Wrong: My Epic Fail!#viralvideo #comedy #bts #ai #aivideo](https://www.youtube.com/watch?v=uuQU_h4_Q_M) | 2026-10-27 08:34 | 2026-10-27 13:03 | 643 | 22.9 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
