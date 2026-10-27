@@ -167,6 +167,25 @@ class RadarTests(unittest.TestCase):
                 rows=list(csv.DictReader(handle))
             self.assertEqual(rows[0]['url_type'],'create_flow_not_new_template_proof')
 
+    def test_health_csv_distinguishes_baseline_zero_and_unavailable(self):
+        import csv
+        src={**SRC,'use_sitemap':False}
+        cfg={**CFG,'sources':[src]}
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder)
+            radar.run(root,cfg,FakeFetcher(pages([BASE+'/templates/one'])))
+            with (root/'reports'/'health-latest.csv').open(
+                encoding='utf-8-sig',newline='') as handle:
+                records=list(csv.DictReader(handle))
+            self.assertEqual(records[0]['status'],'unavailable')
+            self.assertEqual(records[1]['status'],'baseline')
+            radar.run(root,cfg,FakeFetcher(pages([BASE+'/templates/one'])))
+            with (root/'reports'/'health-latest.csv').open(
+                encoding='utf-8-sig',newline='') as handle:
+                records=list(csv.DictReader(handle))
+            self.assertEqual(records[1]['status'],'delta')
+            self.assertEqual(records[1]['added'],'0')
+
     def test_clean_and_same_host_only(self):
         self.assertEqual(radar.clean_url(BASE+'/templates/test/?utm=1'),BASE+'/templates/test')
         self.assertFalse(radar.allowed_host('https://example.test.evil.org/index.xml',BASE))
