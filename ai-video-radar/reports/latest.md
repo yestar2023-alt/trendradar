@@ -1,58 +1,59 @@
-# AI 视频新增词日报 | 2026-10-26（北京时间）
+# AI 视频新增词日报 | 2026-10-27（北京时间）
 
 - 本次完成检查：14 个频道；失败/不可用：4 个频道
-- **有历史快照比对的新 URL：29 条**
-- **需核实的新关键词候选（优先处理详情页，最多处理30条）：29 个**
-- **本轮原始URL全量明细存档：29 条**（如非零，可查看 `reports/2026-10-26-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
+- **有历史快照比对的新 URL：90 条**
+- **需核实的新关键词候选（优先处理详情页，最多处理30条）：30 个**
+- **本轮原始URL全量明细存档：90 条**（如非零，可查看 `reports/2026-10-27-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
 ## 候选新词（基于 URL 差集，热度尚未核实）
 
 | 首次发现 | 候选规范词 | 网站 | 新出现的链接 | 检测类型 |
 |---|---|---|---|---|
-| 2026-10-26 | capcut new trending | CapCut Trending | [页面1](https://www.capcut.com/template-detail/7608435960019225873) | 模板列表首次出现 |
-| 2026-10-26 | capcut baby tera smile | CapCut Trending | [页面1](https://www.capcut.com/template-detail/abdulla-editz-foryou-viral-trend-song/7625824490542533908) | 模板列表首次出现 |
-| 2026-10-26 | capcut trending tiktok | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcutpioneer-pioneertemplate-viral-trend-fyp/7647128000340790529) | 模板列表首次出现 |
-| 2026-10-26 | capcut cinematic | CapCut Trending | [页面1](https://www.capcut.com/template-detail/cinematic-us-usa-capcuttopcreator-trend/7677957333208550676) | 模板列表首次出现 |
-| 2026-10-26 | capcut vibin | CapCut Trending | [页面1](https://www.capcut.com/template-detail/creadorestrella-amor-parati-makeitviral/7684075320353262856) | 模板列表首次出现 |
-| 2026-10-26 | capcut tera hun jaan le | CapCut Trending | [页面1](https://www.capcut.com/template-detail/foryou-trend-viral-capcut-fyp/7617047475093818640) | 模板列表首次出现 |
-| 2026-10-26 | capcut new viral | CapCut Trending | [页面1](https://www.capcut.com/template-detail/landscapetemplates-travelmemories-foryou-video/7695479010981121300) | 模板列表首次出现 |
-| 2026-10-26 | capcut cinderella | CapCut Trending | [页面1](https://www.capcut.com/template-detail/makeitviral-trend-dfa/7633476204992957717) | 模板列表首次出现 |
-| 2026-10-23 | capcut trending | CapCut Trending | [页面1](https://www.capcut.com/template-detail/musicfirsttemplates-capcuttemplates/7695315273263369492) | 模板列表首次出现 |
-| 2026-10-26 | capcut deewane deewane | CapCut Trending | [页面1](https://www.capcut.com/template-detail/slowmo-viralreels/7613416064084348213) | 模板列表首次出现 |
-| 2026-10-26 | capcut cause i love the | CapCut Trending | [页面1](https://www.capcut.com/template-detail/small-slowmotion-fyp-trend-foryou/7588059203248393525) | 模板列表首次出现 |
-| 2026-10-26 | capcut talking body | CapCut Trending | [页面1](https://www.capcut.com/template-detail/trend-fyp-trendsound-kaiaa/7669752574513286407) | 模板列表首次出现 |
-| 2026-10-26 | capcut new trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viral-new-trend-fyp/7633003832322166037) | 模板列表首次出现 |
-| 2026-10-26 | capcut don t take days off | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-style-viral-fyp-trend/7607374207206460677) | 模板列表首次出现 |
-| 2026-10-26 | capcut solo | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-viralgroup-selfie-trend-viral/7613288229021764869) | 模板列表首次出现 |
-| 2026-10-26 | ballon d or ai filter win the golden ball prank | MakeViral | [页面1](https://www.makeviral.ai/templates/ballon-dor-ai-prank) | 进入 Sitemap |
-| 2026-10-26 | gender swap filter see your opposite gender self | MakeViral | [页面1](https://www.makeviral.ai/templates/gender-swap-ai-filter) | 进入 Sitemap |
-| 2026-10-26 | love me trend ai the love letters edit from your photo | MakeViral | [页面1](https://www.makeviral.ai/templates/love-me-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | missed train dance ai miss the train then dance | MakeViral | [页面1](https://www.makeviral.ai/templates/missed-train-dance-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | pray for me trend ai slow mo dance from a photo | MakeViral | [页面1](https://www.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | shaking head trend ai make your pet do the head shake | MakeViral | [页面1](https://www.makeviral.ai/templates/shaking-head-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | skyfall ai trend fall from the sky through the clouds | MakeViral | [页面1](https://www.makeviral.ai/templates/skyfall-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | talk dirty dance ai lead the viral concert dance | MakeViral | [页面1](https://www.makeviral.ai/templates/talk-dirty-dance-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | three bogatyrs ai trend back to back lip sync | MakeViral | [页面1](https://www.makeviral.ai/templates/three-bogatyrs-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | tiny desk ai trend sing lead at your own desk concert | MakeViral | [页面1](https://www.makeviral.ai/templates/tiny-desk-ai-trend) | 进入 Sitemap |
-| 2026-10-26 | button eye doll reveal turn one selfie into a halloween video | Zooop | [页面1](https://zooop.ai/blog/button-eye-doll-reveal-guide) | 进入 Sitemap |
-| 2026-10-26 | blog page 6 | Zooop | [页面1](https://zooop.ai/blog/page/6) | 模板列表首次出现 |
-| 2026-10-26 | button eye doll reveal ai selfie transformation | Zooop | [页面1](https://zooop.ai/templates/video/button-eye-doll-reveal) | 进入 Sitemap |
-| 2026-10-26 | money flex ai person pet cash video | Zooop | [页面1](https://zooop.ai/templates/video/money-flex-ai) | 进入 Sitemap |
+| 2026-10-27 | ai drama short film you two in the nice try reel | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-drama-short-film) | 进入 Sitemap |
+| 2026-10-27 | ai elf dance turn yourself into a dancing elf | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-elf-dance-video) | 进入 Sitemap |
+| 2026-10-27 | bing bing bing kicking ai two girls kicking meme | MakeViral | [页面1](https://www.makeviral.ai/templates/bing-bing-bing-kicking-ai-trend) | 进入 Sitemap |
+| 2026-10-27 | cat human ai video your pet s head on a human body | MakeViral | [页面1](https://www.makeviral.ai/templates/cat-human-ai-video) | 进入 Sitemap |
+| 2026-10-27 | choosin texas emo version ai sing the viral cover | MakeViral | [页面1](https://www.makeviral.ai/templates/choosin-texas-emo-ai-trend) | 进入 Sitemap |
+| 2026-10-27 | mandem in disguise ai trend flip your group photo | MakeViral | [页面1](https://www.makeviral.ai/templates/mandem-in-disguise-ai-trend) | 进入 Sitemap |
+| 2026-10-27 | puerto rican mami dance ai solo or with a friend | MakeViral | [页面1](https://www.makeviral.ai/templates/puerto-rican-mami-ai-dance) | 进入 Sitemap |
+| 2026-10-27 | robot girl ai trend be the android who gets a hug | MakeViral | [页面1](https://www.makeviral.ai/templates/robot-girl-ai-trend) | 进入 Sitemap |
+| 2026-10-27 | wassup in a minute ai trend you as the anime bounce | MakeViral | [页面1](https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend) | 进入 Sitemap |
+| 2026-10-27 | window dance trend ai video of you dancing at the window | MakeViral | [页面1](https://www.makeviral.ai/templates/window-dance-ai-trend) | 进入 Sitemap |
+| 2026-10-27 | bts swim 챌린지 만드는 법 사진으로 ai 댄스 영상 | Summrs | [页面1](https://www.summrs.com/blog/bts-swim-dance-ai) | 进入 Sitemap |
+| 2026-10-27 | bts swim dance challenge your own video | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-bts-swim-dance-ai-video) | 进入 Sitemap |
+| 2026-10-27 | crying to confident make an emotional turnaround ai video | Zooop | [页面1](https://zooop.ai/blog/crying-to-confident-ai-video-guide) | 进入 Sitemap |
+| 2026-10-27 | the deep down in my heart ai video with two photos | Zooop | [页面1](https://zooop.ai/blog/deep-down-in-my-heart-ai-video) | 进入 Sitemap |
+| 2026-10-27 | crying to confident emotional turnaround ai video | Zooop | [页面1](https://zooop.ai/templates/video/crying-to-confident) | 进入 Sitemap |
+| 2026-10-27 | deep down in my heart duo ai comedy interview | Zooop | [页面1](https://zooop.ai/templates/video/deep-down-in-my-heart-duo) | 进入 Sitemap |
+| 2026-10-27 | electric shock pet prank ai person pet video | Zooop | [页面1](https://zooop.ai/templates/video/electric-shock-pet-prank) | 进入 Sitemap |
+| 2026-10-24 | make your neon duo dance video | MakeViral | [页面1](https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance/create) | 模板列表首次出现 |
+| 2026-10-27 | make your ceiling fan video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-ceiling-fan-trend/create) | 模板列表首次出现 |
+| 2026-10-25 | make your ai chicken dance video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-chicken-dance-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your ai cupid trend video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-cupid-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your day of the dead pet video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-day-of-the-dead-pet/create) | 模板列表首次出现 |
+| 2026-10-24 | make your hotel lobby video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-hotel-lobby-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your rumpelstiltskin dance video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance/create) | 模板列表首次出现 |
+| 2026-10-24 | make your alors on danse video | MakeViral | [页面1](https://www.makeviral.ai/templates/alors-on-danse-ai-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your apt pink studio duo video | MakeViral | [页面1](https://www.makeviral.ai/templates/apt-ai-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your bad dance challenge video | MakeViral | [页面1](https://www.makeviral.ai/templates/ateez-bad-dance-challenge-ai/create) | 模板列表首次出现 |
+| 2026-10-24 | make your atm glitch video | MakeViral | [页面1](https://www.makeviral.ai/templates/atm-glitch-ai-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your babydoll dance video | MakeViral | [页面1](https://www.makeviral.ai/templates/babydoll-dance-ai-trend/create) | 模板列表首次出现 |
+| 2026-10-24 | make your bad times trend video | MakeViral | [页面1](https://www.makeviral.ai/templates/bad-times-ai-trend/create) | 模板列表首次出现 |
 
 > 注意：这里的“新增”是自上次**成功快照**以来新增的 URL，不等于网页在当天发布；发现词 ≠ 已确认爆火。
 
 ## 可点开的核查入口（供运营核实趋势和竞品）
 
-- **capcut new trending**： [TikTok](https://www.tiktok.com/search?q=capcut+new+trending) · [YouTube](https://www.youtube.com/results?search_query=capcut+new+trending) · [Google](https://www.google.com/search?q=capcut+new+trending) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+new+trending)
-- **capcut baby tera smile**： [TikTok](https://www.tiktok.com/search?q=capcut+baby+tera+smile) · [YouTube](https://www.youtube.com/results?search_query=capcut+baby+tera+smile) · [Google](https://www.google.com/search?q=capcut+baby+tera+smile) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+baby+tera+smile)
-- **capcut trending tiktok**： [TikTok](https://www.tiktok.com/search?q=capcut+trending+tiktok) · [YouTube](https://www.youtube.com/results?search_query=capcut+trending+tiktok) · [Google](https://www.google.com/search?q=capcut+trending+tiktok) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+trending+tiktok)
-- **capcut cinematic**： [TikTok](https://www.tiktok.com/search?q=capcut+cinematic) · [YouTube](https://www.youtube.com/results?search_query=capcut+cinematic) · [Google](https://www.google.com/search?q=capcut+cinematic) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+cinematic)
-- **capcut vibin**： [TikTok](https://www.tiktok.com/search?q=capcut+vibin) · [YouTube](https://www.youtube.com/results?search_query=capcut+vibin) · [Google](https://www.google.com/search?q=capcut+vibin) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+vibin)
-- **capcut tera hun jaan le**： [TikTok](https://www.tiktok.com/search?q=capcut+tera+hun+jaan+le) · [YouTube](https://www.youtube.com/results?search_query=capcut+tera+hun+jaan+le) · [Google](https://www.google.com/search?q=capcut+tera+hun+jaan+le) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+tera+hun+jaan+le)
-- **capcut new viral**： [TikTok](https://www.tiktok.com/search?q=capcut+new+viral) · [YouTube](https://www.youtube.com/results?search_query=capcut+new+viral) · [Google](https://www.google.com/search?q=capcut+new+viral) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+new+viral)
-- **capcut cinderella**： [TikTok](https://www.tiktok.com/search?q=capcut+cinderella) · [YouTube](https://www.youtube.com/results?search_query=capcut+cinderella) · [Google](https://www.google.com/search?q=capcut+cinderella) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+cinderella)
-- **capcut trending**： [TikTok](https://www.tiktok.com/search?q=capcut+trending) · [YouTube](https://www.youtube.com/results?search_query=capcut+trending) · [Google](https://www.google.com/search?q=capcut+trending) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+trending)
-- **capcut deewane deewane**： [TikTok](https://www.tiktok.com/search?q=capcut+deewane+deewane) · [YouTube](https://www.youtube.com/results?search_query=capcut+deewane+deewane) · [Google](https://www.google.com/search?q=capcut+deewane+deewane) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+deewane+deewane)
+- **ai drama short film you two in the nice try reel**： [TikTok](https://www.tiktok.com/search?q=ai+drama+short+film+you+two+in+the+nice+try+reel) · [YouTube](https://www.youtube.com/results?search_query=ai+drama+short+film+you+two+in+the+nice+try+reel) · [Google](https://www.google.com/search?q=ai+drama+short+film+you+two+in+the+nice+try+reel) · [Google Trends](https://trends.google.com/trends/explore?q=ai+drama+short+film+you+two+in+the+nice+try+reel)
+- **ai elf dance turn yourself into a dancing elf**： [TikTok](https://www.tiktok.com/search?q=ai+elf+dance+turn+yourself+into+a+dancing+elf) · [YouTube](https://www.youtube.com/results?search_query=ai+elf+dance+turn+yourself+into+a+dancing+elf) · [Google](https://www.google.com/search?q=ai+elf+dance+turn+yourself+into+a+dancing+elf) · [Google Trends](https://trends.google.com/trends/explore?q=ai+elf+dance+turn+yourself+into+a+dancing+elf)
+- **bing bing bing kicking ai two girls kicking meme**： [TikTok](https://www.tiktok.com/search?q=bing+bing+bing+kicking+ai+two+girls+kicking+meme) · [YouTube](https://www.youtube.com/results?search_query=bing+bing+bing+kicking+ai+two+girls+kicking+meme) · [Google](https://www.google.com/search?q=bing+bing+bing+kicking+ai+two+girls+kicking+meme) · [Google Trends](https://trends.google.com/trends/explore?q=bing+bing+bing+kicking+ai+two+girls+kicking+meme)
+- **cat human ai video your pet s head on a human body**： [TikTok](https://www.tiktok.com/search?q=cat+human+ai+video+your+pet+s+head+on+a+human+body) · [YouTube](https://www.youtube.com/results?search_query=cat+human+ai+video+your+pet+s+head+on+a+human+body) · [Google](https://www.google.com/search?q=cat+human+ai+video+your+pet+s+head+on+a+human+body) · [Google Trends](https://trends.google.com/trends/explore?q=cat+human+ai+video+your+pet+s+head+on+a+human+body)
+- **choosin texas emo version ai sing the viral cover**： [TikTok](https://www.tiktok.com/search?q=choosin+texas+emo+version+ai+sing+the+viral+cover) · [YouTube](https://www.youtube.com/results?search_query=choosin+texas+emo+version+ai+sing+the+viral+cover) · [Google](https://www.google.com/search?q=choosin+texas+emo+version+ai+sing+the+viral+cover) · [Google Trends](https://trends.google.com/trends/explore?q=choosin+texas+emo+version+ai+sing+the+viral+cover)
+- **mandem in disguise ai trend flip your group photo**： [TikTok](https://www.tiktok.com/search?q=mandem+in+disguise+ai+trend+flip+your+group+photo) · [YouTube](https://www.youtube.com/results?search_query=mandem+in+disguise+ai+trend+flip+your+group+photo) · [Google](https://www.google.com/search?q=mandem+in+disguise+ai+trend+flip+your+group+photo) · [Google Trends](https://trends.google.com/trends/explore?q=mandem+in+disguise+ai+trend+flip+your+group+photo)
+- **puerto rican mami dance ai solo or with a friend**： [TikTok](https://www.tiktok.com/search?q=puerto+rican+mami+dance+ai+solo+or+with+a+friend) · [YouTube](https://www.youtube.com/results?search_query=puerto+rican+mami+dance+ai+solo+or+with+a+friend) · [Google](https://www.google.com/search?q=puerto+rican+mami+dance+ai+solo+or+with+a+friend) · [Google Trends](https://trends.google.com/trends/explore?q=puerto+rican+mami+dance+ai+solo+or+with+a+friend)
+- **robot girl ai trend be the android who gets a hug**： [TikTok](https://www.tiktok.com/search?q=robot+girl+ai+trend+be+the+android+who+gets+a+hug) · [YouTube](https://www.youtube.com/results?search_query=robot+girl+ai+trend+be+the+android+who+gets+a+hug) · [Google](https://www.google.com/search?q=robot+girl+ai+trend+be+the+android+who+gets+a+hug) · [Google Trends](https://trends.google.com/trends/explore?q=robot+girl+ai+trend+be+the+android+who+gets+a+hug)
+- **wassup in a minute ai trend you as the anime bounce**： [TikTok](https://www.tiktok.com/search?q=wassup+in+a+minute+ai+trend+you+as+the+anime+bounce) · [YouTube](https://www.youtube.com/results?search_query=wassup+in+a+minute+ai+trend+you+as+the+anime+bounce) · [Google](https://www.google.com/search?q=wassup+in+a+minute+ai+trend+you+as+the+anime+bounce) · [Google Trends](https://trends.google.com/trends/explore?q=wassup+in+a+minute+ai+trend+you+as+the+anime+bounce)
+- **window dance trend ai video of you dancing at the window**： [TikTok](https://www.tiktok.com/search?q=window+dance+trend+ai+video+of+you+dancing+at+the+window) · [YouTube](https://www.youtube.com/results?search_query=window+dance+trend+ai+video+of+you+dancing+at+the+window) · [Google](https://www.google.com/search?q=window+dance+trend+ai+video+of+you+dancing+at+the+window) · [Google Trends](https://trends.google.com/trends/explore?q=window+dance+trend+ai+video+of+you+dancing+at+the+window)
 
 本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。
 
@@ -65,6 +66,22 @@
 
 | 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
+| ai drama short film | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai elf dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| bing bing bing kicking ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| cat human ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| choosin texas emo version ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| mandem in disguise ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| puerto rican mami dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| robot girl ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| wassup in a minute ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| bts swim 챌린지 만드는 법 사진으로 ai 댄스 영상 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| the deep down in my heart ai video with two photos | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| crying to confident emotional turnaround ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| deep down in my heart duo ai comedy interview | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| electric shock pet prank ai person pet video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your ai chicken dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| make your ai cupid trend video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ballon d'or ai filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | love me trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | missed train dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -89,22 +106,6 @@
 | wyw my sweetie dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ateez bad 챌린지 ai 영상 만들기 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | the ateez bad ai dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| gangnam style ai tutorial | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| gangnam style dance ai night street trio selfie | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your ai chicken dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your ai cupid trend video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your banana tree run ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your c walk ai dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your cat in the hat ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your damon salvatore ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your elsa ai trend video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| make your gangnam style ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai cupid trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai danger video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai doodle dance partner | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| walking away from explosion ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai makeup filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| wedding money rain ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
@@ -112,13 +113,13 @@
 
 | 来源 | Sitemap | 模板/榜单列表 |
 |---|---|---|
-| Summrs | 102 relevant URLs in sitemap | 42 links from 2/2 listings |
+| Summrs | 104 relevant URLs in sitemap | 42 links from 2/2 listings |
 | TikTok Creative Center | not a sitemap-based feed | no server-rendered template links (possibly JS/login) |
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 5 links from 1/1 listings |
 | Higgsfield Viral | 184 relevant URLs in sitemap | 28 links from 2/2 listings |
-| MakeViral | 255 relevant URLs in sitemap | 238 links from 2/2 listings |
-| Zooop | 164 relevant URLs in sitemap | 92 links from 2/2 listings |
+| MakeViral | 265 relevant URLs in sitemap | 321 links from 2/2 listings |
+| Zooop | 169 relevant URLs in sitemap | 89 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
 | Media.io | 1241 relevant URLs in sitemap | 134 links from 1/1 listings |
 
