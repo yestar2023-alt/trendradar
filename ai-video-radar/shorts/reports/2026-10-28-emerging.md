@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-28 04:41
-- 数据库视频：2844；24小时内且有频道ID的非教程候选：230
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-10-28 13:41
+- 数据库视频：2970；24小时内且有频道ID的非教程候选：215
+- 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,29 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. hydraulic press
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| harish. you  | [😱 Hydraulic Press vs Motorcycle! ai video 2026 me kese bnaye! Ai video kaise banaen](https://www.youtube.com/watch?v=ajbiv6oC3io) | 2026-10-27 12:52 | 2026-10-28 04:41 | 722 | 待多次采样 | 作者文字自述AI |
-| CrushLab Official 🥵 | [AI Hydraulic Press vs Coins 😱🪙 Satisfying Crush! #Shorts#viral #trending #short](https://www.youtube.com/watch?v=yZ3H8-QAfwY) | 2026-10-27 08:51 | 2026-10-28 04:41 | 376 | 待多次采样 | 作者文字自述AI |
-
-### 2. gone wrong
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Mawa Masti | [GTA Prank Gone Wrong! 😂 #viral #comedy #aianimation](https://www.youtube.com/watch?v=vCFDxGsUmt8) | 2026-10-27 09:00 | 2026-10-27 22:31 | 20034 | 1,173.6 | 作者文字自述AI |
-| mr sohan yadav | [Viral Trend Gone Wrong: My Epic Fail!#viralvideo #comedy #bts #ai #aivideo](https://www.youtube.com/watch?v=uuQU_h4_Q_M) | 2026-10-27 08:34 | 2026-10-27 13:03 | 643 | 0.0 | 作者文字自述AI |
-
-### 3. ka letters true
+### 1. ka letters true
 
 - 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -43,8 +21,19 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| EditWithAI | [Instagram ka new trend video letters true life / #instagram #aivideo #explore #rttgtt#4uprompt](https://www.youtube.com/watch?v=RSlHEFu53FE) | 2026-10-27 22:30 | 2026-10-28 04:41 | 1093 | 待多次采样 | 作者文字自述AI |
-| Edit Mixture | [Instagram ka new trend video letters true life / #instagram #aivideo explore #rttgtt#4uprompt](https://www.youtube.com/watch?v=7dMa0BpvHxY) | 2026-10-27 22:32 | 2026-10-28 04:41 | 6 | 待多次采样 | 作者文字自述AI |
+| EditWithAI | [Instagram ka new trend video letters true life / #instagram #aivideo #explore #rttgtt#4uprompt](https://www.youtube.com/watch?v=RSlHEFu53FE) | 2026-10-27 22:30 | 2026-10-28 04:41 | 1199 | 11.8 | 作者文字自述AI |
+| Edit Mixture | [Instagram ka new trend video letters true life / #instagram #aivideo explore #rttgtt#4uprompt](https://www.youtube.com/watch?v=7dMa0BpvHxY) | 2026-10-27 22:32 | 2026-10-28 04:41 | 10 | 0.4 | 作者文字自述AI |
+
+### 2. #reselling
+
+- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| JADE ANIMATIONS | [RESELLING ANIMATION #reselling #pixaranimation #aianimation #viral #viralshorts](https://www.youtube.com/watch?v=Hz6BFE725iU) | 2026-10-27 17:37 | 2026-10-28 13:41 | 1674 | 待多次采样 | 作者文字自述AI |
+| TIANA’S HUB | [RESELLING ANIMATION #reselling #pixaranimation #aianimation #viral #viralshorts](https://www.youtube.com/watch?v=5vyMDEGeCCw) | 2026-10-27 19:47 | 2026-10-28 13:41 | 1337 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 

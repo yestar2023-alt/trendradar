@@ -1,88 +1,12 @@
 {
-  "generated_at": "2026-10-27T20:42:00.247733+00:00",
-  "source_snapshot_at": "2026-10-27T20:41:55Z",
-  "source_video_count": 2844,
-  "published_last_24h_with_channel": 230,
-  "shared_name_groups": 3,
+  "generated_at": "2026-10-28T05:41:16.294854+00:00",
+  "source_snapshot_at": "2026-10-28T05:41:11Z",
+  "source_video_count": 2970,
+  "published_last_24h_with_channel": 215,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
-    {
-      "anchor": "hydraulic press",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "😱 Hydraulic Press vs Motorcycle! ai video 2026 me kese bnaye! Ai video kaise banaen",
-          "channel": "harish. you ",
-          "channel_id": "UC4OlH8ELSj3dnKylVj_yIjg",
-          "url": "https://www.youtube.com/watch?v=ajbiv6oC3io",
-          "published_at": "2026-10-27T04:52:23Z",
-          "first_seen_at": "2026-10-27T20:41:55Z",
-          "views": 722,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "AI Hydraulic Press vs Coins 😱🪙 Satisfying Crush! #Shorts#viral #trending #short",
-          "channel": "CrushLab Official 🥵",
-          "channel_id": "UCY9HsJece5NcZa5wWQv5r4g",
-          "url": "https://www.youtube.com/watch?v=yZ3H8-QAfwY",
-          "published_at": "2026-10-27T00:51:24Z",
-          "first_seen_at": "2026-10-27T20:41:55Z",
-          "views": 376,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "gone wrong",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "GTA Prank Gone Wrong! 😂 #viral #comedy #aianimation",
-          "channel": "Mawa Masti",
-          "channel_id": "UCCo8RlcxX2gZJjeEEsgMbXQ",
-          "url": "https://www.youtube.com/watch?v=vCFDxGsUmt8",
-          "published_at": "2026-10-27T01:00:12Z",
-          "first_seen_at": "2026-10-27T14:31:24Z",
-          "views": 20034,
-          "observed_growth_per_hour": 1173.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Viral Trend Gone Wrong: My Epic Fail!#viralvideo #comedy #bts #ai #aivideo",
-          "channel": "mr sohan yadav",
-          "channel_id": "UCg01fKG7Z_j-PaRQnsf4umw",
-          "url": "https://www.youtube.com/watch?v=uuQU_h4_Q_M",
-          "published_at": "2026-10-27T00:34:26Z",
-          "first_seen_at": "2026-10-27T05:03:27Z",
-          "views": 643,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
     {
       "anchor": "ka letters true",
       "anchor_type": "phrase",
@@ -102,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=RSlHEFu53FE",
           "published_at": "2026-10-27T14:30:44Z",
           "first_seen_at": "2026-10-27T20:41:55Z",
-          "views": 1093,
-          "observed_growth_per_hour": null,
+          "views": 1199,
+          "observed_growth_per_hour": 11.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -114,7 +38,45 @@
           "url": "https://www.youtube.com/watch?v=7dMa0BpvHxY",
           "published_at": "2026-10-27T14:32:02Z",
           "first_seen_at": "2026-10-27T20:41:55Z",
-          "views": 6,
+          "views": 10,
+          "observed_growth_per_hour": 0.4,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#reselling",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "possible_reuploads",
+      "near_duplicate_caption_fraction": 1.0,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 12,
+      "examples": [
+        {
+          "title": "RESELLING ANIMATION #reselling #pixaranimation #aianimation #viral #viralshorts",
+          "channel": "JADE ANIMATIONS",
+          "channel_id": "UCS3ee4FfP8LHj8k8sd1mWGw",
+          "url": "https://www.youtube.com/watch?v=Hz6BFE725iU",
+          "published_at": "2026-10-27T09:37:45Z",
+          "first_seen_at": "2026-10-28T05:41:11Z",
+          "views": 1674,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "RESELLING ANIMATION #reselling #pixaranimation #aianimation #viral #viralshorts",
+          "channel": "TIANA’S HUB",
+          "channel_id": "UCMVDKPblhF4U9dF2KwGakVA",
+          "url": "https://www.youtube.com/watch?v=5vyMDEGeCCw",
+          "published_at": "2026-10-27T11:47:22Z",
+          "first_seen_at": "2026-10-28T05:41:11Z",
+          "views": 1337,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
