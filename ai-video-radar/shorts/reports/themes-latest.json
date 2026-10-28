@@ -1,44 +1,10 @@
 {
-  "built_at": "2026-10-28T05:41:16.169929+00:00",
-  "source_snapshot_at": "2026-10-28T05:41:11Z",
-  "snapshot_video_count": 2970,
-  "named_theme_count": 1,
+  "built_at": "2026-10-28T15:06:11.706290+00:00",
+  "source_snapshot_at": "2026-10-28T15:06:07Z",
+  "snapshot_video_count": 3115,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "gangnam_trio",
-      "name": "Gangnam Style AI Dance / 三人轮流跳舞",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "三人轮流跟随舞蹈动作",
-      "input": "一至三张成年人授权照片",
-      "risk": "歌曲音乐版权与原舞蹈素材授权",
-      "caution": "商业生成器已经存在；不能把同歌的不同舞蹈自动合并为单一模板",
-      "existing_before": "2026-10-12",
-      "previous_evidence_url": "https://www.makeviral.ai/templates/gangnam-style-ai-dance",
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 1,
-      "independent_claimed_creator_count": 1,
-      "max_observed_views": 1575,
-      "first_observed_at": "2026-10-27T20:41:55Z",
-      "examples": [
-        {
-          "video_id": "llZG8cscyw4",
-          "title": "Instagram Viral Gangnam Style Ai Dance Reels Edit #gangnamstyle #trendingvideo #viralvideo #trend",
-          "url": "https://www.youtube.com/watch?v=llZG8cscyw4",
-          "channel": "Sense Tech Tuber ",
-          "channel_id": "UCeTKSonPlTPaqMi6m5e2tew",
-          "published_at": "2026-10-27T14:16:29Z",
-          "first_seen_at": "2026-10-27T20:41:55Z",
-          "views": 1575,
-          "observed_growth_per_hour": 12.2,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }

@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-28 13:41
-- 数据库视频：2970；24小时内且有频道ID的非教程候选：215
-- 自动发现跨账号同名/同词线索：2
+- 最新成功快照（北京）：2026-10-28 23:06
+- 数据库视频：3115；24小时内且有频道ID的非教程候选：182
+- 自动发现跨账号同名/同词线索：4
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,27 +13,49 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. ka letters true
+### 1. cricket shot
 
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：未观察到（不等于新）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| EditWithAI | [Instagram ka new trend video letters true life / #instagram #aivideo #explore #rttgtt#4uprompt](https://www.youtube.com/watch?v=RSlHEFu53FE) | 2026-10-27 22:30 | 2026-10-28 04:41 | 1199 | 11.8 | 作者文字自述AI |
-| Edit Mixture | [Instagram ka new trend video letters true life / #instagram #aivideo explore #rttgtt#4uprompt](https://www.youtube.com/watch?v=7dMa0BpvHxY) | 2026-10-27 22:32 | 2026-10-28 04:41 | 10 | 0.4 | 作者文字自述AI |
+| Harish Tech | [Create this Viral Cricket Shot Ai Video 😍 / Instagram New Trend / Ai Video Edit #viral #aivideo](https://www.youtube.com/watch?v=2_GKKdQv8aE) | 2026-10-28 18:56 | 2026-10-28 23:06 | 1169 | 待多次采样 | 作者文字自述AI |
+| You Can Too | [Create Viral AI Cricket Shot Videos with AI #cricket #cricketlover #shorts](https://www.youtube.com/watch?v=1A6r_rDrCzM) | 2026-10-28 20:30 | 2026-10-28 23:06 | 295 | 待多次采样 | 作者文字自述AI |
 
-### 2. #reselling
+### 2. #circket
 
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| JADE ANIMATIONS | [RESELLING ANIMATION #reselling #pixaranimation #aianimation #viral #viralshorts](https://www.youtube.com/watch?v=Hz6BFE725iU) | 2026-10-27 17:37 | 2026-10-28 13:41 | 1674 | 待多次采样 | 作者文字自述AI |
-| TIANA’S HUB | [RESELLING ANIMATION #reselling #pixaranimation #aianimation #viral #viralshorts](https://www.youtube.com/watch?v=5vyMDEGeCCw) | 2026-10-27 19:47 | 2026-10-28 13:41 | 1337 | 待多次采样 | 作者文字自述AI |
+| Abhishek Dey 2.0 | [Create Trending AI Cricket Videos Using Flow AI 🔥✅ #aivideo #trendingreels #circket #flowai](https://www.youtube.com/watch?v=08ia35lVxsQ) | 2026-10-27 23:11 | 2026-10-28 23:06 | 880 | 待多次采样 | 作者文字自述AI |
+| Ai_juber_A_to_z | [fhni video 😂 #funny #aivideo #viral #ytshorts #art](https://www.youtube.com/watch?v=5g8NYP6V7BM) | 2026-10-28 03:37 | 2026-10-28 04:41 | 705 | 55.1 | 作者文字自述AI |
+
+### 3. #america
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| JustKnow | [This Pigeon Glowed Even Brighter Than the Parrot! 😳 ~ #shorts #usashorts #ai #parrot #aivideo](https://www.youtube.com/watch?v=6PgMp1BqaWc) | 2026-10-27 23:56 | 2026-10-28 04:41 | 434 | 14.1 | 作者文字自述AI |
+| FitVibe USA  | [Leg Workout #aivideo #america #america #unitedstates #trend #usa #ai #fitness](https://www.youtube.com/watch?v=5Nar99PIJJE) | 2026-10-28 22:01 | 2026-10-28 23:06 | 0 | 待多次采样 | 作者文字自述AI |
+
+### 4. #mahadev
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Shyam Darbaar         | [har har mahadev ji 🙏🙏🔱🕉️   #shorts #ai #aishorts #youtubeshorts #mahadev #bholenath](https://www.youtube.com/watch?v=ShVTHNvSonI) | 2026-10-28 16:58 | 2026-10-28 23:06 | 749 | 待多次采样 | 作者文字自述AI |
+| The Billu Story  | [mahadev ai video ❤️😀// #mahadev #aivideo](https://www.youtube.com/watch?v=u_64Rr_OEw4) | 2026-10-27 23:35 | 2026-10-28 04:41 | 5 | 0.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
