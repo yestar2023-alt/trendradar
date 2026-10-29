@@ -1,20 +1,10 @@
 {
-  "built_at": "2026-10-29T05:47:18.678114+00:00",
-  "source_snapshot_at": "2026-10-29T05:47:14Z",
-  "snapshot_video_count": 3378,
+  "built_at": "2026-10-29T15:13:34.525514+00:00",
+  "source_snapshot_at": "2026-10-29T15:13:28Z",
+  "snapshot_video_count": 3134,
   "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [],
-  "unmatched_creative_candidates": [
-    {
-      "title": "CopyCut  Winter Is Coming! చలికాలం గ్యాంగ్ వచ్చేసింది 😂☃️| AI Animation#WinterIsComing #WinterSeason",
-      "url": "https://www.youtube.com/watch?v=f_FPAKthAC8",
-      "views": 1555796,
-      "channel": "🥇 Gupchup Gayatri ⭐",
-      "first_seen_at": "2026-10-28T21:03:51Z",
-      "published_at": "2026-10-28T09:17:32Z",
-      "observed_growth_per_hour": 110551.5
-    }
-  ]
+  "unmatched_creative_candidates": []
 }
