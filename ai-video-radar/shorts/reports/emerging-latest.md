@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-29 23:13
-- 数据库视频：3134；24小时内且有频道ID的非教程候选：229
-- 自动发现跨账号同名/同词线索：4
+- 最新成功快照（北京）：2026-10-30 05:07
+- 数据库视频：3092；24小时内且有频道ID的非教程候选：282
+- 自动发现跨账号同名/同词线索：8
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,20 +13,66 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #animallife
+### 1. karva chauth
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：4；其中AI文字自述频道：4；视频：4
-- 相同动作词：无；主文案复用比例：75%；人工复核优先级分：35/100（并非SEO评分）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 独立频道：4；其中AI文字自述频道：3；视频：4
+- 相同动作词：无；主文案复用比例：25%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Nayem editor  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #shortvideo #foryou](https://www.youtube.com/watch?v=FmAwyZdUeoM) | 2026-10-29 11:37 | 2026-10-29 23:13 | 1286 | 待多次采样 | 作者文字自述AI |
-| cartoon mama Tv | [Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #short  #funny #animallife](https://www.youtube.com/watch?v=8rEF__WZvII) | 2026-10-29 11:23 | 2026-10-29 23:13 | 170 | 待多次采样 | 作者文字自述AI |
-| Rogi. | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=gIxaQmhrmG8) | 2026-10-29 04:30 | 2026-10-29 23:13 | 21 | 待多次采样 | 作者文字自述AI |
-| SnakeToon AI | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=W3pjkUusDo8) | 2026-10-29 12:43 | 2026-10-29 23:13 | 18 | 待多次采样 | 作者文字自述AI |
+| TOON Baaz | [karva chauth special Pani puri #ai #aianimation #aishorts #toonbaaz](https://www.youtube.com/watch?v=QkGqzbzImU8) | 2026-10-29 19:55 | 2026-10-29 23:13 | 1443 | 85.5 | 作者文字自述AI |
+| Dil se edits | [Gemini Karva Chauth Prompt AI Editing Trend 2026 Karva Chauth Gemini Prompt / Karva Chauth Photo #ai](https://www.youtube.com/watch?v=uBWtB2gwbuw) | 2026-10-29 21:04 | 2026-10-30 05:07 | 657 | 待多次采样 | 作者文字自述AI |
+| R D STUDIO RAVIRAJ | [Jay Bheem video. karva chauth. #trending #karvachauth #karvachauthvrat #karva #shorts #viral #video](https://www.youtube.com/watch?v=MmsUO4UHcCk) | 2026-10-29 22:55 | 2026-10-30 05:07 | 188 | 待多次采样 | AI制作未验证 |
+| avadhi star studio  | [special karva chauth 2026 #karwachauth #karwachauthspecial #ytshorts #ai #aivideo](https://www.youtube.com/watch?v=A8EEuodD3XM) | 2026-10-29 22:10 | 2026-10-30 05:07 | 32 | 待多次采样 | 作者文字自述AI |
 
-### 2. #friendship
+### 2. #animallife
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：3；其中AI文字自述频道：3；视频：3
+- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Nayem editor  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #shortvideo #foryou](https://www.youtube.com/watch?v=FmAwyZdUeoM) | 2026-10-29 11:37 | 2026-10-29 23:13 | 1300 | 2.4 | 作者文字自述AI |
+| cartoon mama Tv | [Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #short  #funny #animallife](https://www.youtube.com/watch?v=8rEF__WZvII) | 2026-10-29 11:23 | 2026-10-29 23:13 | 243 | 12.4 | 作者文字自述AI |
+| SnakeToon AI | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=W3pjkUusDo8) | 2026-10-29 12:43 | 2026-10-29 23:13 | 22 | 0.7 | 作者文字自述AI |
+
+### 3. #wildlife
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：3；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Nayem editor  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #shortvideo #foryou](https://www.youtube.com/watch?v=FmAwyZdUeoM) | 2026-10-29 11:37 | 2026-10-29 23:13 | 1300 | 2.4 | 作者文字自述AI |
+| SnakeToon AI | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=W3pjkUusDo8) | 2026-10-29 12:43 | 2026-10-29 23:13 | 22 | 0.7 | 作者文字自述AI |
+| EpicTale Studios | [#viral #artificialgeneralintelligence #ai #dreamtrackai #epics #popular #keepanimalalive #animals](https://www.youtube.com/watch?v=Uadv3AP9APw) | 2026-10-29 05:40 | 2026-10-30 05:07 | 10 | 待多次采样 | AI制作未验证 |
+
+### 4. #lovestory
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Haripriya | [🌹❤️ रिश्तों का महल 🏰 पहली मुलाकात 😍 #Episode1 #Shorts #AIVideo #JubileeArt #LoveStory #Viral #trend](https://www.youtube.com/watch?v=dXhFqcHhJOQ) | 2026-10-29 08:33 | 2026-10-29 13:47 | 944 | 1.2 | 作者文字自述AI |
+| @aayat.ai.lovestory | [Pov-Contract marriage Ep -2 🥺🥰 #trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=FALNBKPBlK8) | 2026-10-29 22:04 | 2026-10-30 05:07 | 309 | 待多次采样 | 作者文字自述AI |
+
+### 5. #myvideo
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| @aayat.ai.lovestory | [Pov-Contract marriage Ep -2 🥺🥰 #trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=FALNBKPBlK8) | 2026-10-29 22:04 | 2026-10-30 05:07 | 309 | 待多次采样 | 作者文字自述AI |
+| priya ker  | [October 29, 2026 # AI #shortvideo #tending shots🤣✨😉#AI#viral video🥺😋#youtubeshorts #myvideo #](https://www.youtube.com/watch?v=JlCguZ04MjU) | 2026-10-29 18:24 | 2026-10-30 05:07 | 28 | 待多次采样 | 作者文字自述AI |
+
+### 6. #friendship
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -34,10 +80,10 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| MixTooNss | [Two Friends। দুই বন্ধু।Ai Animation Cartoon।2026](https://www.youtube.com/watch?v=KGkPb0gQykk) | 2026-10-29 13:07 | 2026-10-29 23:13 | 1735 | 待多次采样 | 作者文字自述AI |
-| Nasim Social  | [#aishorts #friendship #love #lifeisbutadream #funny #comedy #ai #aivideo #lofimusic #brokenheart](https://www.youtube.com/watch?v=oaZOE-erxY8) | 2026-10-29 12:07 | 2026-10-29 13:47 | 1280 | 61.5 | 作者文字自述AI |
+| MixTooNss | [Two Friends। দুই বন্ধু।Ai Animation Cartoon।2026](https://www.youtube.com/watch?v=KGkPb0gQykk) | 2026-10-29 13:07 | 2026-10-29 23:13 | 1750 | 2.5 | 作者文字自述AI |
+| Nasim Social  | [#aishorts #friendship #love #lifeisbutadream #funny #comedy #ai #aivideo #lofimusic #brokenheart](https://www.youtube.com/watch?v=oaZOE-erxY8) | 2026-10-29 12:07 | 2026-10-29 13:47 | 1280 | 0.0 | 作者文字自述AI |
 
-### 3. #lifeisbutadream
+### 7. #fitness
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -45,20 +91,19 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Desi Zaika | [☺️🎇Karwa chauth ka din #ai #animation #lifeisbutadream #aivideo #viralvideo](https://www.youtube.com/watch?v=bUEi02PGCK8) | 2026-10-29 13:03 | 2026-10-29 23:13 | 1338 | 待多次采样 | 作者文字自述AI |
-| Nasim Social  | [#aishorts #friendship #love #lifeisbutadream #funny #comedy #ai #aivideo #lofimusic #brokenheart](https://www.youtube.com/watch?v=oaZOE-erxY8) | 2026-10-29 12:07 | 2026-10-29 13:47 | 1280 | 61.5 | 作者文字自述AI |
+| Entertainment zone   | [MONTEGEM ZORA❤️/Fact/engsong/#ai#montegemzora #aishorts#aivideo#music#fitness #yt#shorts#short#trend](https://www.youtube.com/watch?v=OyBYmYr-UoU) | 2026-10-30 00:45 | 2026-10-30 05:07 | 26 | 待多次采样 | 作者文字自述AI |
+| FitVibe USA  | [triceps workout #america #aivideo #unitedstates #trend #trend #ai #usa #fitness](https://www.youtube.com/watch?v=Rlh2l1V0M_E) | 2026-10-29 11:17 | 2026-10-29 13:47 | 1 | 0.0 | 作者文字自述AI |
 
-### 4. #wildlife
+### 8. #lifeisbutadream
 
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Nayem editor  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #shortvideo #foryou](https://www.youtube.com/watch?v=FmAwyZdUeoM) | 2026-10-29 11:37 | 2026-10-29 23:13 | 1286 | 待多次采样 | 作者文字自述AI |
-| Rogi. | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=gIxaQmhrmG8) | 2026-10-29 04:30 | 2026-10-29 23:13 | 21 | 待多次采样 | 作者文字自述AI |
-| SnakeToon AI | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=W3pjkUusDo8) | 2026-10-29 12:43 | 2026-10-29 23:13 | 18 | 待多次采样 | 作者文字自述AI |
+| Desi Zaika | [☺️🎇Karwa chauth ka din #ai #animation #lifeisbutadream #aivideo #viralvideo](https://www.youtube.com/watch?v=bUEi02PGCK8) | 2026-10-29 13:03 | 2026-10-29 23:13 | 1364 | 4.4 | 作者文字自述AI |
+| Nasim Social  | [#aishorts #friendship #love #lifeisbutadream #funny #comedy #ai #aivideo #lofimusic #brokenheart](https://www.youtube.com/watch?v=oaZOE-erxY8) | 2026-10-29 12:07 | 2026-10-29 13:47 | 1280 | 0.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
