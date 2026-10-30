@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-10-30T15:02:39.592459+00:00",
-  "source_snapshot_at": "2026-10-30T15:02:34Z",
-  "source_video_count": 2788,
-  "published_last_24h_with_channel": 168,
-  "shared_name_groups": 2,
+  "generated_at": "2026-10-30T20:48:34.213822+00:00",
+  "source_snapshot_at": "2026-10-30T20:48:28Z",
+  "source_video_count": 2825,
+  "published_last_24h_with_channel": 228,
+  "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
-    {
-      "anchor": "ki conversation",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Ganesha & Mushak Raj Ki Funny Conversation 🤣 | Mythological AI Animation #shorts",
-          "channel": "Pawan cinematic ",
-          "channel_id": "UCpLExEvj2-I3UQgoK3TroBA",
-          "url": "https://www.youtube.com/watch?v=NGwzg3z5mF0",
-          "published_at": "2026-10-29T22:30:31Z",
-          "first_seen_at": "2026-10-30T05:47:42Z",
-          "views": 8256,
-          "observed_growth_per_hour": 630.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "😂 Cat Aur Dog Ki Funny Conversation  | AI Funny Animals| #Shorts #subscribe #trendingshorts #viral",
-          "channel": "Ai vedios with Hasnain ",
-          "channel_id": "UC8KvDxeRXii12OkjA3FUwcw",
-          "url": "https://www.youtube.com/watch?v=KP56QnqM3fQ",
-          "published_at": "2026-10-29T15:28:05Z",
-          "first_seen_at": "2026-10-29T21:07:19Z",
-          "views": 1247,
-          "observed_growth_per_hour": 6.8,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
     {
       "anchor": "#radhakrishna",
       "anchor_type": "tag",
@@ -78,6 +40,82 @@
           "first_seen_at": "2026-10-30T15:02:34Z",
           "views": 0,
           "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#emotionalstory",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "நாத்தனார் ரிட்டர்ன்ஸ்! #tamilshorts #tamilstory #emotionalstory #aivideo #lifelessonsintamil",
+          "channel": "kuttystory111",
+          "channel_id": "UCabMqwQl4NgczTsoK5-LBdw",
+          "url": "https://www.youtube.com/watch?v=X7KtdCeCC3c",
+          "published_at": "2026-10-30T11:29:15Z",
+          "first_seen_at": "2026-10-30T15:02:34Z",
+          "views": 17072,
+          "observed_growth_per_hour": 2020.6,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "jaadui fal #Shorts #HindiStory #EmotionalStory #MagicFruit #AIAnimation",
+          "channel": "Magic Fruit world ",
+          "channel_id": "UCxb9QO3UR2Yq-bsx415BZYA",
+          "url": "https://www.youtube.com/watch?v=o6SJPvEPElg",
+          "published_at": "2026-10-30T02:23:51Z",
+          "first_seen_at": "2026-10-30T20:48:28Z",
+          "views": 1162,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#lovestory",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "चाँद से भी खूबसूरत मोहब्बत ❤️🌙 #aianimation #cartoon #love #hindicartoon",
+          "channel": "AI EXPLORE Word ",
+          "channel_id": "UC_GEjMPF0xsAcGVuy8pQ6Ow",
+          "url": "https://www.youtube.com/watch?v=s4YCzePFVCY",
+          "published_at": "2026-10-30T02:30:02Z",
+          "first_seen_at": "2026-10-30T20:48:28Z",
+          "views": 1580,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Pov-Contract marriage Ep- 3 🥰🥺#trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory",
+          "channel": "@aayat.ai.lovestory",
+          "channel_id": "UCyiO69x7eSb2gpHspUIO_lA",
+          "url": "https://www.youtube.com/watch?v=d9u3yknuP3M",
+          "published_at": "2026-10-30T09:24:58Z",
+          "first_seen_at": "2026-10-30T15:02:34Z",
+          "views": 1117,
+          "observed_growth_per_hour": 33.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }

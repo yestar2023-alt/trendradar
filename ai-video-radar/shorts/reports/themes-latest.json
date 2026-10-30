@@ -1,10 +1,57 @@
 {
-  "built_at": "2026-10-30T15:02:39.506567+00:00",
-  "source_snapshot_at": "2026-10-30T15:02:34Z",
-  "snapshot_video_count": 2788,
-  "named_theme_count": 0,
+  "built_at": "2026-10-30T20:48:34.077548+00:00",
+  "source_snapshot_at": "2026-10-30T20:48:28Z",
+  "snapshot_video_count": 2825,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
+  "themes": [
+    {
+      "theme_id": "living_food",
+      "name": "Living Food / 食物拟人短剧",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "食物拟人化并说话/表演",
+      "input": "食物照片或文字描述",
+      "risk": "商标包装、音乐、童声和配音",
+      "caution": "标签只是类别线索，需验证是否是具体相同镜头/动作而非食物动画泛类",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 2,
+      "channel_count": 1,
+      "claimed_ai_creations": 1,
+      "independent_claimed_creator_count": 1,
+      "max_observed_views": 7711,
+      "first_observed_at": "2026-10-30T20:48:28Z",
+      "examples": [
+        {
+          "video_id": "V3jwO4bzdxg",
+          "title": "রসগোল্লার এমন হাসি দেখেছেন কখনো?  | মজার Talking Food Cartoon  | Funny AI Animation | Bangla Shorts",
+          "url": "https://www.youtube.com/watch?v=V3jwO4bzdxg",
+          "channel": "Ai Bangla 2",
+          "channel_id": "UClCH5WJBSLQPYzol7feo_0g",
+          "published_at": "2026-10-30T07:34:43Z",
+          "first_seen_at": "2026-10-30T20:48:28Z",
+          "views": 7711,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        },
+        {
+          "video_id": "7vJhB3izsLQ",
+          "title": "😂 Talking Food Cartoon Gone Crazy! 🍕🍔🌶️ | Funny AI Animated Food Characters 🤣 | Funny Shorts",
+          "url": "https://www.youtube.com/watch?v=7vJhB3izsLQ",
+          "channel": "Ai Bangla 2",
+          "channel_id": "UClCH5WJBSLQPYzol7feo_0g",
+          "published_at": "2026-10-30T00:39:54Z",
+          "first_seen_at": "2026-10-30T20:48:28Z",
+          "views": 1466,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    }
+  ],
   "unmatched_creative_candidates": []
 }

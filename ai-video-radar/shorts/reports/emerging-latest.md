@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-30 23:02
-- 数据库视频：2788；24小时内且有频道ID的非教程候选：168
-- 自动发现跨账号同名/同词线索：2
+- 最新成功快照（北京）：2026-10-31 04:48
+- 数据库视频：2825；24小时内且有频道ID的非教程候选：228
+- 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,18 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. ki conversation
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Pawan cinematic  | [Ganesha & Mushak Raj Ki Funny Conversation 🤣 / Mythological AI Animation #shorts](https://www.youtube.com/watch?v=NGwzg3z5mF0) | 2026-10-30 06:30 | 2026-10-30 13:47 | 8256 | 630.6 | 作者文字自述AI |
-| Ai vedios with Hasnain  | [😂 Cat Aur Dog Ki Funny Conversation  / AI Funny Animals/ #Shorts #subscribe #trendingshorts #viral](https://www.youtube.com/watch?v=KP56QnqM3fQ) | 2026-10-29 23:28 | 2026-10-30 05:07 | 1247 | 6.8 | 作者文字自述AI |
-
-### 2. #radhakrishna
+### 1. #radhakrishna
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -34,6 +23,28 @@
 |---|---|---|---|---:|---:|---|
 | Ankitayadav | [🌺मनिहारी का वेश बनाया🦚#shortvideo​ #bhakti​ #ytshorts​ #radhakrishna​ #aivideo​ #shortsfeed​](https://www.youtube.com/watch?v=MOo1ckt37ZM) | 2026-10-30 16:45 | 2026-10-30 23:02 | 3 | 待多次采样 | 作者文字自述AI |
 | Fit Smit Vlogs | [🦚 कृष्णा बने चूड़ीवाले 🦚 #trend #trending#bhakti #ytshorts #viral #radha #radhakrishna #ai #aivideo](https://www.youtube.com/watch?v=ELpc2AHxcjQ) | 2026-10-30 17:20 | 2026-10-30 23:02 | 0 | 待多次采样 | 作者文字自述AI |
+
+### 2. #emotionalstory
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| kuttystory111 | [நாத்தனார் ரிட்டர்ன்ஸ்! #tamilshorts #tamilstory #emotionalstory #aivideo #lifelessonsintamil](https://www.youtube.com/watch?v=X7KtdCeCC3c) | 2026-10-30 19:29 | 2026-10-30 23:02 | 17072 | 2,020.6 | 作者文字自述AI |
+| Magic Fruit world  | [jaadui fal #Shorts #HindiStory #EmotionalStory #MagicFruit #AIAnimation](https://www.youtube.com/watch?v=o6SJPvEPElg) | 2026-10-30 10:23 | 2026-10-31 04:48 | 1162 | 待多次采样 | 作者文字自述AI |
+
+### 3. #lovestory
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| AI EXPLORE Word  | [चाँद से भी खूबसूरत मोहब्बत ❤️🌙 #aianimation #cartoon #love #hindicartoon](https://www.youtube.com/watch?v=s4YCzePFVCY) | 2026-10-30 10:30 | 2026-10-31 04:48 | 1580 | 待多次采样 | 作者文字自述AI |
+| @aayat.ai.lovestory | [Pov-Contract marriage Ep- 3 🥰🥺#trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=d9u3yknuP3M) | 2026-10-30 17:24 | 2026-10-30 23:02 | 1117 | 33.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
