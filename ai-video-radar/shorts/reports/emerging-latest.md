@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-30 05:07
-- 数据库视频：3092；24小时内且有频道ID的非教程候选：282
-- 自动发现跨账号同名/同词线索：8
+- 最新成功快照（北京）：2026-10-30 13:47
+- 数据库视频：2959；24小时内且有频道ID的非教程候选：274
+- 自动发现跨账号同名/同词线索：7
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,20 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. karva chauth
+### 1. karwa chauth
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：7；其中AI文字自述频道：3；视频：8
+- 相同动作词：无；主文案复用比例：12%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Lado Vlogs | [Karwa Chauth Ka Vrat Kar Liye 🥰 / #karwachauth #minivlog #cooking #recipe #viral #short #dailyvlog](https://www.youtube.com/watch?v=h48gF8IoZLo) | 2026-10-29 19:31 | 2026-10-30 13:47 | 18304965 | 待多次采样 | AI制作未验证 |
+| The Pahadi Family | [Karwa Chauth Par Gharwalon Ne Mujhe Pareshan Kar Diya 😭/ Cheesy French Fries Recipe🍟 #frenchfries](https://www.youtube.com/watch?v=ImligKJeruM) | 2026-10-29 20:58 | 2026-10-30 13:47 | 8083188 | 待多次采样 | AI制作未验证 |
+| Neetu Bisht | [Dono Bahu Ki Karwa Chauth Party 😍❤️ #neetubisht #lakhneet #trending #karwachauth #mehndi #ytshorts](https://www.youtube.com/watch?v=ANbFtvkmphk) | 2026-10-29 16:30 | 2026-10-30 13:47 | 7826546 | 待多次采样 | AI制作未验证 |
+| Suraj & Yashi Shorts | [Karwa chauth ku mehendi ❤️ #youtubeshorts #minivlog](https://www.youtube.com/watch?v=pcCu2TrefEI) | 2026-10-29 14:30 | 2026-10-30 13:47 | 5588775 | 待多次采样 | AI制作未验证 |
+
+### 2. karva chauth
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：4；其中AI文字自述频道：3；视频：4
@@ -21,36 +34,25 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| TOON Baaz | [karva chauth special Pani puri #ai #aianimation #aishorts #toonbaaz](https://www.youtube.com/watch?v=QkGqzbzImU8) | 2026-10-29 19:55 | 2026-10-29 23:13 | 1443 | 85.5 | 作者文字自述AI |
-| Dil se edits | [Gemini Karva Chauth Prompt AI Editing Trend 2026 Karva Chauth Gemini Prompt / Karva Chauth Photo #ai](https://www.youtube.com/watch?v=uBWtB2gwbuw) | 2026-10-29 21:04 | 2026-10-30 05:07 | 657 | 待多次采样 | 作者文字自述AI |
-| R D STUDIO RAVIRAJ | [Jay Bheem video. karva chauth. #trending #karvachauth #karvachauthvrat #karva #shorts #viral #video](https://www.youtube.com/watch?v=MmsUO4UHcCk) | 2026-10-29 22:55 | 2026-10-30 05:07 | 188 | 待多次采样 | AI制作未验证 |
-| avadhi star studio  | [special karva chauth 2026 #karwachauth #karwachauthspecial #ytshorts #ai #aivideo](https://www.youtube.com/watch?v=A8EEuodD3XM) | 2026-10-29 22:10 | 2026-10-30 05:07 | 32 | 待多次采样 | 作者文字自述AI |
+| TOON Baaz | [karva chauth special Pani puri #ai #aianimation #aishorts #toonbaaz](https://www.youtube.com/watch?v=QkGqzbzImU8) | 2026-10-29 19:55 | 2026-10-29 23:13 | 1462 | 2.2 | 作者文字自述AI |
+| Dil se edits | [Gemini Karva Chauth Prompt AI Editing Trend 2026 Karva Chauth Gemini Prompt / Karva Chauth Photo #ai](https://www.youtube.com/watch?v=uBWtB2gwbuw) | 2026-10-29 21:04 | 2026-10-30 05:07 | 743 | 9.9 | 作者文字自述AI |
+| R D STUDIO RAVIRAJ | [Jay Bheem video. karva chauth. #trending #karvachauth #karvachauthvrat #karva #shorts #viral #video](https://www.youtube.com/watch?v=MmsUO4UHcCk) | 2026-10-29 22:55 | 2026-10-30 05:07 | 197 | 1.0 | AI制作未验证 |
+| avadhi star studio  | [special karva chauth 2026 #karwachauth #karwachauthspecial #ytshorts #ai #aivideo](https://www.youtube.com/watch?v=A8EEuodD3XM) | 2026-10-29 22:10 | 2026-10-30 05:07 | 32 | 0.0 | 作者文字自述AI |
 
-### 2. #animallife
+### 3. #karwachauth
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：7；其中AI文字自述频道：2；视频：8
+- 相同动作词：无；主文案复用比例：12%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Nayem editor  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #shortvideo #foryou](https://www.youtube.com/watch?v=FmAwyZdUeoM) | 2026-10-29 11:37 | 2026-10-29 23:13 | 1300 | 2.4 | 作者文字自述AI |
-| cartoon mama Tv | [Bhilai wala cartoon Ai animation cat video #cat #pets #3danimation #short  #funny #animallife](https://www.youtube.com/watch?v=8rEF__WZvII) | 2026-10-29 11:23 | 2026-10-29 23:13 | 243 | 12.4 | 作者文字自述AI |
-| SnakeToon AI | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=W3pjkUusDo8) | 2026-10-29 12:43 | 2026-10-29 23:13 | 22 | 0.7 | 作者文字自述AI |
+| Lado Vlogs | [Karwa Chauth Ka Vrat Kar Liye 🥰 / #karwachauth #minivlog #cooking #recipe #viral #short #dailyvlog](https://www.youtube.com/watch?v=h48gF8IoZLo) | 2026-10-29 19:31 | 2026-10-30 13:47 | 18304965 | 待多次采样 | AI制作未验证 |
+| The Pahadi Family | [Karwa Chauth Par Gharwalon Ne Mujhe Pareshan Kar Diya 😭/ Cheesy French Fries Recipe🍟 #frenchfries](https://www.youtube.com/watch?v=ImligKJeruM) | 2026-10-29 20:58 | 2026-10-30 13:47 | 8083188 | 待多次采样 | AI制作未验证 |
+| Neetu Bisht | [Dono Bahu Ki Karwa Chauth Party 😍❤️ #neetubisht #lakhneet #trending #karwachauth #mehndi #ytshorts](https://www.youtube.com/watch?v=ANbFtvkmphk) | 2026-10-29 16:30 | 2026-10-30 13:47 | 7826546 | 待多次采样 | AI制作未验证 |
+| Life with Priya Rao | [Aaj ke din ke liye bacha surprise mil gaya #minivlog #shorts #dailyvlog #familyvlog #karwa chauth](https://www.youtube.com/watch?v=Ab6A6VZ2xFU) | 2026-10-29 16:39 | 2026-10-30 13:47 | 5974810 | 待多次采样 | AI制作未验证 |
 
-### 3. #wildlife
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Nayem editor  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #shortvideo #foryou](https://www.youtube.com/watch?v=FmAwyZdUeoM) | 2026-10-29 11:37 | 2026-10-29 23:13 | 1300 | 2.4 | 作者文字自述AI |
-| SnakeToon AI | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=W3pjkUusDo8) | 2026-10-29 12:43 | 2026-10-29 23:13 | 22 | 0.7 | 作者文字自述AI |
-| EpicTale Studios | [#viral #artificialgeneralintelligence #ai #dreamtrackai #epics #popular #keepanimalalive #animals](https://www.youtube.com/watch?v=Uadv3AP9APw) | 2026-10-29 05:40 | 2026-10-30 05:07 | 10 | 待多次采样 | AI制作未验证 |
-
-### 4. #lovestory
+### 4. chauth special
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -58,32 +60,10 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Haripriya | [🌹❤️ रिश्तों का महल 🏰 पहली मुलाकात 😍 #Episode1 #Shorts #AIVideo #JubileeArt #LoveStory #Viral #trend](https://www.youtube.com/watch?v=dXhFqcHhJOQ) | 2026-10-29 08:33 | 2026-10-29 13:47 | 944 | 1.2 | 作者文字自述AI |
-| @aayat.ai.lovestory | [Pov-Contract marriage Ep -2 🥺🥰 #trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=FALNBKPBlK8) | 2026-10-29 22:04 | 2026-10-30 05:07 | 309 | 待多次采样 | 作者文字自述AI |
+| Ai_world01 | [Karwa chauth special funny video🐍😂 #viralsnakevideo #funnyshorts #aianimation #3danimation #funny](https://www.youtube.com/watch?v=wu5Fh3-v8Cw) | 2026-10-29 19:15 | 2026-10-30 13:47 | 1536 | 待多次采样 | 作者文字自述AI |
+| TOON Baaz | [karva chauth special Pani puri #ai #aianimation #aishorts #toonbaaz](https://www.youtube.com/watch?v=QkGqzbzImU8) | 2026-10-29 19:55 | 2026-10-29 23:13 | 1462 | 2.2 | 作者文字自述AI |
 
-### 5. #myvideo
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| @aayat.ai.lovestory | [Pov-Contract marriage Ep -2 🥺🥰 #trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=FALNBKPBlK8) | 2026-10-29 22:04 | 2026-10-30 05:07 | 309 | 待多次采样 | 作者文字自述AI |
-| priya ker  | [October 29, 2026 # AI #shortvideo #tending shots🤣✨😉#AI#viral video🥺😋#youtubeshorts #myvideo #](https://www.youtube.com/watch?v=JlCguZ04MjU) | 2026-10-29 18:24 | 2026-10-30 05:07 | 28 | 待多次采样 | 作者文字自述AI |
-
-### 6. #friendship
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| MixTooNss | [Two Friends। দুই বন্ধু।Ai Animation Cartoon।2026](https://www.youtube.com/watch?v=KGkPb0gQykk) | 2026-10-29 13:07 | 2026-10-29 23:13 | 1750 | 2.5 | 作者文字自述AI |
-| Nasim Social  | [#aishorts #friendship #love #lifeisbutadream #funny #comedy #ai #aivideo #lofimusic #brokenheart](https://www.youtube.com/watch?v=oaZOE-erxY8) | 2026-10-29 12:07 | 2026-10-29 13:47 | 1280 | 0.0 | 作者文字自述AI |
-
-### 7. #fitness
+### 5. #desicomedy
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -91,10 +71,10 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Entertainment zone   | [MONTEGEM ZORA❤️/Fact/engsong/#ai#montegemzora #aishorts#aivideo#music#fitness #yt#shorts#short#trend](https://www.youtube.com/watch?v=OyBYmYr-UoU) | 2026-10-30 00:45 | 2026-10-30 05:07 | 26 | 待多次采样 | 作者文字自述AI |
-| FitVibe USA  | [triceps workout #america #aivideo #unitedstates #trend #trend #ai #usa #fitness](https://www.youtube.com/watch?v=Rlh2l1V0M_E) | 2026-10-29 11:17 | 2026-10-29 13:47 | 1 | 0.0 | 作者文字自述AI |
+| rgai | [🎈 गुब्बारे वाला साँप #DesiComedy #HindiComedy #AIAnimation #ViralReels #3DAnimation #Shorts](https://www.youtube.com/watch?v=2GxthnKWW6Q) | 2026-10-29 20:11 | 2026-10-30 13:47 | 1460 | 待多次采样 | 作者文字自述AI |
+| Priteetiwari AI video | [#trend # #aivideo #funny #comedy #hindicomedy #entertainment  #funnyvideo #viralvideo #desicomedy](https://www.youtube.com/watch?v=qy5imFkVbIE) | 2026-10-29 22:37 | 2026-10-30 05:07 | 63 | 0.6 | 作者文字自述AI |
 
-### 8. #lifeisbutadream
+### 6. #myvideo
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -102,8 +82,19 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Desi Zaika | [☺️🎇Karwa chauth ka din #ai #animation #lifeisbutadream #aivideo #viralvideo](https://www.youtube.com/watch?v=bUEi02PGCK8) | 2026-10-29 13:03 | 2026-10-29 23:13 | 1364 | 4.4 | 作者文字自述AI |
-| Nasim Social  | [#aishorts #friendship #love #lifeisbutadream #funny #comedy #ai #aivideo #lofimusic #brokenheart](https://www.youtube.com/watch?v=oaZOE-erxY8) | 2026-10-29 12:07 | 2026-10-29 13:47 | 1280 | 0.0 | 作者文字自述AI |
+| @aayat.ai.lovestory | [Pov-Contract marriage Ep -2 🥺🥰 #trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=FALNBKPBlK8) | 2026-10-29 22:04 | 2026-10-30 05:07 | 366 | 6.6 | 作者文字自述AI |
+| priya ker  | [October 29, 2026 # AI #shortvideo #tending shots🤣✨😉#AI#viral video🥺😋#youtubeshorts #myvideo #](https://www.youtube.com/watch?v=JlCguZ04MjU) | 2026-10-29 18:24 | 2026-10-30 05:07 | 28 | 0.0 | 作者文字自述AI |
+
+### 7. #tranding
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| kahani hous | [🔥 लक्ष्मण जी vs इन्द्रजीत (मेघनाद) का भयंकर युद्ध 🚩 / Ramayana AI Animation #Shorts #tranding](https://www.youtube.com/watch?v=gJO6HajxOhk) | 2026-10-29 21:17 | 2026-10-30 13:47 | 1396 | 待多次采样 | 作者文字自述AI |
+| 💖 𝔸𝕚  𝕤𝕥𝕠𝕣𝕪  💖 | [#aivideo #aishorts #aianimation  #trend #tranding #short #aishorts #aifunny #aifact #shortvideo](https://www.youtube.com/watch?v=LT_btKG3CV0) | 2026-10-29 16:05 | 2026-10-30 13:47 | 1251 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
