@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-10-30T20:48:34.213822+00:00",
-  "source_snapshot_at": "2026-10-30T20:48:28Z",
-  "source_video_count": 2825,
-  "published_last_24h_with_channel": 228,
-  "shared_name_groups": 3,
+  "generated_at": "2026-10-31T05:39:46.071421+00:00",
+  "source_snapshot_at": "2026-10-31T05:39:41Z",
+  "source_video_count": 2771,
+  "published_last_24h_with_channel": 237,
+  "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
+    {
+      "anchor": "#desicomedy",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "trend #aivideo #sasbahu #hindicomedy #funny #funnyvideo #entertainment #viralvideo #desicomedy",
+          "channel": "Priteetiwari AI video",
+          "channel_id": "UCH-xYB9aTuRtPOVq9yTZTlw",
+          "url": "https://www.youtube.com/watch?v=3KuuHtW3rQA",
+          "published_at": "2026-10-30T10:40:19Z",
+          "first_seen_at": "2026-10-30T15:02:34Z",
+          "views": 3,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "shorts #youtubeshorts #aivideo #aianimation #funnyvideo #desicomedy #funnyshorts #hindicomedy #trend",
+          "channel": "AI POINT 092",
+          "channel_id": "UC56-7m4eSNNIUuEm7EZgwSQ",
+          "url": "https://www.youtube.com/watch?v=feh60-m5o6w",
+          "published_at": "2026-10-31T01:47:49Z",
+          "first_seen_at": "2026-10-31T05:39:41Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
     {
       "anchor": "#radhakrishna",
       "anchor_type": "tag",
@@ -46,7 +84,7 @@
       ]
     },
     {
-      "anchor": "#emotionalstory",
+      "anchor": "#اكسبلور",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -58,25 +96,25 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "நாத்தனார் ரிட்டர்ன்ஸ்! #tamilshorts #tamilstory #emotionalstory #aivideo #lifelessonsintamil",
-          "channel": "kuttystory111",
-          "channel_id": "UCabMqwQl4NgczTsoK5-LBdw",
-          "url": "https://www.youtube.com/watch?v=X7KtdCeCC3c",
-          "published_at": "2026-10-30T11:29:15Z",
-          "first_seen_at": "2026-10-30T15:02:34Z",
-          "views": 17072,
-          "observed_growth_per_hour": 2020.6,
+          "title": "dog #ai #اكسبلور #aivideo #aianimation #ذكاء_اصطناعي",
+          "channel": "AI XON",
+          "channel_id": "UCAPtpfMIintyx50dZIq5fKA",
+          "url": "https://www.youtube.com/watch?v=Y02aWQbU5fg",
+          "published_at": "2026-10-30T09:46:32Z",
+          "first_seen_at": "2026-10-30T20:48:28Z",
+          "views": 6015,
+          "observed_growth_per_hour": 52.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "jaadui fal #Shorts #HindiStory #EmotionalStory #MagicFruit #AIAnimation",
-          "channel": "Magic Fruit world ",
-          "channel_id": "UCxb9QO3UR2Yq-bsx415BZYA",
-          "url": "https://www.youtube.com/watch?v=o6SJPvEPElg",
-          "published_at": "2026-10-30T02:23:51Z",
-          "first_seen_at": "2026-10-30T20:48:28Z",
-          "views": 1162,
+          "title": "#ترند #ai #explore #اكسبلور #aivideo #aishorts #aianimation #trending #trendingshorts #trend #",
+          "channel": "A-💕aa",
+          "channel_id": "UCFpG-R6LTApF6DCqIAS2HcQ",
+          "url": "https://www.youtube.com/watch?v=Ldzb8zK5mKg",
+          "published_at": "2026-10-30T20:54:11Z",
+          "first_seen_at": "2026-10-31T05:39:41Z",
+          "views": 3,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -84,7 +122,7 @@
       ]
     },
     {
-      "anchor": "#lovestory",
+      "anchor": "#cricket",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -96,31 +134,48 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "चाँद से भी खूबसूरत मोहब्बत ❤️🌙 #aianimation #cartoon #love #hindicartoon",
-          "channel": "AI EXPLORE Word ",
-          "channel_id": "UC_GEjMPF0xsAcGVuy8pQ6Ow",
-          "url": "https://www.youtube.com/watch?v=s4YCzePFVCY",
-          "published_at": "2026-10-30T02:30:02Z",
-          "first_seen_at": "2026-10-30T20:48:28Z",
-          "views": 1580,
-          "observed_growth_per_hour": null,
+          "title": "Surah AL-FATIHAHAQuran💖🕊 Recitation-Egzon Ibrahimi |Xسورة فاتحہ #shorts #ai #aivideo #youtubeshorts#",
+          "channel": "Ai Professor",
+          "channel_id": "UCi2sGbamCnpU-rNVhiI3DNA",
+          "url": "https://www.youtube.com/watch?v=mhu02M-uIj0",
+          "published_at": "2026-10-30T08:33:22Z",
+          "first_seen_at": "2026-10-30T15:02:34Z",
+          "views": 1432,
+          "observed_growth_per_hour": 9.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Pov-Contract marriage Ep- 3 🥰🥺#trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory",
-          "channel": "@aayat.ai.lovestory",
-          "channel_id": "UCyiO69x7eSb2gpHspUIO_lA",
-          "url": "https://www.youtube.com/watch?v=d9u3yknuP3M",
-          "published_at": "2026-10-30T09:24:58Z",
-          "first_seen_at": "2026-10-30T15:02:34Z",
-          "views": 1117,
-          "observed_growth_per_hour": 33.0,
+          "title": "bol boom shaka laka new trend video #viral ##cricket #ai",
+          "channel": "OfficialJanak57",
+          "channel_id": "UC46LXpi_1cru1wPWRo4N-_Q",
+          "url": "https://www.youtube.com/watch?v=hQcNs_QoK0c",
+          "published_at": "2026-10-31T01:30:12Z",
+          "first_seen_at": "2026-10-31T05:39:41Z",
+          "views": 352,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "🏆 Baby Gave Dad a CRAZY Makeover! 😂💄 | Funny AI Animation #Shorts #animotion #syntheticmedia",
+      "channel": "MimoToonz Tales",
+      "channel_id": "UCZB-ZrvQzpxQMpxxH5kpJrQ",
+      "url": "https://www.youtube.com/watch?v=QiOoZBaeNzA",
+      "published_at": "2026-10-30T15:14:13Z",
+      "first_seen_at": "2026-10-30T20:48:28Z",
+      "views": 2633079,
+      "observed_growth_per_hour": 287742.1,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "gave dad crazy makeover",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "百万播放候选，仍需验证AI"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-10-31 04:48
-- 数据库视频：2825；24小时内且有频道ID的非教程候选：228
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-10-31 13:39
+- 数据库视频：2771；24小时内且有频道ID的非教程候选：237
+- 自动发现跨账号同名/同词线索：4
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,18 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #radhakrishna
+### 1. #desicomedy
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Priteetiwari AI video | [trend #aivideo #sasbahu #hindicomedy #funny #funnyvideo #entertainment #viralvideo #desicomedy](https://www.youtube.com/watch?v=3KuuHtW3rQA) | 2026-10-30 18:40 | 2026-10-30 23:02 | 3 | 待多次采样 | 作者文字自述AI |
+| AI POINT 092 | [shorts #youtubeshorts #aivideo #aianimation #funnyvideo #desicomedy #funnyshorts #hindicomedy #trend](https://www.youtube.com/watch?v=feh60-m5o6w) | 2026-10-31 09:47 | 2026-10-31 13:39 | 0 | 待多次采样 | 作者文字自述AI |
+
+### 2. #radhakrishna
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -24,7 +35,7 @@
 | Ankitayadav | [🌺मनिहारी का वेश बनाया🦚#shortvideo​ #bhakti​ #ytshorts​ #radhakrishna​ #aivideo​ #shortsfeed​](https://www.youtube.com/watch?v=MOo1ckt37ZM) | 2026-10-30 16:45 | 2026-10-30 23:02 | 3 | 待多次采样 | 作者文字自述AI |
 | Fit Smit Vlogs | [🦚 कृष्णा बने चूड़ीवाले 🦚 #trend #trending#bhakti #ytshorts #viral #radha #radhakrishna #ai #aivideo](https://www.youtube.com/watch?v=ELpc2AHxcjQ) | 2026-10-30 17:20 | 2026-10-30 23:02 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 2. #emotionalstory
+### 3. #اكسبلور
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -32,10 +43,10 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| kuttystory111 | [நாத்தனார் ரிட்டர்ன்ஸ்! #tamilshorts #tamilstory #emotionalstory #aivideo #lifelessonsintamil](https://www.youtube.com/watch?v=X7KtdCeCC3c) | 2026-10-30 19:29 | 2026-10-30 23:02 | 17072 | 2,020.6 | 作者文字自述AI |
-| Magic Fruit world  | [jaadui fal #Shorts #HindiStory #EmotionalStory #MagicFruit #AIAnimation](https://www.youtube.com/watch?v=o6SJPvEPElg) | 2026-10-30 10:23 | 2026-10-31 04:48 | 1162 | 待多次采样 | 作者文字自述AI |
+| AI XON | [dog #ai #اكسبلور #aivideo #aianimation #ذكاء_اصطناعي](https://www.youtube.com/watch?v=Y02aWQbU5fg) | 2026-10-30 17:46 | 2026-10-31 04:48 | 6015 | 52.0 | 作者文字自述AI |
+| A-💕aa | [#ترند #ai #explore #اكسبلور #aivideo #aishorts #aianimation #trending #trendingshorts #trend #](https://www.youtube.com/watch?v=Ldzb8zK5mKg) | 2026-10-31 04:54 | 2026-10-31 13:39 | 3 | 待多次采样 | 作者文字自述AI |
 
-### 3. #lovestory
+### 4. #cricket
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -43,14 +54,14 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| AI EXPLORE Word  | [चाँद से भी खूबसूरत मोहब्बत ❤️🌙 #aianimation #cartoon #love #hindicartoon](https://www.youtube.com/watch?v=s4YCzePFVCY) | 2026-10-30 10:30 | 2026-10-31 04:48 | 1580 | 待多次采样 | 作者文字自述AI |
-| @aayat.ai.lovestory | [Pov-Contract marriage Ep- 3 🥰🥺#trending #shortvideo #aivideo #love #song #trend #myvideo #lovestory](https://www.youtube.com/watch?v=d9u3yknuP3M) | 2026-10-30 17:24 | 2026-10-30 23:02 | 1117 | 33.0 | 作者文字自述AI |
+| Ai Professor | [Surah AL-FATIHAHAQuran💖🕊 Recitation-Egzon Ibrahimi /Xسورة فاتحہ #shorts #ai #aivideo #youtubeshorts#](https://www.youtube.com/watch?v=mhu02M-uIj0) | 2026-10-30 16:33 | 2026-10-30 23:02 | 1432 | 9.5 | 作者文字自述AI |
+| OfficialJanak57 | [bol boom shaka laka new trend video #viral ##cricket #ai](https://www.youtube.com/watch?v=hQcNs_QoK0c) | 2026-10-31 09:30 | 2026-10-31 13:39 | 352 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| MimoToonz Tales | [🏆 Baby Gave Dad a CRAZY Makeover! 😂💄 / Funny AI Animation #Shorts #animotion #syntheticmedia](https://www.youtube.com/watch?v=QiOoZBaeNzA) | 百万播放候选，仍需验证AI | 2026-10-30 23:14 | 2026-10-31 04:48 | 2633079 | 287,742.1 |
 
 ## 人工核验清单
 
