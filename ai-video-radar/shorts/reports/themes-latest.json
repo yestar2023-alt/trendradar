@@ -1,39 +1,39 @@
 {
-  "built_at": "2026-10-31T05:39:45.950329+00:00",
-  "source_snapshot_at": "2026-10-31T05:39:41Z",
-  "snapshot_video_count": 2771,
+  "built_at": "2026-10-31T14:31:55.822612+00:00",
+  "source_snapshot_at": "2026-10-31T14:31:51Z",
+  "snapshot_video_count": 2684,
   "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
     {
-      "theme_id": "living_food",
-      "name": "Living Food / 食物拟人短剧",
-      "status": "仅候选/尚未确认新玩法",
-      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
-      "concept": "食物拟人化并说话/表演",
-      "input": "食物照片或文字描述",
-      "risk": "商标包装、音乐、童声和配音",
-      "caution": "标签只是类别线索，需验证是否是具体相同镜头/动作而非食物动画泛类",
-      "existing_before": null,
-      "previous_evidence_url": null,
+      "theme_id": "cat_clapping",
+      "name": "Black Cat Clapping / 拍手猫",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "宠物站起并慢拍手",
+      "input": "一张自有宠物照",
+      "risk": "原创素材版权与宠物照片权利",
+      "caution": "9月已出现的存量热门梗，不能把今日二创叫首发",
+      "existing_before": "2026-09-25",
+      "previous_evidence_url": "https://knowyourmeme.com/memes/black-cat-clapping",
       "videos": 1,
       "channel_count": 1,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 18811,
-      "first_observed_at": "2026-10-30T20:48:28Z",
+      "max_observed_views": 1158,
+      "first_observed_at": "2026-10-31T14:31:51Z",
       "examples": [
         {
-          "video_id": "V3jwO4bzdxg",
-          "title": "রসগোল্লার এমন হাসি দেখেছেন কখনো?  | মজার Talking Food Cartoon  | Funny AI Animation | Bangla Shorts",
-          "url": "https://www.youtube.com/watch?v=V3jwO4bzdxg",
-          "channel": "Ai Bangla 2",
-          "channel_id": "UClCH5WJBSLQPYzol7feo_0g",
-          "published_at": "2026-10-30T07:34:43Z",
-          "first_seen_at": "2026-10-30T20:48:28Z",
-          "views": 18811,
-          "observed_growth_per_hour": 1253.7,
+          "video_id": "AUOTae8sef0",
+          "title": "TOP 4 Craziest AI Videos! 🤯 Masha, Bear & Clapping Cat!",
+          "url": "https://www.youtube.com/watch?v=AUOTae8sef0",
+          "channel": "FunnyHighlightVid",
+          "channel_id": "UCHtEqczHPnplKKeWm8K8T1Q",
+          "published_at": "2026-10-30T15:30:29Z",
+          "first_seen_at": "2026-10-31T14:31:51Z",
+          "views": 1158,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
@@ -44,11 +44,11 @@
     {
       "title": "🏆 Baby Gave Dad a CRAZY Makeover! 😂💄 | Funny AI Animation #Shorts #animotion #syntheticmedia",
       "url": "https://www.youtube.com/watch?v=QiOoZBaeNzA",
-      "views": 2633079,
+      "views": 5529056,
       "channel": "MimoToonz Tales",
       "first_seen_at": "2026-10-30T20:48:28Z",
       "published_at": "2026-10-30T15:14:13Z",
-      "observed_growth_per_hour": 287742.1
+      "observed_growth_per_hour": 326511.7
     }
   ]
 }
