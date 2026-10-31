@@ -1,8 +1,8 @@
 # AI Shorts 新玩法归组与独立模仿证据（自动候选）
 
-- 数据时间（北京）：2026-11-01 03:58
+- 数据时间（北京）：2026-11-01 07:23
 - 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询
-- 保存的历史状态池：2703 条；仅使用最近24小时发布的视频归组为 1 个主题
+- 保存的历史状态池：2766 条；仅使用最近24小时发布的视频归组为 1 个主题
 - 有两个及以上独立账号文字自述AI的**候选主题**：0（不等于同一玩法的模仿已证实）
 - 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**
 
@@ -17,14 +17,14 @@
 
 - 自动状态：**仅候选/尚未确认新玩法**；建议：单个或未核实AI视频；仅观察，不建议立即建站
 - 近期匹配视频：2；不同频道：2；文字自述AI的视频：0；其中独立作者频道：0
-- 最大单条观测播放量：1535；首次系统观察：2026-11-01 03:58（不等于真实首发）
+- 最大单条观测播放量：1631；首次系统观察：2026-11-01 03:58（不等于真实首发）
 - 可复刻概念：车辆从废旧到崭新的视觉变化；输入素材：一张车辆照片
 - 混淆与排除：汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分；风险：汽车品牌/Logo 商标与真实维修误导
 
 | 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
 |---|---|---|---|---:|---|---:|
-| AI Fix Lab | [Abandoned Lamborghini Restoration 😱🔥 From Rusty to Luxury! #shorts #AI #Lamborghini #vairalvideo](https://www.youtube.com/watch?v=hJwXLbNclvc) | 2026-10-31 20:05 | 2026-11-01 03:58 | 1535 | AI制作未核实 | 待多次采样 |
-| MZ AUTOMOBILE | [Lion Roars 🦁 Then Transforms Into Black Fortuner 😱🔥 / Epic AI Car Transformation #Shorts #nextcar](https://www.youtube.com/watch?v=xVQMKivFV5c) | 2026-10-31 17:38 | 2026-11-01 03:58 | 1281 | AI制作未核实 | 待多次采样 |
+| AI Fix Lab | [Abandoned Lamborghini Restoration 😱🔥 From Rusty to Luxury! #shorts #AI #Lamborghini #vairalvideo](https://www.youtube.com/watch?v=hJwXLbNclvc) | 2026-10-31 20:05 | 2026-11-01 03:58 | 1631 | AI制作未核实 | 28.1 |
+| MZ AUTOMOBILE | [Lion Roars 🦁 Then Transforms Into Black Fortuner 😱🔥 / Epic AI Car Transformation #Shorts #nextcar](https://www.youtube.com/watch?v=xVQMKivFV5c) | 2026-10-31 17:38 | 2026-11-01 03:58 | 1289 | AI制作未核实 | 2.3 |
 
 ## 单条超过100万播放，但尚未匹配具体玩法的 AI 自述视频
 
