@@ -1,54 +1,57 @@
 {
-  "built_at": "2026-10-31T14:31:55.822612+00:00",
-  "source_snapshot_at": "2026-10-31T14:31:51Z",
-  "snapshot_video_count": 2684,
+  "built_at": "2026-10-31T19:58:49.806740+00:00",
+  "source_snapshot_at": "2026-10-31T19:58:45Z",
+  "snapshot_video_count": 2703,
   "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
     {
-      "theme_id": "cat_clapping",
-      "name": "Black Cat Clapping / 拍手猫",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "宠物站起并慢拍手",
-      "input": "一张自有宠物照",
-      "risk": "原创素材版权与宠物照片权利",
-      "caution": "9月已出现的存量热门梗，不能把今日二创叫首发",
-      "existing_before": "2026-09-25",
-      "previous_evidence_url": "https://knowyourmeme.com/memes/black-cat-clapping",
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 1,
-      "independent_claimed_creator_count": 1,
-      "max_observed_views": 1158,
-      "first_observed_at": "2026-10-31T14:31:51Z",
+      "theme_id": "car_restoration",
+      "name": "Car Transformation / 废车变超跑",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "车辆从废旧到崭新的视觉变化",
+      "input": "一张车辆照片",
+      "risk": "汽车品牌/Logo 商标与真实维修误导",
+      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 2,
+      "channel_count": 2,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 1535,
+      "first_observed_at": "2026-10-31T19:58:45Z",
       "examples": [
         {
-          "video_id": "AUOTae8sef0",
-          "title": "TOP 4 Craziest AI Videos! 🤯 Masha, Bear & Clapping Cat!",
-          "url": "https://www.youtube.com/watch?v=AUOTae8sef0",
-          "channel": "FunnyHighlightVid",
-          "channel_id": "UCHtEqczHPnplKKeWm8K8T1Q",
-          "published_at": "2026-10-30T15:30:29Z",
-          "first_seen_at": "2026-10-31T14:31:51Z",
-          "views": 1158,
+          "video_id": "hJwXLbNclvc",
+          "title": "Abandoned Lamborghini Restoration 😱🔥 From Rusty to Luxury! #shorts #AI #Lamborghini #vairalvideo",
+          "url": "https://www.youtube.com/watch?v=hJwXLbNclvc",
+          "channel": "AI Fix Lab",
+          "channel_id": "UCRMl0i1Tdovyb8iNRBRoZFA",
+          "published_at": "2026-10-31T12:05:04Z",
+          "first_seen_at": "2026-10-31T19:58:45Z",
+          "views": 1535,
           "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "xVQMKivFV5c",
+          "title": "Lion Roars 🦁 Then Transforms Into Black Fortuner 😱🔥 | Epic AI Car Transformation #Shorts #nextcar",
+          "url": "https://www.youtube.com/watch?v=xVQMKivFV5c",
+          "channel": "MZ AUTOMOBILE",
+          "channel_id": "UCkHxOJWkOrfN5XdFHC7s0tQ",
+          "published_at": "2026-10-31T09:38:03Z",
+          "first_seen_at": "2026-10-31T19:58:45Z",
+          "views": 1281,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
         }
       ]
     }
   ],
-  "unmatched_creative_candidates": [
-    {
-      "title": "🏆 Baby Gave Dad a CRAZY Makeover! 😂💄 | Funny AI Animation #Shorts #animotion #syntheticmedia",
-      "url": "https://www.youtube.com/watch?v=QiOoZBaeNzA",
-      "views": 5529056,
-      "channel": "MimoToonz Tales",
-      "first_seen_at": "2026-10-30T20:48:28Z",
-      "published_at": "2026-10-30T15:14:13Z",
-      "observed_growth_per_hour": 326511.7
-    }
-  ]
+  "unmatched_creative_candidates": []
 }

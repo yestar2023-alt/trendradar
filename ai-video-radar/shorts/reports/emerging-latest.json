@@ -1,77 +1,15 @@
 {
-  "generated_at": "2026-10-31T14:31:55.967750+00:00",
-  "source_snapshot_at": "2026-10-31T14:31:51Z",
-  "source_video_count": 2684,
-  "published_last_24h_with_channel": 213,
-  "shared_name_groups": 3,
+  "generated_at": "2026-10-31T19:58:49.954621+00:00",
+  "source_snapshot_at": "2026-10-31T19:58:45Z",
+  "source_video_count": 2703,
+  "published_last_24h_with_channel": 261,
+  "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "#aitools",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 6,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.17,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Let AI Scroll for You 🤯 Automate Research & Find Viral Content Faster! #AI #AITools #Automation",
-          "channel": "Ben Kimball Ai",
-          "channel_id": "UC5cY7agID9yvdezCBYGTraQ",
-          "url": "https://www.youtube.com/watch?v=w1U9kDfTmok",
-          "published_at": "2026-10-31T02:06:38Z",
-          "first_seen_at": "2026-10-31T05:39:41Z",
-          "views": 1495,
-          "observed_growth_per_hour": 95.7,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "1v1 Dunk AI Trend with TWO Photos 🏀 #shorts #aivideo #aitools #creatorlife",
-          "channel": "Oakgen AI",
-          "channel_id": "UCZ7IMuIuITJ3tqXRjFkKsZw",
-          "url": "https://www.youtube.com/watch?v=TK9T0STkCBU",
-          "published_at": "2026-10-31T00:00:28Z",
-          "first_seen_at": "2026-10-31T05:39:41Z",
-          "views": 1168,
-          "observed_growth_per_hour": 24.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "These are the videos printing on the low. #aitools #aianimation #kidscartoon #moneytok",
-          "channel": "Jada Blue",
-          "channel_id": "UC5FZWnsulQ4yGsKCS3TWuaA",
-          "url": "https://www.youtube.com/watch?v=QqnfrqdfH00",
-          "published_at": "2026-10-30T16:16:15Z",
-          "first_seen_at": "2026-10-31T14:31:51Z",
-          "views": 1131,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Alors on Danse AI Trend with TWO Photos 🎹 #shorts #aivideo #aitools #creatorlife",
-          "channel": "Oakgen AI",
-          "channel_id": "UCZ7IMuIuITJ3tqXRjFkKsZw",
-          "url": "https://www.youtube.com/watch?v=ZdVwHzbaorI",
-          "published_at": "2026-10-31T00:45:36Z",
-          "first_seen_at": "2026-10-31T05:39:41Z",
-          "views": 1020,
-          "observed_growth_per_hour": 36.5,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#kidscartoon",
-      "anchor_type": "tag",
+      "anchor": "motu patlu",
+      "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
@@ -82,63 +20,25 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "These are the videos printing on the low. #aitools #aianimation #kidscartoon #moneytok",
-          "channel": "Jada Blue",
-          "channel_id": "UC5FZWnsulQ4yGsKCS3TWuaA",
-          "url": "https://www.youtube.com/watch?v=QqnfrqdfH00",
-          "published_at": "2026-10-30T16:16:15Z",
+          "title": "Franklin Saves Shinchan from Motu Patlu 😱🔥 | GTA 5 AI Animation #shorts",
+          "channel": "KARAN.FRANKLiN",
+          "channel_id": "UCeXFCh6TzvAJimgfgvIE3zQ",
+          "url": "https://www.youtube.com/watch?v=VPfbv7nR1-8",
+          "published_at": "2026-10-31T01:30:10Z",
           "first_seen_at": "2026-10-31T14:31:51Z",
-          "views": 1131,
-          "observed_growth_per_hour": null,
+          "views": 24656,
+          "observed_growth_per_hour": 103.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "rain  #averness #kidsvideo #kidslearning #kidscartoon #aivideogenerator #love #aivideo #trend",
-          "channel": "Rp creation ",
-          "channel_id": "UCPVwD1qjV6RUtiNNblOQ-wQ",
-          "url": "https://www.youtube.com/watch?v=wCS4J7SbUZw",
-          "published_at": "2026-10-31T02:04:40Z",
-          "first_seen_at": "2026-10-31T05:39:41Z",
-          "views": 5,
-          "observed_growth_per_hour": 0.1,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#wildlife",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "possible_reuploads",
-      "near_duplicate_caption_fraction": 1.0,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 12,
-      "examples": [
-        {
-          "title": "Ai animation cat video #cat #pets #3danimation #wildlife#funny",
-          "channel": "3D XA_ SHORT",
-          "channel_id": "UCdqehwOyKYEkEhhrz1aTOnQ",
-          "url": "https://www.youtube.com/watch?v=XWp3h_L8oeI",
-          "published_at": "2026-10-31T02:30:18Z",
-          "first_seen_at": "2026-10-31T14:31:51Z",
-          "views": 1327,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Ai animation cat video 🤣🤞🥰#cat #pets#3danimation #wildlife #funny#animallife",
-          "channel": "My life Ai video",
-          "channel_id": "UCLqGOB0gpHOQkfaefCtmZYA",
-          "url": "https://www.youtube.com/watch?v=eQekRF7Hdfw",
-          "published_at": "2026-10-30T17:29:42Z",
-          "first_seen_at": "2026-10-31T14:31:51Z",
-          "views": 700,
+          "title": "😱 Motu Patlu Female Version! सभी Characters बन गए खूबसूरत लड़कियां 😍 | AI Transformation #cratoon",
+          "channel": "ToonMorphix",
+          "channel_id": "UCjgNQVPqEZTWYFk05ZxpRvw",
+          "url": "https://www.youtube.com/watch?v=-n9kz0dlQuE",
+          "published_at": "2026-10-31T05:01:54Z",
+          "first_seen_at": "2026-10-31T19:58:45Z",
+          "views": 1238,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -146,22 +46,5 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "🏆 Baby Gave Dad a CRAZY Makeover! 😂💄 | Funny AI Animation #Shorts #animotion #syntheticmedia",
-      "channel": "MimoToonz Tales",
-      "channel_id": "UCZB-ZrvQzpxQMpxxH5kpJrQ",
-      "url": "https://www.youtube.com/watch?v=QiOoZBaeNzA",
-      "published_at": "2026-10-30T15:14:13Z",
-      "first_seen_at": "2026-10-30T20:48:28Z",
-      "views": 5529056,
-      "observed_growth_per_hour": 326511.7,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "gave dad crazy makeover",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "百万播放候选，仍需验证AI"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
