@@ -1,10 +1,20 @@
 {
-  "built_at": "2026-11-01T15:06:59.149731+00:00",
-  "source_snapshot_at": "2026-11-01T15:06:53Z",
-  "snapshot_video_count": 2677,
+  "built_at": "2026-11-01T20:30:03.612350+00:00",
+  "source_snapshot_at": "2026-11-01T20:29:58Z",
+  "snapshot_video_count": 2726,
   "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [],
-  "unmatched_creative_candidates": []
+  "unmatched_creative_candidates": [
+    {
+      "title": "Joe Bart Reacts To Ai Video Of Inde Navarrette & Nickeh30 😭",
+      "url": "https://www.youtube.com/watch?v=_xvBzMIRh5o",
+      "views": 1237808,
+      "channel": "JOE CLIPPER",
+      "first_seen_at": "2026-11-01T15:06:53Z",
+      "published_at": "2026-11-01T00:24:31Z",
+      "observed_growth_per_hour": 77879.8
+    }
+  ]
 }
