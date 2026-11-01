@@ -1,57 +1,10 @@
 {
-  "built_at": "2026-11-01T06:02:38.016078+00:00",
-  "source_snapshot_at": "2026-11-01T06:02:33Z",
-  "snapshot_video_count": 2720,
-  "named_theme_count": 1,
+  "built_at": "2026-11-01T15:06:59.149731+00:00",
+  "source_snapshot_at": "2026-11-01T15:06:53Z",
+  "snapshot_video_count": 2677,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "car_restoration",
-      "name": "Car Transformation / 废车变超跑",
-      "status": "仅候选/尚未确认新玩法",
-      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
-      "concept": "车辆从废旧到崭新的视觉变化",
-      "input": "一张车辆照片",
-      "risk": "汽车品牌/Logo 商标与真实维修误导",
-      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
-      "existing_before": null,
-      "previous_evidence_url": null,
-      "videos": 2,
-      "channel_count": 2,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 1713,
-      "first_observed_at": "2026-10-31T19:58:45Z",
-      "examples": [
-        {
-          "video_id": "hJwXLbNclvc",
-          "title": "Abandoned Lamborghini Restoration 😱🔥 From Rusty to Luxury! #shorts #AI #Lamborghini #vairalvideo",
-          "url": "https://www.youtube.com/watch?v=hJwXLbNclvc",
-          "channel": "AI Fix Lab",
-          "channel_id": "UCRMl0i1Tdovyb8iNRBRoZFA",
-          "published_at": "2026-10-31T12:05:04Z",
-          "first_seen_at": "2026-10-31T19:58:45Z",
-          "views": 1713,
-          "observed_growth_per_hour": 12.3,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "xVQMKivFV5c",
-          "title": "Lion Roars 🦁 Then Transforms Into Black Fortuner 😱🔥 | Epic AI Car Transformation #Shorts #nextcar",
-          "url": "https://www.youtube.com/watch?v=xVQMKivFV5c",
-          "channel": "MZ AUTOMOBILE",
-          "channel_id": "UCkHxOJWkOrfN5XdFHC7s0tQ",
-          "published_at": "2026-10-31T09:38:03Z",
-          "first_seen_at": "2026-10-31T19:58:45Z",
-          "views": 1290,
-          "observed_growth_per_hour": 0.2,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }
