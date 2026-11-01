@@ -1,15 +1,15 @@
 # 最近24小时 AI 短视频：百万爆款候选（未核验画面）
 
-- 北京时间：2026-11-01 07:23
-- 视频发布时间窗口：2026-10-31 07:23 — 2026-11-01 07:23（北京时间）
+- 北京时间：2026-11-01 14:02
+- 视频发布时间窗口：2026-10-31 14:02 — 2026-11-01 14:02（北京时间）
 - 本轮搜索成功率：3/3；失败：0
-- 无AI关键词的跨地区热门短视频抽样：1/1次成功；本轮命中24小时短视频：48条
+- 无AI关键词的跨地区热门短视频抽样：1/1次成功；本轮命中24小时短视频：49条
 - 其中只靠作者合成内容声明（标题/标签无AI词）检出的百万候选：0条
-- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：291
-- 全部候选中单条观看量≥1,000,000的视频：68（含非AI/未验证AI内容）
+- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：226
+- 全部候选中单条观看量≥1,000,000的视频：62（含非AI/未验证AI内容）
 - **百万爆款 AI/合成媒体候选：0**（单条≥1,000,000，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）
-- **其他百万播放待核验视频：68**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）
-- **早期观察，非爆款：0**（单条≥100,000但未满百万）
+- **其他百万播放待核验视频：62**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）
+- **早期观察，非爆款：1**（单条≥100,000但未满百万）
 - 历史快照后首次观察到的原视频：120
 - 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控
 
@@ -27,77 +27,77 @@
 |---|---|---|---:|---:|---|
 | — | — | — | — | — | 本轮无合格百万AI候选，禁止用低播放视频凑数 |
 
-## 其他百万播放视频（68条；AI身份未确认，单独供人工查看）
+## 其他百万播放视频（62条；AI身份未确认，单独供人工查看）
 
 > 这张表可能包含普通非AI爆款，不等于确认由AI生成、可复刻或有SEO机会。API未返回合成声明不是创作者明确否认AI。
 > 与上方已具AI文字/作者声明的百万候选互斥；只列本轮刷新真实观看数据、近24小时发布的短视频。最多前50条；全量见latest.csv。
 
 | 原视频（可点击） | 频道 | 官方发布（北京） | 采样播放量 | 合成媒体声明 | 发现来源 |
 |---|---|---|---:|---|---|
-| [Karwa Chauth Special 😍 Part - 4 #karwachauth #karwachauthspecial #shorts #youtubeshorts #comedy](https://www.youtube.com/watch?v=uY5UluHxw-Q) | TEAM BHL | 2026-10-31 09:45 | 29,218,498 | API未返回 | broad_no_keyword:TR |
-| [EASY COME, EASY GO 🚶‍♂️X🚶‍♀️ #kpop #kpopdemonhunters #HUNTRIX](https://www.youtube.com/watch?v=SM1JJE225W8) | Big Marvel | 2026-10-31 18:06 | 24,068,960 | API未返回 | broad_no_keyword:TR |
-| [Unboxing 3 Crazy Diwali Lights 😱 🎇 #shorts](https://www.youtube.com/watch?v=z7LPCM_8Yjs) | Paintellectual PriyA | 2026-10-31 17:35 | 9,229,717 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Don't Cross The Blue Line 🌊](https://www.youtube.com/watch?v=kVLq4xxQKUE) | SensBlox | 2026-10-31 12:05 | 8,938,929 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Así disfrace a mi Navany para su primer Halloween en prek.🤗😍](https://www.youtube.com/watch?v=8Cxq1M668QU) | Eli Esparza | 2026-10-31 08:27 | 7,074,626 | API未返回 | broad_no_keyword:FR |
-| [Scene - Official Trailer / Suriya / Nazriya Nazim / Naslen / Sushin Shyam / Jithu Madhavan](https://www.youtube.com/watch?v=LM4ByXufv2w) | Sony Music South | 2026-10-31 22:00 | 5,877,889 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [CHILDHOOD AFTERNOON ACTIVITY #shorts #friends #childhood #creative #games #comedy #funny #fun](https://www.youtube.com/watch?v=a5VyaPzVGDw) | Baccha Mat Bolna | 2026-10-31 15:39 | 5,769,339 | API未返回 | broad_no_keyword:FR |
-| [IMEH MANGGIL PAK RT BUAT TANGKEP PENCURI DONATNYA / ImehAbang](https://www.youtube.com/watch?v=YnzGACat-r4) | Imeh Abang | 2026-10-31 12:00 | 5,630,295 | API未返回 | broad_no_keyword:TR |
-| [Tiny Workers🚦](https://www.youtube.com/watch?v=KeFkx1RNwGA) | GreenBroRants | 2026-10-31 12:00 | 5,523,039 | API未返回 | broad_no_keyword:TR |
-| [Petrol vs EV Scooter #Ather #Atherenergy #konarc #Atherbattery](https://www.youtube.com/watch?v=5hvNUJjA0Rs) | Professor Of How | 2026-10-31 12:40 | 5,390,037 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR |
-| [Sam Altman is mad your PC is wasting RAM..](https://www.youtube.com/watch?v=57tB5gp80-Q) | CarterPCs | 2026-10-31 09:36 | 5,327,531 | API未返回 | broad_no_keyword:ES |
-| [WHAT ARE YOU WEARING ON HALLOWEEN!? 😅🐶🎃 - #puppy #dance #trend #viral #couple #funny #shorts](https://www.youtube.com/watch?v=CKukHizrKNI) | Jasmin and James | 2026-10-31 16:30 | 4,979,976 | API未返回 | broad_no_keyword:FR |
-| [we so addicted.. 🥹](https://www.youtube.com/watch?v=2-CDnjTmHro) | JISOO | 2026-10-31 12:00 | 4,037,812 | API未返回 | broad_no_keyword:ES |
-| [Critica por todo 😒😂 #shorts #humor #tiktokvideo #comedia #funny #fyp](https://www.youtube.com/watch?v=IgsS4DWtTww) | Gabriela Flores Villar | 2026-10-31 10:32 | 3,950,097 | API未返回 | broad_no_keyword:ES |
-| [He Got A Surprise At The End !#tmkoc #comedy #trending #reels #shorts](https://www.youtube.com/watch?v=-QqKBPIiB8I) | Taarak Mehta Ka Ooltah Chashmah | 2026-10-31 08:30 | 3,913,334 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Sirvió una bebida en una taza adorable y el diseño arruinó el momento](https://www.youtube.com/watch?v=Du9z0PNHWVw) | Jon Sinache | 2026-10-31 08:00 | 3,864,744 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:TR |
-| [Le hizo los deberes y la profesora la felicitó 😂✏️](https://www.youtube.com/watch?v=SamIoe-RzGk) | El Diario De Jazmín | 2026-10-31 08:00 | 3,451,990 | API未返回 | broad_no_keyword:ES |
-| [Fortnite died trying to become Roblox..](https://www.youtube.com/watch?v=c88CSSsp5_k) | CarterPCs | 2026-10-31 11:35 | 3,172,705 | API未返回 | broad_no_keyword:TR |
-| [అత్తమ్మ టిఫెన్ చేసుకుందామా🫂 #viral #family#bonding#dellyvlogs#shortvideo #ytshorts](https://www.youtube.com/watch?v=BQAMFc2UoFs) | U Turns Creations | 2026-10-31 15:22 | 3,148,883 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR |
-| [POV: your toddlers’s first time climbing a coconut tree 🌴🔥](https://www.youtube.com/watch?v=-jO7wQ_2hvw) | Jesse Moncur | 2026-10-31 08:08 | 2,998,159 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:TR |
-| [He Made a Cute Surprise for His Wife🤣👀](https://www.youtube.com/watch?v=U1iB6LMFx6U) |  Shorts Render | 2026-10-31 09:44 | 2,580,538 | API未返回 | broad_no_keyword:TR |
-| [3 Scary Movie Snacks](https://www.youtube.com/watch?v=C9BXXYV9L4k) | Chef Tyler | 2026-10-31 19:30 | 2,559,436 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [#kpop #kpopdemonhunters #cosplay #huntrix](https://www.youtube.com/watch?v=rihSuJ0lndI) | 魔女的契约 | 2026-10-31 14:00 | 2,538,376 | API未返回 | broad_no_keyword:TR |
-| [ரேஷன்ல அரிசி இல்ல… ஆனா அண்ணி செஞ்சது ஹோட்டல் பிரியாணியை மிஞ்சிடுச்சு! 🔥#shorts #tamilcooking #viral](https://www.youtube.com/watch?v=Bk-mZg2DwXc) | Dream’s kadhai | 2026-10-31 12:00 | 2,533,204 | API未返回 | broad_no_keyword:TR |
-| [Me atraparon en 100 capas de plastico😭😰😪😵‍💫](https://www.youtube.com/watch?v=zjfx_NJBz18) | Diosdado Juarez | 2026-10-31 08:46 | 2,479,356 | API未返回 | broad_no_keyword:ES |
-| [అత్తమ్మ మామ వాళ్ళు ఏరి🫂 #viral #family #bonding#cooking #shortvideo#food#ytshorts](https://www.youtube.com/watch?v=Ijtz3g07hKs) | U Turns Creations | 2026-10-31 10:43 | 2,476,560 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Bigg Boss Tamil Season 10 / 31st October 2026 - Promo 4](https://www.youtube.com/watch?v=5rk7bpTbb3Y) | Vijay Television | 2026-10-31 20:02 | 2,356,695 | API未返回 | broad_no_keyword:FR |
-| [Goa Beach Shack Mein Kavita Ka Food Order!😂 #shorts #family #goatrip #beach #food #cooking #vlog](https://www.youtube.com/watch?v=Mi8B1cyo6rE) | KK Family Drama | 2026-10-31 20:14 | 2,333,841 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Tom &Jerry 🥰sangeethkumar #shorts #tomandjerry](https://www.youtube.com/watch?v=EljAR9oMet0) | Sangeeth Kumar | 2026-10-31 12:30 | 2,271,777 | API未返回 | broad_no_keyword:ES |
-| [カラスを訓練する男](https://www.youtube.com/watch?v=80yCgkDuPOU) | 一瞬だけ | 2026-10-31 11:15 | 2,253,709 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [The Best Superpower !](https://www.youtube.com/watch?v=SbZhB7Vh6F8) | Abhay Create | 2026-10-31 16:23 | 2,172,332 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Bro, These Laptops Should NOT Exist! Strangest Laptops in World - For Indian Tech Guys #shorts](https://www.youtube.com/watch?v=voGPDKBvz2g) | FactTechz | 2026-10-31 09:40 | 2,167,734 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:TR |
-| [korkunç bir silgi](https://www.youtube.com/watch?v=pjgxLL4ZS5k) | Efsane Yorumcu | 2026-10-31 13:00 | 2,153,129 | API未返回 | broad_no_keyword:TR |
-| [Kenapa Cor Ditutup Karung Basah? #shorts](https://www.youtube.com/watch?v=zITir2GVaLo) | How Come? | 2026-10-31 08:30 | 2,121,240 | API未返回 | broad_no_keyword:ES, broad_no_keyword:TR |
-| [नमुना बिगारी कामगार्स पार्ट 10 😂😂🤣](https://www.youtube.com/watch?v=rHgLcu_XuCI) | Balaji Dange | 2026-10-31 10:56 | 2,031,578 | API未返回 | broad_no_keyword:TR |
-| [11PM to 5AM is Now A ‘BAD TIME’! Indian Railways Stops Night Charging in Trains #shorts](https://www.youtube.com/watch?v=UGxVbrFO2Rg) | FactTechz | 2026-10-31 09:40 | 2,009,028 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Bigg Boss Tamil Season 10 / 31st October 2026 - Promo 3](https://www.youtube.com/watch?v=AVntqniYnks) | Vijay Television | 2026-10-31 18:50 | 1,965,699 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR |
-| [Bas kuch din aur 😍🙏🏻 #bihariladka #chhathpuja](https://www.youtube.com/watch?v=NIRIgdNy12Q) | Bihari Ladka | 2026-10-31 14:34 | 1,938,205 | API未返回 | broad_no_keyword:FR |
-| [Bigg Boss Season 10 Telugu / Day 55 Promo 1 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=5fQXwipPftc) | Star Maa | 2026-10-31 18:54 | 1,879,107 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:TR |
-| [Pita miring terus? Ternyata ini caranya!! #informatif #fakta #tutorial](https://www.youtube.com/watch?v=72FmZCaL4uE) | InfoEkspress | 2026-10-31 13:37 | 1,835,562 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [Most Feature Packed Chair Ever!](https://www.youtube.com/watch?v=1sD-1S7mcr4) | Sillycorns | 2026-10-31 13:30 | 1,809,242 | API未返回 | broad_no_keyword:TR |
-| [Bigg Boss Season 10 Telugu / Unseen Drama / 24X7 Live Stream on JioHotstar / Star Maa](https://www.youtube.com/watch?v=mc330nvsXog) | Star Maa | 2026-10-31 12:39 | 1,805,862 | API未返回 | broad_no_keyword:ES |
-| [Bigg Boss Season 10 Telugu / Day 55 Promo 2 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=GOyna9EalS4) | Star Maa | 2026-10-31 19:45 | 1,797,277 | API未返回 | broad_no_keyword:FR |
-| [Bebekteki Ben Lekesi Hemşireyi Şaşırttı 😐✨](https://www.youtube.com/watch?v=XaCivB1Cwp8) | Ben Ve O + | 2026-10-31 16:05 | 1,770,137 | API未返回 | broad_no_keyword:TR |
-| [sonu çok iyi 🤭](https://www.youtube.com/watch?v=h1A_K6dTqI0) | Goril Faruk | 2026-10-31 18:31 | 1,700,161 | API未返回 | broad_no_keyword:TR |
-| [Darna mat mujhse dosto🥵 #nehabisht #ytshorts #bridetobe #shadikitayari #grwm #makeuptutorial](https://www.youtube.com/watch?v=cYllbHuDV7s) | Neha Bisht | 2026-10-31 20:25 | 1,692,924 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
-| [SQUISHY KEJU + TISSUE BEKU JADI KRIUK?!?! / Klara Tania #shorts](https://www.youtube.com/watch?v=OWSWR1xbMVk) | Klara Tania | 2026-10-31 18:13 | 1,681,556 | API未返回 | broad_no_keyword:FR |
-| [Market drop wipes out more than a trillion dollars in value](https://www.youtube.com/watch?v=kId19sUYuic) | NBC News | 2026-10-31 07:37 | 1,676,876 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:TR |
-| [The worst part of carving a pumpkin 😭](https://www.youtube.com/watch?v=TgzDTSXDOMY) | John Vibes | 2026-10-31 12:10 | 1,672,381 | API未返回 | broad_no_keyword:TR |
-| [Bigg Boss Season 10 Telugu / Day 55 Promo 4 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=5dACPedd2JI) | Star Maa | 2026-10-31 21:56 | 1,666,688 | API未返回 | broad_no_keyword:TR |
+| [EASY COME, EASY GO 🚶‍♂️X🚶‍♀️ #kpop #kpopdemonhunters #HUNTRIX](https://www.youtube.com/watch?v=SM1JJE225W8) | Big Marvel | 2026-10-31 18:06 | 27,992,800 | API未返回 | broad_no_keyword:TR |
+| [Unboxing 3 Crazy Diwali Lights 😱 🎇 #shorts](https://www.youtube.com/watch?v=z7LPCM_8Yjs) | Paintellectual PriyA | 2026-10-31 17:35 | 10,677,783 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [Apka kya aya ? Mummy ka alag hi aa gaya 🤣🤣](https://www.youtube.com/watch?v=g1eiSJTtCCQ) | Fit Arshia | 2026-10-31 16:28 | 7,227,336 | API未返回 | broad_no_keyword:IN |
+| [Scene - Official Trailer / Suriya / Nazriya Nazim / Naslen / Sushin Shyam / Jithu Madhavan](https://www.youtube.com/watch?v=LM4ByXufv2w) | Sony Music South | 2026-10-31 22:00 | 7,220,671 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [Dulhe Ka Sehra😍❤ / Akshay Kumar & Shilpa Shetty / Dhadkan / Ishtar Music](https://www.youtube.com/watch?v=W_uzYypZx60) | Shifali Pandey | 2026-10-31 14:38 | 7,075,619 | API未返回 | broad_no_keyword:IN |
+| [WHAT ARE YOU WEARING ON HALLOWEEN!? 😅🐶🎃 - #puppy #dance #trend #viral #couple #funny #shorts](https://www.youtube.com/watch?v=CKukHizrKNI) | Jasmin and James | 2026-10-31 16:30 | 6,657,456 | API未返回 | broad_no_keyword:FR |
+| [CHILDHOOD AFTERNOON ACTIVITY #shorts #friends #childhood #creative #games #comedy #funny #fun](https://www.youtube.com/watch?v=a5VyaPzVGDw) | Baccha Mat Bolna | 2026-10-31 15:39 | 6,476,614 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN |
+| [The Reason Humpty Dumpty Fell 🥚 (fiction)](https://www.youtube.com/watch?v=uBUMTlXdS2I) | Zack D. Films | 2026-10-31 22:30 | 5,863,744 | API未返回 | broad_no_keyword:IN |
+| [SQUISHY KEJU + TISSUE BEKU JADI KRIUK?!?! / Klara Tania #shorts](https://www.youtube.com/watch?v=OWSWR1xbMVk) | Klara Tania | 2026-10-31 18:13 | 4,974,690 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN |
+| [Jugadu parents 😂 #shorts #minivlog #familyvlog #dailyvlog #trending](https://www.youtube.com/watch?v=I_fLBMjbKX0) | Parvez Family vlogs | 2026-10-31 21:53 | 4,284,891 | API未返回 | broad_no_keyword:IN |
+| [badi galti hone par bhi muh mitha hua #minivlog #shorts #dailyvlog #familyvlog #diwalivibes](https://www.youtube.com/watch?v=3ghly41XPy0) | Life with Priya Rao | 2026-10-31 15:58 | 3,967,982 | API未返回 | broad_no_keyword:IN |
+| [Kaise aaega 30 ?](https://www.youtube.com/watch?v=ymv6rOgDFqY) | Fit Arshia | 2026-10-31 22:19 | 3,587,279 | API未返回 | broad_no_keyword:IN |
+| [WHAT ARE YOU WEARING ON HALLOWEEN!? 😅 #dance #trend #viral #couple #funny #shorts](https://www.youtube.com/watch?v=ZXBy6P0sZWY) | Jasmin and James | 2026-11-01 02:30 | 3,445,178 | API未返回 | broad_no_keyword:IN |
+| [అత్తమ్మ టిఫెన్ చేసుకుందామా🫂 #viral #family#bonding#dellyvlogs#shortvideo #ytshorts](https://www.youtube.com/watch?v=BQAMFc2UoFs) | U Turns Creations | 2026-10-31 15:22 | 3,348,793 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR |
+| [3 Scary Movie Snacks](https://www.youtube.com/watch?v=C9BXXYV9L4k) | Chef Tyler | 2026-10-31 19:30 | 3,242,538 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [खुशियाँ बढ़ाओ, दिवाली मनाओ / Happy Diwali with SIB](https://www.youtube.com/watch?v=pD-M4RbNRik) | South Indian Bank | 2026-10-31 20:14 | 3,042,580 | API未返回 | broad_no_keyword:IN |
+| [Harssh Ne KarwaChauth Ka Gift Nahi diya 😥...#shorts](https://www.youtube.com/watch?v=JHWwDL1qK9Y) | LOL Unfilttered | 2026-10-31 14:30 | 2,880,897 | API未返回 | broad_no_keyword:IN |
+| [Goa Beach Shack Mein Kavita Ka Food Order!😂 #shorts #family #goatrip #beach #food #cooking #vlog](https://www.youtube.com/watch?v=Mi8B1cyo6rE) | KK Family Drama | 2026-10-31 20:14 | 2,806,060 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [strict v/s badtameez (part3)end😲😵🥳 #school #strict #students #teacher #schoollife #viral #funny](https://www.youtube.com/watch?v=00O7ybF0JHM) | fattafatschool | 2026-10-31 16:30 | 2,804,022 | API未返回 | broad_no_keyword:IN |
+| [🤣🚌पुणे से महाबलेश्वर सफर में दीपा का आतंक! 😂 सिलबट्टा, फ्रिज वाला AC और बाकरवड़ी से मणि बेहाल!❄️😂!](https://www.youtube.com/watch?v=xO9_lxCX2NY) | DEEPA  | 2026-10-31 15:28 | 2,769,373 | API未返回 | broad_no_keyword:IN |
+| [The Best Superpower !](https://www.youtube.com/watch?v=SbZhB7Vh6F8) | Abhay Create | 2026-10-31 16:23 | 2,501,594 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [Bigg Boss Tamil Season 10 / 31st October 2026 - Promo 4](https://www.youtube.com/watch?v=5rk7bpTbb3Y) | Vijay Television | 2026-10-31 20:02 | 2,480,282 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN |
+| [Apka kya bana ? Mera to Aunday 🤣🤣](https://www.youtube.com/watch?v=45bbPk23SzY) | Fit Arshia | 2026-10-31 18:43 | 2,431,855 | API未返回 | broad_no_keyword:IN |
+| [Bas kuch din aur 😍🙏🏻 #bihariladka #chhathpuja](https://www.youtube.com/watch?v=NIRIgdNy12Q) | Bihari Ladka | 2026-10-31 14:34 | 2,346,058 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN |
+| [UAE President wholesome moments with Indian pilot 😄❤️](https://www.youtube.com/watch?v=zFog8qR42-w) | Watch With Sam | 2026-10-31 14:46 | 2,311,125 | API未返回 | broad_no_keyword:IN |
+| [¿Puedo CORTAR una MANZANA sin TOCARLA?](https://www.youtube.com/watch?v=20BE1GX10uM) | TadeVlogs | 2026-11-01 03:00 | 2,216,018 | API未返回 | broad_no_keyword:IN |
+| [I Bought a New Wall Mounted Soap Holder! 😱 #is2motivation #shorts](https://www.youtube.com/watch?v=Al1lQ9-ZfVU) | Is2 Motivation | 2026-10-31 17:36 | 2,200,380 | API未返回 | broad_no_keyword:IN |
+| [He Sabotaged My Flight Exam ✈️ #shortvideo](https://www.youtube.com/watch?v=CaMyQsTY7G4) | Puneet Roy 3.0 | 2026-10-31 19:01 | 2,188,457 | API未返回 | broad_no_keyword:IN |
+| [The Stranger Hiding Inside Her Car 😨 (urban legend)](https://www.youtube.com/watch?v=IML9AIp8mXs) | Zack D. Films | 2026-11-01 03:30 | 2,160,143 | API未返回 | broad_no_keyword:IN |
+| [That one favourite teacher in school/ #youtubeshorts #funny #shorts #trending #fdccompany](https://www.youtube.com/watch?v=xVFM9rntafg) | Fdc company | 2026-10-31 14:12 | 2,129,603 | API未返回 | broad_no_keyword:IN |
+| [Bigg Boss Tamil Season 10 / 31st October 2026 - Promo 1](https://www.youtube.com/watch?v=ZflhYsEW5Bg) | Vijay Television | 2026-10-31 15:03 | 2,104,134 | API未返回 | broad_no_keyword:IN |
+| [o quão RARO você é?](https://www.youtube.com/watch?v=v0hVhVWqZ3s) | Giuliana Mafra | 2026-11-01 05:00 | 2,094,348 | API未返回 | broad_no_keyword:IN |
+| [Darna mat mujhse dosto🥵 #nehabisht #ytshorts #bridetobe #shadikitayari #grwm #makeuptutorial](https://www.youtube.com/watch?v=cYllbHuDV7s) | Neha Bisht | 2026-10-31 20:25 | 2,090,367 | API未返回 | broad_no_keyword:FR, broad_no_keyword:TR |
+| [#ravidubey Said, 'I Respect My Wife #sargunmehta the Most' ❤️" #shorts #podcast #love #respect](https://www.youtube.com/watch?v=iYbSwFkjBw0) | Pod-talk Junction | 2026-10-31 16:32 | 2,071,864 | API未返回 | broad_no_keyword:IN |
+| [Bigg Boss Tamil Season 10 / 31st October 2026 - Promo 3](https://www.youtube.com/watch?v=AVntqniYnks) | Vijay Television | 2026-10-31 18:50 | 2,024,241 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:IN |
+| [Bigg Boss Season 10 Telugu / Day 55 Promo 1 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=5fQXwipPftc) | Star Maa | 2026-10-31 18:54 | 1,952,031 | API未返回 | broad_no_keyword:ES, broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [The different stages of Halloween #comedy #pov #skit #halloween](https://www.youtube.com/watch?v=334Tedx1Ggo) | Auntie Charli | 2026-10-31 23:00 | 1,946,345 | API未返回 | broad_no_keyword:IN |
+| [Nashtar Episode 27 Teaser - 31st October 2026](https://www.youtube.com/watch?v=ELMWRNB1-K0) | Nashtar | 2026-11-01 00:45 | 1,922,128 | API未返回 | broad_no_keyword:IN |
+| [Shadi Se Pehle Saas Bahu Ka Dar🫠 #jagritipahwa #saasbahuladai #bridetobe #beforemarriage #newlywed](https://www.youtube.com/watch?v=rrp4pxb_pkY) | Jagriti Pahwa | 2026-10-31 21:30 | 1,895,368 | API未返回 | broad_no_keyword:IN |
+| [Bigg Boss Season 10 Telugu / Day 55 Promo 2 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=GOyna9EalS4) | Star Maa | 2026-10-31 19:45 | 1,875,320 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN |
+| [Bigg Boss Season 10 Telugu / Day 55 Promo 4 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=5dACPedd2JI) | Star Maa | 2026-10-31 21:56 | 1,864,403 | API未返回 | broad_no_keyword:IN, broad_no_keyword:TR |
+| [I Let Go Of The Float 😨](https://www.youtube.com/watch?v=_xmITpyTq7o) | His Story | 2026-10-31 21:09 | 1,852,987 | API未返回 | broad_no_keyword:TR |
+| [Bebekteki Ben Lekesi Hemşireyi Şaşırttı 😐✨](https://www.youtube.com/watch?v=XaCivB1Cwp8) | Ben Ve O + | 2026-10-31 16:05 | 1,831,811 | API未返回 | broad_no_keyword:TR |
+| [DIKASIH DISKON SAMA LOLY, ERIN MALAH GAK MAU / NURRAYNI25](https://www.youtube.com/watch?v=psxJSOPvUq8) | nurrayni25 | 2026-10-31 16:00 | 1,823,249 | API未返回 | broad_no_keyword:ES |
+| [POV: ESE AMIGO QUE SIEMPRE TE INCLUYE EN EL GRUPO🥺❤️](https://www.youtube.com/watch?v=lMDsh6Bd2nc) | Los PQliares | 2026-11-01 06:18 | 1,802,244 | API未返回 | broad_no_keyword:IN |
+| [আজ আমাদের বাড়িতে অতিথি আসছে!🥰ঘর ছোট হোক বা মাটির হোক, সুন্দর করে গুছিয়ে রাখলেই সেটাই স্বর্গ!](https://www.youtube.com/watch?v=0C2TQ9IQknI) | mindful moments with puja | 2026-10-31 16:20 | 1,798,206 | API未返回 | broad_no_keyword:IN |
+| [WHAT ARE YOU WEARING ON HALLOWEEN!? 😅🧛‍♀️ #kitten #cat #dance #trend #viral #couple #funny #shorts](https://www.youtube.com/watch?v=QlCSTP1wESY) | Jasmin and James | 2026-10-31 17:00 | 1,769,502 | API未返回 | broad_no_keyword:FR |
+| [sonu çok iyi 🤭](https://www.youtube.com/watch?v=h1A_K6dTqI0) | Goril Faruk | 2026-10-31 18:31 | 1,741,686 | API未返回 | broad_no_keyword:IN, broad_no_keyword:TR |
+| [Altı Üstü İstanbul 19. Bölüm 3. Fragman / "İşte biz buna aşk diyoruz" @atvturkiye](https://www.youtube.com/watch?v=MgrOBfzHQpk) | Altı Üstü İstanbul | 2026-10-31 23:04 | 1,740,241 | API未返回 | broad_no_keyword:FR, broad_no_keyword:IN, broad_no_keyword:TR |
+| [Bigg Boss Tamil Season 10 / 31st October 2026 - Promo 2](https://www.youtube.com/watch?v=AtbC1EwB-tk) | Vijay Television | 2026-10-31 17:51 | 1,736,795 | API未返回 | broad_no_keyword:IN |
 
 ## 早期潜力观察（10万–99.9万；明确不是爆款，最多5条）
 
 | 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |
 |---|---|---:|---:|
-| — | — | — | — |
+| [Porky & Froggy's Funny World 🐸🐷 part 1#shorts #cartoon #ai video #aishorts#ai animetion carton Hindi](https://www.youtube.com/watch?v=WnLQGZS8AuA) | 2026-10-31 16:29 | 365,807 | 待第二次采样 |
 
 ## 搜索覆盖和失败项
 
 | 本轮查询 | 排序 | 状态 | 返回视频条数 |
 |---|---|---|---:|
-| AI video trend | date | success | 50 |
-| video IA viral | viewCount | success | 50 |
-| broad_no_keyword:TR | viewCount | success | 50 |
+| AI cat video | viewCount | success | 50 |
+| AI animation | viewCount | success | 50 |
+| broad_no_keyword:IN | viewCount | success | 50 |
 
 ## 进一步SEO判断
 

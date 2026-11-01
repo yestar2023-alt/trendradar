@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-01 07:23
-- 数据库视频：2766；24小时内且有频道ID的非教程候选：315
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-11-01 14:02
+- 数据库视频：2720；24小时内且有频道ID的非教程候选：274
+- 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. motu patlu
+### 1. #aiediting
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -21,36 +21,14 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| KARAN.FRANKLiN | [Franklin Saves Shinchan from Motu Patlu 😱🔥 / GTA 5 AI Animation #shorts](https://www.youtube.com/watch?v=VPfbv7nR1-8) | 2026-10-31 09:30 | 2026-10-31 22:31 | 24707 | 14.9 | 作者文字自述AI |
-| ToonMorphix | [😱 Motu Patlu Female Version! सभी Characters बन गए खूबसूरत लड़कियां 😍 / AI Transformation #cratoon](https://www.youtube.com/watch?v=-n9kz0dlQuE) | 2026-10-31 13:01 | 2026-11-01 03:58 | 1234 | -1.2 | 作者文字自述AI |
-
-### 2. #aiediting
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Editing Susmita | [Meta Ai editing #trend #ai video editor #dress change in 1 minutes # #aiediting #editingtutorial](https://www.youtube.com/watch?v=KMQXelDa_kU) | 2026-10-31 22:20 | 2026-11-01 07:23 | 1176 | 待多次采样 | 作者文字自述AI |
-| Bishal Labs | [Create This Viral cricket Shot Ai Video 🤯 / Instragram New Trend / Ai Video Edit #viral #aivideo](https://www.youtube.com/watch?v=ppoTjvIk0-M) | 2026-10-31 22:30 | 2026-11-01 07:23 | 1109 | 待多次采样 | 作者文字自述AI |
-
-### 3. #kidsvideo
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Rp creation  | [rain  #averness #kidsvideo #kidslearning #kidscartoon #aivideogenerator #love #aivideo #trend](https://www.youtube.com/watch?v=wCS4J7SbUZw) | 2026-10-31 10:04 | 2026-10-31 13:39 | 5 | 0.1 | 作者文字自述AI |
-| animation of animals | [# #aivideo #trendingshorts #cartoon #kidsvideo #aishorts #kids #viralvideo #trend #trendingshorts](https://www.youtube.com/watch?v=zIhKOZsaAnw) | 2026-10-31 22:33 | 2026-11-01 07:23 | 0 | 待多次采样 | 作者文字自述AI |
+| Bishal Labs | [Create This Viral cricket Shot Ai Video 🤯 / Instragram New Trend / Ai Video Edit #viral #aivideo](https://www.youtube.com/watch?v=ppoTjvIk0-M) | 2026-10-31 22:30 | 2026-11-01 07:23 | 1255 | 22.0 | 作者文字自述AI |
+| Editing Susmita | [Meta Ai editing #trend #ai video editor #dress change in 1 minutes # #aiediting #editingtutorial](https://www.youtube.com/watch?v=KMQXelDa_kU) | 2026-10-31 22:20 | 2026-11-01 07:23 | 1186 | 1.5 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| Ai animetion carton hindi | [Porky & Froggy's Funny World 🐸🐷 part 1#shorts #cartoon #ai video #aishorts#ai animetion carton Hindi](https://www.youtube.com/watch?v=WnLQGZS8AuA) | 10万级早期观察，不是爆款 | 2026-10-31 16:29 | 2026-11-01 14:02 | 365807 | 待二次采样 |
 
 ## 人工核验清单
 
