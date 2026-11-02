@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-02T06:00:24.893516+00:00",
-  "source_snapshot_at": "2026-11-02T06:00:17Z",
-  "source_video_count": 2728,
-  "published_last_24h_with_channel": 236,
-  "shared_name_groups": 3,
+  "generated_at": "2026-11-02T18:21:36.746537+00:00",
+  "source_snapshot_at": "2026-11-02T18:21:29Z",
+  "source_video_count": 2649,
+  "published_last_24h_with_channel": 206,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "dam running",
+      "anchor": "empty desert",
       "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -20,63 +20,25 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Create This Viral Dam Running AI Video 🤯 | Instagram New Trend | AI Video Edit #viral #aivideo",
-          "channel": "Bishal Labs",
-          "channel_id": "UCxrEHQIFGMiKtuCC0VpCBww",
-          "url": "https://www.youtube.com/watch?v=hxDYFW8xW6g",
-          "published_at": "2026-11-01T11:49:52Z",
-          "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 1350,
-          "observed_growth_per_hour": 36.2,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "DAM RUNNING BACKFLIP AI Video 😱 | अपनी फोटो से बनाएं Viral AI Video 🔥 #AIVideo #GoogleFlow",
-          "channel": "Bikesh Patel Tech",
-          "channel_id": "UCZOXnVmQxb8RC76GVJ5S1Bw",
-          "url": "https://www.youtube.com/watch?v=GoDXdUc4TOI",
-          "published_at": "2026-11-01T07:30:26Z",
-          "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 179,
-          "observed_growth_per_hour": 0.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#popular",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Was The recent Glacier Collapse an AI Video? 🌊🤖 #ai #climate #globalwarming #earth",
-          "channel": "Casper Astronomy",
-          "channel_id": "UC63SyelYpu9_8QtHlqfrFoA",
-          "url": "https://www.youtube.com/watch?v=a8FOtvi_6xc",
-          "published_at": "2026-11-01T14:03:17Z",
-          "first_seen_at": "2026-11-02T06:00:17Z",
-          "views": 1138,
+          "title": "Empty Desert Pond → Dream Cabin Over Water! 🏝️ | AI Transformation",
+          "channel": "Fixglo Ai",
+          "channel_id": "UCdZw4DKa_uKlLNzGd5gpgUw",
+          "url": "https://www.youtube.com/watch?v=U0cXDbHfNPo",
+          "published_at": "2026-11-01T21:51:24Z",
+          "first_seen_at": "2026-11-02T18:21:29Z",
+          "views": 2476,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "#garib #garibi #india #bake #sad #popular #popularsong #explore #ai #aivideo #aishorts #aiart #trend",
-          "channel": "Mr Meraj Army ",
-          "channel_id": "UCVirQsGFdtJxfc9xlKEIifQ",
-          "url": "https://www.youtube.com/watch?v=3k5omjWlhOc",
-          "published_at": "2026-11-01T11:22:16Z",
-          "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 19,
+          "title": "From Empty Desert to a Magnificent Mosque 🕌 | AI Construction Transformation 4K #shorts #ai #viral",
+          "channel": "Noor Syad Qawwali Studio ",
+          "channel_id": "UC4XBrVdD2OrP9tIEcU0fUnA",
+          "url": "https://www.youtube.com/watch?v=l6vIMZUjTEE",
+          "published_at": "2026-11-02T01:29:52Z",
+          "first_seen_at": "2026-11-02T18:21:29Z",
+          "views": 1276,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -102,8 +64,8 @@
           "url": "https://www.youtube.com/watch?v=p0jTPlAWIjM",
           "published_at": "2026-11-01T21:23:35Z",
           "first_seen_at": "2026-11-02T06:00:17Z",
-          "views": 1233,
-          "observed_growth_per_hour": null,
+          "views": 1310,
+          "observed_growth_per_hour": 6.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -114,13 +76,30 @@
           "url": "https://www.youtube.com/watch?v=RYfvVoOQSJU",
           "published_at": "2026-11-02T01:45:11Z",
           "first_seen_at": "2026-11-02T06:00:17Z",
-          "views": 897,
-          "observed_growth_per_hour": null,
+          "views": 1162,
+          "observed_growth_per_hour": 21.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "Apple Needs Ai to Break Nokia 📱😭",
+      "channel": "less",
+      "channel_id": "UCFHe4bChdKUquANouAuudww",
+      "url": "https://www.youtube.com/watch?v=kvMjjOlKlSU",
+      "published_at": "2026-11-01T23:00:26Z",
+      "first_seen_at": "2026-11-02T18:21:29Z",
+      "views": 662781,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "apple needs break nokia",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }

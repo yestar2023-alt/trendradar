@@ -1,11 +1,83 @@
 {
-  "built_at": "2026-11-02T06:00:24.741217+00:00",
-  "source_snapshot_at": "2026-11-02T06:00:17Z",
-  "snapshot_video_count": 2728,
-  "named_theme_count": 1,
-  "claimed_multi_creator_themes": 0,
+  "built_at": "2026-11-02T18:21:36.592098+00:00",
+  "source_snapshot_at": "2026-11-02T18:21:29Z",
+  "snapshot_video_count": 2649,
+  "named_theme_count": 2,
+  "claimed_multi_creator_themes": 1,
   "confirmed_new_seo_keywords": 0,
   "themes": [
+    {
+      "theme_id": "car_restoration",
+      "name": "Car Transformation / 废车变超跑",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "有多账号作者文字AI线索；核验是否同一具体玩法后再考虑SEO",
+      "concept": "车辆从废旧到崭新的视觉变化",
+      "input": "一张车辆照片",
+      "risk": "汽车品牌/Logo 商标与真实维修误导",
+      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 4,
+      "channel_count": 4,
+      "claimed_ai_creations": 2,
+      "independent_claimed_creator_count": 2,
+      "max_observed_views": 1712,
+      "first_observed_at": "2026-11-02T18:21:29Z",
+      "examples": [
+        {
+          "video_id": "I2IPYZ715b4",
+          "title": "BMW Car Transformation 😱🔥 | Liquid Turns Into Luxury Car #shorts",
+          "url": "https://www.youtube.com/watch?v=I2IPYZ715b4",
+          "channel": "jungali ai ",
+          "channel_id": "UCx0IzieUhDoqFMa6Qynryhw",
+          "published_at": "2026-11-02T01:47:21Z",
+          "first_seen_at": "2026-11-02T18:21:29Z",
+          "views": 1712,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        },
+        {
+          "video_id": "5TcrODWepY4",
+          "title": "🔥 AI Lamborghini Car Making 🤯 | Amazing Supercar Transformation #Shorts #hindisong #love #song",
+          "url": "https://www.youtube.com/watch?v=5TcrODWepY4",
+          "channel": "GUNA OFFICIAL 1K",
+          "channel_id": "UCA5XV8kEM_5NoqJl0kaSu3Q",
+          "published_at": "2026-11-02T00:03:17Z",
+          "first_seen_at": "2026-11-02T18:21:29Z",
+          "views": 1353,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "RUrtkVJocWk",
+          "title": "Vinom Car Transformation 🚗✨ | AI Supercar Reveal  #trending #youtubeshorts #viral #foryou #fyp",
+          "url": "https://www.youtube.com/watch?v=RUrtkVJocWk",
+          "channel": "UN Ai",
+          "channel_id": "UCAYdoKCyjLWQuu5MqbaPuVw",
+          "published_at": "2026-11-01T18:52:10Z",
+          "first_seen_at": "2026-11-02T18:21:29Z",
+          "views": 1218,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "25UKwyE8MS8",
+          "title": "Venom Creates a Supercar! 😱🔥 AI Car Transformation | Venom Car Ban Gaya! #Shorts",
+          "url": "https://www.youtube.com/watch?v=25UKwyE8MS8",
+          "channel": "Usama Rajput",
+          "channel_id": "UCNCFEBfQtQapjvqawHusSVw",
+          "published_at": "2026-11-02T14:58:56Z",
+          "first_seen_at": "2026-11-02T18:21:29Z",
+          "views": 983,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        }
+      ]
+    },
     {
       "theme_id": "gangnam_trio",
       "name": "Gangnam Style AI Dance / 三人轮流跳舞",
@@ -21,7 +93,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 168,
+      "max_observed_views": 248,
       "first_observed_at": "2026-11-02T06:00:17Z",
       "examples": [
         {
@@ -32,8 +104,8 @@
           "channel_id": "UCZ7IMuIuITJ3tqXRjFkKsZw",
           "published_at": "2026-11-01T21:15:03Z",
           "first_seen_at": "2026-11-02T06:00:17Z",
-          "views": 168,
-          "observed_growth_per_hour": null,
+          "views": 248,
+          "observed_growth_per_hour": 6.5,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
         }
