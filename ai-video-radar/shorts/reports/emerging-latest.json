@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T20:30:03.731876+00:00",
-  "source_snapshot_at": "2026-11-01T20:29:58Z",
-  "source_video_count": 2726,
-  "published_last_24h_with_channel": 242,
-  "shared_name_groups": 4,
+  "generated_at": "2026-11-02T06:00:24.893516+00:00",
+  "source_snapshot_at": "2026-11-02T06:00:17Z",
+  "source_video_count": 2728,
+  "published_last_24h_with_channel": 236,
+  "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=hxDYFW8xW6g",
           "published_at": "2026-11-01T11:49:52Z",
           "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 811,
-          "observed_growth_per_hour": null,
+          "views": 1350,
+          "observed_growth_per_hour": 36.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,15 +38,15 @@
           "url": "https://www.youtube.com/watch?v=GoDXdUc4TOI",
           "published_at": "2026-11-01T07:30:26Z",
           "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 165,
-          "observed_growth_per_hour": null,
+          "views": 179,
+          "observed_growth_per_hour": 0.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     },
     {
-      "anchor": "#midjourney",
+      "anchor": "#popular",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -58,77 +58,25 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "#aivideo #aiart #aianimation #pixarstyle #3dcartoon #midjourney #klingai",
-          "channel": "Ai kids funny ",
-          "channel_id": "UCOYMq7UawnGIEvrJrjGnXpA",
-          "url": "https://www.youtube.com/watch?v=abzeoQNkBQE",
-          "published_at": "2026-10-31T22:21:47Z",
-          "first_seen_at": "2026-11-01T20:29:58Z",
-          "views": 30016,
+          "title": "Was The recent Glacier Collapse an AI Video? 🌊🤖 #ai #climate #globalwarming #earth",
+          "channel": "Casper Astronomy",
+          "channel_id": "UC63SyelYpu9_8QtHlqfrFoA",
+          "url": "https://www.youtube.com/watch?v=a8FOtvi_6xc",
+          "published_at": "2026-11-01T14:03:17Z",
+          "first_seen_at": "2026-11-02T06:00:17Z",
+          "views": 1138,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "AI dance trend: Dracula edition 🧛",
-          "channel": "EVERYPIXEL / AI for FILMMAKERS",
-          "channel_id": "UCvW8DDqe1mGMWyW5X-PUuUg",
-          "url": "https://www.youtube.com/watch?v=5nkI_1-rhfc",
-          "published_at": "2026-11-01T11:15:07Z",
+          "title": "#garib #garibi #india #bake #sad #popular #popularsong #explore #ai #aivideo #aishorts #aiart #trend",
+          "channel": "Mr Meraj Army ",
+          "channel_id": "UCVirQsGFdtJxfc9xlKEIifQ",
+          "url": "https://www.youtube.com/watch?v=3k5omjWlhOc",
+          "published_at": "2026-11-01T11:22:16Z",
           "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 8,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "dance"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "#elephant",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.67,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "ai short video #emoji #cat #viral #ai #funny #ai #cutecat #funny #sorts #cutecat #memes #elephant",
-          "channel": "Ai Editing Ankit",
-          "channel_id": "UChQy43jLLl-GCMHxh4PCEZA",
-          "url": "https://www.youtube.com/watch?v=7KNaflJlH_U",
-          "published_at": "2026-11-01T00:13:00Z",
-          "first_seen_at": "2026-11-01T20:29:58Z",
-          "views": 1274,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "ai short video editor #viral #ai #cat #cutecat #funny #memes #sorts #elephant #tiger #emoji",
-          "channel": "Ai Editing Ankit",
-          "channel_id": "UChQy43jLLl-GCMHxh4PCEZA",
-          "url": "https://www.youtube.com/watch?v=dQ3vFfAJTMY",
-          "published_at": "2026-11-01T12:28:12Z",
-          "first_seen_at": "2026-11-01T20:29:58Z",
-          "views": 1273,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "ai short video #emoji #cat #viral #ai #funny #ai #cutecat #funny #sorts #cutecat #memes #elephant",
-          "channel": "Xx ankit Xx",
-          "channel_id": "UCl6essYn1xj54rrHnHNL01A",
-          "url": "https://www.youtube.com/watch?v=EXdldLbErmk",
-          "published_at": "2026-11-01T00:10:41Z",
-          "first_seen_at": "2026-11-01T20:29:58Z",
-          "views": 1247,
+          "views": 19,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -136,7 +84,7 @@
       ]
     },
     {
-      "anchor": "#aiediting",
+      "anchor": "#explorepage",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -148,25 +96,25 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Create This Viral Dam Running AI Video 🤯 | Instagram New Trend | AI Video Edit #viral #aivideo",
-          "channel": "Bishal Labs",
-          "channel_id": "UCxrEHQIFGMiKtuCC0VpCBww",
-          "url": "https://www.youtube.com/watch?v=hxDYFW8xW6g",
-          "published_at": "2026-11-01T11:49:52Z",
-          "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 811,
+          "title": "Diwali ki sfaai mai ye kya mila 😱#aivideo #shorts #poharecipe #diwalikisafai #explorepage # trend",
+          "channel": "AI ki sunn!",
+          "channel_id": "UCgSFAoqy8BlYM5uzYYPbRZg",
+          "url": "https://www.youtube.com/watch?v=p0jTPlAWIjM",
+          "published_at": "2026-11-01T21:23:35Z",
+          "first_seen_at": "2026-11-02T06:00:17Z",
+          "views": 1233,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "👉 AI नहीं आता तो कुछ भी नहीं आता। #aivideo #aiediting #viral #trending #shorts",
-          "channel": "Happy Ai Editing ",
-          "channel_id": "UCM9xSGaspEyOpjFAit7FW3g",
-          "url": "https://www.youtube.com/watch?v=yX4F-qr-z-s",
-          "published_at": "2026-11-01T02:30:02Z",
-          "first_seen_at": "2026-11-01T15:06:53Z",
-          "views": 799,
+          "title": "Aayee pardes se..❤️|Fact|hindisong|#90s#ai #falgunipathak  #aishorts#aivideo  #yt#shorts#short#trend",
+          "channel": "Entertainment zone  ",
+          "channel_id": "UCJTZjHQrxLswhzS0OCU1a1Q",
+          "url": "https://www.youtube.com/watch?v=RYfvVoOQSJU",
+          "published_at": "2026-11-02T01:45:11Z",
+          "first_seen_at": "2026-11-02T06:00:17Z",
+          "views": 897,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -174,38 +122,5 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "Joe Bart Reacts To Ai Video Of Inde Navarrette & Nickeh30 😭",
-      "channel": "JOE CLIPPER",
-      "channel_id": "UC2PtIODS7mFxWEhzGLkSpPg",
-      "url": "https://www.youtube.com/watch?v=_xvBzMIRh5o",
-      "published_at": "2026-11-01T00:24:31Z",
-      "first_seen_at": "2026-11-01T15:06:53Z",
-      "views": 1237808,
-      "observed_growth_per_hour": 77879.8,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "bart inde navarrette nickeh30",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "百万播放候选，仍需验证AI"
-    },
-    {
-      "title": "FUNNY FROG & SNAPPYPANGOLIN DRILL RIDE!#funnyfrog #cartoon #animation #aianimation #funnyanimals",
-      "channel": "ShahGaintX",
-      "channel_id": "UCEgLQtVS462MkvXds1dDlrA",
-      "url": "https://www.youtube.com/watch?v=QMP77kYbP34",
-      "published_at": "2026-11-01T04:00:06Z",
-      "first_seen_at": "2026-11-01T20:29:58Z",
-      "views": 192326,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "frog snappypangolin drill ride",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }

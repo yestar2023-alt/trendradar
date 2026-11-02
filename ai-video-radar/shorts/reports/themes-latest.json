@@ -1,20 +1,44 @@
 {
-  "built_at": "2026-11-01T20:30:03.612350+00:00",
-  "source_snapshot_at": "2026-11-01T20:29:58Z",
-  "snapshot_video_count": 2726,
-  "named_theme_count": 0,
+  "built_at": "2026-11-02T06:00:24.741217+00:00",
+  "source_snapshot_at": "2026-11-02T06:00:17Z",
+  "snapshot_video_count": 2728,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
-  "unmatched_creative_candidates": [
+  "themes": [
     {
-      "title": "Joe Bart Reacts To Ai Video Of Inde Navarrette & Nickeh30 😭",
-      "url": "https://www.youtube.com/watch?v=_xvBzMIRh5o",
-      "views": 1237808,
-      "channel": "JOE CLIPPER",
-      "first_seen_at": "2026-11-01T15:06:53Z",
-      "published_at": "2026-11-01T00:24:31Z",
-      "observed_growth_per_hour": 77879.8
+      "theme_id": "gangnam_trio",
+      "name": "Gangnam Style AI Dance / 三人轮流跳舞",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "三人轮流跟随舞蹈动作",
+      "input": "一至三张成年人授权照片",
+      "risk": "歌曲音乐版权与原舞蹈素材授权",
+      "caution": "商业生成器已经存在；不能把同歌的不同舞蹈自动合并为单一模板",
+      "existing_before": "2026-10-12",
+      "previous_evidence_url": "https://www.makeviral.ai/templates/gangnam-style-ai-dance",
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 1,
+      "independent_claimed_creator_count": 1,
+      "max_observed_views": 168,
+      "first_observed_at": "2026-11-02T06:00:17Z",
+      "examples": [
+        {
+          "video_id": "aALgDQX1kq0",
+          "title": "Gangnam Style Trio AI Trend with THREE Photos 🕺 #shorts #aivideo #aitools #creatorlife",
+          "url": "https://www.youtube.com/watch?v=aALgDQX1kq0",
+          "channel": "Oakgen AI",
+          "channel_id": "UCZ7IMuIuITJ3tqXRjFkKsZw",
+          "published_at": "2026-11-01T21:15:03Z",
+          "first_seen_at": "2026-11-02T06:00:17Z",
+          "views": 168,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字/标签自述AI",
+          "creative_claimed": true
+        }
+      ]
     }
-  ]
+  ],
+  "unmatched_creative_candidates": []
 }
