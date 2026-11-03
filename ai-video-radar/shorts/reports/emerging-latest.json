@@ -1,166 +1,25 @@
 {
-  "generated_at": "2026-11-03T02:17:57.934102+00:00",
-  "source_snapshot_at": "2026-11-03T02:17:52Z",
-  "source_video_count": 2667,
-  "published_last_24h_with_channel": 220,
-  "shared_name_groups": 3,
+  "generated_at": "2026-11-03T11:55:42.603781+00:00",
+  "source_snapshot_at": "2026-11-03T11:55:37Z",
+  "source_video_count": 2655,
+  "published_last_24h_with_channel": 179,
+  "shared_name_groups": 0,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [
-    {
-      "anchor": "holy kaaba",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🤖 AI Robots Clean the Holy Kaaba! 🕋✨ The Future of Makkah #Shorts #robot #islamicvideos",
-          "channel": "The Islamic Reels",
-          "channel_id": "UCZTrKXh8uOj782Bt8vGpuvw",
-          "url": "https://www.youtube.com/watch?v=mjahFZECcuQ",
-          "published_at": "2026-11-02T06:00:06Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 147423,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🤖🕋 GIANT AI ROBOT SENDS MINI ROBOTS TO CLEAN THE HOLY KAABA! 😱✨#shorts #robot #holykaaba #aishorts",
-          "channel": "ashif modi",
-          "channel_id": "UC8yR_wmhAM33qEnugowPORQ",
-          "url": "https://www.youtube.com/watch?v=gwFW2DtyP3Q",
-          "published_at": "2026-11-02T05:36:41Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 8573,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "What If Grapes Transformed Into the Holy Kaaba? 🍇🕋 | Amazing AI Transformation#kaba #explore",
-          "channel": "Maviya YouTube",
-          "channel_id": "UCHH0BEbzjfoOoGAn19rgAEA",
-          "url": "https://www.youtube.com/watch?v=MHIX4uJERFw",
-          "published_at": "2026-11-02T14:35:12Z",
-          "first_seen_at": "2026-11-02T18:21:29Z",
-          "views": 1870,
-          "observed_growth_per_hour": 134.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "#islamicvideo",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "A Peaceful Islamic Story Scene 29 | AI-Inspired Reflection ✨ #islamic #shorts #viral #islamicvideo",
-          "channel": "Focus Ai Lens",
-          "channel_id": "UCf3LrN9rHZKc20M1ShLDpWw",
-          "url": "https://www.youtube.com/watch?v=dcer_KV0mI0",
-          "published_at": "2026-11-02T05:27:22Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 731173,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "Mera allah har cheez per qadir he #kafibhai #trending #duet #foryou #shorts #viral #ai #ytshorts",
-          "channel": "Kafi_bhai 13M views · 2 hours ago",
-          "channel_id": "UC33-QBxtJUlrRDSUiCdLFKA",
-          "url": "https://www.youtube.com/watch?v=1jbzgFmFqd4",
-          "published_at": "2026-11-02T02:27:26Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 74549,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "তিন বন্ধুর সামনে হঠাৎ ভেঙে পড়লো বিশাল বড় বড় পাথর। #BanglaCartoon #shorts #islamicvideo",
-          "channel": "Fahim Story World",
-          "channel_id": "UCFJ9eSPfRBQGCiZnoWklM3w",
-          "url": "https://www.youtube.com/watch?v=_g5iwt776AU",
-          "published_at": "2026-11-02T03:59:20Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 8742,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#islamicshorts",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Mera allah har cheez per qadir he #kafibhai #trending #duet #foryou #shorts #viral #ai #ytshorts",
-          "channel": "Kafi_bhai 13M views · 2 hours ago",
-          "channel_id": "UC33-QBxtJUlrRDSUiCdLFKA",
-          "url": "https://www.youtube.com/watch?v=1jbzgFmFqd4",
-          "published_at": "2026-11-02T02:27:26Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 74549,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🤖🕋 GIANT AI ROBOT SENDS MINI ROBOTS TO CLEAN THE HOLY KAABA! 😱✨#shorts #robot #holykaaba #aishorts",
-          "channel": "ashif modi",
-          "channel_id": "UC8yR_wmhAM33qEnugowPORQ",
-          "url": "https://www.youtube.com/watch?v=gwFW2DtyP3Q",
-          "published_at": "2026-11-02T05:36:41Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 8573,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    }
-  ],
+  "cross_creator_groups": [],
   "high_velocity_single_creator_watchlist": [
     {
-      "title": "🤖 AI Robots Clean the Holy Kaaba! 🕋✨ The Future of Makkah #Shorts #robot #islamicvideos",
-      "channel": "The Islamic Reels",
-      "channel_id": "UCZTrKXh8uOj782Bt8vGpuvw",
-      "url": "https://www.youtube.com/watch?v=mjahFZECcuQ",
-      "published_at": "2026-11-02T06:00:06Z",
+      "title": "Gym Trainer Ne Baby Roast Cheythu! 😂💀 | Malayalam Baby Comedy #shorts #comedy #funny #kerala #baby",
+      "channel": "storiesof.thameem",
+      "channel_id": "UCFIB5-9EN_Sr9NBqY6JuS_Q",
+      "url": "https://www.youtube.com/watch?v=h9UVF9FO7W4",
+      "published_at": "2026-11-02T13:34:41Z",
       "first_seen_at": "2026-11-03T02:17:52Z",
-      "views": 147423,
-      "observed_growth_per_hour": null,
+      "views": 151754,
+      "observed_growth_per_hour": 9930.7,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
-      "suggested_search_phrase_unverified": "holy kaaba future makkah",
+      "suggested_search_phrase_unverified": "trainer ne roast cheythu",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "10万级早期观察，不是爆款"

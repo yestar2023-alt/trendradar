@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-11-03T02:17:57.813611+00:00",
-  "source_snapshot_at": "2026-11-03T02:17:52Z",
-  "snapshot_video_count": 2667,
-  "named_theme_count": 3,
+  "built_at": "2026-11-03T11:55:42.458378+00:00",
+  "source_snapshot_at": "2026-11-03T11:55:37Z",
+  "snapshot_video_count": 2655,
+  "named_theme_count": 2,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
@@ -17,11 +17,11 @@
       "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
       "existing_before": null,
       "previous_evidence_url": null,
-      "videos": 1,
-      "channel_count": 1,
+      "videos": 2,
+      "channel_count": 2,
       "claimed_ai_creations": 1,
       "independent_claimed_creator_count": 1,
-      "max_observed_views": 1294,
+      "max_observed_views": 1307,
       "first_observed_at": "2026-11-02T18:21:29Z",
       "examples": [
         {
@@ -32,10 +32,23 @@
           "channel_id": "UCNCFEBfQtQapjvqawHusSVw",
           "published_at": "2026-11-02T14:58:56Z",
           "first_seen_at": "2026-11-02T18:21:29Z",
-          "views": 1294,
-          "observed_growth_per_hour": 39.2,
+          "views": 1307,
+          "observed_growth_per_hour": 1.4,
           "ai_evidence": "作者文字/标签自述AI",
           "creative_claimed": true
+        },
+        {
+          "video_id": "Ff3qw8GjWBU",
+          "title": "From Old Car to INSANE Audi TT RS! 🤯💚 | 10-Second Car Transformation #shorts",
+          "url": "https://www.youtube.com/watch?v=Ff3qw8GjWBU",
+          "channel": "Tiny Mechanics In Garage",
+          "channel_id": "UCB-ZH7RiejNpmw11gaGBrJA",
+          "published_at": "2026-11-02T12:00:02Z",
+          "first_seen_at": "2026-11-03T11:55:37Z",
+          "views": 994,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
         }
       ]
     },
@@ -54,7 +67,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 19678,
+      "max_observed_views": 33302,
       "first_observed_at": "2026-11-03T02:17:52Z",
       "examples": [
         {
@@ -65,98 +78,23 @@
           "channel_id": "UCV6rVpeDc16dZXJf15fUUCQ",
           "published_at": "2026-11-02T13:30:12Z",
           "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 19678,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    },
-    {
-      "theme_id": "jhinga_lala",
-      "name": "Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "跟随现有口号/音乐进行搞笑短舞",
-      "input": "自有授权素材或本人肖像",
-      "risk": "音频版权、模仿素材授权与批量搬运",
-      "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
-      "existing_before": "2026-09-15",
-      "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
-      "videos": 5,
-      "channel_count": 5,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 3427,
-      "first_observed_at": "2026-11-03T02:17:52Z",
-      "examples": [
-        {
-          "video_id": "tKlsXUeHbx4",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
-          "url": "https://www.youtube.com/watch?v=tKlsXUeHbx4",
-          "channel": "Cute Raahi's Dairy ",
-          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
-          "published_at": "2026-11-02T06:30:10Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 3427,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "hdAF0OnhR1k",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=hdAF0OnhR1k",
-          "channel": "pawan pl 97",
-          "channel_id": "UCXDtw21HbJONR6Asf-JaXGQ",
-          "published_at": "2026-11-02T05:00:38Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 2726,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "_faeYP34M_g",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=_faeYP34M_g",
-          "channel": "Jyoti Raj Creator",
-          "channel_id": "UCqfihYM67eoIAa_OE7MuXjw",
-          "published_at": "2026-11-02T06:51:16Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 2328,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "mzDpA2D48Wk",
-          "title": "Jhinga lala hu hu kaka dada mama🤣 #funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=mzDpA2D48Wk",
-          "channel": "NVVideo",
-          "channel_id": "UCB2Why-Vf3UPF-EoYm7LEZw",
-          "published_at": "2026-11-02T02:57:52Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 1535,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "qhuIMQWTfao",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=qhuIMQWTfao",
-          "channel": "Shorts 2025ai",
-          "channel_id": "UCHY_jTJOyHkg15DiZHK1Alg",
-          "published_at": "2026-11-02T06:30:18Z",
-          "first_seen_at": "2026-11-03T02:17:52Z",
-          "views": 1533,
-          "observed_growth_per_hour": null,
+          "views": 33302,
+          "observed_growth_per_hour": 1414.9,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
       ]
     }
   ],
-  "unmatched_creative_candidates": []
+  "unmatched_creative_candidates": [
+    {
+      "title": "पति ने बिगाड़ दी बहू की रंगोली, फिर दिया ऐसा सरप्राइज! 😱🎁 | #youtubeshorts  #viralshorts",
+      "url": "https://www.youtube.com/watch?v=kuNUzwOL-xA",
+      "views": 5782175,
+      "channel": "Mishan Village",
+      "first_seen_at": "2026-11-03T11:55:37Z",
+      "published_at": "2026-11-02T13:30:40Z",
+      "observed_growth_per_hour": null
+    }
+  ]
 }

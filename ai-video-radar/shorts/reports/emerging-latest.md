@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-03 10:17
-- 数据库视频：2667；24小时内且有频道ID的非教程候选：220
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-11-03 19:55
+- 数据库视频：2655；24小时内且有频道ID的非教程候选：179
+- 自动发现跨账号同名/同词线索：0
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,46 +13,12 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. holy kaaba
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| The Islamic Reels | [🤖 AI Robots Clean the Holy Kaaba! 🕋✨ The Future of Makkah #Shorts #robot #islamicvideos](https://www.youtube.com/watch?v=mjahFZECcuQ) | 2026-11-02 14:00 | 2026-11-03 10:17 | 147423 | 待多次采样 | 作者文字自述AI |
-| ashif modi | [🤖🕋 GIANT AI ROBOT SENDS MINI ROBOTS TO CLEAN THE HOLY KAABA! 😱✨#shorts #robot #holykaaba #aishorts](https://www.youtube.com/watch?v=gwFW2DtyP3Q) | 2026-11-02 13:36 | 2026-11-03 10:17 | 8573 | 待多次采样 | 作者文字自述AI |
-| Maviya YouTube | [What If Grapes Transformed Into the Holy Kaaba? 🍇🕋 / Amazing AI Transformation#kaba #explore](https://www.youtube.com/watch?v=MHIX4uJERFw) | 2026-11-02 22:35 | 2026-11-03 02:21 | 1870 | 134.9 | 作者文字自述AI |
-
-### 2. #islamicvideo
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Focus Ai Lens | [A Peaceful Islamic Story Scene 29 / AI-Inspired Reflection ✨ #islamic #shorts #viral #islamicvideo](https://www.youtube.com/watch?v=dcer_KV0mI0) | 2026-11-02 13:27 | 2026-11-03 10:17 | 731173 | 待多次采样 | AI制作未验证 |
-| Kafi_bhai 13M views · 2 hours ago | [Mera allah har cheez per qadir he #kafibhai #trending #duet #foryou #shorts #viral #ai #ytshorts](https://www.youtube.com/watch?v=1jbzgFmFqd4) | 2026-11-02 10:27 | 2026-11-03 10:17 | 74549 | 待多次采样 | 作者文字自述AI |
-| Fahim Story World | [তিন বন্ধুর সামনে হঠাৎ ভেঙে পড়লো বিশাল বড় বড় পাথর। #BanglaCartoon #shorts #islamicvideo](https://www.youtube.com/watch?v=_g5iwt776AU) | 2026-11-02 11:59 | 2026-11-03 10:17 | 8742 | 待多次采样 | 作者文字自述AI |
-
-### 3. #islamicshorts
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Kafi_bhai 13M views · 2 hours ago | [Mera allah har cheez per qadir he #kafibhai #trending #duet #foryou #shorts #viral #ai #ytshorts](https://www.youtube.com/watch?v=1jbzgFmFqd4) | 2026-11-02 10:27 | 2026-11-03 10:17 | 74549 | 待多次采样 | 作者文字自述AI |
-| ashif modi | [🤖🕋 GIANT AI ROBOT SENDS MINI ROBOTS TO CLEAN THE HOLY KAABA! 😱✨#shorts #robot #holykaaba #aishorts](https://www.youtube.com/watch?v=gwFW2DtyP3Q) | 2026-11-02 13:36 | 2026-11-03 10:17 | 8573 | 待多次采样 | 作者文字自述AI |
-
+本轮没有足够具体且由两个独立作者共同使用的名字或标签。
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| The Islamic Reels | [🤖 AI Robots Clean the Holy Kaaba! 🕋✨ The Future of Makkah #Shorts #robot #islamicvideos](https://www.youtube.com/watch?v=mjahFZECcuQ) | 10万级早期观察，不是爆款 | 2026-11-02 14:00 | 2026-11-03 10:17 | 147423 | 待二次采样 |
+| storiesof.thameem | [Gym Trainer Ne Baby Roast Cheythu! 😂💀 / Malayalam Baby Comedy #shorts #comedy #funny #kerala #baby](https://www.youtube.com/watch?v=h9UVF9FO7W4) | 10万级早期观察，不是爆款 | 2026-11-02 21:34 | 2026-11-03 10:17 | 151754 | 9,930.7 |
 
 ## 人工核验清单
 
