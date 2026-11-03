@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-03 19:55
-- 数据库视频：2655；24小时内且有频道ID的非教程候选：179
+- 最新成功快照（北京）：2026-11-04 03:29
+- 数据库视频：2637；24小时内且有频道ID的非教程候选：189
 - 自动发现跨账号同名/同词线索：0
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -18,7 +18,7 @@
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| storiesof.thameem | [Gym Trainer Ne Baby Roast Cheythu! 😂💀 / Malayalam Baby Comedy #shorts #comedy #funny #kerala #baby](https://www.youtube.com/watch?v=h9UVF9FO7W4) | 10万级早期观察，不是爆款 | 2026-11-02 21:34 | 2026-11-03 10:17 | 151754 | 9,930.7 |
+| Bujji Punchulu | [Salt ledani biryanilo paste kalipindanta😱 #shorts #ai #viral #trending #ytshorts #funny #aivideo #yt](https://www.youtube.com/watch?v=cM8r6KUEbm8) | 10万级早期观察，不是爆款 | 2026-11-03 09:31 | 2026-11-04 03:29 | 128525 | 待二次采样 |
 
 ## 人工核验清单
 
