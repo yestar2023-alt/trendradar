@@ -166,6 +166,10 @@ class RadarTests(unittest.TestCase):
                 encoding='utf-8-sig',newline='') as handle:
                 rows=list(csv.DictReader(handle))
             self.assertEqual(rows[0]['url_type'],'create_flow_not_new_template_proof')
+            # A no-delta rescan should retain the create-only observed URL count.
+            radar.run(root,cfg,FakeFetcher(pages([
+                BASE+'/templates/old',BASE+'/templates/old/create'])))
+            self.assertIn('新 URL：1 条',(root/'reports'/'latest.md').read_text())
 
     def test_health_csv_distinguishes_baseline_zero_and_unavailable(self):
         import csv
