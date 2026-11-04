@@ -1,12 +1,91 @@
 {
-  "generated_at": "2026-11-03T19:29:13.406682+00:00",
-  "source_snapshot_at": "2026-11-03T19:29:08Z",
-  "source_video_count": 2637,
-  "published_last_24h_with_channel": 189,
-  "shared_name_groups": 0,
+  "generated_at": "2026-11-04T00:36:44.836697+00:00",
+  "source_snapshot_at": "2026-11-04T00:36:38Z",
+  "source_video_count": 2698,
+  "published_last_24h_with_channel": 235,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [],
+  "cross_creator_groups": [
+    {
+      "anchor": "million dollar",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "From Abandoned Rooftop to a Million Dollar Infinity Pool! 😱🌊🏡 #shorts #viral #viravideo #trending",
+          "channel": "Dream tales ai",
+          "channel_id": "UCx9qLoK0hrDvErRXjvHmtRA",
+          "url": "https://www.youtube.com/watch?v=eCQBP5PBBHA",
+          "published_at": "2026-11-03T09:18:05Z",
+          "first_seen_at": "2026-11-04T00:36:38Z",
+          "views": 1330,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Abandoned Luxury Yacht Restored Into a Million-Dollar Beauty! 🚢🤯 #shorts",
+          "channel": "Dream Revive Ai",
+          "channel_id": "UCg9Oyhh4WujDJsrM1wArrRw",
+          "url": "https://www.youtube.com/watch?v=MwXRO7N3_sU",
+          "published_at": "2026-11-03T07:13:05Z",
+          "first_seen_at": "2026-11-04T00:36:38Z",
+          "views": 1214,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#shortfeed",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "বিপদে অবহেলা সফলতায় আত্মীয়তা #shorts #shortsfeeds #foryou #viral #trending #viralshorts #shortfeed",
+          "channel": "MH Siyam AI",
+          "channel_id": "UC7TlMhZOqJzD4MQmXCaN3AA",
+          "url": "https://www.youtube.com/watch?v=Cxvydx2x1LU",
+          "published_at": "2026-11-03T05:44:14Z",
+          "first_seen_at": "2026-11-03T19:29:08Z",
+          "views": 54177,
+          "observed_growth_per_hour": 3466.1,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Tiny Pod Transforms Into a Majestic Peacock! 🦚🤯 | epic AI Transformation #Shorts #shortfeed",
+          "channel": "Mech_Ai_nical",
+          "channel_id": "UC-mNVYQNYOkdyBMlk52S0gg",
+          "url": "https://www.youtube.com/watch?v=qPIpNmE5wy8",
+          "published_at": "2026-11-03T13:30:36Z",
+          "first_seen_at": "2026-11-04T00:36:38Z",
+          "views": 1377,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        }
+      ]
+    }
+  ],
   "high_velocity_single_creator_watchlist": [
     {
       "title": "Salt ledani biryanilo paste kalipindanta😱 #shorts #ai #viral #trending #ytshorts #funny #aivideo #yt",
@@ -15,8 +94,8 @@
       "url": "https://www.youtube.com/watch?v=cM8r6KUEbm8",
       "published_at": "2026-11-03T01:31:13Z",
       "first_seen_at": "2026-11-03T19:29:08Z",
-      "views": 128525,
-      "observed_growth_per_hour": null,
+      "views": 135881,
+      "observed_growth_per_hour": 1435.3,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "ledani biryanilo paste kalipindanta",
