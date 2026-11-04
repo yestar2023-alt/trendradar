@@ -324,9 +324,85 @@ def persist_all_new_urls(root, today, changes):
     return len(rows)
 
 
+
+def candidate_priority(url, site_id):
+    """Prefer actionable detail URLs over generic lists and prompt libraries."""
+    path = parse.urlsplit(url).path.casefold()
+    if url_is_create_flow(url):
+        return None
+    if site_id == 'mediaio':
+        if path.startswith('/ai/explore/zone/'): return 0
+        if path.startswith(('/video-effects/', '/ai-video-effects/')): return 1
+        return 3
+    if site_id == 'capcut':
+        return 0 if path.startswith('/template-detail/') else 3
+    if site_id == 'zooop':
+        return 0 if path.startswith(('/templates/video/', '/blog/')) else 2
+    if site_id == 'makeviral':
+        return 0 if path.startswith('/templates/') else 2
+    if site_id == 'summrs':
+        return 0 if path.startswith(('/blog/', '/templates/')) else 2
+    return 1
+
+
+def read_daily_url_candidates(root, today, sources):
+    """On a same-day retry, reselect from archived deltas, not just this run's zero delta.
+
+    Never regard a previous-day archive as today's publication evidence.
+    """
+    archive = root / 'reports' / (today + '-all-new-urls.csv')
+    if not archive.exists():
+        return {}
+    source_ids = {source['name']: source['id'] for source in sources}
+    result = {}
+    with archive.open(encoding='utf-8-sig', newline='') as f:
+        for row in csv.DictReader(f):
+            url, site = row.get('url',''), row.get('source','')
+            if not url or site not in source_ids:
+                continue
+            result[url] = {
+                'site': site, 'source_id': source_ids[site], 'url': url,
+                'entry': {'label': row.get('source_listing_title','')},
+                'channel': row.get('channel','sitemap'),
+            }
+    return result
+
+
+def balanced_candidates(changes, sources, max_pages):
+    """Round-robin across sources; never let one massive sitemap monopolize verification."""
+    from collections import deque
+    grouped = {}
+    for url, item in changes.items():
+        sid = item['source_id']
+        priority = candidate_priority(url, sid)
+        if priority is None:
+            continue
+        grouped.setdefault(sid, []).append((priority, url, item))
+    queues = {}
+    for source in sources:
+        sid = source['id']
+        if sid in grouped:
+            queues[sid] = deque(sorted(grouped[sid], key=lambda x: (x[0], x[1])))
+    selected = []
+    cap = max(0, max_pages)
+    while len(selected) < cap:
+        any_available = False
+        for source in sources:
+            queue = queues.get(source['id'])
+            if queue:
+                any_available = True
+                _, url, item = queue.popleft()
+                selected.append((url, item))
+                if len(selected) == cap:
+                    break
+        if not any_available:
+            break
+    return selected
+
+
 def write_report(root, today, checks, candidates, meta, seo_rows=None):
     reports=root/'reports'; reports.mkdir(parents=True,exist_ok=True)
-    lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条**',f'- **需核实的新关键词候选（优先处理详情页，最多处理30条）：{len(candidates)} 个**',f'- **本轮原始URL全量明细存档：{meta.get("raw_urls_saved",0)} 条**（如非零，可查看 `reports/{today}-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）','']
+    lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条**',f'- **需核实的新关键词候选（跨站均衡核验）：{len(candidates)} 个**',f'- **本次核验详情页：{meta.get("selected_pages",0)} 条，覆盖 {meta.get("sources_selected",0)} 个有候选的来源**（每日归档池 {meta.get("daily_review_pool",0)} 条；不限于本次新发现）',f'- **本轮原始URL全量明细存档：{meta.get("raw_urls_saved",0)} 条**（如非零，可查看 `reports/{today}-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）','']
     if not candidates:
         lines+=['## 结论','', '**今日无已确认新增关键词。** 可能是本次属于首次建档，或目标网站没有可验证增量。','']
     else:
@@ -446,9 +522,13 @@ def run(root, cfg, fetcher):
     raw_urls_saved=persist_all_new_urls(root,today,changes)
     # Keep /create operations in the raw audit CSV, but never promote them to
     # keyword candidates: they are button destinations, not new trend pages.
-    ordered_changes=sorted(((u,item) for u,item in changes.items() if not url_is_create_flow(u)),key=lambda pair:pair[0])
+    # Retry can rebalance today's already-archived URL deltas without inventing
+    # another first-seen date or requiring a new crawl delta.
+    review_pool=read_daily_url_candidates(root,today,cfg['sources'])
+    review_pool.update(changes)
+    selected_pages=balanced_candidates(review_pool,cfg['sources'],cfg.get('max_detail_pages_per_run',30))
     candidates={}
-    for url,item in ordered_changes[:cfg.get('max_detail_pages_per_run',30)]:
+    for url,item in selected_pages:
         title,verified=title_for_url(url,item['entry'],fetcher)
         topic=canonical_topic(title,url,cfg.get('aliases',{}))
         if topic in NOISE or len(topic)<4: continue
@@ -456,7 +536,9 @@ def run(root, cfg, fetcher):
         r=candidates.setdefault(topic,{'topic':topic,'first_seen':state['first_seen_topics'][topic],'pages':[]})
         r['pages'].append({'site':item['site'],'url':url,'title':title,'title_verified':verified,'channel':item['channel']})
     save_json_atomic(statefile,state)
-    meta={'new_urls':new_count,'raw_urls_saved':raw_urls_saved,'ok':ok,'bad':bad}
+    meta={'new_urls':new_count,'raw_urls_saved':raw_urls_saved,'ok':ok,'bad':bad,
+          'selected_pages':len(selected_pages),'sources_selected':len({item['source_id'] for _,item in selected_pages}),
+          'daily_review_pool':len(review_pool)}
     selected = recent_seo_topics(root, list(candidates.values()))
     seo_rows = enrich(selected, root)
     write_metrics_csv(root / 'reports' / (today + '-seo.csv'), seo_rows)
