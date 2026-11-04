@@ -54,6 +54,18 @@ jobs:
           DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
           DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
         run: python "${{ steps.locate.outputs.root }}/radar.py" --root "${{ steps.locate.outputs.root }}"
+      - name: Verify fresh report and print Media.io crawl status
+        shell: bash
+        env:
+          RADAR_ROOT: ${{ steps.locate.outputs.root }}
+        run: |
+          test -s "$RADAR_ROOT/reports/latest.md"
+          test -s "$RADAR_ROOT/reports/health-latest.csv"
+          echo "Current Beijing date: $(TZ=Asia/Shanghai date +%F)"
+          echo "Radar report heading:"
+          head -n 1 "$RADAR_ROOT/reports/latest.md"
+          echo "Media.io sitemap and listing health:"
+          grep -i 'Media.io' "$RADAR_ROOT/reports/health-latest.csv" || echo "Media.io health row missing"
       - name: Persist daily snapshot and report in Git
         shell: bash
         env:
