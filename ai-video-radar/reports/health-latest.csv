@@ -1,19 +1,19 @@
 ﻿source,channel,checked_at,status,count,added,reason
-Summrs,sitemap,2026-11-04T15:06:21.686297+08:00,delta,109,5,109 relevant URLs in sitemap
-Summrs,listing,2026-11-04T15:06:21.686297+08:00,delta,42,5,42 links from 2/2 listings
-TikTok Creative Center,sitemap,2026-11-04T15:06:21.686297+08:00,unavailable,,,not a sitemap-based feed
-TikTok Creative Center,listing,2026-11-04T15:06:21.686297+08:00,unavailable,,,no server-rendered template links (possibly JS/login)
-CapCut Trending,sitemap,2026-11-04T15:06:21.686297+08:00,unavailable,,,not a sitemap-based feed
-CapCut Trending,listing,2026-11-04T15:06:21.686297+08:00,delta,70,15,70 links from 1/1 listings
-Viggle Meme,sitemap,2026-11-04T15:06:21.686297+08:00,delta,1,0,1 relevant URLs in sitemap
-Viggle Meme,listing,2026-11-04T15:06:21.686297+08:00,delta,5,0,5 links from 1/1 listings
-Higgsfield Viral,sitemap,2026-11-04T15:06:21.686297+08:00,delta,184,0,184 relevant URLs in sitemap
-Higgsfield Viral,listing,2026-11-04T15:06:21.686297+08:00,delta,28,0,28 links from 2/2 listings
-MakeViral,sitemap,2026-11-04T15:06:21.686297+08:00,delta,365,90,365 relevant URLs in sitemap
-MakeViral,listing,2026-11-04T15:06:21.686297+08:00,delta,348,90,348 links from 2/2 listings
-Zooop,sitemap,2026-11-04T15:06:21.686297+08:00,delta,206,40,206 relevant URLs in sitemap
-Zooop,listing,2026-11-04T15:06:21.686297+08:00,delta,105,31,105 links from 2/2 listings
-PixVerse,sitemap,2026-11-04T15:06:21.686297+08:00,delta,0,0,0 relevant URLs in sitemap
-PixVerse,listing,2026-11-04T15:06:21.686297+08:00,unavailable,,,no server-rendered template links (possibly JS/login)
-Media.io,sitemap,2026-11-04T15:06:21.686297+08:00,delta,2814,1573,2814 relevant URLs in sitemap
-Media.io,listing,2026-11-04T15:06:21.686297+08:00,baseline,163,,"163 links from 3/3 listings; listing coverage expanded, rebaseline (no delta this run)"
+Summrs,sitemap,2026-11-04T15:32:30.061850+08:00,delta,109,0,109 relevant URLs in sitemap
+Summrs,listing,2026-11-04T15:32:30.061850+08:00,delta,42,0,42 links from 2/2 listings
+TikTok Creative Center,sitemap,2026-11-04T15:32:30.061850+08:00,unavailable,,,not a sitemap-based feed
+TikTok Creative Center,listing,2026-11-04T15:32:30.061850+08:00,unavailable,,,no server-rendered template links (possibly JS/login)
+CapCut Trending,sitemap,2026-11-04T15:32:30.061850+08:00,unavailable,,,not a sitemap-based feed
+CapCut Trending,listing,2026-11-04T15:32:30.061850+08:00,delta,70,0,70 links from 1/1 listings
+Viggle Meme,sitemap,2026-11-04T15:32:30.061850+08:00,delta,1,0,1 relevant URLs in sitemap
+Viggle Meme,listing,2026-11-04T15:32:30.061850+08:00,delta,5,0,5 links from 1/1 listings
+Higgsfield Viral,sitemap,2026-11-04T15:32:30.061850+08:00,delta,184,0,184 relevant URLs in sitemap
+Higgsfield Viral,listing,2026-11-04T15:32:30.061850+08:00,delta,28,0,28 links from 2/2 listings
+MakeViral,sitemap,2026-11-04T15:32:30.061850+08:00,delta,375,10,375 relevant URLs in sitemap
+MakeViral,listing,2026-11-04T15:32:30.061850+08:00,delta,458,110,458 links from 2/2 listings
+Zooop,sitemap,2026-11-04T15:32:30.061850+08:00,delta,206,0,206 relevant URLs in sitemap
+Zooop,listing,2026-11-04T15:32:30.061850+08:00,delta,105,0,105 links from 2/2 listings
+PixVerse,sitemap,2026-11-04T15:32:30.061850+08:00,delta,0,0,0 relevant URLs in sitemap
+PixVerse,listing,2026-11-04T15:32:30.061850+08:00,unavailable,,,no server-rendered template links (possibly JS/login)
+Media.io,sitemap,2026-11-04T15:32:30.061850+08:00,delta,2814,0,2814 relevant URLs in sitemap
+Media.io,listing,2026-11-04T15:32:30.061850+08:00,delta,163,0,163 links from 3/3 listings
