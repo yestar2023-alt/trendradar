@@ -2,8 +2,8 @@
 
 - 本次完成检查：14 个频道；失败/不可用：4 个频道
 - **有历史快照比对的新 URL：1835 条（当日累计，非真实网页发布日期）**
-- **本轮扫描额外发现：110 条 URL**
-- **需核实的新关键词候选（跨站均衡核验）：29 个**
+- **本轮扫描额外发现：0 条 URL**
+- **需核实的新关键词候选（跨站均衡核验）：30 个**
 - **本次核验详情页：30 条，覆盖 5 个有候选的来源**（每日归档池 1835 条；不限于本次新发现）
 - **本轮原始URL全量明细存档：1835 条**（如非零，可查看 `reports/2026-11-04-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
@@ -15,30 +15,31 @@
 | 2026-11-04 | capcut insta trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/RomanticTrends-yubimgr-yubi-mgr-pinterest-protrend/7590649367787261200) | 模板列表首次出现 |
 | 2026-11-04 | new year ai trend 2027 climb the giant 2027 letters | MakeViral | [页面1](https://www.makeviral.ai/templates/2027-new-year-ai-trend) | 进入 Sitemap |
 | 2026-11-04 | ai dancing dog window guide | Zooop | [页面1](https://zooop.ai/blog/ai-dancing-dog-window-guide) | 进入 Sitemap |
-| 2026-11-04 | 1 free ai prompt library best ai prompts | Media.io | [页面1](https://www.media.io/ai/explore/zone/1-free-ai-prompt-library) | 进入 Sitemap |
+| 2026-11-04 | 24k magic ai dance cruise ship dance prompts | Media.io | [页面1](https://www.media.io/ai/explore/zone/24k-magic-ai-dance-generator) | 进入 Sitemap |
 | 2026-11-04 | the 58th floor ai video anderson paak cordae a colors show | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-58th-floor-colors-ai-video) | 进入 Sitemap |
 | 2026-11-04 | capcut don t think they kno | CapCut Trending | [页面1](https://www.capcut.com/template-detail/VelocityTrend-dontthinktheyknow-sigueee/7541553179566165301) | 模板列表首次出现 |
 | 2026-11-04 | 24k magic ai trend do the cruise ship deck dance | MakeViral | [页面1](https://www.makeviral.ai/templates/24k-magic-ai-trend) | 进入 Sitemap |
 | 2026-11-04 | an ai dog video a 360 floor level orbit shot from one photo | Zooop | [页面1](https://zooop.ai/blog/ai-dog-video-orbit-shot) | 进入 Sitemap |
-| 2026-11-04 | 12 pendiya ne mag ch capcut viral reel edit | Media.io | [页面1](https://www.media.io/ai/explore/zone/12-pendiya-ne-mag-ch-capcut-template) | 进入 Sitemap |
+| 2026-11-04 | free 2d ai video create 2d animations with ai | Media.io | [页面1](https://www.media.io/ai/explore/zone/2d-ai-video-generator) | 进入 Sitemap |
 | 2026-11-04 | the gangnam style ai trio video | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-gangnam-style-ai-video) | 进入 Sitemap |
 | 2026-11-04 | capcut ai sway dance filter | CapCut Trending | [页面1](https://www.capcut.com/template-detail/ai-sway-dance-filter/7598927380299681040) | 模板列表首次出现 |
 | 2026-11-04 | 3d letters ai photo hello december balloon letters | MakeViral | [页面1](https://www.makeviral.ai/templates/3d-month-letters-ai-photo) | 进入 Sitemap |
 | 2026-11-04 | ai grammy winner video turn one photo into your grammy moment | Zooop | [页面1](https://zooop.ai/blog/ai-grammy-winner-video) | 进入 Sitemap |
-| 2026-11-04 | 14 august ai photo prompts for pakistan independence day | Media.io | [页面1](https://www.media.io/ai/explore/zone/14-august-ai-photo-prompts) | 进入 Sitemap |
+| 2026-11-04 | best 3d ai video create 3d videos with ai | Media.io | [页面1](https://www.media.io/ai/explore/zone/3d-ai-video-generator) | 进入 Sitemap |
 | 2026-11-04 | the skepta street ai video schooling seniors freestyle | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-skepta-street-ai-video) | 进入 Sitemap |
 | 2026-11-04 | capcut aura | CapCut Trending | [页面1](https://www.capcut.com/template-detail/aura-velocity-slowmo-fyp-mzidhan/7497654984251608373) | 模板列表首次出现 |
 | 2026-11-04 | 58th floor anderson paak ai trend rap it as a duo | MakeViral | [页面1](https://www.makeviral.ai/templates/58th-floor-ai-trend) | 进入 Sitemap |
 | 2026-11-04 | ai pet haircut video guide | Zooop | [页面1](https://zooop.ai/blog/ai-pet-haircut-video-guide) | 进入 Sitemap |
-| 2026-11-04 | 15 august independence day dp ai photo editing prompt 2026 | Media.io | [页面1](https://www.media.io/ai/explore/zone/15-august-ai-prompt-for-kids) [页面2](https://www.media.io/ai/explore/zone/15-august-independence-day-dp-ai-photo-editing-prompt) | 进入 Sitemap |
+| 2026-11-04 | a2o lite neon ai dance photo to video prompts | Media.io | [页面1](https://www.media.io/ai/explore/zone/a2o-lite-neon-ai-dance-generator) | 进入 Sitemap |
 | 2026-11-04 | 스트레이키즈 디스앤댓 챌린지 ai 만드는법 | Summrs | [页面1](https://www.summrs.com/blog/stray-kids-this-and-that-ai-dance) | 进入 Sitemap |
 | 2026-11-04 | capcut new | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcutgala2026-slowmowtrend-velocityslowmo-fyp/7621508363410558215) | 模板列表首次出现 |
 | 2026-11-04 | ai cat story your cat stars in a 3d cat soap opera | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-cat-story) | 进入 Sitemap |
 | 2026-11-04 | biker birthday ai video ride in remove your helmet and make a wish | Zooop | [页面1](https://zooop.ai/blog/biker-birthday-ai-video-guide) | 进入 Sitemap |
+| 2026-11-04 | abcdefg i need money ai trend pet lip sync video | Media.io | [页面1](https://www.media.io/ai/explore/zone/abcdefg-i-need-money-ai-trend) | 进入 Sitemap |
 | 2026-11-04 | capcut instagram trending | CapCut Trending | [页面1](https://www.capcut.com/template-detail/foryoupage-viral-trending-foryou-fyp/7588077675793665285) | 模板列表首次出现 |
 | 2026-11-04 | ai couple prank the cliff plank trend look at ya | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-couple-prank-cliff) | 进入 Sitemap |
 | 2026-11-04 | birds of a feather chair spin guide | Zooop | [页面1](https://zooop.ai/blog/birds-of-a-feather-chair-spin-guide) | 进入 Sitemap |
-| 2026-11-04 | 15 august patriotic bike edit for image video | Media.io | [页面1](https://www.media.io/ai/explore/zone/15-august-patriotic-bike-edit-prompts) | 进入 Sitemap |
+| 2026-11-04 | abra kadabra ai dance media io | Media.io | [页面1](https://www.media.io/ai/explore/zone/abra-kadabra-ai-dance) | 进入 Sitemap |
 | 2026-11-04 | capcut luther | CapCut Trending | [页面1](https://www.capcut.com/template-detail/luther-kendricklamar-sza-innovators-ccarmy/7442736378426756405) | 模板列表首次出现 |
 
 > 注意：这里的“新增”是自上次**成功快照**以来新增的 URL，不等于网页在当天发布；发现词 ≠ 已确认爆火。
@@ -49,12 +50,12 @@
 - **capcut insta trend**： [TikTok](https://www.tiktok.com/search?q=capcut+insta+trend) · [YouTube](https://www.youtube.com/results?search_query=capcut+insta+trend) · [Google](https://www.google.com/search?q=capcut+insta+trend) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+insta+trend)
 - **new year ai trend 2027 climb the giant 2027 letters**： [TikTok](https://www.tiktok.com/search?q=new+year+ai+trend+2027+climb+the+giant+2027+letters) · [YouTube](https://www.youtube.com/results?search_query=new+year+ai+trend+2027+climb+the+giant+2027+letters) · [Google](https://www.google.com/search?q=new+year+ai+trend+2027+climb+the+giant+2027+letters) · [Google Trends](https://trends.google.com/trends/explore?q=new+year+ai+trend+2027+climb+the+giant+2027+letters)
 - **ai dancing dog window guide**： [TikTok](https://www.tiktok.com/search?q=ai+dancing+dog+window+guide) · [YouTube](https://www.youtube.com/results?search_query=ai+dancing+dog+window+guide) · [Google](https://www.google.com/search?q=ai+dancing+dog+window+guide) · [Google Trends](https://trends.google.com/trends/explore?q=ai+dancing+dog+window+guide)
-- **1 free ai prompt library best ai prompts**： [TikTok](https://www.tiktok.com/search?q=1+free+ai+prompt+library+best+ai+prompts) · [YouTube](https://www.youtube.com/results?search_query=1+free+ai+prompt+library+best+ai+prompts) · [Google](https://www.google.com/search?q=1+free+ai+prompt+library+best+ai+prompts) · [Google Trends](https://trends.google.com/trends/explore?q=1+free+ai+prompt+library+best+ai+prompts)
+- **24k magic ai dance cruise ship dance prompts**： [TikTok](https://www.tiktok.com/search?q=24k+magic+ai+dance+cruise+ship+dance+prompts) · [YouTube](https://www.youtube.com/results?search_query=24k+magic+ai+dance+cruise+ship+dance+prompts) · [Google](https://www.google.com/search?q=24k+magic+ai+dance+cruise+ship+dance+prompts) · [Google Trends](https://trends.google.com/trends/explore?q=24k+magic+ai+dance+cruise+ship+dance+prompts)
 - **the 58th floor ai video anderson paak cordae a colors show**： [TikTok](https://www.tiktok.com/search?q=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show) · [YouTube](https://www.youtube.com/results?search_query=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show) · [Google](https://www.google.com/search?q=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show) · [Google Trends](https://trends.google.com/trends/explore?q=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show)
 - **capcut don t think they kno**： [TikTok](https://www.tiktok.com/search?q=capcut+don+t+think+they+kno) · [YouTube](https://www.youtube.com/results?search_query=capcut+don+t+think+they+kno) · [Google](https://www.google.com/search?q=capcut+don+t+think+they+kno) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+don+t+think+they+kno)
 - **24k magic ai trend do the cruise ship deck dance**： [TikTok](https://www.tiktok.com/search?q=24k+magic+ai+trend+do+the+cruise+ship+deck+dance) · [YouTube](https://www.youtube.com/results?search_query=24k+magic+ai+trend+do+the+cruise+ship+deck+dance) · [Google](https://www.google.com/search?q=24k+magic+ai+trend+do+the+cruise+ship+deck+dance) · [Google Trends](https://trends.google.com/trends/explore?q=24k+magic+ai+trend+do+the+cruise+ship+deck+dance)
 - **an ai dog video a 360 floor level orbit shot from one photo**： [TikTok](https://www.tiktok.com/search?q=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo) · [Google](https://www.google.com/search?q=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo)
-- **12 pendiya ne mag ch capcut viral reel edit**： [TikTok](https://www.tiktok.com/search?q=12+pendiya+ne+mag+ch+capcut+viral+reel+edit) · [YouTube](https://www.youtube.com/results?search_query=12+pendiya+ne+mag+ch+capcut+viral+reel+edit) · [Google](https://www.google.com/search?q=12+pendiya+ne+mag+ch+capcut+viral+reel+edit) · [Google Trends](https://trends.google.com/trends/explore?q=12+pendiya+ne+mag+ch+capcut+viral+reel+edit)
+- **free 2d ai video create 2d animations with ai**： [TikTok](https://www.tiktok.com/search?q=free+2d+ai+video+create+2d+animations+with+ai) · [YouTube](https://www.youtube.com/results?search_query=free+2d+ai+video+create+2d+animations+with+ai) · [Google](https://www.google.com/search?q=free+2d+ai+video+create+2d+animations+with+ai) · [Google Trends](https://trends.google.com/trends/explore?q=free+2d+ai+video+create+2d+animations+with+ai)
 
 本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。
 
@@ -70,28 +71,29 @@
 | 강남스타일 ai 영상 만들기 사진 3장으로 밤거리 셀카 완성 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | new year ai trend 2027 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai dancing dog at the window | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 1 free ai prompt library | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| 24k magic ai dance generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | the 58th floor ai video anderson paak cordae a colors show | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 24k magic ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | how to make an ai dog video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| free 2d ai video generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | the gangnam style ai trio video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | capcut ai sway dance filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 3d letters ai photo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai grammy winner video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 14 august ai photo prompts for pakistan independence day | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| best 3d ai video generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | the skepta street ai video schooling seniors freestyle | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 58th floor anderson .paak ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai pet haircut video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 15 august independence day dp ai photo editing prompt 2026 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| a2o lite neon ai dance generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 스트레이키즈 디스앤댓 챌린지 ai 만드는법 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai cat story | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | biker birthday ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| abcdefg i need money ai trend pet lip sync video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai couple prank | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| mentalist ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| mini me ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai red riding hood | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai text prank | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai witch video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| abra kadabra ai dance media io | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| 1 free ai prompt library | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| 14 august ai photo prompts for pakistan independence day | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| 15 august independence day dp ai photo editing prompt 2026 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai aging filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai concert video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | bonito bonito ai baby dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -106,7 +108,6 @@
 | pray for me trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | shaking head trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | skyfall ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| talk dirty dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
