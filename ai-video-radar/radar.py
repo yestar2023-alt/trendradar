@@ -47,7 +47,7 @@ def relevant(url: str, src: dict) -> bool:
     p = parse.urlsplit(url)
     path = parse.unquote(p.path).lower()
     if not allowed_host(url, src['base']) or path.endswith(SKIP_EXT): return False
-    if path.rstrip('/') in ('', '/blog', '/templates', '/video-effects', '/effects', '/meme', '/viral', '/apps/trending-templates', '/explore/latest-trend'): return False
+    if path.rstrip('/') in ('', '/blog', '/templates', '/video-effects', '/effects', '/meme', '/viral', '/apps/trending-templates', '/explore/latest-trend', '/ai/explore/zone/ai-video-trend-generator'): return False
     if any(a in path for a in ('/login','/signin','/signup','/dashboard','/account','/pricing','/terms','/privacy','/api/','/docs/')): return False
     return any(path.startswith(pattern) for pattern in src['path_patterns'])
 
