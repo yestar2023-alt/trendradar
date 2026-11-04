@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-04 08:36
-- 数据库视频：2698；24小时内且有频道ID的非教程候选：235
+- 最新成功快照（北京）：2026-11-04 20:07
+- 数据库视频：2696；24小时内且有频道ID的非教程候选：187
 - 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -13,18 +13,20 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. million dollar
+### 1. #wildlife
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：4；其中AI文字自述频道：3；视频：4
 - 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Dream tales ai | [From Abandoned Rooftop to a Million Dollar Infinity Pool! 😱🌊🏡 #shorts #viral #viravideo #trending](https://www.youtube.com/watch?v=eCQBP5PBBHA) | 2026-11-03 17:18 | 2026-11-04 08:36 | 1330 | 待多次采样 | 作者文字自述AI |
-| Dream Revive Ai | [Abandoned Luxury Yacht Restored Into a Million-Dollar Beauty! 🚢🤯 #shorts](https://www.youtube.com/watch?v=MwXRO7N3_sU) | 2026-11-03 15:13 | 2026-11-04 08:36 | 1214 | 待多次采样 | 作者文字自述AI |
+| cartoon_Shorts _video_00 | [Ai Animation Cat Video #cat #pets #3danimation #wildlife  #funny ##animation #shorts #short  😃😃](https://www.youtube.com/watch?v=DI-v6vThvhA) | 2026-11-03 21:07 | 2026-11-04 20:07 | 1436 | 待多次采样 | 作者文字自述AI |
+| ANIMAL FIGHT | [Video Animasi Ai kucing Lucu #kucing #pets #funny #3danimation #wildlife #animallife](https://www.youtube.com/watch?v=8ETe3HS8ZgY) | 2026-11-04 15:48 | 2026-11-04 20:07 | 1235 | 待多次采样 | AI制作未验证 |
+| WildToon Shorts | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=sI4PjyFmovA) | 2026-11-04 02:39 | 2026-11-04 20:07 | 1081 | 待多次采样 | 作者文字自述AI |
+| MoveeSR | [Cat funny cartoons#cat  #pets #animation  #wildlife  #ai #aivideo #aishorts](https://www.youtube.com/watch?v=iulVC5vD8RA) | 2026-11-04 01:11 | 2026-11-04 20:07 | 984 | 待多次采样 | 作者文字自述AI |
 
-### 2. #shortfeed
+### 2. chicken curry
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -32,14 +34,15 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| MH Siyam AI | [বিপদে অবহেলা সফলতায় আত্মীয়তা #shorts #shortsfeeds #foryou #viral #trending #viralshorts #shortfeed](https://www.youtube.com/watch?v=Cxvydx2x1LU) | 2026-11-03 13:44 | 2026-11-04 03:29 | 54177 | 3,466.1 | 作者文字自述AI |
-| Mech_Ai_nical | [Tiny Pod Transforms Into a Majestic Peacock! 🦚🤯 / epic AI Transformation #Shorts #shortfeed](https://www.youtube.com/watch?v=qPIpNmE5wy8) | 2026-11-03 21:30 | 2026-11-04 08:36 | 1377 | 待多次采样 | 作者文字自述AI |
+| 𝑻𝒉𝒆 𝑭𝒂𝒔𝒄𝒊𝒏𝒂𝒕𝒊𝒏𝒈 𝑾𝒐𝒓𝒍𝒅 🌏 | [Cyclone Outside, Chicken Curry Inside! 🌪️🍗 /#viralrecipe #viralyoutubeshorts #aicontent #aianimation](https://www.youtube.com/watch?v=3Z2tv4zZ4Ew) | 2026-11-03 21:54 | 2026-11-04 20:07 | 2453 | 待多次采样 | 作者文字自述AI |
+| ToonTornado | [🍗 Tiny chefs, giant Kerala chicken curry🔥 #AIAnimation #KeralaChicken #CookingAI #ViralReels #Shorts](https://www.youtube.com/watch?v=5Zqp2oWILEE) | 2026-11-03 21:00 | 2026-11-04 20:07 | 2089 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| Bujji Punchulu | [Salt ledani biryanilo paste kalipindanta😱 #shorts #ai #viral #trending #ytshorts #funny #aivideo #yt](https://www.youtube.com/watch?v=cM8r6KUEbm8) | 10万级早期观察，不是爆款 | 2026-11-03 09:31 | 2026-11-04 03:29 | 135881 | 1,435.3 |
+| PolitEnt News | [జలకన్య ఎలా ఉందో.. #LIVE లో చూడండి..! #ganga #gangariver #aigenerated #ai #aivideo #shorts](https://www.youtube.com/watch?v=yfCT11pgWk8) | 10万级早期观察，不是爆款 | 2026-11-03 23:00 | 2026-11-04 03:29 | 107693 | 5,628.4 |
+| storiesof.thameem | [Baby Roasted Gym Trainer 😂💀 / Malayalam AI Baby Comedy #shorts #comedy #babycomedy #funny #gym #babu](https://www.youtube.com/watch?v=WlpHpNYZm6I) | 10万级早期观察，不是爆款 | 2026-11-03 21:27 | 2026-11-04 03:29 | 125520 | 3,478.5 |
 
 ## 人工核验清单
 
