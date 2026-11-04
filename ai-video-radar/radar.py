@@ -127,12 +127,13 @@ class Fetcher:
                 rp.parse(blob.decode('utf-8','replace').splitlines()); self.robots[key]=rp
             except error.HTTPError as e:
                 if e.code == 404: self.robots[key]=None
-                else: self.robots[key]='unavailable'
-            except Exception:
-                self.robots[key]='unavailable'
+                else: self.robots[key]=f'unavailable: robots HTTP {e.code}'
+            except Exception as exc:
+                self.robots[key]=f'unavailable: robots {type(exc).__name__}: {str(exc)[:100]}'
         value=self.robots[key]
         # Unknown robots status -> no bulk crawling; fail closed rather than evade restriction.
-        if value=='unavailable': raise PermissionError('robots.txt not accessible (fail closed)')
+        if isinstance(value,str) and value.startswith('unavailable:'):
+            raise PermissionError(value+' (fail closed)')
         return True if value is None else value.can_fetch(AGENT,url)
 
 
@@ -410,9 +411,16 @@ def run(root, cfg, fetcher):
             ok+=1
             old_channel=current['channels'].get(channel)
             if channel=='listing' and old_channel and old_channel.get('paths_ok',[])!=listing_paths:
+                # When a listing is added, rebaseline rather than calling its old links
+                # newly published. Never replace a complete baseline on partial failure.
                 bad+=1;ok-=1
-                l_status += '; page set changed, delta skipped for safety'
-                channel_health[channel]={'status':'partial','count':len(result),'added':None,'reason':l_status}
+                if set(old_channel.get('paths_ok',[])).issubset(listing_paths):
+                    l_status += '; listing coverage expanded, rebaseline (no delta this run)'
+                    channel_health[channel]={'status':'baseline','count':len(result),'added':None,'reason':l_status}
+                    current['channels'][channel]={'urls':result,'checked_at':local_now.isoformat(),'paths_ok':listing_paths}
+                else:
+                    l_status += '; listing coverage incomplete, previous baseline preserved'
+                    channel_health[channel]={'status':'partial','count':len(result),'added':None,'reason':l_status}
                 continue
             new_urls, reason=new_deltas({sid:current},result,sid,channel)
             channel_health[channel]={'status':reason,'count':len(result),'added':len(new_urls) if reason=='delta' else None,'reason':s_status if channel=='sitemap' else l_status}

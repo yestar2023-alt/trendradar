@@ -127,7 +127,8 @@
       "base": "https://www.media.io",
       "listings": [
         "/video-effects/",
-        "/ai/explore/zone/ai-video-trend-generator"
+        "/ai/explore/zone/ai-video-trend-generator",
+        "/ai/viral-studio"
       ],
       "path_patterns": [
         "/video-effects/",
