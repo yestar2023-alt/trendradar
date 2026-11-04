@@ -371,7 +371,7 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
     lines+=['','逐站采集详情及基线/不可用状态见 [health-latest.csv](health-latest.csv)。频道不可用不等于 0 新增。','','## 说明','', '首次成功抓取只建立基线，不产生新增词。部分网站是 JS 动态页面，HTML/Sitemap 可能不公开，失败会如实显示。Sitemap `lastmod` 仅作为修改时间参考，不作为发布日期。','']
     content='\n'.join(lines)
     daily_md = reports / (today + '.md')
-    if candidates or not daily_md.exists():
+    if candidates or meta['new_urls'] > 0 or not daily_md.exists():
         daily_md.write_text(content,encoding='utf-8')
     else:
         # A later same-day scan with 0 NEW deltas must not erase the morning's
@@ -379,7 +379,7 @@ def write_report(root, today, checks, candidates, meta, seo_rows=None):
         # is the durable source of truth for that day's successful discoveries.
         content=daily_md.read_text(encoding='utf-8')
     (reports/'latest.md').write_text(content,encoding='utf-8')
-    # Do not erase the first discovery's historical CSV during another same-day run.
+    # A create-only URL delta also deserves a fresh daily report, even without a keyword.\n    # Do not erase the first discovery's historical CSV during another same-day run.
     # latest.md is still regenerated with this run's actual count.
     daily_csv = reports / (today + '.csv')
     if candidates or not daily_csv.exists():
