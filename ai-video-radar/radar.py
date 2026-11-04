@@ -331,9 +331,21 @@ def candidate_priority(url, site_id):
     if url_is_create_flow(url):
         return None
     if site_id == 'mediaio':
-        if path.startswith('/ai/explore/zone/'): return 0
+        if path.startswith('/ai/explore/zone/'):
+            # Many indexed "zone" URLs are old text/image prompt articles.
+            # Favor specifically named video effects or generator templates.
+            slug=path.rsplit('/',1)[-1]
+            if 'prompt' in slug or 'photo-edit' in slug or 'dp-ai' in slug:
+                return 4
+            if any(word in slug for word in (
+                'ai-video', 'video-generator', 'video-effect', 'dance',
+                'prank', 'challenge', 'video-template', 'video-trend',
+                'ai-trend', 'video-ai', 'video-filter', 'face-swap',
+            )):
+                return 0
+            return 2
         if path.startswith(('/video-effects/', '/ai-video-effects/')): return 1
-        return 3
+        return 4
     if site_id == 'capcut':
         return 0 if path.startswith('/template-detail/') else 3
     if site_id == 'zooop':

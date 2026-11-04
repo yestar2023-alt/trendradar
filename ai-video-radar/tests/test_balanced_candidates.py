@@ -35,6 +35,19 @@ class BalancedCandidateTests(unittest.TestCase):
         selected=radar.balanced_candidates(changes,sources,2)
         self.assertEqual([u for u,_ in selected],urls[:2][::-1])
 
+    def test_mediaio_video_detail_beats_old_photo_prompt(self):
+        source=[{'id':'mediaio','name':'Media.io'}]
+        urls=[
+            'https://www.media.io/ai/explore/zone/14-august-ai-photo-prompts',
+            'https://www.media.io/ai/explore/zone/ai-dog-dance-video-generator',
+            'https://www.media.io/ai/explore/zone/closing-door-prank-ai-video',
+            'https://www.media.io/ai/explore/zone/birthday-car-video-trend',
+        ]
+        changes={url:{'source_id':'mediaio','site':'Media.io','url':url,'entry':{},'channel':'sitemap'} for url in urls}
+        selected=radar.balanced_candidates(changes,source,3)
+        self.assertNotIn(urls[0], [url for url,_ in selected])
+        self.assertEqual(len(selected),3)
+
     def test_archive_retains_source_and_does_not_invent_new_records(self):
         sources=[{'id':'zooop','name':'Zooop'}, {'id':'mediaio','name':'Media.io'}]
         with tempfile.TemporaryDirectory() as d:
