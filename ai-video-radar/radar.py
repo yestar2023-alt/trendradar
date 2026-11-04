@@ -411,13 +411,16 @@ def run(root, cfg, fetcher):
             ok+=1
             old_channel=current['channels'].get(channel)
             if channel=='listing' and old_channel and old_channel.get('paths_ok',[])!=listing_paths:
-                # A newly added or recovered listing can introduce old URLs at once.
-                # Rebaseline this aggregate channel without reporting them as newly published.
-                # Persist the new path set: otherwise every subsequent scan gets skipped.
+                # When a listing is added, rebaseline rather than calling its old links
+                # newly published. Never replace a complete baseline on partial failure.
                 bad+=1;ok-=1
-                l_status += '; listing coverage changed, rebaseline (no delta this run)'
-                channel_health[channel]={'status':'baseline','count':len(result),'added':None,'reason':l_status}
-                current['channels'][channel]={'urls':result,'checked_at':local_now.isoformat(),'paths_ok':listing_paths}
+                if set(old_channel.get('paths_ok',[])).issubset(listing_paths):
+                    l_status += '; listing coverage expanded, rebaseline (no delta this run)'
+                    channel_health[channel]={'status':'baseline','count':len(result),'added':None,'reason':l_status}
+                    current['channels'][channel]={'urls':result,'checked_at':local_now.isoformat(),'paths_ok':listing_paths}
+                else:
+                    l_status += '; listing coverage incomplete, previous baseline preserved'
+                    channel_health[channel]={'status':'partial','count':len(result),'added':None,'reason':l_status}
                 continue
             new_urls, reason=new_deltas({sid:current},result,sid,channel)
             channel_health[channel]={'status':reason,'count':len(result),'added':len(new_urls) if reason=='delta' else None,'reason':s_status if channel=='sitemap' else l_status}
