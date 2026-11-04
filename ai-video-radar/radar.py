@@ -402,7 +402,7 @@ def balanced_candidates(changes, sources, max_pages):
 
 def write_report(root, today, checks, candidates, meta, seo_rows=None):
     reports=root/'reports'; reports.mkdir(parents=True,exist_ok=True)
-    lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条**',f'- **需核实的新关键词候选（跨站均衡核验）：{len(candidates)} 个**',f'- **本次核验详情页：{meta.get("selected_pages",0)} 条，覆盖 {meta.get("sources_selected",0)} 个有候选的来源**（每日归档池 {meta.get("daily_review_pool",0)} 条；不限于本次新发现）',f'- **本轮原始URL全量明细存档：{meta.get("raw_urls_saved",0)} 条**（如非零，可查看 `reports/{today}-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）','']
+    lines=[f'# AI 视频新增词日报 | {today}（北京时间）','',f'- 本次完成检查：{meta["ok"]} 个频道；失败/不可用：{meta["bad"]} 个频道',f'- **有历史快照比对的新 URL：{meta["new_urls"]} 条（当日累计，非真实网页发布日期）**',f'- **本轮扫描额外发现：{meta.get("new_urls_this_scan",0)} 条 URL**',f'- **需核实的新关键词候选（跨站均衡核验）：{len(candidates)} 个**',f'- **本次核验详情页：{meta.get("selected_pages",0)} 条，覆盖 {meta.get("sources_selected",0)} 个有候选的来源**（每日归档池 {meta.get("daily_review_pool",0)} 条；不限于本次新发现）',f'- **本轮原始URL全量明细存档：{meta.get("raw_urls_saved",0)} 条**（如非零，可查看 `reports/{today}-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）','']
     if not candidates:
         lines+=['## 结论','', '**今日无已确认新增关键词。** 可能是本次属于首次建档，或目标网站没有可验证增量。','']
     else:
@@ -536,7 +536,11 @@ def run(root, cfg, fetcher):
         r=candidates.setdefault(topic,{'topic':topic,'first_seen':state['first_seen_topics'][topic],'pages':[]})
         r['pages'].append({'site':item['site'],'url':url,'title':title,'title_verified':verified,'channel':item['channel']})
     save_json_atomic(statefile,state)
-    meta={'new_urls':new_count,'raw_urls_saved':raw_urls_saved,'ok':ok,'bad':bad,
+    # Daily reports must preserve the same day's discoveries on a second crawl.
+    # The current scan's true delta is reported separately to avoid conflating them.
+    daily_delta_count=len(review_pool)
+    meta={'new_urls':daily_delta_count,'new_urls_this_scan':new_count,
+          'raw_urls_saved':max(raw_urls_saved,daily_delta_count),'ok':ok,'bad':bad,
           'selected_pages':len(selected_pages),'sources_selected':len({item['source_id'] for _,item in selected_pages}),
           'daily_review_pool':len(review_pool)}
     selected = recent_seo_topics(root, list(candidates.values()))
