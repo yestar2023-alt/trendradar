@@ -1,10 +1,96 @@
 {
-  "built_at": "2026-11-04T12:07:35.977868+00:00",
-  "source_snapshot_at": "2026-11-04T12:07:31Z",
-  "snapshot_video_count": 2696,
-  "named_theme_count": 0,
+  "built_at": "2026-11-04T19:44:38.471316+00:00",
+  "source_snapshot_at": "2026-11-04T19:44:33Z",
+  "snapshot_video_count": 2713,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
+  "themes": [
+    {
+      "theme_id": "car_restoration",
+      "name": "Car Transformation / 废车变超跑",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "车辆从废旧到崭新的视觉变化",
+      "input": "一张车辆照片",
+      "risk": "汽车品牌/Logo 商标与真实维修误导",
+      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 5,
+      "channel_count": 5,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 1926,
+      "first_observed_at": "2026-11-04T19:44:33Z",
+      "examples": [
+        {
+          "video_id": "HbZYyHYaYyo",
+          "title": "Rusty BMW M4 to Stunning Portimao Blue! 💙🔥 | AI Car Transformation",
+          "url": "https://www.youtube.com/watch?v=HbZYyHYaYyo",
+          "channel": "Rust to Riches",
+          "channel_id": "UC9IP-QR6WxXkEs2F3l9kobw",
+          "published_at": "2026-11-04T12:24:02Z",
+          "first_seen_at": "2026-11-04T19:44:33Z",
+          "views": 1926,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "CmlupTup0og",
+          "title": "BMW  Built Part by Part 😱🔥 | AI Car Transformation #shorts",
+          "url": "https://www.youtube.com/watch?v=CmlupTup0og",
+          "channel": "VanshShorts_ai",
+          "channel_id": "UCai3xY9zdUZfBqefIA4Yihg",
+          "published_at": "2026-11-04T07:53:44Z",
+          "first_seen_at": "2026-11-04T19:44:33Z",
+          "views": 1536,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "PovlnndA0vg",
+          "title": "From Old Car to INSANE BMW M4! 🤯💜 | 10-Second Car Transformation #shorts",
+          "url": "https://www.youtube.com/watch?v=PovlnndA0vg",
+          "channel": "Tiny Mechanics In Garage",
+          "channel_id": "UCB-ZH7RiejNpmw11gaGBrJA",
+          "published_at": "2026-11-03T22:30:29Z",
+          "first_seen_at": "2026-11-04T19:44:33Z",
+          "views": 1486,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "dkQUDd4eI8w",
+          "title": "AI Rolls Royce Phantom Making 😱🔥 | Luxury Car Transformation #shorts",
+          "url": "https://www.youtube.com/watch?v=dkQUDd4eI8w",
+          "channel": "GUNA OFFICIAL 1K",
+          "channel_id": "UCA5XV8kEM_5NoqJl0kaSu3Q",
+          "published_at": "2026-11-03T22:21:43Z",
+          "first_seen_at": "2026-11-04T19:44:33Z",
+          "views": 1267,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "1qa4SVEg6g8",
+          "title": "Bugatti Chiron! 🏎️🔥 AI-powered car transformation. ❤️#video #bikini #new",
+          "url": "https://www.youtube.com/watch?v=1qa4SVEg6g8",
+          "channel": "Ai Creations",
+          "channel_id": "UC0MBc_AiyBEVglHEaPITwrQ",
+          "published_at": "2026-11-04T01:30:10Z",
+          "first_seen_at": "2026-11-04T19:44:33Z",
+          "views": 800,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    }
+  ],
   "unmatched_creative_candidates": []
 }
