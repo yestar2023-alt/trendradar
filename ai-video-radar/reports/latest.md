@@ -1,61 +1,60 @@
-# AI 视频新增词日报 | 2026-11-04（北京时间）
+# AI 视频新增词日报 | 2026-11-05（北京时间）
 
-- 本次完成检查：14 个频道；失败/不可用：4 个频道
-- **有历史快照比对的新 URL：1835 条（当日累计，非真实网页发布日期）**
-- **本轮扫描额外发现：0 条 URL**
-- **需核实的新关键词候选（跨站均衡核验）：30 个**
-- **本次核验详情页：30 条，覆盖 5 个有候选的来源**（每日归档池 1835 条；不限于本次新发现）
-- **本轮原始URL全量明细存档：1835 条**（如非零，可查看 `reports/2026-11-04-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
+- 本次完成检查：16 个频道；失败/不可用：4 个频道
+- **有历史快照比对的新 URL：34 条（当日累计，非真实网页发布日期）**
+- **本轮扫描额外发现：34 条 URL**
+- **需核实的新关键词候选（跨站均衡核验）：29 个**
+- **本次核验详情页：30 条，覆盖 4 个有候选的来源**（每日归档池 34 条；不限于本次新发现）
+- **本轮原始URL全量明细存档：34 条**（如非零，可查看 `reports/2026-11-05-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
 ## 候选新词（基于 URL 差集，热度尚未核实）
 
 | 首次发现 | 候选规范词 | 网站 | 新出现的链接 | 检测类型 |
 |---|---|---|---|---|
-| 2026-11-04 | 강남스타일 ai 영상 만들기 사진 3장으로 밤거리 셀카 완성 | Summrs | [页面1](https://www.summrs.com/blog/gangnam-style-ai-trio) | 进入 Sitemap |
-| 2026-11-04 | capcut insta trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/RomanticTrends-yubimgr-yubi-mgr-pinterest-protrend/7590649367787261200) | 模板列表首次出现 |
-| 2026-11-04 | new year ai trend 2027 climb the giant 2027 letters | MakeViral | [页面1](https://www.makeviral.ai/templates/2027-new-year-ai-trend) | 进入 Sitemap |
-| 2026-11-04 | ai dancing dog window guide | Zooop | [页面1](https://zooop.ai/blog/ai-dancing-dog-window-guide) | 进入 Sitemap |
-| 2026-11-04 | 24k magic ai dance cruise ship dance prompts | Media.io | [页面1](https://www.media.io/ai/explore/zone/24k-magic-ai-dance-generator) | 进入 Sitemap |
-| 2026-11-04 | the 58th floor ai video anderson paak cordae a colors show | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-58th-floor-colors-ai-video) | 进入 Sitemap |
-| 2026-11-04 | capcut don t think they kno | CapCut Trending | [页面1](https://www.capcut.com/template-detail/VelocityTrend-dontthinktheyknow-sigueee/7541553179566165301) | 模板列表首次出现 |
-| 2026-11-04 | 24k magic ai trend do the cruise ship deck dance | MakeViral | [页面1](https://www.makeviral.ai/templates/24k-magic-ai-trend) | 进入 Sitemap |
-| 2026-11-04 | an ai dog video a 360 floor level orbit shot from one photo | Zooop | [页面1](https://zooop.ai/blog/ai-dog-video-orbit-shot) | 进入 Sitemap |
-| 2026-11-04 | free 2d ai video create 2d animations with ai | Media.io | [页面1](https://www.media.io/ai/explore/zone/2d-ai-video-generator) | 进入 Sitemap |
-| 2026-11-04 | the gangnam style ai trio video | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-gangnam-style-ai-video) | 进入 Sitemap |
-| 2026-11-04 | capcut ai sway dance filter | CapCut Trending | [页面1](https://www.capcut.com/template-detail/ai-sway-dance-filter/7598927380299681040) | 模板列表首次出现 |
-| 2026-11-04 | 3d letters ai photo hello december balloon letters | MakeViral | [页面1](https://www.makeviral.ai/templates/3d-month-letters-ai-photo) | 进入 Sitemap |
-| 2026-11-04 | ai grammy winner video turn one photo into your grammy moment | Zooop | [页面1](https://zooop.ai/blog/ai-grammy-winner-video) | 进入 Sitemap |
-| 2026-11-04 | best 3d ai video create 3d videos with ai | Media.io | [页面1](https://www.media.io/ai/explore/zone/3d-ai-video-generator) | 进入 Sitemap |
-| 2026-11-04 | the skepta street ai video schooling seniors freestyle | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-skepta-street-ai-video) | 进入 Sitemap |
-| 2026-11-04 | capcut aura | CapCut Trending | [页面1](https://www.capcut.com/template-detail/aura-velocity-slowmo-fyp-mzidhan/7497654984251608373) | 模板列表首次出现 |
-| 2026-11-04 | 58th floor anderson paak ai trend rap it as a duo | MakeViral | [页面1](https://www.makeviral.ai/templates/58th-floor-ai-trend) | 进入 Sitemap |
-| 2026-11-04 | ai pet haircut video guide | Zooop | [页面1](https://zooop.ai/blog/ai-pet-haircut-video-guide) | 进入 Sitemap |
-| 2026-11-04 | a2o lite neon ai dance photo to video prompts | Media.io | [页面1](https://www.media.io/ai/explore/zone/a2o-lite-neon-ai-dance-generator) | 进入 Sitemap |
-| 2026-11-04 | 스트레이키즈 디스앤댓 챌린지 ai 만드는법 | Summrs | [页面1](https://www.summrs.com/blog/stray-kids-this-and-that-ai-dance) | 进入 Sitemap |
-| 2026-11-04 | capcut new | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcutgala2026-slowmowtrend-velocityslowmo-fyp/7621508363410558215) | 模板列表首次出现 |
-| 2026-11-04 | ai cat story your cat stars in a 3d cat soap opera | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-cat-story) | 进入 Sitemap |
-| 2026-11-04 | biker birthday ai video ride in remove your helmet and make a wish | Zooop | [页面1](https://zooop.ai/blog/biker-birthday-ai-video-guide) | 进入 Sitemap |
-| 2026-11-04 | abcdefg i need money ai trend pet lip sync video | Media.io | [页面1](https://www.media.io/ai/explore/zone/abcdefg-i-need-money-ai-trend) | 进入 Sitemap |
-| 2026-11-04 | capcut instagram trending | CapCut Trending | [页面1](https://www.capcut.com/template-detail/foryoupage-viral-trending-foryou-fyp/7588077675793665285) | 模板列表首次出现 |
-| 2026-11-04 | ai couple prank the cliff plank trend look at ya | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-couple-prank-cliff) | 进入 Sitemap |
-| 2026-11-04 | birds of a feather chair spin guide | Zooop | [页面1](https://zooop.ai/blog/birds-of-a-feather-chair-spin-guide) | 进入 Sitemap |
-| 2026-11-04 | abra kadabra ai dance media io | Media.io | [页面1](https://www.media.io/ai/explore/zone/abra-kadabra-ai-dance) | 进入 Sitemap |
-| 2026-11-04 | capcut luther | CapCut Trending | [页面1](https://www.capcut.com/template-detail/luther-kendricklamar-sza-innovators-ccarmy/7442736378426756405) | 模板列表首次出现 |
+| 2026-11-05 | 3 1ki m a staaaar | CapCut Trending | [页面1](https://www.capcut.com/template-detail/MusiqueChallenge-trend-lyrics-fyp-viral/7700003903282171143) | 模板列表首次出现 |
+| 2026-11-05 | asereje trend the ketchup song lip sync ai video | MakeViral | [页面1](https://www.makeviral.ai/templates/asereje-ketchup-song-ai-trend) | 进入 Sitemap |
+| 2026-11-05 | bottle kick challenge make a funny cat or dog video from one photo | Zooop | [页面1](https://zooop.ai/blog/bottle-kick-challenge-ai-guide) | 进入 Sitemap |
+| 2026-11-05 | darts 170 ai video 170 checkout bullseye prank | Media.io | [页面1](https://www.media.io/ai/explore/zone/darts-170-ai-trend) | 模板列表首次出现 |
+| 2026-11-05 | 8ktrend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcut-capcutpioneer-pioneertemplate-chocolateedt/7694571145475017990) | 模板列表首次出现 |
+| 2026-11-05 | capybara couple ai video you two as capybaras | MakeViral | [页面1](https://www.makeviral.ai/templates/capybara-couple-ai-video) | 进入 Sitemap |
+| 2026-11-05 | dog coffee fail make a 15 second ai pet video from two photos | Zooop | [页面1](https://zooop.ai/blog/dog-coffee-fail-ai-video-guide) | 进入 Sitemap |
+| 2026-10-26 | capcut new trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcut-capcuttopcreator/7692103206574296340) [页面2](https://www.capcut.com/template-detail/slowmo-velocity-trend-viraltiktok-fyp/7695423845141859590) | 模板列表首次出现 |
+| 2026-11-05 | dancing crocodiles ai dance with the meme alligators | MakeViral | [页面1](https://www.makeviral.ai/templates/dancing-crocodiles-ai) | 进入 Sitemap |
+| 2026-11-05 | blog page 8 | Zooop | [页面1](https://zooop.ai/blog/page/8) | 模板列表首次出现 |
+| 2026-11-05 | capcut cognac queen | CapCut Trending | [页面1](https://www.capcut.com/template-detail/edittwist-trend-viral-lyrics-fyp/7543272646948015413) | 模板列表首次出现 |
+| 2026-11-05 | helicopter skydive ai hang from the skid let go | MakeViral | [页面1](https://www.makeviral.ai/templates/helicopter-skydive-ai-trend) | 进入 Sitemap |
+| 2026-11-05 | wassup in a minute anime sway your photo your outfit | Zooop | [页面1](https://zooop.ai/blog/wassup-in-a-minute-anime-guide) | 进入 Sitemap |
+| 2026-11-05 | capcut i need youuu | CapCut Trending | [页面1](https://www.capcut.com/template-detail/fyp-trending-viral-her-him/7354211961237802246) | 模板列表首次出现 |
+| 2026-11-05 | turn the lights off ai dance like the viral club meme | MakeViral | [页面1](https://www.makeviral.ai/templates/turn-the-lights-off-ai-trend) | 进入 Sitemap |
+| 2026-11-05 | bottle kick challenge | Zooop | [页面1](https://zooop.ai/templates/video/bottle-kick-challenge) | 进入 Sitemap |
+| 2026-11-05 | capcut fame is a gun x no p | CapCut Trending | [页面1](https://www.capcut.com/template-detail/fyp-viral-trend-foryou-hdezz/7577263703117008133) | 模板列表首次出现 |
+| 2026-11-05 | dog coffee fail | Zooop | [页面1](https://zooop.ai/templates/video/dog-coffee-fail) | 进入 Sitemap |
+| 2026-11-05 | capcut 7 photo | CapCut Trending | [页面1](https://www.capcut.com/template-detail/matti3k-smooth-template-trend-viral/7477598456341744902) | 模板列表首次出现 |
+| 2026-11-05 | wassup in a minute ai your photo as anime | Zooop | [页面1](https://zooop.ai/templates/video/wassup-in-a-minute-ai) | 进入 Sitemap |
+| 2026-11-05 | capcut her name is edit | CapCut Trending | [页面1](https://www.capcut.com/template-detail/mytemplatepro-protemplateid-slowmo/7547012140708810045) | 模板列表首次出现 |
+| 2026-11-05 | capcut run it bac | CapCut Trending | [页面1](https://www.capcut.com/template-detail/slowmo-runitback-trend-viral/7678068301410438420) | 模板列表首次出现 |
+| 2026-11-05 | capcut u so tea | CapCut Trending | [页面1](https://www.capcut.com/template-detail/trend-fyp-viral-nicx/7596330705211231493) | 模板列表首次出现 |
+| 2026-11-05 | capcut hut | CapCut Trending | [页面1](https://www.capcut.com/template-detail/trend-viralgroup-style-stopmotion-viraltiktokaudio/7639359238615223573) | 模板列表首次出现 |
+| 2026-11-05 | 279 7kbad girl | CapCut Trending | [页面1](https://www.capcut.com/template-detail/velocity-viraltiktokaudio-trend-fyp/7574060723123293445) | 模板列表首次出现 |
+| 2026-11-05 | 145 2kinternet girl | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viral-internetgirl/7601946231509716242) | 模板列表首次出现 |
+| 2026-11-05 | capcut all the stars | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-allthestars-velocity/7514099695212383549) | 模板列表首次出现 |
+| 2026-11-05 | capcut your name | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-biscoito-trend-viral-fyp/7657193904479014161) | 模板列表首次出现 |
+| 2026-11-05 | 64 5kponycrisis | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-glitch-viralgroup-trend-fyp/7642326728840547602) | 模板列表首次出现 |
 
 > 注意：这里的“新增”是自上次**成功快照**以来新增的 URL，不等于网页在当天发布；发现词 ≠ 已确认爆火。
 
 ## 可点开的核查入口（供运营核实趋势和竞品）
 
-- **강남스타일 ai 영상 만들기 사진 3장으로 밤거리 셀카 완성**： [TikTok](https://www.tiktok.com/search?q=%EA%B0%95%EB%82%A8%EC%8A%A4%ED%83%80%EC%9D%BC+ai+%EC%98%81%EC%83%81+%EB%A7%8C%EB%93%A4%EA%B8%B0+%EC%82%AC%EC%A7%84+3%EC%9E%A5%EC%9C%BC%EB%A1%9C+%EB%B0%A4%EA%B1%B0%EB%A6%AC+%EC%85%80%EC%B9%B4+%EC%99%84%EC%84%B1) · [YouTube](https://www.youtube.com/results?search_query=%EA%B0%95%EB%82%A8%EC%8A%A4%ED%83%80%EC%9D%BC+ai+%EC%98%81%EC%83%81+%EB%A7%8C%EB%93%A4%EA%B8%B0+%EC%82%AC%EC%A7%84+3%EC%9E%A5%EC%9C%BC%EB%A1%9C+%EB%B0%A4%EA%B1%B0%EB%A6%AC+%EC%85%80%EC%B9%B4+%EC%99%84%EC%84%B1) · [Google](https://www.google.com/search?q=%EA%B0%95%EB%82%A8%EC%8A%A4%ED%83%80%EC%9D%BC+ai+%EC%98%81%EC%83%81+%EB%A7%8C%EB%93%A4%EA%B8%B0+%EC%82%AC%EC%A7%84+3%EC%9E%A5%EC%9C%BC%EB%A1%9C+%EB%B0%A4%EA%B1%B0%EB%A6%AC+%EC%85%80%EC%B9%B4+%EC%99%84%EC%84%B1) · [Google Trends](https://trends.google.com/trends/explore?q=%EA%B0%95%EB%82%A8%EC%8A%A4%ED%83%80%EC%9D%BC+ai+%EC%98%81%EC%83%81+%EB%A7%8C%EB%93%A4%EA%B8%B0+%EC%82%AC%EC%A7%84+3%EC%9E%A5%EC%9C%BC%EB%A1%9C+%EB%B0%A4%EA%B1%B0%EB%A6%AC+%EC%85%80%EC%B9%B4+%EC%99%84%EC%84%B1)
-- **capcut insta trend**： [TikTok](https://www.tiktok.com/search?q=capcut+insta+trend) · [YouTube](https://www.youtube.com/results?search_query=capcut+insta+trend) · [Google](https://www.google.com/search?q=capcut+insta+trend) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+insta+trend)
-- **new year ai trend 2027 climb the giant 2027 letters**： [TikTok](https://www.tiktok.com/search?q=new+year+ai+trend+2027+climb+the+giant+2027+letters) · [YouTube](https://www.youtube.com/results?search_query=new+year+ai+trend+2027+climb+the+giant+2027+letters) · [Google](https://www.google.com/search?q=new+year+ai+trend+2027+climb+the+giant+2027+letters) · [Google Trends](https://trends.google.com/trends/explore?q=new+year+ai+trend+2027+climb+the+giant+2027+letters)
-- **ai dancing dog window guide**： [TikTok](https://www.tiktok.com/search?q=ai+dancing+dog+window+guide) · [YouTube](https://www.youtube.com/results?search_query=ai+dancing+dog+window+guide) · [Google](https://www.google.com/search?q=ai+dancing+dog+window+guide) · [Google Trends](https://trends.google.com/trends/explore?q=ai+dancing+dog+window+guide)
-- **24k magic ai dance cruise ship dance prompts**： [TikTok](https://www.tiktok.com/search?q=24k+magic+ai+dance+cruise+ship+dance+prompts) · [YouTube](https://www.youtube.com/results?search_query=24k+magic+ai+dance+cruise+ship+dance+prompts) · [Google](https://www.google.com/search?q=24k+magic+ai+dance+cruise+ship+dance+prompts) · [Google Trends](https://trends.google.com/trends/explore?q=24k+magic+ai+dance+cruise+ship+dance+prompts)
-- **the 58th floor ai video anderson paak cordae a colors show**： [TikTok](https://www.tiktok.com/search?q=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show) · [YouTube](https://www.youtube.com/results?search_query=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show) · [Google](https://www.google.com/search?q=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show) · [Google Trends](https://trends.google.com/trends/explore?q=the+58th+floor+ai+video+anderson+paak+cordae+a+colors+show)
-- **capcut don t think they kno**： [TikTok](https://www.tiktok.com/search?q=capcut+don+t+think+they+kno) · [YouTube](https://www.youtube.com/results?search_query=capcut+don+t+think+they+kno) · [Google](https://www.google.com/search?q=capcut+don+t+think+they+kno) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+don+t+think+they+kno)
-- **24k magic ai trend do the cruise ship deck dance**： [TikTok](https://www.tiktok.com/search?q=24k+magic+ai+trend+do+the+cruise+ship+deck+dance) · [YouTube](https://www.youtube.com/results?search_query=24k+magic+ai+trend+do+the+cruise+ship+deck+dance) · [Google](https://www.google.com/search?q=24k+magic+ai+trend+do+the+cruise+ship+deck+dance) · [Google Trends](https://trends.google.com/trends/explore?q=24k+magic+ai+trend+do+the+cruise+ship+deck+dance)
-- **an ai dog video a 360 floor level orbit shot from one photo**： [TikTok](https://www.tiktok.com/search?q=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo) · [Google](https://www.google.com/search?q=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=an+ai+dog+video+a+360+floor+level+orbit+shot+from+one+photo)
-- **free 2d ai video create 2d animations with ai**： [TikTok](https://www.tiktok.com/search?q=free+2d+ai+video+create+2d+animations+with+ai) · [YouTube](https://www.youtube.com/results?search_query=free+2d+ai+video+create+2d+animations+with+ai) · [Google](https://www.google.com/search?q=free+2d+ai+video+create+2d+animations+with+ai) · [Google Trends](https://trends.google.com/trends/explore?q=free+2d+ai+video+create+2d+animations+with+ai)
+- **3 1ki m a staaaar**： [TikTok](https://www.tiktok.com/search?q=3+1ki+m+a+staaaar) · [YouTube](https://www.youtube.com/results?search_query=3+1ki+m+a+staaaar) · [Google](https://www.google.com/search?q=3+1ki+m+a+staaaar) · [Google Trends](https://trends.google.com/trends/explore?q=3+1ki+m+a+staaaar)
+- **asereje trend the ketchup song lip sync ai video**： [TikTok](https://www.tiktok.com/search?q=asereje+trend+the+ketchup+song+lip+sync+ai+video) · [YouTube](https://www.youtube.com/results?search_query=asereje+trend+the+ketchup+song+lip+sync+ai+video) · [Google](https://www.google.com/search?q=asereje+trend+the+ketchup+song+lip+sync+ai+video) · [Google Trends](https://trends.google.com/trends/explore?q=asereje+trend+the+ketchup+song+lip+sync+ai+video)
+- **bottle kick challenge make a funny cat or dog video from one photo**： [TikTok](https://www.tiktok.com/search?q=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo) · [Google](https://www.google.com/search?q=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo)
+- **darts 170 ai video 170 checkout bullseye prank**： [TikTok](https://www.tiktok.com/search?q=darts+170+ai+video+170+checkout+bullseye+prank) · [YouTube](https://www.youtube.com/results?search_query=darts+170+ai+video+170+checkout+bullseye+prank) · [Google](https://www.google.com/search?q=darts+170+ai+video+170+checkout+bullseye+prank) · [Google Trends](https://trends.google.com/trends/explore?q=darts+170+ai+video+170+checkout+bullseye+prank)
+- **8ktrend**： [TikTok](https://www.tiktok.com/search?q=8ktrend) · [YouTube](https://www.youtube.com/results?search_query=8ktrend) · [Google](https://www.google.com/search?q=8ktrend) · [Google Trends](https://trends.google.com/trends/explore?q=8ktrend)
+- **capybara couple ai video you two as capybaras**： [TikTok](https://www.tiktok.com/search?q=capybara+couple+ai+video+you+two+as+capybaras) · [YouTube](https://www.youtube.com/results?search_query=capybara+couple+ai+video+you+two+as+capybaras) · [Google](https://www.google.com/search?q=capybara+couple+ai+video+you+two+as+capybaras) · [Google Trends](https://trends.google.com/trends/explore?q=capybara+couple+ai+video+you+two+as+capybaras)
+- **dog coffee fail make a 15 second ai pet video from two photos**： [TikTok](https://www.tiktok.com/search?q=dog+coffee+fail+make+a+15+second+ai+pet+video+from+two+photos) · [YouTube](https://www.youtube.com/results?search_query=dog+coffee+fail+make+a+15+second+ai+pet+video+from+two+photos) · [Google](https://www.google.com/search?q=dog+coffee+fail+make+a+15+second+ai+pet+video+from+two+photos) · [Google Trends](https://trends.google.com/trends/explore?q=dog+coffee+fail+make+a+15+second+ai+pet+video+from+two+photos)
+- **capcut new trend**： [TikTok](https://www.tiktok.com/search?q=capcut+new+trend) · [YouTube](https://www.youtube.com/results?search_query=capcut+new+trend) · [Google](https://www.google.com/search?q=capcut+new+trend) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+new+trend)
+- **dancing crocodiles ai dance with the meme alligators**： [TikTok](https://www.tiktok.com/search?q=dancing+crocodiles+ai+dance+with+the+meme+alligators) · [YouTube](https://www.youtube.com/results?search_query=dancing+crocodiles+ai+dance+with+the+meme+alligators) · [Google](https://www.google.com/search?q=dancing+crocodiles+ai+dance+with+the+meme+alligators) · [Google Trends](https://trends.google.com/trends/explore?q=dancing+crocodiles+ai+dance+with+the+meme+alligators)
+- **blog page 8**： [TikTok](https://www.tiktok.com/search?q=blog+page+8) · [YouTube](https://www.youtube.com/results?search_query=blog+page+8) · [Google](https://www.google.com/search?q=blog+page+8) · [Google Trends](https://trends.google.com/trends/explore?q=blog+page+8)
 
 本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。
 
@@ -68,6 +67,12 @@
 
 | 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
+| darts 170 ai video 170 checkout bullseye prank | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| capybara couple ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| dancing crocodiles ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| helicopter skydive ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| turn the lights off ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| wassup in a minute ai your photo as anime | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 강남스타일 ai 영상 만들기 사진 3장으로 밤거리 셀카 완성 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | new year ai trend 2027 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai dancing dog at the window | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -91,9 +96,6 @@
 | abcdefg i need money ai trend pet lip sync video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai couple prank | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | abra kadabra ai dance media io | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 1 free ai prompt library | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 14 august ai photo prompts for pakistan independence day | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 15 august independence day dp ai photo editing prompt 2026 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai aging filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai concert video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | bonito bonito ai baby dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -105,9 +107,6 @@
 | ballon d'or ai filter | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | love me trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | missed train dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| pray for me trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| shaking head trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| skyfall ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
@@ -120,10 +119,11 @@
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 5 links from 1/1 listings |
 | Higgsfield Viral | 184 relevant URLs in sitemap | 28 links from 2/2 listings |
-| MakeViral | 375 relevant URLs in sitemap | 458 links from 2/2 listings |
-| Zooop | 206 relevant URLs in sitemap | 105 links from 2/2 listings |
+| MakeViral | 380 relevant URLs in sitemap | 363 links from 2/2 listings |
+| Zooop | 212 relevant URLs in sitemap | 108 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
-| Media.io | 2814 relevant URLs in sitemap | 163 links from 3/3 listings |
+| Media.io | 2814 relevant URLs in sitemap | 164 links from 3/3 listings |
+| Dreamina | 2567 relevant URLs in sitemap | 29 links from 2/2 listings |
 
 逐站采集详情及基线/不可用状态见 [health-latest.csv](health-latest.csv)。频道不可用不等于 0 新增。
 
