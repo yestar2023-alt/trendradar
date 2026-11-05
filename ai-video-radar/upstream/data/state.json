@@ -8,7 +8,6 @@
         "0H6J_KqQ61U",
         "0NIcIbCdlXs",
         "0b6khBdVvdM",
-        "0nPZzPBjZuA",
         "1U8gL4DZedI",
         "1fYoaMDxL4s",
         "2b-8y6EVpyY",
@@ -26,12 +25,12 @@
         "BydV20ZZGCw",
         "DElugoZyUZc",
         "Dhvx0ej4HwE",
+        "EG2_IR5g_HY",
         "EqtUXKRtH-w",
         "EuDz2zjLDh8",
         "F0fZQpMyYxk",
         "F3hNnBfmO14",
         "F8kA1i6YXSs",
-        "Jj3Jjsf-ETQ",
         "Jjr_pMKtVjU",
         "KV1ArTWlEFU",
         "KhufVgGa6O8",
@@ -98,12 +97,13 @@
         "vq0Ml3Gfa7Q",
         "wEuWSNpyPE8",
         "x2zBwRfKC3Y",
+        "xl307wZk41E",
         "yXRLrSzSRK4",
         "yjsEqfpJFNE",
         "ynecRPc41fY",
         "zLjZah6__-k"
       ],
-      "last_success": "2026-11-05T12:14:03+00:00"
+      "last_success": "2026-11-05T19:56:56+00:00"
     }
   },
   "videos": {
@@ -286,6 +286,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 76202
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 76216
         }
       ],
       "source": "riot_league",
@@ -471,6 +475,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 113131
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 113143
         }
       ],
       "source": "riot_league",
@@ -656,6 +664,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 40368
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 40379
         }
       ],
       "source": "riot_league",
@@ -749,6 +761,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 479463
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 496636
         }
       ],
       "source": "riot_league",
@@ -934,6 +950,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 753563
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 754958
         }
       ],
       "source": "riot_league",
@@ -1119,6 +1139,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 112730
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 112732
         }
       ],
       "source": "riot_league",
@@ -1489,6 +1513,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 757751
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 757811
         }
       ],
       "source": "riot_league",
@@ -1739,6 +1767,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 23577
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 23579
         }
       ],
       "source": "riot_league",
@@ -1924,6 +1956,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 95880
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 95891
         }
       ],
       "source": "riot_league",
@@ -2109,6 +2145,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 2386829
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 2395802
         }
       ],
       "source": "riot_league",
@@ -2294,6 +2334,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 37677
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 37685
         }
       ],
       "source": "riot_league",
@@ -2479,6 +2523,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 80136
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 80234
         }
       ],
       "source": "riot_league",
@@ -2664,6 +2712,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 88996
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 89019
         }
       ],
       "source": "riot_league",
@@ -2866,6 +2918,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 266410
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 266476
         }
       ],
       "source": "riot_league",
@@ -3051,6 +3107,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 1472241
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 1474608
         }
       ],
       "source": "riot_league",
@@ -3385,6 +3445,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 103361
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 103418
         }
       ],
       "source": "riot_league",
@@ -3671,6 +3735,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 490656
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 490746
         }
       ],
       "source": "riot_league",
@@ -3856,6 +3924,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 158365
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 158377
         }
       ],
       "source": "riot_league",
@@ -4041,6 +4113,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 60272
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 60286
         }
       ],
       "source": "riot_league",
@@ -4226,6 +4302,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 223359
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 223371
         }
       ],
       "source": "riot_league",
@@ -4411,6 +4491,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 220287
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 220312
         }
       ],
       "source": "riot_league",
@@ -4596,6 +4680,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 459725
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 459733
         }
       ],
       "source": "riot_league",
@@ -4781,11 +4869,28 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 85618
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 85635
         }
       ],
       "source": "riot_league",
       "title": "TXT’s SOOBIN vs. BEOMGYU run the 1v1",
       "url": "https://www.youtube.com/watch?v=Dhvx0ej4HwE"
+    },
+    "EG2_IR5g_HY": {
+      "first_seen": "2026-11-05T19:56:56+00:00",
+      "published": "2026-11-05T16:00:20Z",
+      "samples": [
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 18036
+        }
+      ],
+      "source": "riot_league",
+      "title": "K/DA, DJ Sona - GIRLS  ft. Sophie Powers, Sorana, Royal & the Serpent (Official Video)",
+      "url": "https://www.youtube.com/watch?v=EG2_IR5g_HY"
     },
     "EqtUXKRtH-w": {
       "first_seen": "2026-10-23T06:58:54+00:00",
@@ -4966,6 +5071,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 69785
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 69796
         }
       ],
       "source": "riot_league",
@@ -5151,6 +5260,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 70762
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 70764
         }
       ],
       "source": "riot_league",
@@ -5336,6 +5449,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 98836
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 98864
         }
       ],
       "source": "riot_league",
@@ -5520,6 +5637,10 @@
         },
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
+          "views": 68753
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
           "views": 68753
         }
       ],
@@ -5706,6 +5827,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 145894
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 146111
         }
       ],
       "source": "riot_league",
@@ -6076,6 +6201,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 132579
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 132582
         }
       ],
       "source": "riot_league",
@@ -6261,6 +6390,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 356469
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 356476
         }
       ],
       "source": "riot_league",
@@ -6446,6 +6579,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 186157
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 186162
         }
       ],
       "source": "riot_league",
@@ -6631,6 +6768,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 3550164
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 3575319
         }
       ],
       "source": "riot_league",
@@ -6816,6 +6957,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 74808
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 74811
         }
       ],
       "source": "riot_league",
@@ -7001,6 +7146,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 41680882
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 42117739
         }
       ],
       "source": "riot_league",
@@ -7251,6 +7400,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 38255
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 38256
         }
       ],
       "source": "riot_league",
@@ -7436,6 +7589,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 35001
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 35003
         }
       ],
       "source": "riot_league",
@@ -7613,6 +7770,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 3186181
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 3239950
         }
       ],
       "source": "riot_league",
@@ -7798,6 +7959,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 184489
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 184819
         }
       ],
       "source": "riot_league",
@@ -7983,6 +8148,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 191240
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 191264
         }
       ],
       "source": "riot_league",
@@ -8168,6 +8337,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 136944
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 136983
         }
       ],
       "source": "riot_league",
@@ -8345,6 +8518,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 504645
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 506309
         }
       ],
       "source": "riot_league",
@@ -8530,6 +8707,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 99562
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 99601
         }
       ],
       "source": "riot_league",
@@ -8732,6 +8913,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 1203352
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 1204160
         }
       ],
       "source": "riot_league",
@@ -8917,6 +9102,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 42772
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 42781
         }
       ],
       "source": "riot_league",
@@ -9030,6 +9219,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 3054165
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 3098353
         }
       ],
       "source": "riot_league",
@@ -9215,6 +9408,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 122140
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 122152
         }
       ],
       "source": "riot_league",
@@ -9400,6 +9597,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 226879
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 226949
         }
       ],
       "source": "riot_league",
@@ -9585,6 +9786,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 517132
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 517140
         }
       ],
       "source": "riot_league",
@@ -9770,6 +9975,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 332424
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 333170
         }
       ],
       "source": "riot_league",
@@ -9955,6 +10164,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 72350
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 72362
         }
       ],
       "source": "riot_league",
@@ -10132,6 +10345,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 89850
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 90123
         }
       ],
       "source": "riot_league",
@@ -10317,6 +10534,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 39117
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 39128
         }
       ],
       "source": "riot_league",
@@ -10502,6 +10723,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 112214
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 112356
         }
       ],
       "source": "riot_league",
@@ -10785,6 +11010,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 65185
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 65223
         }
       ],
       "source": "riot_league",
@@ -10970,6 +11199,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 298732
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 299012
         }
       ],
       "source": "riot_league",
@@ -11155,6 +11388,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 683325
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 683361
         }
       ],
       "source": "riot_league",
@@ -11340,6 +11577,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 549915
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 550093
         }
       ],
       "source": "riot_league",
@@ -11525,6 +11766,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 97210
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 97216
         }
       ],
       "source": "riot_league",
@@ -11710,6 +11955,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 7418573
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 7432294
         }
       ],
       "source": "riot_league",
@@ -11895,6 +12144,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 758463
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 760712
         }
       ],
       "source": "riot_league",
@@ -12080,6 +12333,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 126068
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 126139
         }
       ],
       "source": "riot_league",
@@ -12209,6 +12466,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 1789878
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 1827733
         }
       ],
       "source": "riot_league",
@@ -12483,6 +12744,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 64830
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 64834
         }
       ],
       "source": "riot_league",
@@ -12668,6 +12933,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 500433
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 500543
         }
       ],
       "source": "riot_league",
@@ -12853,6 +13122,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 293356
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 293366
         }
       ],
       "source": "riot_league",
@@ -13038,6 +13311,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 81062
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 81071
         }
       ],
       "source": "riot_league",
@@ -13223,6 +13500,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 128436
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 128776
         }
       ],
       "source": "riot_league",
@@ -13408,6 +13689,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 339018
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 339039
         }
       ],
       "source": "riot_league",
@@ -13593,6 +13878,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 99478
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 99524
         }
       ],
       "source": "riot_league",
@@ -13778,6 +14067,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 49115
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 49116
         }
       ],
       "source": "riot_league",
@@ -14044,6 +14337,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 708355
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 708609
         }
       ],
       "source": "riot_league",
@@ -14229,6 +14526,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 715120
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 715181
         }
       ],
       "source": "riot_league",
@@ -14414,6 +14715,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 60233
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 60237
         }
       ],
       "source": "riot_league",
@@ -14599,6 +14904,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 61122
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 61126
         }
       ],
       "source": "riot_league",
@@ -14784,6 +15093,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 44487379
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 44573079
         }
       ],
       "source": "riot_league",
@@ -14897,6 +15210,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 66569
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 66877
         }
       ],
       "source": "riot_league",
@@ -15082,6 +15399,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 1560198
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 1560219
         }
       ],
       "source": "riot_league",
@@ -15267,6 +15588,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 409483
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 410040
         }
       ],
       "source": "riot_league",
@@ -15372,6 +15697,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 344447
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 345029
         }
       ],
       "source": "riot_league",
@@ -15417,6 +15746,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 227374
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 261600
         }
       ],
       "source": "riot_league",
@@ -15602,6 +15935,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 98229
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 98250
         }
       ],
       "source": "riot_league",
@@ -15796,6 +16133,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 156267
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 156933
         }
       ],
       "source": "riot_league",
@@ -15981,6 +16322,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 67345
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 67348
         }
       ],
       "source": "riot_league",
@@ -16166,6 +16511,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 61343
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 61435
         }
       ],
       "source": "riot_league",
@@ -16351,6 +16700,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 172251
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 172298
         }
       ],
       "source": "riot_league",
@@ -16536,6 +16889,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 1424723
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 1425022
         }
       ],
       "source": "riot_league",
@@ -16721,6 +17078,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 91362
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 91373
         }
       ],
       "source": "riot_league",
@@ -16850,6 +17211,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 107509
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 107772
         }
       ],
       "source": "riot_league",
@@ -17035,6 +17400,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 29753
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 29762
         }
       ],
       "source": "riot_league",
@@ -17220,6 +17589,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 252820
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 254118
         }
       ],
       "source": "riot_league",
@@ -17405,6 +17778,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 148452
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 148475
         }
       ],
       "source": "riot_league",
@@ -17590,6 +17967,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 104891
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 104918
         }
       ],
       "source": "riot_league",
@@ -17775,6 +18156,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 186466
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 186482
         }
       ],
       "source": "riot_league",
@@ -17960,11 +18345,28 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 233475
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 233676
         }
       ],
       "source": "riot_league",
       "title": "Drop the Beat with True Damage Know My Name Yasuo | Worlds 2026",
       "url": "https://www.youtube.com/watch?v=x2zBwRfKC3Y"
+    },
+    "xl307wZk41E": {
+      "first_seen": "2026-11-05T19:56:56+00:00",
+      "published": "2026-11-05T16:00:18Z",
+      "samples": [
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 322914
+        }
+      ],
+      "source": "riot_league",
+      "title": "K/DA, DJ Sona - GIRLS  ft. Sophie Powers, Sorana, Royal & the Serpent (Official Video)",
+      "url": "https://www.youtube.com/watch?v=xl307wZk41E"
     },
     "yXRLrSzSRK4": {
       "first_seen": "2026-10-23T06:58:54+00:00",
@@ -18145,6 +18547,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 152468
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 152764
         }
       ],
       "source": "riot_league",
@@ -18330,6 +18736,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 34195
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 34206
         }
       ],
       "source": "riot_league",
@@ -18524,6 +18934,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 98911
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 99220
         }
       ],
       "source": "riot_league",
@@ -18709,6 +19123,10 @@
         {
           "observed_at": "2026-11-05T12:14:03+00:00",
           "views": 95160
+        },
+        {
+          "observed_at": "2026-11-05T19:56:56+00:00",
+          "views": 95199
         }
       ],
       "source": "riot_league",
