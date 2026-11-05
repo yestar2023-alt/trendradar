@@ -1,24 +1,24 @@
 # AI 视频新增词日报 | 2026-11-05（北京时间）
 
 - 本次完成检查：16 个频道；失败/不可用：4 个频道
-- **有历史快照比对的新 URL：34 条（当日累计，非真实网页发布日期）**
-- **本轮扫描额外发现：0 条 URL**
-- **需核实的新关键词候选（跨站均衡核验）：30 个**
-- **本次核验详情页：30 条，覆盖 4 个有候选的来源**（每日归档池 34 条；不限于本次新发现）
-- **本轮原始URL全量明细存档：34 条**（如非零，可查看 `reports/2026-11-05-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
+- **有历史快照比对的新 URL：137 条（当日累计，非真实网页发布日期）**
+- **本轮扫描额外发现：103 条 URL**
+- **需核实的新关键词候选（跨站均衡核验）：29 个**
+- **本次核验详情页：30 条，覆盖 4 个有候选的来源**（每日归档池 137 条；不限于本次新发现）
+- **本轮原始URL全量明细存档：137 条**（如非零，可查看 `reports/2026-11-05-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
 ## 候选新词（基于 URL 差集，热度尚未核实）
 
 | 首次发现 | 候选规范词 | 网站 | 新出现的链接 | 检测类型 |
 |---|---|---|---|---|
-| 2026-11-05 | 7700003903282171143 | CapCut Trending | [页面1](https://www.capcut.com/template-detail/MusiqueChallenge-trend-lyrics-fyp-viral/7700003903282171143) | 模板列表首次出现 |
+| 2026-11-05 | capcut i m a staaaar | CapCut Trending | [页面1](https://www.capcut.com/template-detail/MusiqueChallenge-trend-lyrics-fyp-viral/7700003903282171143) | 模板列表首次出现 |
 | 2026-11-05 | asereje trend the ketchup song lip sync ai video | MakeViral | [页面1](https://www.makeviral.ai/templates/asereje-ketchup-song-ai-trend) | 进入 Sitemap |
 | 2026-11-05 | bottle kick challenge make a funny cat or dog video from one photo | Zooop | [页面1](https://zooop.ai/blog/bottle-kick-challenge-ai-guide) | 进入 Sitemap |
 | 2026-11-05 | darts 170 ai video 170 checkout bullseye prank | Media.io | [页面1](https://www.media.io/ai/explore/zone/darts-170-ai-trend) | 模板列表首次出现 |
 | 2026-11-05 | capcut trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcut-capcutpioneer-pioneertemplate-chocolateedt/7694571145475017990) | 模板列表首次出现 |
 | 2026-11-05 | capybara couple ai video you two as capybaras | MakeViral | [页面1](https://www.makeviral.ai/templates/capybara-couple-ai-video) | 进入 Sitemap |
 | 2026-11-05 | dog coffee fail make a 15 second ai pet video from two photos | Zooop | [页面1](https://zooop.ai/blog/dog-coffee-fail-ai-video-guide) | 进入 Sitemap |
-| 2026-10-26 | capcut new trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcut-capcuttopcreator/7692103206574296340) | 模板列表首次出现 |
+| 2026-10-26 | capcut new trend | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcut-capcuttopcreator/7692103206574296340) [页面2](https://www.capcut.com/template-detail/slowmo-velocity-trend-viraltiktok-fyp/7695423845141859590) | 模板列表首次出现 |
 | 2026-11-05 | dancing crocodiles ai dance with the meme alligators | MakeViral | [页面1](https://www.makeviral.ai/templates/dancing-crocodiles-ai) | 进入 Sitemap |
 | 2026-11-05 | blog page 8 | Zooop | [页面1](https://zooop.ai/blog/page/8) | 模板列表首次出现 |
 | 2026-11-05 | capcut cognac queen | CapCut Trending | [页面1](https://www.capcut.com/template-detail/edittwist-trend-viral-lyrics-fyp/7543272646948015413) | 模板列表首次出现 |
@@ -33,11 +33,10 @@
 | 2026-11-05 | wassup in a minute ai your photo as anime | Zooop | [页面1](https://zooop.ai/templates/video/wassup-in-a-minute-ai) | 进入 Sitemap |
 | 2026-11-05 | capcut her name is edit | CapCut Trending | [页面1](https://www.capcut.com/template-detail/mytemplatepro-protemplateid-slowmo/7547012140708810045) | 模板列表首次出现 |
 | 2026-11-05 | capcut run it bac | CapCut Trending | [页面1](https://www.capcut.com/template-detail/slowmo-runitback-trend-viral/7678068301410438420) | 模板列表首次出现 |
-| 2026-11-05 | 7695423845141859590 | CapCut Trending | [页面1](https://www.capcut.com/template-detail/slowmo-velocity-trend-viraltiktok-fyp/7695423845141859590) | 模板列表首次出现 |
 | 2026-11-05 | capcut u so tea | CapCut Trending | [页面1](https://www.capcut.com/template-detail/trend-fyp-viral-nicx/7596330705211231493) | 模板列表首次出现 |
 | 2026-11-05 | capcut hut | CapCut Trending | [页面1](https://www.capcut.com/template-detail/trend-viralgroup-style-stopmotion-viraltiktokaudio/7639359238615223573) | 模板列表首次出现 |
 | 2026-11-05 | capcut bad girl | CapCut Trending | [页面1](https://www.capcut.com/template-detail/velocity-viraltiktokaudio-trend-fyp/7574060723123293445) | 模板列表首次出现 |
-| 2026-11-05 | 7601946231509716242 | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viral-internetgirl/7601946231509716242) | 模板列表首次出现 |
+| 2026-11-05 | capcut internet girl | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viral-internetgirl/7601946231509716242) | 模板列表首次出现 |
 | 2026-11-05 | capcut all the stars | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-allthestars-velocity/7514099695212383549) | 模板列表首次出现 |
 | 2026-11-05 | capcut your name | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-biscoito-trend-viral-fyp/7657193904479014161) | 模板列表首次出现 |
 | 2026-11-05 | capcut ponycrisis | CapCut Trending | [页面1](https://www.capcut.com/template-detail/viraltiktokaudio-glitch-viralgroup-trend-fyp/7642326728840547602) | 模板列表首次出现 |
@@ -46,7 +45,7 @@
 
 ## 可点开的核查入口（供运营核实趋势和竞品）
 
-- **7700003903282171143**： [TikTok](https://www.tiktok.com/search?q=7700003903282171143) · [YouTube](https://www.youtube.com/results?search_query=7700003903282171143) · [Google](https://www.google.com/search?q=7700003903282171143) · [Google Trends](https://trends.google.com/trends/explore?q=7700003903282171143)
+- **capcut i m a staaaar**： [TikTok](https://www.tiktok.com/search?q=capcut+i+m+a+staaaar) · [YouTube](https://www.youtube.com/results?search_query=capcut+i+m+a+staaaar) · [Google](https://www.google.com/search?q=capcut+i+m+a+staaaar) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+i+m+a+staaaar)
 - **asereje trend the ketchup song lip sync ai video**： [TikTok](https://www.tiktok.com/search?q=asereje+trend+the+ketchup+song+lip+sync+ai+video) · [YouTube](https://www.youtube.com/results?search_query=asereje+trend+the+ketchup+song+lip+sync+ai+video) · [Google](https://www.google.com/search?q=asereje+trend+the+ketchup+song+lip+sync+ai+video) · [Google Trends](https://trends.google.com/trends/explore?q=asereje+trend+the+ketchup+song+lip+sync+ai+video)
 - **bottle kick challenge make a funny cat or dog video from one photo**： [TikTok](https://www.tiktok.com/search?q=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo) · [Google](https://www.google.com/search?q=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=bottle+kick+challenge+make+a+funny+cat+or+dog+video+from+one+photo)
 - **darts 170 ai video 170 checkout bullseye prank**： [TikTok](https://www.tiktok.com/search?q=darts+170+ai+video+170+checkout+bullseye+prank) · [YouTube](https://www.youtube.com/results?search_query=darts+170+ai+video+170+checkout+bullseye+prank) · [Google](https://www.google.com/search?q=darts+170+ai+video+170+checkout+bullseye+prank) · [Google Trends](https://trends.google.com/trends/explore?q=darts+170+ai+video+170+checkout+bullseye+prank)
@@ -120,7 +119,7 @@
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 5 links from 1/1 listings |
 | Higgsfield Viral | 184 relevant URLs in sitemap | 28 links from 2/2 listings |
-| MakeViral | 380 relevant URLs in sitemap | 363 links from 2/2 listings |
+| MakeViral | 380 relevant URLs in sitemap | 466 links from 2/2 listings |
 | Zooop | 212 relevant URLs in sitemap | 108 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
 | Media.io | 2814 relevant URLs in sitemap | 164 links from 3/3 listings |
