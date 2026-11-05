@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-05 08:53
-- 数据库视频：2805；24小时内且有频道ID的非教程候选：241
+- 最新成功快照（北京）：2026-11-05 20:19
+- 数据库视频：2698；24小时内且有频道ID的非教程候选：170
 - 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -13,23 +13,23 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. robot helps
+### 1. #aiediting
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ashif modi | [🤖🕋 A Cute AI Robot Helps an Elderly Hajj Pilgrim in Makkah ❤️#shorts #kaba #trending #viral #ai](https://www.youtube.com/watch?v=ZZvilRH5FxU) | 2026-11-04 10:27 | 2026-11-05 08:53 | 63564 | 待多次采样 | 作者文字自述AI |
-| islamichoor.220k.views.2hour | [🤖 Amazing AI Robot Helps Muslims 🕌❤️ / Quran, Umbrella & Elderly Care #Shorts#robot #islamicvideo](https://www.youtube.com/watch?v=ZB4Hxao_JPw) | 2026-11-04 08:53 | 2026-11-05 08:53 | 17418 | 待多次采样 | 作者文字自述AI |
-| Islamic Robot Istory | [🤖 Kind Robot Helps a Little Girl ❤️🥹 / AI Shorts #shorts](https://www.youtube.com/watch?v=1tMClp9xJXY) | 2026-11-04 15:36 | 2026-11-05 08:53 | 8530 | 待多次采样 | 作者文字自述AI |
+| Suruj Official BD | [নিজের ছবি দিয়ে AI ভিডিও#AIPhoto #AIEditing #AITransformation #MyAIStyle #AIPortrait #CreativeVideo](https://www.youtube.com/watch?v=8IrXjmEmJ9I) | 2026-11-04 20:20 | 2026-11-05 03:44 | 1927 | 1.8 | 作者文字自述AI |
+| SH CLIPS  | [#aivideo #aftereffects #aiediting #aishorts #aitrends #fpy #fps #spiderman #trend #fpyシ#shorts ...](https://www.youtube.com/watch?v=4PSaCp1x5dU) | 2026-11-05 15:05 | 2026-11-05 20:19 | 1052 | 待多次采样 | 作者文字自述AI |
+| ᴋɪsʜᴀɴ_ʙʜᴀɪ | [#AIVideo #AIVideoCreation #YouTubeTips #AIEditing #AIVideoTutorial #HindiTutorial #ViralVideo #Trend](https://www.youtube.com/watch?v=g-cRc-Tdghw) | 2026-11-05 13:17 | 2026-11-05 20:19 | 90 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| Roya News English | [Iran mocks Trump in AI-generated garbage video](https://www.youtube.com/watch?v=UkhivcBykAo) | 10万级早期观察，不是爆款 | 2026-11-04 20:41 | 2026-11-05 08:53 | 177432 | 待二次采样 |
+| Roya News English | [Iran mocks Trump in AI-generated garbage video](https://www.youtube.com/watch?v=UkhivcBykAo) | 10万级早期观察，不是爆款 | 2026-11-04 20:41 | 2026-11-05 08:53 | 246935 | 6,073.2 |
 
 ## 人工核验清单
 
