@@ -1,36 +1,112 @@
 {
-  "generated_at": "2026-11-05T12:19:53.019755+00:00",
-  "source_snapshot_at": "2026-11-05T12:19:49Z",
-  "source_video_count": 2698,
-  "published_last_24h_with_channel": 170,
-  "shared_name_groups": 1,
+  "generated_at": "2026-11-05T21:58:58.479048+00:00",
+  "source_snapshot_at": "2026-11-05T21:58:54Z",
+  "source_video_count": 2672,
+  "published_last_24h_with_channel": 217,
+  "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "#aiediting",
+      "anchor": "#diwalispecial",
       "anchor_type": "tag",
       "unique_channels": 3,
       "ai_claimed_channels": 3,
       "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.67,
+      "near_duplicate_caption_fraction": 0.33,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "নিজের ছবি দিয়ে AI ভিডিও#AIPhoto #AIEditing #AITransformation #MyAIStyle #AIPortrait #CreativeVideo",
-          "channel": "Suruj Official BD",
-          "channel_id": "UCOZcZfsMsSym23GmU5K2vjg",
-          "url": "https://www.youtube.com/watch?v=8IrXjmEmJ9I",
-          "published_at": "2026-11-04T12:20:27Z",
-          "first_seen_at": "2026-11-04T19:44:33Z",
-          "views": 1927,
-          "observed_growth_per_hour": 1.8,
+          "title": "happy diwali 🪔 | #diwalispecial #aishorts #motupatlu #aianimation #youtubeshorts #diwali",
+          "channel": "Aikiduniya231",
+          "channel_id": "UCYwEk_kApKR0NNdEnC-5ZEw",
+          "url": "https://www.youtube.com/watch?v=qiAKaDC9QVs",
+          "published_at": "2026-11-05T07:10:08Z",
+          "first_seen_at": "2026-11-05T21:58:54Z",
+          "views": 7013,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
+        {
+          "title": "सांप बना दीपावली का दुकानदार 🐒🐍#DiwaliSpecial #SnakeComedy #3DCartoon #HindiComedy #AIAnimation",
+          "channel": "Funny Vibes India",
+          "channel_id": "UCAEYUgx7kpajjIJ5DtNPVxQ",
+          "url": "https://www.youtube.com/watch?v=aEEOQk_iJ2s",
+          "published_at": "2026-11-05T02:11:34Z",
+          "first_seen_at": "2026-11-05T21:58:54Z",
+          "views": 1576,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "\" Viral Ai diwali Video \" | Instagram Trend | #instagramtrending #diwalispecial #aishorts #viral",
+          "channel": "Make Entertainment Of",
+          "channel_id": "UCt9-qtAE3w3jyz1l0JUYuRA",
+          "url": "https://www.youtube.com/watch?v=fUTJP05HIrA",
+          "published_at": "2026-11-05T08:17:36Z",
+          "first_seen_at": "2026-11-05T12:19:49Z",
+          "views": 1324,
+          "observed_growth_per_hour": 14.2,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#wildlife",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Cat funny moments 🐈😂 #aicat #wildlife #funny #orangecat",
+          "channel": "Aryan Tales",
+          "channel_id": "UCiLjF6gBjJKMSI7UNdNR6Lg",
+          "url": "https://www.youtube.com/watch?v=V6mfvg13kuU",
+          "published_at": "2026-11-05T05:32:15Z",
+          "first_seen_at": "2026-11-05T21:58:54Z",
+          "views": 15915,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife #sneke #funny snek",
+          "channel": "😈GRX_RAJU💕",
+          "channel_id": "UCWkjiEBpjNYNPAIyLan5CNA",
+          "url": "https://www.youtube.com/watch?v=SZhiKgWdQ28",
+          "published_at": "2026-11-05T12:40:54Z",
+          "first_seen_at": "2026-11-05T21:58:54Z",
+          "views": 2280,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#aiediting",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "possible_reuploads",
+      "near_duplicate_caption_fraction": 1.0,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 12,
+      "examples": [
         {
           "title": "#aivideo #aftereffects #aiediting #aishorts #aitrends #fpy #fps #spiderman #trend #fpyシ#shorts ...",
           "channel": "SH CLIPS ",
@@ -38,8 +114,8 @@
           "url": "https://www.youtube.com/watch?v=4PSaCp1x5dU",
           "published_at": "2026-11-05T07:05:47Z",
           "first_seen_at": "2026-11-05T12:19:49Z",
-          "views": 1052,
-          "observed_growth_per_hour": null,
+          "views": 1248,
+          "observed_growth_per_hour": 20.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -58,22 +134,5 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "Iran mocks Trump in AI-generated garbage video",
-      "channel": "Roya News English",
-      "channel_id": "UCmI6Qe9EiMTyJeFdmf2sgvA",
-      "url": "https://www.youtube.com/watch?v=UkhivcBykAo",
-      "published_at": "2026-11-04T12:41:49Z",
-      "first_seen_at": "2026-11-05T00:53:10Z",
-      "views": 246935,
-      "observed_growth_per_hour": 6073.2,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "iran mocks trump garbage",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
