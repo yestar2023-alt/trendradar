@@ -136,6 +136,18 @@
         "/ai-",
         "/ai/explore/zone/"
       ]
+    },
+    {
+      "id": "dreamina",
+      "name": "Dreamina",
+      "base": "https://dreamina.capcut.com",
+      "listings": [
+        "/ai-video/ai-trending",
+        "/ai-video"
+      ],
+      "path_patterns": [
+        "/ai-video/"
+      ]
     }
   ],
   "aliases": {

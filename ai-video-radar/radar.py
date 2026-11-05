@@ -47,7 +47,7 @@ def relevant(url: str, src: dict) -> bool:
     p = parse.urlsplit(url)
     path = parse.unquote(p.path).lower()
     if not allowed_host(url, src['base']) or path.endswith(SKIP_EXT): return False
-    if path.rstrip('/') in ('', '/blog', '/templates', '/video-effects', '/effects', '/meme', '/viral', '/apps/trending-templates', '/explore/latest-trend', '/ai/explore/zone/ai-video-trend-generator'): return False
+    if path.rstrip('/') in ('', '/blog', '/templates', '/video-effects', '/effects', '/meme', '/viral', '/apps/trending-templates', '/explore/latest-trend', '/ai/explore/zone/ai-video-trend-generator', '/ai-video/ai-trending'): return False
     if any(a in path for a in ('/login','/signin','/signup','/dashboard','/account','/pricing','/terms','/privacy','/api/','/docs/')): return False
     return any(path.startswith(pattern) for pattern in src['path_patterns'])
 
@@ -346,6 +346,17 @@ def candidate_priority(url, site_id):
             return 2
         if path.startswith(('/video-effects/', '/ai-video-effects/')): return 1
         return 4
+    if site_id == 'dreamina':
+        # Trend detail pages outrank generic AI video SEO landing pages.
+        slug=path.rsplit('/',1)[-1]
+        if any(word in slug for word in (
+            'trend', 'dance', 'prank', 'challenge', 'meme',
+            'viral', 'effect', 'filter', 'template',
+        )):
+            return 0
+        if any(word in slug for word in ('generator', 'maker', 'editing')):
+            return 2
+        return 3
     if site_id == 'capcut':
         return 0 if path.startswith('/template-detail/') else 3
     if site_id == 'zooop':
