@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-11-06T15:55:25.251232+00:00",
-  "source_snapshot_at": "2026-11-06T15:55:21Z",
-  "source_video_count": 2639,
-  "published_last_24h_with_channel": 209,
-  "shared_name_groups": 1,
+  "generated_at": "2026-11-06T21:29:37.498999+00:00",
+  "source_snapshot_at": "2026-11-06T21:29:32Z",
+  "source_video_count": 2686,
+  "published_last_24h_with_channel": 233,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
+    {
+      "anchor": "#radheradhe",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "#radheradhe #ai #aivideo #aishorts #all #people #foryou #life #lifelessons #subscribe #views #trend",
+          "channel": "Neha",
+          "channel_id": "UCkD92-keHvDphHsQkUtmnUA",
+          "url": "https://www.youtube.com/watch?v=gDzKYQFOzic",
+          "published_at": "2026-11-06T18:09:12Z",
+          "first_seen_at": "2026-11-06T21:29:32Z",
+          "views": 176,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "जब वृंदावन में हुई राधा-कृष्ण की प्रेम भरी मुलाकात #radhakrishna  #radheradhe #jivabhajan #shorts",
+          "channel": "Jiva bhajan ",
+          "channel_id": "UC7Bw9WCbbOchFHyx-iqFOug",
+          "url": "https://www.youtube.com/watch?v=ar9oSxaGv5s",
+          "published_at": "2026-11-06T16:30:29Z",
+          "first_seen_at": "2026-11-06T21:29:32Z",
+          "views": 18,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
     {
       "anchor": "#newyoutuber",
       "anchor_type": "tag",
@@ -26,8 +64,8 @@
           "url": "https://www.youtube.com/watch?v=7N548OsUbfE",
           "published_at": "2026-11-06T04:06:01Z",
           "first_seen_at": "2026-11-06T15:55:21Z",
-          "views": 2478,
-          "observed_growth_per_hour": null,
+          "views": 13517,
+          "observed_growth_per_hour": 1982.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,30 +76,13 @@
           "url": "https://www.youtube.com/watch?v=6pFDkgBaR3o",
           "published_at": "2026-11-06T05:29:49Z",
           "first_seen_at": "2026-11-06T06:42:42Z",
-          "views": 1131,
-          "observed_growth_per_hour": 103.2,
+          "views": 1223,
+          "observed_growth_per_hour": 16.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "Cat Betrayed His Best Friend! 😱🐱 #shorts",
-      "channel": "HackMint",
-      "channel_id": "UCHrvdb5CfkdeYfy3guCmd_A",
-      "url": "https://www.youtube.com/watch?v=AUEeuwo123s",
-      "published_at": "2026-11-05T19:50:19Z",
-      "first_seen_at": "2026-11-06T15:55:21Z",
-      "views": 157562,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "betrayed friend",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
