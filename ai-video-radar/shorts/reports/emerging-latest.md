@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-06 14:42
-- 数据库视频：2682；24小时内且有频道ID的非教程候选：226
-- 自动发现跨账号同名/同词线索：2
+- 最新成功快照（北京）：2026-11-06 23:55
+- 数据库视频：2639；24小时内且有频道ID的非教程候选：209
+- 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,33 +13,22 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. kaise banaen
+### 1. #newyoutuber
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Nikhil AI Tech | [Google Flow Secret AI Prompts 🔥 Viral Product Video Hack Google flow say video kaise banaen](https://www.youtube.com/watch?v=5X_Srg2xIzA) | 2026-11-05 20:46 | 2026-11-06 14:42 | 1170 | 待多次采样 | 作者文字自述AI |
-| Tech Abdul | [Instagram Diwali Trending Video Kaise Banaen / Diwali Ai Trending Video Edting / @TechAbdul07](https://www.youtube.com/watch?v=GVssvQGT6Zk) | 2026-11-05 18:20 | 2026-11-05 20:19 | 178 | 2.6 | 作者文字自述AI |
-
-### 2. #diwalispecial
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Aikiduniya231 | [happy diwali 🪔 / #diwalispecial #aishorts #motupatlu #aianimation #youtubeshorts #diwali](https://www.youtube.com/watch?v=qiAKaDC9QVs) | 2026-11-05 15:10 | 2026-11-06 05:58 | 7033 | 2.3 | 作者文字自述AI |
-| Make Entertainment Of | [" Viral Ai diwali Video " / Instagram Trend / #instagramtrending #diwalispecial #aishorts #viral](https://www.youtube.com/watch?v=fUTJP05HIrA) | 2026-11-05 16:17 | 2026-11-05 20:19 | 1348 | 2.7 | 作者文字自述AI |
+| Shyam Circle | [#यमदीपदान #dhanteras #special#diwalivibes #aianimation#yamdeepdaan#viral#ytshorts #newyoutuber🪔#🪔🪔🪔](https://www.youtube.com/watch?v=7N548OsUbfE) | 2026-11-06 12:06 | 2026-11-06 23:55 | 2478 | 待多次采样 | 作者文字自述AI |
+| BitesByNikki | [#tea #food #asmr #ai #aivideo #aishorts #tasty #fyp #youtubeshorts #dailyvlog # #newyoutuber #trend](https://www.youtube.com/watch?v=6pFDkgBaR3o) | 2026-11-06 13:29 | 2026-11-06 14:42 | 1131 | 103.2 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| HackMint | [Cat Betrayed His Best Friend! 😱🐱 #shorts](https://www.youtube.com/watch?v=AUEeuwo123s) | 10万级早期观察，不是爆款 | 2026-11-06 03:50 | 2026-11-06 23:55 | 157562 | 待二次采样 |
 
 ## 人工核验清单
 

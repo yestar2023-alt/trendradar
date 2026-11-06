@@ -1,88 +1,67 @@
 {
-  "generated_at": "2026-11-06T06:42:46.909658+00:00",
-  "source_snapshot_at": "2026-11-06T06:42:42Z",
-  "source_video_count": 2682,
-  "published_last_24h_with_channel": 226,
-  "shared_name_groups": 2,
+  "generated_at": "2026-11-06T15:55:25.251232+00:00",
+  "source_snapshot_at": "2026-11-06T15:55:21Z",
+  "source_video_count": 2639,
+  "published_last_24h_with_channel": 209,
+  "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "kaise banaen",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Google Flow Secret AI Prompts 🔥 Viral Product Video Hack Google flow say video kaise banaen",
-          "channel": "Nikhil AI Tech",
-          "channel_id": "UC3F3cH-d9UDZs5YHo-eJLvg",
-          "url": "https://www.youtube.com/watch?v=5X_Srg2xIzA",
-          "published_at": "2026-11-05T12:46:53Z",
-          "first_seen_at": "2026-11-06T06:42:42Z",
-          "views": 1170,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Instagram Diwali Trending Video Kaise Banaen | Diwali Ai Trending Video Edting | @TechAbdul07",
-          "channel": "Tech Abdul",
-          "channel_id": "UCN7ard2OW7GHNVMWxGYJDEg",
-          "url": "https://www.youtube.com/watch?v=GVssvQGT6Zk",
-          "published_at": "2026-11-05T10:20:46Z",
-          "first_seen_at": "2026-11-05T12:19:49Z",
-          "views": 178,
-          "observed_growth_per_hour": 2.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#diwalispecial",
+      "anchor": "#newyoutuber",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
       "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
+      "classification": "possible_reuploads",
+      "near_duplicate_caption_fraction": 1.0,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 12,
       "examples": [
         {
-          "title": "happy diwali 🪔 | #diwalispecial #aishorts #motupatlu #aianimation #youtubeshorts #diwali",
-          "channel": "Aikiduniya231",
-          "channel_id": "UCYwEk_kApKR0NNdEnC-5ZEw",
-          "url": "https://www.youtube.com/watch?v=qiAKaDC9QVs",
-          "published_at": "2026-11-05T07:10:08Z",
-          "first_seen_at": "2026-11-05T21:58:54Z",
-          "views": 7033,
-          "observed_growth_per_hour": 2.3,
+          "title": "#यमदीपदान #dhanteras #special#diwalivibes #aianimation#yamdeepdaan#viral#ytshorts #newyoutuber🪔#🪔🪔🪔",
+          "channel": "Shyam Circle",
+          "channel_id": "UCwU0zZtjX_eD3uAhggs_fOw",
+          "url": "https://www.youtube.com/watch?v=7N548OsUbfE",
+          "published_at": "2026-11-06T04:06:01Z",
+          "first_seen_at": "2026-11-06T15:55:21Z",
+          "views": 2478,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "\" Viral Ai diwali Video \" | Instagram Trend | #instagramtrending #diwalispecial #aishorts #viral",
-          "channel": "Make Entertainment Of",
-          "channel_id": "UCt9-qtAE3w3jyz1l0JUYuRA",
-          "url": "https://www.youtube.com/watch?v=fUTJP05HIrA",
-          "published_at": "2026-11-05T08:17:36Z",
-          "first_seen_at": "2026-11-05T12:19:49Z",
-          "views": 1348,
-          "observed_growth_per_hour": 2.7,
+          "title": "#tea #food #asmr #ai #aivideo #aishorts #tasty #fyp #youtubeshorts #dailyvlog # #newyoutuber #trend",
+          "channel": "BitesByNikki",
+          "channel_id": "UC2hYg5SqT-5fvt0wibmVQIw",
+          "url": "https://www.youtube.com/watch?v=6pFDkgBaR3o",
+          "published_at": "2026-11-06T05:29:49Z",
+          "first_seen_at": "2026-11-06T06:42:42Z",
+          "views": 1131,
+          "observed_growth_per_hour": 103.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "Cat Betrayed His Best Friend! 😱🐱 #shorts",
+      "channel": "HackMint",
+      "channel_id": "UCHrvdb5CfkdeYfy3guCmd_A",
+      "url": "https://www.youtube.com/watch?v=AUEeuwo123s",
+      "published_at": "2026-11-05T19:50:19Z",
+      "first_seen_at": "2026-11-06T15:55:21Z",
+      "views": 157562,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "betrayed friend",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }
