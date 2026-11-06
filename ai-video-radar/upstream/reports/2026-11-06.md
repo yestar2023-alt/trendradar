@@ -1,9 +1,9 @@
 # AI 视频上游信号报告（YouTube Data API 试运行）
 
-- 抓取时间（北京时间）：2026-11-06 03:56
+- 抓取时间（北京时间）：2026-11-06 08:56
 - 成功频道：1/1
 - 失败/未配置频道：0/1
-- 经成功历史快照对比的首次观察视频：2
+- 经成功历史快照对比的首次观察视频：0
 
 > 这只代表上游新视频，并不是已确认 AI 新玩法。视频发布与首次观察是不同时间。
 
@@ -15,8 +15,7 @@
 
 | 首次观察（北京） | 原视频发布时间（北京） | 来源 | 链接 | 当前播放量 | 上次采样至今增长 |
 |---|---|---|---|---:|---:|
-| 2026-11-06 03:56 | 2026-11-06 00:00 | League of Legends Official | [K/DA, DJ Sona - GIRLS  ft. Sophie Powers, Sorana, Royal & the Serpent (Official Video)](https://www.youtube.com/watch?v=EG2_IR5g_HY) | 18036 | — |
-| 2026-11-06 03:56 | 2026-11-06 00:00 | League of Legends Official | [K/DA, DJ Sona - GIRLS  ft. Sophie Powers, Sorana, Royal & the Serpent (Official Video)](https://www.youtube.com/watch?v=xl307wZk41E) | 322914 | — |
+| — | — | — | 无已核实增量视频（可能处于首次基线） | — | — |
 
 ## 审核规则
 
