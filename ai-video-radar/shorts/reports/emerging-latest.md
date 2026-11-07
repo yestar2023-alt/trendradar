@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-07 13:57
-- 数据库视频：2624；24小时内且有频道ID的非教程候选：241
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-11-07 22:53
+- 数据库视频：2552；24小时内且有频道ID的非教程候选：196
+- 自动发现跨账号同名/同词线索：4
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,19 +13,41 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #radhakrishna
+### 1. happy diwali
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Richi Das Ai story shorts  | [Radha Krishna 🙏💗🦚 /Radha Ki Tamannah  / Beautiful AI Animation #radhakrishna #ytshorts#reels#shorts](https://www.youtube.com/watch?v=GMXpJ8jB3mk) | 2026-11-06 21:30 | 2026-11-07 13:57 | 3250 | 待多次采样 | 作者文字自述AI |
-| sanju technical | [Untitled #aishorts #aianimation #aicontentcreation #aicontentcreation #aivideo#aivideo #radhakrishna](https://www.youtube.com/watch?v=MGA_SsrWVoc) | 2026-11-06 18:19 | 2026-11-07 13:57 | 2340 | 待多次采样 | 作者文字自述AI |
-| Jiva bhajan  | [जब वृंदावन में हुई राधा-कृष्ण की प्रेम भरी मुलाकात #radhakrishna  #radheradhe #jivabhajan #shorts](https://www.youtube.com/watch?v=ar9oSxaGv5s) | 2026-11-07 00:30 | 2026-11-07 05:29 | 24 | 0.7 | 作者文字自述AI |
+| AI Crazy  | [Happy Diwali 🪔🎇 #shorts #diwalispecial #viral #trending  #aivideo](https://www.youtube.com/watch?v=XES1MKwq_hg) | 2026-11-07 21:00 | 2026-11-07 22:53 | 734 | 待多次采样 | 作者文字自述AI |
+| MS PARIDA | [🥰Advance :-Happy Diwali 🪔/ Diwali Special / #diwali #wish #aivideo #shorts #trend](https://www.youtube.com/watch?v=YsgUGRDySNM) | 2026-11-07 20:37 | 2026-11-07 22:53 | 3 | 待多次采样 | 作者文字自述AI |
 
-### 2. #radheradhe
+### 2. #likeandsubscribe
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| gamer arsh  | [#likeandsubscribe #fypシ゚viral #fyppppppppシ #like #trendingshorts #shortvideo #trend #aivideo](https://www.youtube.com/watch?v=4M2RpRBQxfY) | 2026-11-07 00:38 | 2026-11-07 05:29 | 1333 | 35.2 | 作者文字自述AI |
+| Abdullah Alahmar | [Veto# #trend #like #friends #public #highlights #likeandsubscribe #like #aivideo](https://www.youtube.com/watch?v=qhZkWUemDKE) | 2026-11-07 20:09 | 2026-11-07 22:53 | 1 | 待多次采样 | 作者文字自述AI |
+
+### 3. #follower
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 独立频道：2；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=TnYprMOucuM) | 2026-11-07 15:37 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
+| Abdullah Alahmar | [Elections #trend #aivideo #foryou #friend #like #follower](https://www.youtube.com/watch?v=b8aFTcMJ3VQ) | 2026-11-07 21:23 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
+| Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=jqD9_nfZ44I) | 2026-11-07 15:38 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
+
+### 4. #radheradhe
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -33,19 +55,8 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Neha | [#radheradhe #ai #aivideo #aishorts #all #people #foryou #life #lifelessons #subscribe #views #trend](https://www.youtube.com/watch?v=gDzKYQFOzic) | 2026-11-07 02:09 | 2026-11-07 05:29 | 244 | 8.0 | 作者文字自述AI |
-| Jiva bhajan  | [जब वृंदावन में हुई राधा-कृष्ण की प्रेम भरी मुलाकात #radhakrishna  #radheradhe #jivabhajan #shorts](https://www.youtube.com/watch?v=ar9oSxaGv5s) | 2026-11-07 00:30 | 2026-11-07 05:29 | 24 | 0.7 | 作者文字自述AI |
-
-### 3. #wildlife
-
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| weeb Watch Ai | [Ai animation cat video #cat #pet #3danimation #wildlife #funny #animallife #shorts](https://www.youtube.com/watch?v=3jXLyv3FJJQ) | 2026-11-06 23:36 | 2026-11-07 13:57 | 1413 | 待多次采样 | 作者文字自述AI |
-| Zuvio Tots | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=kTa-VtNn-IA) | 2026-11-06 20:11 | 2026-11-07 13:57 | 1016 | 待多次采样 | 作者文字自述AI |
+| Neha | [#radheradhe #ai #aivideo #aishorts #all #people #foryou #life #lifelessons #subscribe #views #trend](https://www.youtube.com/watch?v=gDzKYQFOzic) | 2026-11-07 02:09 | 2026-11-07 05:29 | 292 | 5.4 | 作者文字自述AI |
+| Jiva bhajan  | [जब वृंदावन में हुई राधा-कृष्ण की प्रेम भरी मुलाकात #radhakrishna  #radheradhe #jivabhajan #shorts](https://www.youtube.com/watch?v=ar9oSxaGv5s) | 2026-11-07 00:30 | 2026-11-07 05:29 | 42 | 2.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
