@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-11-07T20:13:31.385649+00:00",
-  "source_snapshot_at": "2026-11-07T20:13:27Z",
-  "source_video_count": 2590,
-  "published_last_24h_with_channel": 244,
-  "shared_name_groups": 4,
-  "independent_claimed_and_same_action_candidates": 0,
+  "generated_at": "2026-11-07T23:39:13.982281+00:00",
+  "source_snapshot_at": "2026-11-07T23:39:09Z",
+  "source_video_count": 2638,
+  "published_last_24h_with_channel": 277,
+  "shared_name_groups": 8,
+  "independent_claimed_and_same_action_candidates": 1,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
+    {
+      "anchor": "delicious food",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [
+        "cook"
+      ],
+      "classification": "potential_same_action",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 92.8,
+      "examples": [
+        {
+          "title": "Funny 3D Cooking Animation 😂 Cute Ingredients Making Delicious Food | AI Cooking Video #viralvideo",
+          "channel": "VIRAL ORBIT",
+          "channel_id": "UCBKAeP1o2MPf7IfieD5Q9Cw",
+          "url": "https://www.youtube.com/watch?v=un3_cTRgHDs",
+          "published_at": "2026-11-07T02:30:37Z",
+          "first_seen_at": "2026-11-07T23:39:09Z",
+          "views": 3345,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "cook"
+          ]
+        },
+        {
+          "title": "😻 Cute Cat Cooking Delicious Food! 🍳🐱 | Funny AI Cat Video #shorts",
+          "channel": "ai creator best ",
+          "channel_id": "UCyMN7nvy6KYG09IR58MZCRw",
+          "url": "https://www.youtube.com/watch?v=gnhpAL0rhnY",
+          "published_at": "2026-11-07T02:21:36Z",
+          "first_seen_at": "2026-11-07T05:57:12Z",
+          "views": 2101,
+          "observed_growth_per_hour": 46.4,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "cook"
+          ]
+        }
+      ]
+    },
     {
       "anchor": "happy diwali",
       "anchor_type": "phrase",
@@ -26,8 +70,8 @@
           "url": "https://www.youtube.com/watch?v=AJhUL15KgGk",
           "published_at": "2026-11-07T05:38:10Z",
           "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 2401,
-          "observed_growth_per_hour": null,
+          "views": 2404,
+          "observed_growth_per_hour": 0.9,
           "ai_evidence": "AI制作未验证",
           "actions": []
         },
@@ -39,7 +83,7 @@
           "published_at": "2026-11-07T13:00:23Z",
           "first_seen_at": "2026-11-07T14:53:50Z",
           "views": 1186,
-          "observed_growth_per_hour": 84.9,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -76,8 +120,8 @@
           "url": "https://www.youtube.com/watch?v=16jSU4FWo-I",
           "published_at": "2026-11-07T00:29:22Z",
           "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 5809,
-          "observed_growth_per_hour": null,
+          "views": 8727,
+          "observed_growth_per_hour": 851.1,
           "ai_evidence": "AI制作未验证",
           "actions": []
         },
@@ -88,8 +132,8 @@
           "url": "https://www.youtube.com/watch?v=Cz2d9kYrOo0",
           "published_at": "2026-11-07T02:00:17Z",
           "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 1221,
-          "observed_growth_per_hour": null,
+          "views": 1222,
+          "observed_growth_per_hour": 0.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -127,7 +171,7 @@
           "published_at": "2026-11-07T04:30:10Z",
           "first_seen_at": "2026-11-07T20:13:27Z",
           "views": 1226,
-          "observed_growth_per_hour": null,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -138,7 +182,95 @@
           "url": "https://www.youtube.com/watch?v=Cz2d9kYrOo0",
           "published_at": "2026-11-07T02:00:17Z",
           "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 1221,
+          "views": 1222,
+          "observed_growth_per_hour": 0.3,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#animallife",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Ai animation dog video #dog  #pets #3danimation #wildlife #funny #animallife",
+          "channel": "cinemaToons",
+          "channel_id": "UC_U_VStkrt_atUajlRpSQ-g",
+          "url": "https://www.youtube.com/watch?v=58Qf-4k5MEg",
+          "published_at": "2026-11-07T07:45:49Z",
+          "first_seen_at": "2026-11-07T23:39:09Z",
+          "views": 1452,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Cat Ate Fish, Fish Ate Poop, Cat Ate Fish Again #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "SAL Kids TV",
+          "channel_id": "UC1b5nC3GzGmE3J_PHlPQJOA",
+          "url": "https://www.youtube.com/watch?v=gTtuoonNj2E",
+          "published_at": "2026-11-07T02:00:05Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 637,
+          "observed_growth_per_hour": 23.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#tutorials",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.67,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Bout to make you a millions#higgsfieldpartner #ai #losangeles #tutorials #aianimation @higgsfield.ai",
+          "channel": "Bran",
+          "channel_id": "UC_JCBH5DUOgvlwbYjMNqd-g",
+          "url": "https://www.youtube.com/watch?v=Js57g9I0oM4",
+          "published_at": "2026-11-07T07:13:43Z",
+          "first_seen_at": "2026-11-07T23:39:09Z",
+          "views": 1066,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral",
+          "channel": "Md Khaled Hossain",
+          "channel_id": "UC-sHDVhDY7S4_vA1ZRSSYXw",
+          "url": "https://www.youtube.com/watch?v=TnYprMOucuM",
+          "published_at": "2026-11-07T07:37:44Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral",
+          "channel": "Md Khaled Hossain",
+          "channel_id": "UC-sHDVhDY7S4_vA1ZRSSYXw",
+          "url": "https://www.youtube.com/watch?v=jqD9_nfZ44I",
+          "published_at": "2026-11-07T07:38:05Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 0,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -194,25 +326,47 @@
           "actions": []
         }
       ]
+    },
+    {
+      "anchor": "#aimusic",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Vitamin deposu bir mandalinaya ne dersin #ai #aivideo #aishorts #aiart #aianimation #aimusic #daily",
+          "channel": "BENİM DÜNYAMDAN",
+          "channel_id": "UCY3e3Ui0v3gJQS6MQi9_nbw",
+          "url": "https://www.youtube.com/watch?v=x-Jj2VttBZU",
+          "published_at": "2026-11-07T10:12:19Z",
+          "first_seen_at": "2026-11-07T23:39:09Z",
+          "views": 2310,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "dari mana kupu-kupu berasa #aivideo #aishorts #ai #aimusic #aianimation",
+          "channel": "TrioAz",
+          "channel_id": "UCy1ZmSY_hdr-lTcdTfFsLaA",
+          "url": "https://www.youtube.com/watch?v=z7lT0pExPCo",
+          "published_at": "2026-11-07T00:43:32Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 1510,
+          "observed_growth_per_hour": 0.3,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
     }
   ],
   "high_velocity_single_creator_watchlist": [
-    {
-      "title": "What’s worse than using AI animation? Pretending you didn’t 👀 #animation #dior",
-      "channel": "No The Robot",
-      "channel_id": "UCq64RZvDJBFR6s08IRpuT8g",
-      "url": "https://www.youtube.com/watch?v=pXc5voZokFA",
-      "published_at": "2026-11-06T22:30:10Z",
-      "first_seen_at": "2026-11-07T05:57:12Z",
-      "views": 295826,
-      "observed_growth_per_hour": 37635.6,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "worse than using pretending",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    },
     {
       "title": "Ravan ki  sister kuan thi? #trending #today #dailyvlog #ai #aivideo #aianimation #ramayan #hindi",
       "channel": "krishak vansh",
@@ -220,8 +374,8 @@
       "url": "https://www.youtube.com/watch?v=IFJ_Nd9_myg",
       "published_at": "2026-11-07T02:53:12Z",
       "first_seen_at": "2026-11-07T20:13:27Z",
-      "views": 178582,
-      "observed_growth_per_hour": null,
+      "views": 185053,
+      "observed_growth_per_hour": 1887.5,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
       "suggested_search_phrase_unverified": "ravan ki sister kuan",
