@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T14:53:54.551662+00:00",
-  "source_snapshot_at": "2026-11-07T14:53:50Z",
-  "source_video_count": 2552,
-  "published_last_24h_with_channel": 196,
+  "generated_at": "2026-11-07T20:13:31.385649+00:00",
+  "source_snapshot_at": "2026-11-07T20:13:27Z",
+  "source_video_count": 2590,
+  "published_last_24h_with_channel": 244,
   "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
@@ -10,15 +10,27 @@
     {
       "anchor": "happy diwali",
       "anchor_type": "phrase",
-      "unique_channels": 2,
+      "unique_channels": 3,
       "ai_claimed_channels": 2,
-      "video_count": 2,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.67,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
+        {
+          "title": "Happy Diwali #ai #animation",
+          "channel": "AI creators.",
+          "channel_id": "UCGrij2f_2vt7eWyP9_pIlqg",
+          "url": "https://www.youtube.com/watch?v=AJhUL15KgGk",
+          "published_at": "2026-11-07T05:38:10Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 2401,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
         {
           "title": "Happy Diwali 🪔🎇 #shorts #diwalispecial #viral #trending  #aivideo",
           "channel": "AI Crazy ",
@@ -26,8 +38,8 @@
           "url": "https://www.youtube.com/watch?v=XES1MKwq_hg",
           "published_at": "2026-11-07T13:00:23Z",
           "first_seen_at": "2026-11-07T14:53:50Z",
-          "views": 734,
-          "observed_growth_per_hour": null,
+          "views": 1186,
+          "observed_growth_per_hour": 84.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -46,37 +58,87 @@
       ]
     },
     {
-      "anchor": "#likeandsubscribe",
+      "anchor": "#tranding",
       "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 2,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "The Cutest Cat Family Ever! 😻❤️ Adorable Kittens & Funny Moments #shorts #tranding",
+          "channel": "Mustak Kids catoon",
+          "channel_id": "UCWHAArLp9ZfNOsgzHKxANyA",
+          "url": "https://www.youtube.com/watch?v=16jSU4FWo-I",
+          "published_at": "2026-11-07T00:29:22Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 5809,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
+        {
+          "title": "😂 Snake Ka Zabardast Drama! 🤣🐍 #viral #comedy #ai #aianimation #snakecomedy #comedyshorts #tranding",
+          "channel": "Ai Snake Mafia 777",
+          "channel_id": "UCEjj0Ari0J7zQBs-gn4IYzw",
+          "url": "https://www.youtube.com/watch?v=Cz2d9kYrOo0",
+          "published_at": "2026-11-07T02:00:17Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 1221,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "ek Aisa Mantra batane ja rahe hain #bhartijha1207 #tranding #short#ai#aivideo",
+          "channel": " Bharti_jha1207_vlogs",
+          "channel_id": "UCBlJN8o7XStRvxlUQ8nGy_Q",
+          "url": "https://www.youtube.com/watch?v=Sm3bIbGJqsQ",
+          "published_at": "2026-11-07T12:46:16Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 329,
+          "observed_growth_per_hour": 22.9,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "snake ka",
+      "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
       "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
+      "previously_observed_older_video": false,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "#likeandsubscribe #fypシ゚viral #fyppppppppシ #like #trendingshorts #shortvideo #trend #aivideo",
-          "channel": "gamer arsh ",
-          "channel_id": "UC2P2CXuLjiS93fVWy4DpuYw",
-          "url": "https://www.youtube.com/watch?v=4M2RpRBQxfY",
-          "published_at": "2026-11-06T16:38:44Z",
-          "first_seen_at": "2026-11-06T21:29:32Z",
-          "views": 1333,
-          "observed_growth_per_hour": 35.2,
+          "title": "🐍 Snake Ka Attitude Dekho! 😂🔥 | Funny AI Animation #shorts #funnyshorts #aishorts",
+          "channel": "Mrp Binoy",
+          "channel_id": "UCDJGXXr8t6Rxf0mo819Bc4A",
+          "url": "https://www.youtube.com/watch?v=1F5ikMlI9Eo",
+          "published_at": "2026-11-07T04:30:10Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 1226,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Veto# #trend #like #friends #public #highlights #likeandsubscribe #like #aivideo",
-          "channel": "Abdullah Alahmar",
-          "channel_id": "UCkwBZ-Xat3oRVjOCyRjogVg",
-          "url": "https://www.youtube.com/watch?v=qhZkWUemDKE",
-          "published_at": "2026-11-07T12:09:05Z",
-          "first_seen_at": "2026-11-07T14:53:50Z",
-          "views": 1,
+          "title": "😂 Snake Ka Zabardast Drama! 🤣🐍 #viral #comedy #ai #aianimation #snakecomedy #comedyshorts #tranding",
+          "channel": "Ai Snake Mafia 777",
+          "channel_id": "UCEjj0Ari0J7zQBs-gn4IYzw",
+          "url": "https://www.youtube.com/watch?v=Cz2d9kYrOo0",
+          "published_at": "2026-11-07T02:00:17Z",
+          "first_seen_at": "2026-11-07T20:13:27Z",
+          "views": 1221,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -132,45 +194,40 @@
           "actions": []
         }
       ]
-    },
-    {
-      "anchor": "#radheradhe",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "#radheradhe #ai #aivideo #aishorts #all #people #foryou #life #lifelessons #subscribe #views #trend",
-          "channel": "Neha",
-          "channel_id": "UCkD92-keHvDphHsQkUtmnUA",
-          "url": "https://www.youtube.com/watch?v=gDzKYQFOzic",
-          "published_at": "2026-11-06T18:09:12Z",
-          "first_seen_at": "2026-11-06T21:29:32Z",
-          "views": 292,
-          "observed_growth_per_hour": 5.4,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "जब वृंदावन में हुई राधा-कृष्ण की प्रेम भरी मुलाकात #radhakrishna  #radheradhe #jivabhajan #shorts",
-          "channel": "Jiva bhajan ",
-          "channel_id": "UC7Bw9WCbbOchFHyx-iqFOug",
-          "url": "https://www.youtube.com/watch?v=ar9oSxaGv5s",
-          "published_at": "2026-11-06T16:30:29Z",
-          "first_seen_at": "2026-11-06T21:29:32Z",
-          "views": 42,
-          "observed_growth_per_hour": 2.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "What’s worse than using AI animation? Pretending you didn’t 👀 #animation #dior",
+      "channel": "No The Robot",
+      "channel_id": "UCq64RZvDJBFR6s08IRpuT8g",
+      "url": "https://www.youtube.com/watch?v=pXc5voZokFA",
+      "published_at": "2026-11-06T22:30:10Z",
+      "first_seen_at": "2026-11-07T05:57:12Z",
+      "views": 295826,
+      "observed_growth_per_hour": 37635.6,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "worse than using pretending",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "Ravan ki  sister kuan thi? #trending #today #dailyvlog #ai #aivideo #aianimation #ramayan #hindi",
+      "channel": "krishak vansh",
+      "channel_id": "UCO4a0JoX_5_w3kGNF1bzB_Q",
+      "url": "https://www.youtube.com/watch?v=IFJ_Nd9_myg",
+      "published_at": "2026-11-07T02:53:12Z",
+      "first_seen_at": "2026-11-07T20:13:27Z",
+      "views": 178582,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "ravan ki sister kuan",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }
