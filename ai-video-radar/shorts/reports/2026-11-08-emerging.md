@@ -1,9 +1,9 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-08 07:39
-- 数据库视频：2638；24小时内且有频道ID的非教程候选：277
-- 自动发现跨账号同名/同词线索：8
-- 其中“同名+共同动作词+至少2个AI自述账号”：1
+- 最新成功快照（北京）：2026-11-08 13:59
+- 数据库视频：2655；24小时内且有频道ID的非教程候选：275
+- 自动发现跨账号同名/同词线索：6
+- 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
 > **证据边界：** 自动挖掘的是“共同标题片段/标签”，不是视频画面或视觉内容的相似度。
@@ -13,30 +13,20 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. delicious food
-
-- 初判：同名且有共同动作描述——优先人工比对镜头；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：cook；主文案复用比例：50%；人工复核优先级分：92.8/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| VIRAL ORBIT | [Funny 3D Cooking Animation 😂 Cute Ingredients Making Delicious Food / AI Cooking Video #viralvideo](https://www.youtube.com/watch?v=un3_cTRgHDs) | 2026-11-07 10:30 | 2026-11-08 07:39 | 3345 | 待多次采样 | 作者文字自述AI |
-| ai creator best  | [😻 Cute Cat Cooking Delicious Food! 🍳🐱 / Funny AI Cat Video #shorts](https://www.youtube.com/watch?v=gnhpAL0rhnY) | 2026-11-07 10:21 | 2026-11-07 13:57 | 2101 | 46.4 | 作者文字自述AI |
-
-### 2. happy diwali
+### 1. happy diwali
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：4；其中AI文字自述频道：3；视频：4
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| AI creators. | [Happy Diwali #ai #animation](https://www.youtube.com/watch?v=AJhUL15KgGk) | 2026-11-07 13:38 | 2026-11-08 04:13 | 2404 | 0.9 | AI制作未验证 |
-| AI Crazy  | [Happy Diwali 🪔🎇 #shorts #diwalispecial #viral #trending  #aivideo](https://www.youtube.com/watch?v=XES1MKwq_hg) | 2026-11-07 21:00 | 2026-11-07 22:53 | 1186 | 0.0 | 作者文字自述AI |
+| AI Crazy  | [Happy Diwali 🪔🎇 #shorts #diwalispecial #viral #trending  #aivideo](https://www.youtube.com/watch?v=XES1MKwq_hg) | 2026-11-07 21:00 | 2026-11-07 22:53 | 1223 | 5.8 | 作者文字自述AI |
+| KARRAN AI | [happy diwali dosto 😔🥺 #trend #duwali](https://www.youtube.com/watch?v=2Cz5EksTLf4) | 2026-11-08 10:08 | 2026-11-08 13:59 | 253 | 待多次采样 | AI制作未验证 |
 | MS PARIDA | [🥰Advance :-Happy Diwali 🪔/ Diwali Special / #diwali #wish #aivideo #shorts #trend](https://www.youtube.com/watch?v=YsgUGRDySNM) | 2026-11-07 20:37 | 2026-11-07 22:53 | 3 | 待多次采样 | 作者文字自述AI |
+| Hailo | [Happy Diwali🔥#diwali #aivideo #trend #shorts #viral](https://www.youtube.com/watch?v=P-9Na9HJjNo) | 2026-11-08 11:15 | 2026-11-08 13:59 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 3. #tranding
+### 2. #motivation
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：2；视频：3
@@ -44,33 +34,23 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Mustak Kids catoon | [The Cutest Cat Family Ever! 😻❤️ Adorable Kittens & Funny Moments #shorts #tranding](https://www.youtube.com/watch?v=16jSU4FWo-I) | 2026-11-07 08:29 | 2026-11-08 04:13 | 8727 | 851.1 | AI制作未验证 |
-| Ai Snake Mafia 777 | [😂 Snake Ka Zabardast Drama! 🤣🐍 #viral #comedy #ai #aianimation #snakecomedy #comedyshorts #tranding](https://www.youtube.com/watch?v=Cz2d9kYrOo0) | 2026-11-07 10:00 | 2026-11-08 04:13 | 1222 | 0.3 | 作者文字自述AI |
-|  Bharti_jha1207_vlogs | [ek Aisa Mantra batane ja rahe hain #bhartijha1207 #tranding #short#ai#aivideo](https://www.youtube.com/watch?v=Sm3bIbGJqsQ) | 2026-11-07 20:46 | 2026-11-07 22:53 | 329 | 22.9 | 作者文字自述AI |
+| #mukul mr. India  | [#बुरा वक्त बोलकर नहीं आएगा #new #motivation #trend #views #aivideo #video #viral #fact #shorts #yt](https://www.youtube.com/watch?v=fVxDanRj9k0) | 2026-11-07 19:39 | 2026-11-07 22:53 | 680 | 0.3 | 作者文字自述AI |
+| Sonu Gautam | [ai viral reels video #likeandsubscribe #ambedkarsahebji #bheemdey #baba #entertainment #motivation](https://www.youtube.com/watch?v=7b18ShQqtsM) | 2026-11-07 18:22 | 2026-11-08 13:59 | 299 | 待多次采样 | AI制作未验证 |
+| • Classroom Ka Mastermind! 🎯👀 | [Zero Views Ka Rona Band! AI Se Video Viral Kaise Karein](https://www.youtube.com/watch?v=QbtnuigHBr0) | 2026-11-07 14:53 | 2026-11-08 13:59 | 9 | 待多次采样 | 作者文字自述AI |
 
-### 4. snake ka
+### 3. diwali diwali
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：2；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Mrp Binoy | [🐍 Snake Ka Attitude Dekho! 😂🔥 / Funny AI Animation #shorts #funnyshorts #aishorts](https://www.youtube.com/watch?v=1F5ikMlI9Eo) | 2026-11-07 12:30 | 2026-11-08 04:13 | 1226 | 0.0 | 作者文字自述AI |
-| Ai Snake Mafia 777 | [😂 Snake Ka Zabardast Drama! 🤣🐍 #viral #comedy #ai #aianimation #snakecomedy #comedyshorts #tranding](https://www.youtube.com/watch?v=Cz2d9kYrOo0) | 2026-11-07 10:00 | 2026-11-08 04:13 | 1222 | 0.3 | 作者文字自述AI |
+| Wings for Flying | [Diwali AI Video Trend, Diwali Photo Editing AI Prompt, Trending Diwali Video Editing in Mobile](https://www.youtube.com/watch?v=NpJiOM7BGGo) | 2026-11-08 02:30 | 2026-11-08 13:59 | 12 | 待多次采样 | 作者文字自述AI |
+| Wings for Flying | [Diwali AI Video Trend, Diwali Photo Editing AI Prompt, Trending Diwali Video Editing in Mobile](https://www.youtube.com/watch?v=7pZHzipOpzY) | 2026-11-08 02:32 | 2026-11-08 13:59 | 8 | 待多次采样 | 作者文字自述AI |
+| MS PARIDA | [🥰Advance :-Happy Diwali 🪔/ Diwali Special / #diwali #wish #aivideo #shorts #trend](https://www.youtube.com/watch?v=YsgUGRDySNM) | 2026-11-07 20:37 | 2026-11-07 22:53 | 3 | 待多次采样 | 作者文字自述AI |
 
-### 5. #animallife
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| cinemaToons | [Ai animation dog video #dog  #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=58Qf-4k5MEg) | 2026-11-07 15:45 | 2026-11-08 07:39 | 1452 | 待多次采样 | 作者文字自述AI |
-| SAL Kids TV | [Cat Ate Fish, Fish Ate Poop, Cat Ate Fish Again #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=gTtuoonNj2E) | 2026-11-07 10:00 | 2026-11-08 04:13 | 637 | 23.0 | 作者文字自述AI |
-
-### 6. #tutorials
+### 4. #tutorials
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：3
@@ -82,7 +62,7 @@
 | Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=TnYprMOucuM) | 2026-11-07 15:37 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
 | Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=jqD9_nfZ44I) | 2026-11-07 15:38 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 7. #follower
+### 5. #follower
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：3
@@ -94,22 +74,23 @@
 | Abdullah Alahmar | [Elections #trend #aivideo #foryou #friend #like #follower](https://www.youtube.com/watch?v=b8aFTcMJ3VQ) | 2026-11-07 21:23 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
 | Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=jqD9_nfZ44I) | 2026-11-07 15:38 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 8. #aimusic
+### 6. #motupatlu
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：2；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| BENİM DÜNYAMDAN | [Vitamin deposu bir mandalinaya ne dersin #ai #aivideo #aishorts #aiart #aianimation #aimusic #daily](https://www.youtube.com/watch?v=x-Jj2VttBZU) | 2026-11-07 18:12 | 2026-11-08 07:39 | 2310 | 待多次采样 | 作者文字自述AI |
-| TrioAz | [dari mana kupu-kupu berasa #aivideo #aishorts #ai #aimusic #aianimation](https://www.youtube.com/watch?v=z7lT0pExPCo) | 2026-11-07 08:43 | 2026-11-08 04:13 | 1510 | 0.3 | 作者文字自述AI |
+| Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=TnYprMOucuM) | 2026-11-07 15:37 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
+| funny cortun | [motu kavi nahi sudhoge #motupatlu #aivideo #trend](https://www.youtube.com/watch?v=Udr8fTNpqz4) | 2026-11-08 12:55 | 2026-11-08 13:59 | 0 | 待多次采样 | 作者文字自述AI |
+| Md Khaled Hossain | [AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral](https://www.youtube.com/watch?v=jqD9_nfZ44I) | 2026-11-07 15:38 | 2026-11-07 22:53 | 0 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| krishak vansh | [Ravan ki  sister kuan thi? #trending #today #dailyvlog #ai #aivideo #aianimation #ramayan #hindi](https://www.youtube.com/watch?v=IFJ_Nd9_myg) | 10万级早期观察，不是爆款 | 2026-11-07 10:53 | 2026-11-08 04:13 | 185053 | 1,887.5 |
+| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
 
 ## 人工核验清单
 

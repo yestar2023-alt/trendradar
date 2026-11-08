@@ -1,80 +1,24 @@
 {
-  "generated_at": "2026-11-07T23:39:13.982281+00:00",
-  "source_snapshot_at": "2026-11-07T23:39:09Z",
-  "source_video_count": 2638,
-  "published_last_24h_with_channel": 277,
-  "shared_name_groups": 8,
-  "independent_claimed_and_same_action_candidates": 1,
+  "generated_at": "2026-11-08T05:59:30.937281+00:00",
+  "source_snapshot_at": "2026-11-08T05:59:26Z",
+  "source_video_count": 2655,
+  "published_last_24h_with_channel": 275,
+  "shared_name_groups": 6,
+  "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "delicious food",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [
-        "cook"
-      ],
-      "classification": "potential_same_action",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 92.8,
-      "examples": [
-        {
-          "title": "Funny 3D Cooking Animation 😂 Cute Ingredients Making Delicious Food | AI Cooking Video #viralvideo",
-          "channel": "VIRAL ORBIT",
-          "channel_id": "UCBKAeP1o2MPf7IfieD5Q9Cw",
-          "url": "https://www.youtube.com/watch?v=un3_cTRgHDs",
-          "published_at": "2026-11-07T02:30:37Z",
-          "first_seen_at": "2026-11-07T23:39:09Z",
-          "views": 3345,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "cook"
-          ]
-        },
-        {
-          "title": "😻 Cute Cat Cooking Delicious Food! 🍳🐱 | Funny AI Cat Video #shorts",
-          "channel": "ai creator best ",
-          "channel_id": "UCyMN7nvy6KYG09IR58MZCRw",
-          "url": "https://www.youtube.com/watch?v=gnhpAL0rhnY",
-          "published_at": "2026-11-07T02:21:36Z",
-          "first_seen_at": "2026-11-07T05:57:12Z",
-          "views": 2101,
-          "observed_growth_per_hour": 46.4,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "cook"
-          ]
-        }
-      ]
-    },
-    {
       "anchor": "happy diwali",
       "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
+      "unique_channels": 4,
+      "ai_claimed_channels": 3,
+      "video_count": 4,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.67,
+      "near_duplicate_caption_fraction": 0.5,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
-        {
-          "title": "Happy Diwali #ai #animation",
-          "channel": "AI creators.",
-          "channel_id": "UCGrij2f_2vt7eWyP9_pIlqg",
-          "url": "https://www.youtube.com/watch?v=AJhUL15KgGk",
-          "published_at": "2026-11-07T05:38:10Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 2404,
-          "observed_growth_per_hour": 0.9,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
         {
           "title": "Happy Diwali 🪔🎇 #shorts #diwalispecial #viral #trending  #aivideo",
           "channel": "AI Crazy ",
@@ -82,9 +26,21 @@
           "url": "https://www.youtube.com/watch?v=XES1MKwq_hg",
           "published_at": "2026-11-07T13:00:23Z",
           "first_seen_at": "2026-11-07T14:53:50Z",
-          "views": 1186,
-          "observed_growth_per_hour": 0.0,
+          "views": 1223,
+          "observed_growth_per_hour": 5.8,
           "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "happy diwali dosto 😔🥺 #trend #duwali",
+          "channel": "KARRAN AI",
+          "channel_id": "UCXufGGiikDXzlfHgKGbJToQ",
+          "url": "https://www.youtube.com/watch?v=2Cz5EksTLf4",
+          "published_at": "2026-11-08T02:08:11Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 253,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未验证",
           "actions": []
         },
         {
@@ -98,11 +54,23 @@
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
+        },
+        {
+          "title": "Happy Diwali🔥#diwali #aivideo #trend #shorts #viral",
+          "channel": "Hailo",
+          "channel_id": "UCKxBDxFAnl9mkwwb5vHj3JA",
+          "url": "https://www.youtube.com/watch?v=P-9Na9HJjNo",
+          "published_at": "2026-11-08T03:15:15Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
         }
       ]
     },
     {
-      "anchor": "#tranding",
+      "anchor": "#motivation",
       "anchor_type": "tag",
       "unique_channels": 3,
       "ai_claimed_channels": 2,
@@ -114,114 +82,88 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "The Cutest Cat Family Ever! 😻❤️ Adorable Kittens & Funny Moments #shorts #tranding",
-          "channel": "Mustak Kids catoon",
-          "channel_id": "UCWHAArLp9ZfNOsgzHKxANyA",
-          "url": "https://www.youtube.com/watch?v=16jSU4FWo-I",
-          "published_at": "2026-11-07T00:29:22Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 8727,
-          "observed_growth_per_hour": 851.1,
+          "title": "#बुरा वक्त बोलकर नहीं आएगा #new #motivation #trend #views #aivideo #video #viral #fact #shorts #yt",
+          "channel": "#mukul mr. India ",
+          "channel_id": "UC47lBQ1rCiJnH3qdjZJ7WLw",
+          "url": "https://www.youtube.com/watch?v=fVxDanRj9k0",
+          "published_at": "2026-11-07T11:39:41Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 680,
+          "observed_growth_per_hour": 0.3,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "ai viral reels video #likeandsubscribe #ambedkarsahebji #bheemdey #baba #entertainment #motivation",
+          "channel": "Sonu Gautam",
+          "channel_id": "UCQQd0DCCeoiqPYvleJ3FP5Q",
+          "url": "https://www.youtube.com/watch?v=7b18ShQqtsM",
+          "published_at": "2026-11-07T10:22:15Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 299,
+          "observed_growth_per_hour": null,
           "ai_evidence": "AI制作未验证",
           "actions": []
         },
         {
-          "title": "😂 Snake Ka Zabardast Drama! 🤣🐍 #viral #comedy #ai #aianimation #snakecomedy #comedyshorts #tranding",
-          "channel": "Ai Snake Mafia 777",
-          "channel_id": "UCEjj0Ari0J7zQBs-gn4IYzw",
-          "url": "https://www.youtube.com/watch?v=Cz2d9kYrOo0",
-          "published_at": "2026-11-07T02:00:17Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 1222,
-          "observed_growth_per_hour": 0.3,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "ek Aisa Mantra batane ja rahe hain #bhartijha1207 #tranding #short#ai#aivideo",
-          "channel": " Bharti_jha1207_vlogs",
-          "channel_id": "UCBlJN8o7XStRvxlUQ8nGy_Q",
-          "url": "https://www.youtube.com/watch?v=Sm3bIbGJqsQ",
-          "published_at": "2026-11-07T12:46:16Z",
-          "first_seen_at": "2026-11-07T14:53:50Z",
-          "views": 329,
-          "observed_growth_per_hour": 22.9,
+          "title": "Zero Views Ka Rona Band! AI Se Video Viral Kaise Karein",
+          "channel": "• Classroom Ka Mastermind! 🎯👀",
+          "channel_id": "UCheIQIIk4UsARZ2can9KBMA",
+          "url": "https://www.youtube.com/watch?v=QbtnuigHBr0",
+          "published_at": "2026-11-07T06:53:43Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 9,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     },
     {
-      "anchor": "snake ka",
+      "anchor": "diwali diwali",
       "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
-      "video_count": 2,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.67,
       "previously_observed_older_video": false,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "🐍 Snake Ka Attitude Dekho! 😂🔥 | Funny AI Animation #shorts #funnyshorts #aishorts",
-          "channel": "Mrp Binoy",
-          "channel_id": "UCDJGXXr8t6Rxf0mo819Bc4A",
-          "url": "https://www.youtube.com/watch?v=1F5ikMlI9Eo",
-          "published_at": "2026-11-07T04:30:10Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 1226,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "😂 Snake Ka Zabardast Drama! 🤣🐍 #viral #comedy #ai #aianimation #snakecomedy #comedyshorts #tranding",
-          "channel": "Ai Snake Mafia 777",
-          "channel_id": "UCEjj0Ari0J7zQBs-gn4IYzw",
-          "url": "https://www.youtube.com/watch?v=Cz2d9kYrOo0",
-          "published_at": "2026-11-07T02:00:17Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 1222,
-          "observed_growth_per_hour": 0.3,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#animallife",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Ai animation dog video #dog  #pets #3danimation #wildlife #funny #animallife",
-          "channel": "cinemaToons",
-          "channel_id": "UC_U_VStkrt_atUajlRpSQ-g",
-          "url": "https://www.youtube.com/watch?v=58Qf-4k5MEg",
-          "published_at": "2026-11-07T07:45:49Z",
-          "first_seen_at": "2026-11-07T23:39:09Z",
-          "views": 1452,
+          "title": "Diwali AI Video Trend, Diwali Photo Editing AI Prompt, Trending Diwali Video Editing in Mobile",
+          "channel": "Wings for Flying",
+          "channel_id": "UCNRG1xbalqXrFc39P3nI-pw",
+          "url": "https://www.youtube.com/watch?v=NpJiOM7BGGo",
+          "published_at": "2026-11-07T18:30:55Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 12,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Cat Ate Fish, Fish Ate Poop, Cat Ate Fish Again #cat #pets #3danimation #wildlife #funny #animallife",
-          "channel": "SAL Kids TV",
-          "channel_id": "UC1b5nC3GzGmE3J_PHlPQJOA",
-          "url": "https://www.youtube.com/watch?v=gTtuoonNj2E",
-          "published_at": "2026-11-07T02:00:05Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 637,
-          "observed_growth_per_hour": 23.0,
+          "title": "Diwali AI Video Trend, Diwali Photo Editing AI Prompt, Trending Diwali Video Editing in Mobile",
+          "channel": "Wings for Flying",
+          "channel_id": "UCNRG1xbalqXrFc39P3nI-pw",
+          "url": "https://www.youtube.com/watch?v=7pZHzipOpzY",
+          "published_at": "2026-11-07T18:32:24Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 8,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "🥰Advance :-Happy Diwali 🪔| Diwali Special | #diwali #wish #aivideo #shorts #trend",
+          "channel": "MS PARIDA",
+          "channel_id": "UC7BhE5NLdXQDs9ueIoXMt3g",
+          "url": "https://www.youtube.com/watch?v=YsgUGRDySNM",
+          "published_at": "2026-11-07T12:37:23Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 3,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -328,60 +270,55 @@
       ]
     },
     {
-      "anchor": "#aimusic",
+      "anchor": "#motupatlu",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
-      "video_count": 2,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.67,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Vitamin deposu bir mandalinaya ne dersin #ai #aivideo #aishorts #aiart #aianimation #aimusic #daily",
-          "channel": "BENİM DÜNYAMDAN",
-          "channel_id": "UCY3e3Ui0v3gJQS6MQi9_nbw",
-          "url": "https://www.youtube.com/watch?v=x-Jj2VttBZU",
-          "published_at": "2026-11-07T10:12:19Z",
-          "first_seen_at": "2026-11-07T23:39:09Z",
-          "views": 2310,
+          "title": "AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral",
+          "channel": "Md Khaled Hossain",
+          "channel_id": "UC-sHDVhDY7S4_vA1ZRSSYXw",
+          "url": "https://www.youtube.com/watch?v=TnYprMOucuM",
+          "published_at": "2026-11-07T07:37:44Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 0,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "dari mana kupu-kupu berasa #aivideo #aishorts #ai #aimusic #aianimation",
-          "channel": "TrioAz",
-          "channel_id": "UCy1ZmSY_hdr-lTcdTfFsLaA",
-          "url": "https://www.youtube.com/watch?v=z7lT0pExPCo",
-          "published_at": "2026-11-07T00:43:32Z",
-          "first_seen_at": "2026-11-07T20:13:27Z",
-          "views": 1510,
-          "observed_growth_per_hour": 0.3,
+          "title": "motu kavi nahi sudhoge #motupatlu #aivideo #trend",
+          "channel": "funny cortun",
+          "channel_id": "UCvxDsZsuWbm_6JDcLsZL9gw",
+          "url": "https://www.youtube.com/watch?v=Udr8fTNpqz4",
+          "published_at": "2026-11-08T04:55:13Z",
+          "first_seen_at": "2026-11-08T05:59:26Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "AI Genarated #ai #aivideo #viralvideo #aiart #trend #funnyvideo #tutorials #motupatlu #movie #viral",
+          "channel": "Md Khaled Hossain",
+          "channel_id": "UC-sHDVhDY7S4_vA1ZRSSYXw",
+          "url": "https://www.youtube.com/watch?v=jqD9_nfZ44I",
+          "published_at": "2026-11-07T07:38:05Z",
+          "first_seen_at": "2026-11-07T14:53:50Z",
+          "views": 0,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "Ravan ki  sister kuan thi? #trending #today #dailyvlog #ai #aivideo #aianimation #ramayan #hindi",
-      "channel": "krishak vansh",
-      "channel_id": "UCO4a0JoX_5_w3kGNF1bzB_Q",
-      "url": "https://www.youtube.com/watch?v=IFJ_Nd9_myg",
-      "published_at": "2026-11-07T02:53:12Z",
-      "first_seen_at": "2026-11-07T20:13:27Z",
-      "views": 185053,
-      "observed_growth_per_hour": 1887.5,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "ravan ki sister kuan",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
