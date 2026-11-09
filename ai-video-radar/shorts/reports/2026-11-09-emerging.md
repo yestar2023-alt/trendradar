@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-09 04:28
-- 数据库视频：2685；24小时内且有频道ID的非教程候选：236
-- 自动发现跨账号同名/同词线索：7
+- 最新成功快照（北京）：2026-11-09 14:25
+- 数据库视频：2627；24小时内且有频道ID的非教程候选：252
+- 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,20 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. happy diwali
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：4；其中AI文字自述频道：3；视频：4
-- 相同动作词：无；主文案复用比例：75%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| KARRAN AI | [happy diwali dosto 😔🥺 #trend #duwali](https://www.youtube.com/watch?v=2Cz5EksTLf4) | 2026-11-08 10:08 | 2026-11-08 13:59 | 415 | 17.6 | AI制作未验证 |
-| AI story video  | [happy diwali 🎇🪔#diwali #shorts #viral #trend #explore #ai #aishorts #trending #uptrends](https://www.youtube.com/watch?v=OekL1rsrqOU) | 2026-11-08 21:34 | 2026-11-09 04:28 | 202 | 待多次采样 | 作者文字自述AI |
-| All-in-one amazing lavi 👍🏻 | [happy diwali 🎇🪔 #exploremore #shorts #shortsfeed # #youtubeshorts #viralvideos #viral #aivideo#trend](https://www.youtube.com/watch?v=lxPeiDDSJ7U) | 2026-11-09 02:49 | 2026-11-09 04:28 | 5 | 待多次采样 | 作者文字自述AI |
-| Hailo | [Happy Diwali🔥#diwali #aivideo #trend #shorts #viral](https://www.youtube.com/watch?v=P-9Na9HJjNo) | 2026-11-08 11:15 | 2026-11-08 13:59 | 0 | 待多次采样 | 作者文字自述AI |
-
-### 2. sheru bhai
+### 1. #islamicvideo
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：3；视频：3
@@ -34,72 +21,38 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| NG SAGAR GMR | [🦁SHERU BHAI KA JABARDAST AI MAGIC🔥#SheruAI #SheruVhai #AIShorts #AIAnimation  #FunnyAI  #newaishorts](https://www.youtube.com/watch?v=AqLMyaAqDMk) | 2026-11-08 08:24 | 2026-11-08 23:11 | 30314 | 945.6 | 作者文字自述AI |
-| Ai official toons | [Sheru bhai🔥#aishorts #ai #aivideo #aigenerated #aianimation #3danimation #aiart #subscribe #support](https://www.youtube.com/watch?v=qo2NEooKFc0) | 2026-11-08 06:52 | 2026-11-08 23:11 | 1132 | 1.3 | 作者文字自述AI |
-| Zorvilo Ai | [Sheru Bhai vs Tiger Man 😈 / Farmhouse Ka Dhokha / AI Animal Story Part 1#viral #trending #shorts](https://www.youtube.com/watch?v=cOT2ICaG9Iw) | 2026-11-08 10:30 | 2026-11-08 13:59 | 102 | 4.8 | 作者文字自述AI |
-
-### 3. #islamic
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Viral islam0569 | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=s06t9fEKiwE) | 2026-11-08 09:00 | 2026-11-08 13:59 | 104275 | 9,615.4 | 作者文字自述AI |
-| Makka madina | [Assalamu alaikum 💞#viral #video #shorts #short #trending #trend #islam #islamic #makkahmadinah #ai](https://www.youtube.com/watch?v=Ipvg-0PyGyU) | 2026-11-08 11:58 | 2026-11-08 13:59 | 145 | 4.3 | AI制作未验证 |
-| Alhidayatkc | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=hVKyf88Re2c) | 2026-11-09 00:09 | 2026-11-09 04:28 | 13 | 待多次采样 | 作者文字自述AI |
-
-### 4. #emotional
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Viral islam0569 | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=s06t9fEKiwE) | 2026-11-08 09:00 | 2026-11-08 13:59 | 104275 | 9,615.4 | 作者文字自述AI |
-| fun_buyaashu | [#ai #trending #viral #video #shorts #funny #time #emotional](https://www.youtube.com/watch?v=NrkE51xh5k0) | 2026-11-08 15:57 | 2026-11-09 04:28 | 952 | 待多次采样 | AI制作未验证 |
-| Alhidayatkc | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=hVKyf88Re2c) | 2026-11-09 00:09 | 2026-11-09 04:28 | 13 | 待多次采样 | 作者文字自述AI |
-
-### 5. #islamicvideo
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Ameerah Zainab  | [AI Bhi Quran Ke Aage Fail Ho Gaye! 😱 #shorts  #IslamicShorts #viral  #shortsfeed  #IslamicVideo](https://www.youtube.com/watch?v=sdRSBDKDYtQ) | 2026-11-08 23:00 | 2026-11-09 04:28 | 1271 | 待多次采样 | 作者文字自述AI |
+| Fahim Story World | [সোনালি সমুদ্রের বুকে লুকিয়ে থাকা এক বিস্ময়কর রহস্য। #BanglaCartoon #shorts #Islamicvideo](https://www.youtube.com/watch?v=wNAT_9oH14s) | 2026-11-08 14:30 | 2026-11-09 14:25 | 1584 | 待多次采样 | 作者文字自述AI |
+| Ameerah Zainab  | [Quran Ke Aage! Ai Fail Ho Gaye! 😱 #shorts  #IslamicShorts #viral  #shortsfeed  #IslamicVideo](https://www.youtube.com/watch?v=sdRSBDKDYtQ) | 2026-11-08 23:00 | 2026-11-09 04:28 | 1300 | 2.9 | 作者文字自述AI |
 | Auwal Reacts  | [Maulana Tariq Jameel sahab ka Ai video 😭 / Astagfirullah #aivideo #islamicvideo #viralshorts #trend](https://www.youtube.com/watch?v=GhAVsOo9s8E) | 2026-11-08 20:30 | 2026-11-09 04:28 | 12 | 待多次采样 | 作者文字自述AI |
 
-### 6. #support
+### 2. happy birthday
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
 - 独立频道：2；其中AI文字自述频道：2；视频：2
 - 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Lav verma ltr | [Ai share 🥰 vedio viral#aivideo #animation #support](https://www.youtube.com/watch?v=YE8IB6GJhro) | 2026-11-08 08:59 | 2026-11-08 23:11 | 29533 | 878.4 | 作者文字自述AI |
-| Ai official toons | [Sheru bhai🔥#aishorts #ai #aivideo #aigenerated #aianimation #3danimation #aiart #subscribe #support](https://www.youtube.com/watch?v=qo2NEooKFc0) | 2026-11-08 06:52 | 2026-11-08 23:11 | 1132 | 1.3 | 作者文字自述AI |
+| Silly_FishaysOffical | [HAPPY BIRTHDAY #trending @Someone_Fishy @Aqua_freaks.Official  #fyp #shorts #aianimation #art](https://www.youtube.com/watch?v=zWChZBqX6iU) | 2026-11-08 22:52 | 2026-11-09 14:25 | 24302 | 待多次采样 | 作者文字自述AI |
+| make fun  | [best birthday gift 😂😂😂 happy birthday 🤩🥳 ai video #viralshorts #cat #animals #cute #funny](https://www.youtube.com/watch?v=nxAAu4ihwVU) | 2026-11-08 14:30 | 2026-11-09 14:25 | 1415 | 待多次采样 | 作者文字自述AI |
 
-### 7. allah kee madad
+### 3. happy diwali
 
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
+- 独立频道：3；其中AI文字自述频道：2；视频：3
 - 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Viral islam0569 | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=s06t9fEKiwE) | 2026-11-08 09:00 | 2026-11-08 13:59 | 104275 | 9,615.4 | 作者文字自述AI |
-| Alhidayatkc | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=hVKyf88Re2c) | 2026-11-09 00:09 | 2026-11-09 04:28 | 13 | 待多次采样 | 作者文字自述AI |
+| UdhayaSumathi samkutty Official | [Happy Diwali 🪔](https://www.youtube.com/watch?v=MFnRYRgvjm0) | 2026-11-08 14:47 | 2026-11-09 14:25 | 3077712 | 待多次采样 | AI制作未验证 |
+| AI story video  | [happy diwali 🎇🪔#diwali #shorts #viral #trend #explore #ai #aishorts #trending #uptrends](https://www.youtube.com/watch?v=OekL1rsrqOU) | 2026-11-08 21:34 | 2026-11-09 04:28 | 215 | 1.3 | 作者文字自述AI |
+| All-in-one amazing lavi 👍🏻 | [happy diwali 🎇🪔 #exploremore #shorts #shortsfeed # #youtubeshorts #viralvideos #viral #aivideo#trend](https://www.youtube.com/watch?v=lxPeiDDSJ7U) | 2026-11-09 02:49 | 2026-11-09 04:28 | 5 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| Viral islam0569 | [Allah kee madad #shorts #prayer #islamic #ytshorts #emotional #entertainment #ai #aivideo #trend](https://www.youtube.com/watch?v=s06t9fEKiwE) | 10万级早期观察，不是爆款 | 2026-11-08 09:00 | 2026-11-08 13:59 | 104275 | 9,615.4 |
+| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
 
 ## 人工核验清单
 
