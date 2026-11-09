@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-09T06:25:51.217588+00:00",
-  "source_snapshot_at": "2026-11-09T06:25:46Z",
-  "source_video_count": 2627,
-  "published_last_24h_with_channel": 252,
-  "shared_name_groups": 3,
+  "generated_at": "2026-11-09T18:47:45.817379+00:00",
+  "source_snapshot_at": "2026-11-09T18:47:40Z",
+  "source_video_count": 2569,
+  "published_last_24h_with_channel": 160,
+  "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "#islamicvideo",
+      "anchor": "#shortfeed",
       "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
       "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
@@ -20,125 +20,37 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "সোনালি সমুদ্রের বুকে লুকিয়ে থাকা এক বিস্ময়কর রহস্য। #BanglaCartoon #shorts #Islamicvideo",
-          "channel": "Fahim Story World",
-          "channel_id": "UCFJ9eSPfRBQGCiZnoWklM3w",
-          "url": "https://www.youtube.com/watch?v=wNAT_9oH14s",
-          "published_at": "2026-11-08T06:30:12Z",
-          "first_seen_at": "2026-11-09T06:25:46Z",
-          "views": 1584,
+          "title": "सँपवा 🐍चल सेल्फी लेते है 🤣 #youtubeshorts #funny #aivideo #ytshorts #shorts",
+          "channel": "Sohrab vlog",
+          "channel_id": "UCd6Ayf53txn09s2Opf3LW-A",
+          "url": "https://www.youtube.com/watch?v=lPD1JTjJ1jQ",
+          "published_at": "2026-11-09T05:32:39Z",
+          "first_seen_at": "2026-11-09T18:47:40Z",
+          "views": 1303,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Quran Ke Aage! Ai Fail Ho Gaye! 😱 #shorts  #IslamicShorts #viral  #shortsfeed  #IslamicVideo",
-          "channel": "Ameerah Zainab ",
-          "channel_id": "UCfKuV6y096AgnyKcFpe5YFw",
-          "url": "https://www.youtube.com/watch?v=sdRSBDKDYtQ",
-          "published_at": "2026-11-08T15:00:20Z",
-          "first_seen_at": "2026-11-08T20:28:30Z",
-          "views": 1300,
-          "observed_growth_per_hour": 2.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Maulana Tariq Jameel sahab ka Ai video 😭 / Astagfirullah #aivideo #islamicvideo #viralshorts #trend",
-          "channel": "Auwal Reacts ",
-          "channel_id": "UCGvQU33wkEIc2_61OQMETsg",
-          "url": "https://www.youtube.com/watch?v=GhAVsOo9s8E",
-          "published_at": "2026-11-08T12:30:27Z",
-          "first_seen_at": "2026-11-08T20:28:30Z",
-          "views": 12,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "happy birthday",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "HAPPY BIRTHDAY #trending @Someone_Fishy @Aqua_freaks.Official  #fyp #shorts #aianimation #art",
-          "channel": "Silly_FishaysOffical",
-          "channel_id": "UC5_blrNhOLU8m6VBy_pQHqw",
-          "url": "https://www.youtube.com/watch?v=zWChZBqX6iU",
-          "published_at": "2026-11-08T14:52:13Z",
-          "first_seen_at": "2026-11-09T06:25:46Z",
-          "views": 24302,
+          "title": "🔥💃 Title: Arabic Beats पर जबरदस्त डांस! ❤️‍🔥 | Khalouni N3ich Remix | AI Dance Shorts#shorts#boost",
+          "channel": "Juliparveen22",
+          "channel_id": "UCE1s359JXi_P3ERX3nA2c7A",
+          "url": "https://www.youtube.com/watch?v=oUQojQjMxfQ",
+          "published_at": "2026-11-09T02:26:04Z",
+          "first_seen_at": "2026-11-09T18:47:40Z",
+          "views": 1054,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "best birthday gift 😂😂😂 happy birthday 🤩🥳 ai video #viralshorts #cat #animals #cute #funny",
-          "channel": "make fun ",
-          "channel_id": "UCiZv7yz3m5ji-7GIqGKZHjw",
-          "url": "https://www.youtube.com/watch?v=nxAAu4ihwVU",
-          "published_at": "2026-11-08T06:30:37Z",
-          "first_seen_at": "2026-11-09T06:25:46Z",
-          "views": 1415,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "happy diwali",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "possible_reuploads",
-      "near_duplicate_caption_fraction": 1.0,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 12,
-      "examples": [
-        {
-          "title": "Happy Diwali 🪔",
-          "channel": "UdhayaSumathi samkutty Official",
-          "channel_id": "UC774Xd782KsYfhj9FSOgo6w",
-          "url": "https://www.youtube.com/watch?v=MFnRYRgvjm0",
-          "published_at": "2026-11-08T06:47:19Z",
-          "first_seen_at": "2026-11-09T06:25:46Z",
-          "views": 3077712,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "happy diwali 🎇🪔#diwali #shorts #viral #trend #explore #ai #aishorts #trending #uptrends",
-          "channel": "AI story video ",
-          "channel_id": "UCpu8FVFkpZk0EYuuCnvN3ng",
-          "url": "https://www.youtube.com/watch?v=OekL1rsrqOU",
-          "published_at": "2026-11-08T13:34:36Z",
-          "first_seen_at": "2026-11-08T20:28:30Z",
-          "views": 215,
-          "observed_growth_per_hour": 1.3,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "happy diwali 🎇🪔 #exploremore #shorts #shortsfeed # #youtubeshorts #viralvideos #viral #aivideo#trend",
-          "channel": "All-in-one amazing lavi 👍🏻",
-          "channel_id": "UCc0DBWB1_hNF6q_BNyWv6xA",
-          "url": "https://www.youtube.com/watch?v=lxPeiDDSJ7U",
-          "published_at": "2026-11-08T18:49:28Z",
-          "first_seen_at": "2026-11-08T20:28:30Z",
-          "views": 5,
+          "title": "Title:🔥 Khalouni N3ich ❤️ | Trending Arabic Song Dance 💃 | AI Dance Shorts#shorts#boost",
+          "channel": "Juliparveen22",
+          "channel_id": "UCE1s359JXi_P3ERX3nA2c7A",
+          "url": "https://www.youtube.com/watch?v=0DTlumC9X6U",
+          "published_at": "2026-11-09T07:26:11Z",
+          "first_seen_at": "2026-11-09T18:47:40Z",
+          "views": 995,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -146,5 +58,38 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "Yeh Dosti Hum Nahi Todenge 🤝 AI Generated #shorts #viral #gautamdeonani #ytshorts #youtubeshorts",
+      "channel": "𝗚𝗮𝘂𝘁𝗮𝗺 𝗗𝗲𝗼𝗻𝗮𝗻𝗶",
+      "channel_id": "UC3kXCu6e_H6R2qSpEIi4ocA",
+      "url": "https://www.youtube.com/watch?v=rLuS7WVMb7s",
+      "published_at": "2026-11-09T03:26:36Z",
+      "first_seen_at": "2026-11-09T18:47:40Z",
+      "views": 199053,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "dosti hum nahi todenge",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "The hundred kilo cricket bat 😱🇮🇳 #shorts #ai #entertainment #cricket #trending #aivideo",
+      "channel": "Ai trend Vivek",
+      "channel_id": "UCeQMx8UkmHz54OSsy9c4p7A",
+      "url": "https://www.youtube.com/watch?v=9Qr4C6gniss",
+      "published_at": "2026-11-09T01:41:47Z",
+      "first_seen_at": "2026-11-09T18:47:40Z",
+      "views": 116975,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "hundred kilo cricket bat",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }

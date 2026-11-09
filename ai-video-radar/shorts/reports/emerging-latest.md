@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-09 14:25
-- 数据库视频：2627；24小时内且有频道ID的非教程候选：252
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-11-10 02:47
+- 数据库视频：2569；24小时内且有频道ID的非教程候选：160
+- 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,46 +13,24 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #islamicvideo
+### 1. #shortfeed
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
+- 独立频道：2；其中AI文字自述频道：2；视频：3
 - 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Fahim Story World | [সোনালি সমুদ্রের বুকে লুকিয়ে থাকা এক বিস্ময়কর রহস্য। #BanglaCartoon #shorts #Islamicvideo](https://www.youtube.com/watch?v=wNAT_9oH14s) | 2026-11-08 14:30 | 2026-11-09 14:25 | 1584 | 待多次采样 | 作者文字自述AI |
-| Ameerah Zainab  | [Quran Ke Aage! Ai Fail Ho Gaye! 😱 #shorts  #IslamicShorts #viral  #shortsfeed  #IslamicVideo](https://www.youtube.com/watch?v=sdRSBDKDYtQ) | 2026-11-08 23:00 | 2026-11-09 04:28 | 1300 | 2.9 | 作者文字自述AI |
-| Auwal Reacts  | [Maulana Tariq Jameel sahab ka Ai video 😭 / Astagfirullah #aivideo #islamicvideo #viralshorts #trend](https://www.youtube.com/watch?v=GhAVsOo9s8E) | 2026-11-08 20:30 | 2026-11-09 04:28 | 12 | 待多次采样 | 作者文字自述AI |
-
-### 2. happy birthday
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Silly_FishaysOffical | [HAPPY BIRTHDAY #trending @Someone_Fishy @Aqua_freaks.Official  #fyp #shorts #aianimation #art](https://www.youtube.com/watch?v=zWChZBqX6iU) | 2026-11-08 22:52 | 2026-11-09 14:25 | 24302 | 待多次采样 | 作者文字自述AI |
-| make fun  | [best birthday gift 😂😂😂 happy birthday 🤩🥳 ai video #viralshorts #cat #animals #cute #funny](https://www.youtube.com/watch?v=nxAAu4ihwVU) | 2026-11-08 14:30 | 2026-11-09 14:25 | 1415 | 待多次采样 | 作者文字自述AI |
-
-### 3. happy diwali
-
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| UdhayaSumathi samkutty Official | [Happy Diwali 🪔](https://www.youtube.com/watch?v=MFnRYRgvjm0) | 2026-11-08 14:47 | 2026-11-09 14:25 | 3077712 | 待多次采样 | AI制作未验证 |
-| AI story video  | [happy diwali 🎇🪔#diwali #shorts #viral #trend #explore #ai #aishorts #trending #uptrends](https://www.youtube.com/watch?v=OekL1rsrqOU) | 2026-11-08 21:34 | 2026-11-09 04:28 | 215 | 1.3 | 作者文字自述AI |
-| All-in-one amazing lavi 👍🏻 | [happy diwali 🎇🪔 #exploremore #shorts #shortsfeed # #youtubeshorts #viralvideos #viral #aivideo#trend](https://www.youtube.com/watch?v=lxPeiDDSJ7U) | 2026-11-09 02:49 | 2026-11-09 04:28 | 5 | 待多次采样 | 作者文字自述AI |
+| Sohrab vlog | [सँपवा 🐍चल सेल्फी लेते है 🤣 #youtubeshorts #funny #aivideo #ytshorts #shorts](https://www.youtube.com/watch?v=lPD1JTjJ1jQ) | 2026-11-09 13:32 | 2026-11-10 02:47 | 1303 | 待多次采样 | 作者文字自述AI |
+| Juliparveen22 | [🔥💃 Title: Arabic Beats पर जबरदस्त डांस! ❤️‍🔥 / Khalouni N3ich Remix / AI Dance Shorts#shorts#boost](https://www.youtube.com/watch?v=oUQojQjMxfQ) | 2026-11-09 10:26 | 2026-11-10 02:47 | 1054 | 待多次采样 | 作者文字自述AI |
+| Juliparveen22 | [Title:🔥 Khalouni N3ich ❤️ / Trending Arabic Song Dance 💃 / AI Dance Shorts#shorts#boost](https://www.youtube.com/watch?v=0DTlumC9X6U) | 2026-11-09 15:26 | 2026-11-10 02:47 | 995 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| 𝗚𝗮𝘂𝘁𝗮𝗺 𝗗𝗲𝗼𝗻𝗮𝗻𝗶 | [Yeh Dosti Hum Nahi Todenge 🤝 AI Generated #shorts #viral #gautamdeonani #ytshorts #youtubeshorts](https://www.youtube.com/watch?v=rLuS7WVMb7s) | 10万级早期观察，不是爆款 | 2026-11-09 11:26 | 2026-11-10 02:47 | 199053 | 待二次采样 |
+| Ai trend Vivek | [The hundred kilo cricket bat 😱🇮🇳 #shorts #ai #entertainment #cricket #trending #aivideo](https://www.youtube.com/watch?v=9Qr4C6gniss) | 10万级早期观察，不是爆款 | 2026-11-09 09:41 | 2026-11-10 02:47 | 116975 | 待二次采样 |
 
 ## 人工核验清单
 
