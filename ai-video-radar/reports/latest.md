@@ -1,61 +1,59 @@
-# AI 视频新增词日报 | 2026-11-08（北京时间）
+# AI 视频新增词日报 | 2026-11-09（北京时间）
 
 - 本次完成检查：16 个频道；失败/不可用：4 个频道
-- **有历史快照比对的新 URL：232 条（当日累计，非真实网页发布日期）**
-- **本轮扫描额外发现：232 条 URL**
-- **需核实的新关键词候选（跨站均衡核验）：30 个**
-- **本次核验详情页：30 条，覆盖 3 个有候选的来源**（每日归档池 232 条；不限于本次新发现）
-- **本轮原始URL全量明细存档：232 条**（如非零，可查看 `reports/2026-11-08-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
+- **有历史快照比对的新 URL：35 条（当日累计，非真实网页发布日期）**
+- **本轮扫描额外发现：35 条 URL**
+- **需核实的新关键词候选（跨站均衡核验）：28 个**
+- **本次核验详情页：28 条，覆盖 3 个有候选的来源**（每日归档池 35 条；不限于本次新发现）
+- **本轮原始URL全量明细存档：35 条**（如非零，可查看 `reports/2026-11-09-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
 ## 候选新词（基于 URL 差集，热度尚未核实）
 
 | 首次发现 | 候选规范词 | 网站 | 新出现的链接 | 检测类型 |
 |---|---|---|---|---|
-| 2026-11-08 | ai baby gangster you as a cartoon toddler with a pistol | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-baby-gangster) | 进入 Sitemap |
-| 2026-11-08 | ai twerk make anyone or your dog twerk from one photo | Zooop | [页面1](https://zooop.ai/blog/ai-twerk-video-guide) | 进入 Sitemap |
-| 2026-11-08 | all eyes in me meme ai video | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/all-eyes-in-me-meme) | 进入 Sitemap |
-| 2026-11-08 | chased by hyenas ai trend outrun the pack in a video | MakeViral | [页面1](https://www.makeviral.ai/templates/chased-by-hyenas-ai-trend) | 进入 Sitemap |
-| 2026-11-08 | christmas pfp a santa hat profile picture from one photo | Zooop | [页面1](https://zooop.ai/blog/christmas-pfp) | 进入 Sitemap |
-| 2026-11-06 | 7 best ai dance video generators dreamina s guide | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/best-ai-dance-video-generators) | 进入 Sitemap |
-| 2026-11-08 | counting money meme ai you as the boss flipping cash | MakeViral | [页面1](https://www.makeviral.ai/templates/counting-money-meme-ai) | 进入 Sitemap |
-| 2026-11-08 | ai money flex video make the cash chain clip from one photo | Zooop | [页面1](https://zooop.ai/blog/money-flex-ai-guide) | 进入 Sitemap |
-| 2026-11-06 | 10 best ai meme video generators tools 2026 | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/best-ai-meme-video-generators) | 进入 Sitemap |
-| 2026-11-08 | i thought we were having a nice date ai obsession meme | MakeViral | [页面1](https://www.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend) | 进入 Sitemap |
-| 2026-11-08 | blog page 9 | Zooop | [页面1](https://zooop.ai/blog/page/9) | 模板列表首次出现 |
-| 2026-11-08 | 7 best free ai dance video generators costs limits 2026 | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/best-free-ai-dance-video-generators) | 进入 Sitemap |
-| 2026-11-08 | pet rock dance ai make your pet headbang | MakeViral | [页面1](https://www.makeviral.ai/templates/pet-rock-dance-ai-trend) | 进入 Sitemap |
-| 2026-11-08 | ai hair growth video photo to afro | Zooop | [页面1](https://zooop.ai/templates/video/ai-hair-growth) | 进入 Sitemap |
-| 2026-11-06 | best free ai meme video generators 2026 | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/best-free-ai-meme-video-generators) | 进入 Sitemap |
-| 2026-11-08 | santa sleigh ai make the snow maiden sleigh video | MakeViral | [页面1](https://www.makeviral.ai/templates/santa-sleigh-ai-trend) | 进入 Sitemap |
-| 2026-11-08 | ai twerk make anyone twerk from a photo | Zooop | [页面1](https://zooop.ai/templates/video/ai-twerk-video) | 进入 Sitemap |
-| 2026-11-08 | can i ride ai dance | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/can-i-ride-ai-dance) | 进入 Sitemap |
-| 2026-11-08 | suave cat dance ai put your cats in the 3 kittens meme | MakeViral | [页面1](https://www.makeviral.ai/templates/suave-cat-dance-ai) | 进入 Sitemap |
-| 2026-11-08 | christmas pfp maker ai santa hat profile picture | Zooop | [页面1](https://zooop.ai/templates/image/christmas-pfp) | 进入 Sitemap |
-| 2026-11-08 | cold as ice ai video effect | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/cold-as-ice-effect) | 进入 Sitemap |
-| 2026-11-08 | giant alter ego effect ai video | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/giant-alter-ego-effect) | 进入 Sitemap |
-| 2026-11-08 | hotel transylvania dance ai with original monster characters | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/hotel-transylvania-dance-ai) | 进入 Sitemap |
-| 2026-11-08 | an a2o lite neon ai dance video | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/how-to-make-a2o-lite-neon-ai-dance-video) | 进入 Sitemap |
-| 2026-11-07 | build an instagram video concept around your story | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/instagram-video-template) | 进入 Sitemap |
-| 2026-11-08 | partner childhood photo video | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/partner-childhood-photo-template) | 进入 Sitemap |
-| 2026-11-08 | quiet on the creek ai dance | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/quiet-on-the-creek-ai-dance) | 进入 Sitemap |
-| 2026-11-08 | sitting on earth effect ai video | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/sitting-on-earth-effect) | 进入 Sitemap |
-| 2026-11-08 | create a smoke effect video with depth and atmosphere | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/smoke-effect-video) | 进入 Sitemap |
-| 2026-11-08 | create a there is your shadow effect with cinematic light | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/there-is-your-shadow-effect) | 进入 Sitemap |
+| 2026-11-09 | free attitude reels templates capcut | CapCut Trending | [页面1](https://www.capcut.com/explore/attitude-reels) | 模板列表首次出现 |
+| 2026-11-09 | bruno fernandes singing ai trend the window serenade | MakeViral | [页面1](https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | ai hair growth video turn one photo into a giant afro | Zooop | [页面1](https://zooop.ai/blog/ai-hair-growth-guide) | 进入 Sitemap |
+| 2026-11-09 | careless whisper car meme put your friends in it | MakeViral | [页面1](https://www.makeviral.ai/templates/careless-whisper-car-meme) | 进入 Sitemap |
+| 2026-11-09 | i love the smiths trend guide | Zooop | [页面1](https://zooop.ai/blog/i-love-the-smiths-trend-guide) | 进入 Sitemap |
+| 2026-11-09 | cat on ultra bee ai your pet rides a dirt bike wheelie | MakeViral | [页面1](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend) | 进入 Sitemap |
+| 2026-11-08 | ai hair growth video photo to afro | Zooop | [页面1](https://zooop.ai/templates/video/ai-hair-growth) | 模板列表首次出现 |
+| 2026-11-09 | chiikawa dancing nokia ai you as a chibi wiggle dancer | MakeViral | [页面1](https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai) | 进入 Sitemap |
+| 2026-11-08 | ai twerk make anyone twerk from a photo | Zooop | [页面1](https://zooop.ai/templates/video/ai-twerk-video) | 模板列表首次出现 |
+| 2026-11-09 | christmas dance ai do the tiktok christmas dance trend | MakeViral | [页面1](https://www.makeviral.ai/templates/christmas-dance-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | i love the smiths ai video elevator scene trend | Zooop | [页面1](https://zooop.ai/templates/video/i-love-the-smiths-elevator) | 进入 Sitemap |
+| 2026-11-09 | come and get it trend ai the rose petal edit from a photo | MakeViral | [页面1](https://www.makeviral.ai/templates/come-and-get-it-ai-trend) | 进入 Sitemap |
+| 2026-11-08 | christmas pfp maker ai santa hat profile picture | Zooop | [页面1](https://zooop.ai/templates/image/christmas-pfp) | 模板列表首次出现 |
+| 2026-11-09 | dj cat ai your cat dog or you as the arena dj | MakeViral | [页面1](https://www.makeviral.ai/templates/dj-cat-ai) | 进入 Sitemap |
+| 2026-11-09 | dog playing drums ai the dog drummer water trend | MakeViral | [页面1](https://www.makeviral.ai/templates/dog-drummer-ai) | 进入 Sitemap |
+| 2026-11-09 | grandpa said he d handle dinner ai fish cutting meme | MakeViral | [页面1](https://www.makeviral.ai/templates/grandpa-handle-dinner-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | i need a girl dance ai the tiktok duo from 2 photos | MakeViral | [页面1](https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | ice ice baby dance ai do the duo trend from 2 photos | MakeViral | [页面1](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai) | 进入 Sitemap |
+| 2026-11-09 | i̇nşallah maşallah ai trend sing it on the couch | MakeViral | [页面1](https://www.makeviral.ai/templates/insallah-masallah-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | let s break up trend ai tired selfie to glow up | MakeViral | [页面1](https://www.makeviral.ai/templates/lets-break-up-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | ai drone video manhattan fpv dive that lands on you | MakeViral | [页面1](https://www.makeviral.ai/templates/manhattan-fpv-drone-ai) | 进入 Sitemap |
+| 2026-11-09 | save yourself trend ai cliff rescue video from your photo | MakeViral | [页面1](https://www.makeviral.ai/templates/save-yourself-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | single camel ai video the lonely camel trend | MakeViral | [页面1](https://www.makeviral.ai/templates/single-camel-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | spiderman pointing meme ai point at your friend | MakeViral | [页面1](https://www.makeviral.ai/templates/spiderman-pointing-meme-ai) | 进入 Sitemap |
+| 2026-11-09 | tus ojos me reflejan el sentimiento ai eye close up trend | MakeViral | [页面1](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | ukwu ai the color to black and white trend | MakeViral | [页面1](https://www.makeviral.ai/templates/ukwu-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | valet shoe drop ai the old money hotel arrival video | MakeViral | [页面1](https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend) | 进入 Sitemap |
+| 2026-11-09 | vossi bop dance ai rap on the bridge at dawn from a photo | MakeViral | [页面1](https://www.makeviral.ai/templates/vossi-bop-ai-trend) | 进入 Sitemap |
 
 > 注意：这里的“新增”是自上次**成功快照**以来新增的 URL，不等于网页在当天发布；发现词 ≠ 已确认爆火。
 
 ## 可点开的核查入口（供运营核实趋势和竞品）
 
-- **ai baby gangster you as a cartoon toddler with a pistol**： [TikTok](https://www.tiktok.com/search?q=ai+baby+gangster+you+as+a+cartoon+toddler+with+a+pistol) · [YouTube](https://www.youtube.com/results?search_query=ai+baby+gangster+you+as+a+cartoon+toddler+with+a+pistol) · [Google](https://www.google.com/search?q=ai+baby+gangster+you+as+a+cartoon+toddler+with+a+pistol) · [Google Trends](https://trends.google.com/trends/explore?q=ai+baby+gangster+you+as+a+cartoon+toddler+with+a+pistol)
-- **ai twerk make anyone or your dog twerk from one photo**： [TikTok](https://www.tiktok.com/search?q=ai+twerk+make+anyone+or+your+dog+twerk+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=ai+twerk+make+anyone+or+your+dog+twerk+from+one+photo) · [Google](https://www.google.com/search?q=ai+twerk+make+anyone+or+your+dog+twerk+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=ai+twerk+make+anyone+or+your+dog+twerk+from+one+photo)
-- **all eyes in me meme ai video**： [TikTok](https://www.tiktok.com/search?q=all+eyes+in+me+meme+ai+video) · [YouTube](https://www.youtube.com/results?search_query=all+eyes+in+me+meme+ai+video) · [Google](https://www.google.com/search?q=all+eyes+in+me+meme+ai+video) · [Google Trends](https://trends.google.com/trends/explore?q=all+eyes+in+me+meme+ai+video)
-- **chased by hyenas ai trend outrun the pack in a video**： [TikTok](https://www.tiktok.com/search?q=chased+by+hyenas+ai+trend+outrun+the+pack+in+a+video) · [YouTube](https://www.youtube.com/results?search_query=chased+by+hyenas+ai+trend+outrun+the+pack+in+a+video) · [Google](https://www.google.com/search?q=chased+by+hyenas+ai+trend+outrun+the+pack+in+a+video) · [Google Trends](https://trends.google.com/trends/explore?q=chased+by+hyenas+ai+trend+outrun+the+pack+in+a+video)
-- **christmas pfp a santa hat profile picture from one photo**： [TikTok](https://www.tiktok.com/search?q=christmas+pfp+a+santa+hat+profile+picture+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=christmas+pfp+a+santa+hat+profile+picture+from+one+photo) · [Google](https://www.google.com/search?q=christmas+pfp+a+santa+hat+profile+picture+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=christmas+pfp+a+santa+hat+profile+picture+from+one+photo)
-- **7 best ai dance video generators dreamina s guide**： [TikTok](https://www.tiktok.com/search?q=7+best+ai+dance+video+generators+dreamina+s+guide) · [YouTube](https://www.youtube.com/results?search_query=7+best+ai+dance+video+generators+dreamina+s+guide) · [Google](https://www.google.com/search?q=7+best+ai+dance+video+generators+dreamina+s+guide) · [Google Trends](https://trends.google.com/trends/explore?q=7+best+ai+dance+video+generators+dreamina+s+guide)
-- **counting money meme ai you as the boss flipping cash**： [TikTok](https://www.tiktok.com/search?q=counting+money+meme+ai+you+as+the+boss+flipping+cash) · [YouTube](https://www.youtube.com/results?search_query=counting+money+meme+ai+you+as+the+boss+flipping+cash) · [Google](https://www.google.com/search?q=counting+money+meme+ai+you+as+the+boss+flipping+cash) · [Google Trends](https://trends.google.com/trends/explore?q=counting+money+meme+ai+you+as+the+boss+flipping+cash)
-- **ai money flex video make the cash chain clip from one photo**： [TikTok](https://www.tiktok.com/search?q=ai+money+flex+video+make+the+cash+chain+clip+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=ai+money+flex+video+make+the+cash+chain+clip+from+one+photo) · [Google](https://www.google.com/search?q=ai+money+flex+video+make+the+cash+chain+clip+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=ai+money+flex+video+make+the+cash+chain+clip+from+one+photo)
-- **10 best ai meme video generators tools 2026**： [TikTok](https://www.tiktok.com/search?q=10+best+ai+meme+video+generators+tools+2026) · [YouTube](https://www.youtube.com/results?search_query=10+best+ai+meme+video+generators+tools+2026) · [Google](https://www.google.com/search?q=10+best+ai+meme+video+generators+tools+2026) · [Google Trends](https://trends.google.com/trends/explore?q=10+best+ai+meme+video+generators+tools+2026)
-- **i thought we were having a nice date ai obsession meme**： [TikTok](https://www.tiktok.com/search?q=i+thought+we+were+having+a+nice+date+ai+obsession+meme) · [YouTube](https://www.youtube.com/results?search_query=i+thought+we+were+having+a+nice+date+ai+obsession+meme) · [Google](https://www.google.com/search?q=i+thought+we+were+having+a+nice+date+ai+obsession+meme) · [Google Trends](https://trends.google.com/trends/explore?q=i+thought+we+were+having+a+nice+date+ai+obsession+meme)
+- **free attitude reels templates capcut**： [TikTok](https://www.tiktok.com/search?q=free+attitude+reels+templates+capcut) · [YouTube](https://www.youtube.com/results?search_query=free+attitude+reels+templates+capcut) · [Google](https://www.google.com/search?q=free+attitude+reels+templates+capcut) · [Google Trends](https://trends.google.com/trends/explore?q=free+attitude+reels+templates+capcut)
+- **bruno fernandes singing ai trend the window serenade**： [TikTok](https://www.tiktok.com/search?q=bruno+fernandes+singing+ai+trend+the+window+serenade) · [YouTube](https://www.youtube.com/results?search_query=bruno+fernandes+singing+ai+trend+the+window+serenade) · [Google](https://www.google.com/search?q=bruno+fernandes+singing+ai+trend+the+window+serenade) · [Google Trends](https://trends.google.com/trends/explore?q=bruno+fernandes+singing+ai+trend+the+window+serenade)
+- **ai hair growth video turn one photo into a giant afro**： [TikTok](https://www.tiktok.com/search?q=ai+hair+growth+video+turn+one+photo+into+a+giant+afro) · [YouTube](https://www.youtube.com/results?search_query=ai+hair+growth+video+turn+one+photo+into+a+giant+afro) · [Google](https://www.google.com/search?q=ai+hair+growth+video+turn+one+photo+into+a+giant+afro) · [Google Trends](https://trends.google.com/trends/explore?q=ai+hair+growth+video+turn+one+photo+into+a+giant+afro)
+- **careless whisper car meme put your friends in it**： [TikTok](https://www.tiktok.com/search?q=careless+whisper+car+meme+put+your+friends+in+it) · [YouTube](https://www.youtube.com/results?search_query=careless+whisper+car+meme+put+your+friends+in+it) · [Google](https://www.google.com/search?q=careless+whisper+car+meme+put+your+friends+in+it) · [Google Trends](https://trends.google.com/trends/explore?q=careless+whisper+car+meme+put+your+friends+in+it)
+- **i love the smiths trend guide**： [TikTok](https://www.tiktok.com/search?q=i+love+the+smiths+trend+guide) · [YouTube](https://www.youtube.com/results?search_query=i+love+the+smiths+trend+guide) · [Google](https://www.google.com/search?q=i+love+the+smiths+trend+guide) · [Google Trends](https://trends.google.com/trends/explore?q=i+love+the+smiths+trend+guide)
+- **cat on ultra bee ai your pet rides a dirt bike wheelie**： [TikTok](https://www.tiktok.com/search?q=cat+on+ultra+bee+ai+your+pet+rides+a+dirt+bike+wheelie) · [YouTube](https://www.youtube.com/results?search_query=cat+on+ultra+bee+ai+your+pet+rides+a+dirt+bike+wheelie) · [Google](https://www.google.com/search?q=cat+on+ultra+bee+ai+your+pet+rides+a+dirt+bike+wheelie) · [Google Trends](https://trends.google.com/trends/explore?q=cat+on+ultra+bee+ai+your+pet+rides+a+dirt+bike+wheelie)
+- **ai hair growth video photo to afro**： [TikTok](https://www.tiktok.com/search?q=ai+hair+growth+video+photo+to+afro) · [YouTube](https://www.youtube.com/results?search_query=ai+hair+growth+video+photo+to+afro) · [Google](https://www.google.com/search?q=ai+hair+growth+video+photo+to+afro) · [Google Trends](https://trends.google.com/trends/explore?q=ai+hair+growth+video+photo+to+afro)
+- **chiikawa dancing nokia ai you as a chibi wiggle dancer**： [TikTok](https://www.tiktok.com/search?q=chiikawa+dancing+nokia+ai+you+as+a+chibi+wiggle+dancer) · [YouTube](https://www.youtube.com/results?search_query=chiikawa+dancing+nokia+ai+you+as+a+chibi+wiggle+dancer) · [Google](https://www.google.com/search?q=chiikawa+dancing+nokia+ai+you+as+a+chibi+wiggle+dancer) · [Google Trends](https://trends.google.com/trends/explore?q=chiikawa+dancing+nokia+ai+you+as+a+chibi+wiggle+dancer)
+- **ai twerk make anyone twerk from a photo**： [TikTok](https://www.tiktok.com/search?q=ai+twerk+make+anyone+twerk+from+a+photo) · [YouTube](https://www.youtube.com/results?search_query=ai+twerk+make+anyone+twerk+from+a+photo) · [Google](https://www.google.com/search?q=ai+twerk+make+anyone+twerk+from+a+photo) · [Google Trends](https://trends.google.com/trends/explore?q=ai+twerk+make+anyone+twerk+from+a+photo)
+- **christmas dance ai do the tiktok christmas dance trend**： [TikTok](https://www.tiktok.com/search?q=christmas+dance+ai+do+the+tiktok+christmas+dance+trend) · [YouTube](https://www.youtube.com/results?search_query=christmas+dance+ai+do+the+tiktok+christmas+dance+trend) · [Google](https://www.google.com/search?q=christmas+dance+ai+do+the+tiktok+christmas+dance+trend) · [Google Trends](https://trends.google.com/trends/explore?q=christmas+dance+ai+do+the+tiktok+christmas+dance+trend)
 
 本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。
 
@@ -68,8 +66,28 @@
 
 | 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
-| ai baby gangster | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| bruno fernandes singing ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai hair growth video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| cat on ultra bee ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai hair growth video generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| chiikawa dancing nokia ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai twerk generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| christmas dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| i love the smiths ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| come and get it trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| dj cat ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| dog playing drums ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| i need a girl dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ice ice baby dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| i̇nşallah maşallah ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| let's break up trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai drone video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| single camel ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| spiderman pointing meme ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ukwu template ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| valet shoe drop ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| vossi bop dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai baby gangster | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | all eyes in me meme ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | chased by hyenas ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 7 best ai dance video generators dreamina s guide | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -79,7 +97,6 @@
 | i thought we were having a nice date ai obsession meme | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | 7 best free ai dance video generators | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | pet rock dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai hair growth video generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | best free ai meme video generators 2026 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | santa sleigh ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | can i ride ai dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -89,25 +106,6 @@
 | hotel transylvania dance ai with original monster characters | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | an a2o lite neon ai dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | quiet on the creek ai dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| sitting on earth effect ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai pet memorial video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| buggin dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| angry dance filter ai funny finger pointing video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| imagine art ai video generator review | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| can i ride dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| beat it ai dance animate your photo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| best ai tools for making ads | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| christmas lights on car ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| beyoncé single ladies pet ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| best ai tools for ad variations | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| break your legs ai dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| best ai real estate video tools | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| did torobo just jump leaf dress ai dance trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| buggin dance ai generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| diwali transition ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| can i ride ai dance duo dance trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| dog bohemian rhapsody ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| dougie clone dance ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
@@ -120,8 +118,8 @@
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 5 links from 1/1 listings |
 | Higgsfield Viral | 184 relevant URLs in sitemap | 28 links from 2/2 listings |
-| MakeViral | 432 relevant URLs in sitemap | 534 links from 2/2 listings |
-| Zooop | 236 relevant URLs in sitemap | 116 links from 2/2 listings |
+| MakeViral | 453 relevant URLs in sitemap | 561 links from 2/2 listings |
+| Zooop | 239 relevant URLs in sitemap | 109 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
 | Media.io | 2900 relevant URLs in sitemap | 166 links from 3/3 listings |
 | Dreamina | 2691 relevant URLs in sitemap | 33 links from 2/2 listings |
