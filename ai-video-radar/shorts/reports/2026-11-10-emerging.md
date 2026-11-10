@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-10 10:44
-- 数据库视频：2579；24小时内且有频道ID的非教程候选：209
-- 自动发现跨账号同名/同词线索：1
+- 最新成功快照（北京）：2026-11-10 20:38
+- 数据库视频：2558；24小时内且有频道ID的非教程候选：175
+- 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #shortfeed
+### 1. sheru bhai
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -21,14 +21,36 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Sohrab vlog | [सँपवा 🐍चल सेल्फी लेते है 🤣 #youtubeshorts #funny #aivideo #ytshorts #shorts](https://www.youtube.com/watch?v=lPD1JTjJ1jQ) | 2026-11-09 13:32 | 2026-11-10 02:47 | 1396 | 11.7 | 作者文字自述AI |
-| Juliparveen22 | [Title:🔥 Khalouni N3ich ❤️ / Trending Arabic Song Dance 💃 / AI Dance Shorts#shorts#boost](https://www.youtube.com/watch?v=0DTlumC9X6U) | 2026-11-09 15:26 | 2026-11-10 02:47 | 1011 | 2.0 | 作者文字自述AI |
+| CoColemon | [Sheru Bhai Shorts 🦁 #sheru  #Shorts #ai #animation #youtubeshorts #shorts](https://www.youtube.com/watch?v=k1ZkxUbvh0w) | 2026-11-10 15:30 | 2026-11-10 20:38 | 1549 | 待多次采样 | 作者文字自述AI |
+| shaiz story | [Sheru bhai kaa naam hi kafi hai gao me 💸🦁 #aianimation #artificialintellingence #youtubeshorts](https://www.youtube.com/watch?v=OjVDmRtAj2U) | 2026-11-09 21:30 | 2026-11-10 20:38 | 1394 | 待多次采样 | 作者文字自述AI |
+
+### 2. #aimusic
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| BENİM DÜNYAMDAN | [örgü ejder meyvesi #ai #aivideo #aishorts #aiart #aianimation #aimusic #crochet #asmr #momlife #dail](https://www.youtube.com/watch?v=K1OP1c8TL1s) | 2026-11-09 21:11 | 2026-11-10 20:38 | 9781 | 待多次采样 | 作者文字自述AI |
+| Walex Walex Tormzy | [#indonesia #love #ai #viral #aivideo #aishorts #fyp #usa #aianimation #aimusic #uk #aigenerated #car](https://www.youtube.com/watch?v=DefDdZNGt1Y) | 2026-11-10 04:11 | 2026-11-10 20:38 | 1370 | 待多次采样 | 作者文字自述AI |
+
+### 3. #knowledge
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Zenx Ai | [Ek hybrid scooter kaise kaam karti hai🛵 ? #ai #viral #youtubeshorts #foryou #shorts #information](https://www.youtube.com/watch?v=lCPxJxlJ9UM) | 2026-11-09 21:30 | 2026-11-10 20:38 | 1482 | 待多次采样 | 作者文字自述AI |
+| Anggi Simanjuntak | [Bagaimana sistem kerja kuku tumbuh? #fyp #viral #trending #reels #shortvideo #aianimation #knowledge](https://www.youtube.com/watch?v=gKBX4SiR9lE) | 2026-11-10 10:45 | 2026-11-10 20:38 | 1263 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| 𝗚𝗮𝘂𝘁𝗮𝗺 𝗗𝗲𝗼𝗻𝗮𝗻𝗶 | [Yeh Dosti Hum Nahi Todenge 🤝 AI Generated #shorts #viral #gautamdeonani #ytshorts #youtubeshorts](https://www.youtube.com/watch?v=rLuS7WVMb7s) | 10万级早期观察，不是爆款 | 2026-11-09 11:26 | 2026-11-10 02:47 | 287995 | 11,200.2 |
+| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
 
 ## 人工核验清单
 
