@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-10 02:47
-- 数据库视频：2569；24小时内且有频道ID的非教程候选：160
+- 最新成功快照（北京）：2026-11-10 10:44
+- 数据库视频：2579；24小时内且有频道ID的非教程候选：209
 - 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -16,21 +16,19 @@
 ### 1. #shortfeed
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Sohrab vlog | [सँपवा 🐍चल सेल्फी लेते है 🤣 #youtubeshorts #funny #aivideo #ytshorts #shorts](https://www.youtube.com/watch?v=lPD1JTjJ1jQ) | 2026-11-09 13:32 | 2026-11-10 02:47 | 1303 | 待多次采样 | 作者文字自述AI |
-| Juliparveen22 | [🔥💃 Title: Arabic Beats पर जबरदस्त डांस! ❤️‍🔥 / Khalouni N3ich Remix / AI Dance Shorts#shorts#boost](https://www.youtube.com/watch?v=oUQojQjMxfQ) | 2026-11-09 10:26 | 2026-11-10 02:47 | 1054 | 待多次采样 | 作者文字自述AI |
-| Juliparveen22 | [Title:🔥 Khalouni N3ich ❤️ / Trending Arabic Song Dance 💃 / AI Dance Shorts#shorts#boost](https://www.youtube.com/watch?v=0DTlumC9X6U) | 2026-11-09 15:26 | 2026-11-10 02:47 | 995 | 待多次采样 | 作者文字自述AI |
+| Sohrab vlog | [सँपवा 🐍चल सेल्फी लेते है 🤣 #youtubeshorts #funny #aivideo #ytshorts #shorts](https://www.youtube.com/watch?v=lPD1JTjJ1jQ) | 2026-11-09 13:32 | 2026-11-10 02:47 | 1396 | 11.7 | 作者文字自述AI |
+| Juliparveen22 | [Title:🔥 Khalouni N3ich ❤️ / Trending Arabic Song Dance 💃 / AI Dance Shorts#shorts#boost](https://www.youtube.com/watch?v=0DTlumC9X6U) | 2026-11-09 15:26 | 2026-11-10 02:47 | 1011 | 2.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| 𝗚𝗮𝘂𝘁𝗮𝗺 𝗗𝗲𝗼𝗻𝗮𝗻𝗶 | [Yeh Dosti Hum Nahi Todenge 🤝 AI Generated #shorts #viral #gautamdeonani #ytshorts #youtubeshorts](https://www.youtube.com/watch?v=rLuS7WVMb7s) | 10万级早期观察，不是爆款 | 2026-11-09 11:26 | 2026-11-10 02:47 | 199053 | 待二次采样 |
-| Ai trend Vivek | [The hundred kilo cricket bat 😱🇮🇳 #shorts #ai #entertainment #cricket #trending #aivideo](https://www.youtube.com/watch?v=9Qr4C6gniss) | 10万级早期观察，不是爆款 | 2026-11-09 09:41 | 2026-11-10 02:47 | 116975 | 待二次采样 |
+| 𝗚𝗮𝘂𝘁𝗮𝗺 𝗗𝗲𝗼𝗻𝗮𝗻𝗶 | [Yeh Dosti Hum Nahi Todenge 🤝 AI Generated #shorts #viral #gautamdeonani #ytshorts #youtubeshorts](https://www.youtube.com/watch?v=rLuS7WVMb7s) | 10万级早期观察，不是爆款 | 2026-11-09 11:26 | 2026-11-10 02:47 | 287995 | 11,200.2 |
 
 ## 人工核验清单
 
