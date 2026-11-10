@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-10 20:38
-- 数据库视频：2558；24小时内且有频道ID的非教程候选：175
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-11-11 05:48
+- 数据库视频：2537；24小时内且有频道ID的非教程候选：174
+- 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -16,15 +16,16 @@
 ### 1. sheru bhai
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：3；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| CoColemon | [Sheru Bhai Shorts 🦁 #sheru  #Shorts #ai #animation #youtubeshorts #shorts](https://www.youtube.com/watch?v=k1ZkxUbvh0w) | 2026-11-10 15:30 | 2026-11-10 20:38 | 1549 | 待多次采样 | 作者文字自述AI |
-| shaiz story | [Sheru bhai kaa naam hi kafi hai gao me 💸🦁 #aianimation #artificialintellingence #youtubeshorts](https://www.youtube.com/watch?v=OjVDmRtAj2U) | 2026-11-09 21:30 | 2026-11-10 20:38 | 1394 | 待多次采样 | 作者文字自述AI |
+| CoColemon | [Sheru Bhai Shorts 🦁 #sheru  #Shorts #ai #animation #youtubeshorts #shorts](https://www.youtube.com/watch?v=k1ZkxUbvh0w) | 2026-11-10 15:30 | 2026-11-10 20:38 | 5925 | 477.6 | 作者文字自述AI |
+| Devendra Tech | [🦁🐰 Sheru Bhai is taking over the internet! 😂🔥 #shorts #sherubhai](https://www.youtube.com/watch?v=lx8wV0-Ra44) | 2026-11-10 17:41 | 2026-11-11 05:48 | 4344 | 待多次采样 | AI制作未验证 |
+| THE BEAST EMPIRE | [sheru bhai ki bugatti..⚜️💰 #sheru #sherubhai #beastempire08 #trend #instatrend #aivideo #ai #foryou](https://www.youtube.com/watch?v=BcWJ7HbxAyU) | 2026-11-10 23:37 | 2026-11-11 05:48 | 7 | 待多次采样 | 作者文字自述AI |
 
-### 2. #aimusic
+### 2. #chhathpuja
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -32,19 +33,8 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| BENİM DÜNYAMDAN | [örgü ejder meyvesi #ai #aivideo #aishorts #aiart #aianimation #aimusic #crochet #asmr #momlife #dail](https://www.youtube.com/watch?v=K1OP1c8TL1s) | 2026-11-09 21:11 | 2026-11-10 20:38 | 9781 | 待多次采样 | 作者文字自述AI |
-| Walex Walex Tormzy | [#indonesia #love #ai #viral #aivideo #aishorts #fyp #usa #aianimation #aimusic #uk #aigenerated #car](https://www.youtube.com/watch?v=DefDdZNGt1Y) | 2026-11-10 04:11 | 2026-11-10 20:38 | 1370 | 待多次采样 | 作者文字自述AI |
-
-### 3. #knowledge
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Zenx Ai | [Ek hybrid scooter kaise kaam karti hai🛵 ? #ai #viral #youtubeshorts #foryou #shorts #information](https://www.youtube.com/watch?v=lCPxJxlJ9UM) | 2026-11-09 21:30 | 2026-11-10 20:38 | 1482 | 待多次采样 | 作者文字自述AI |
-| Anggi Simanjuntak | [Bagaimana sistem kerja kuku tumbuh? #fyp #viral #trending #reels #shortvideo #aianimation #knowledge](https://www.youtube.com/watch?v=gKBX4SiR9lE) | 2026-11-10 10:45 | 2026-11-10 20:38 | 1263 | 待多次采样 | 作者文字自述AI |
+| BHAKTI 🥰 | [🔥 jay chhathi maiya 🔥 #shorts #shortvideo #viral #viralshorts #chhathpuja #ai #aivideo #art #trend](https://www.youtube.com/watch?v=0x6N5oE9tE4) | 2026-11-10 22:54 | 2026-11-11 05:48 | 1156 | 待多次采样 | 作者文字自述AI |
+| Shobha Ai Prompt | [Chhath Puja Ai Video Editing Prompt 2026...#ChhathPuja #viral #aiart #video #trend](https://www.youtube.com/watch?v=_vJLD6d427I) | 2026-11-10 23:37 | 2026-11-11 05:48 | 2 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
