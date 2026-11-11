@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-12 00:10
-- 数据库视频：2488；24小时内且有频道ID的非教程候选：180
-- 自动发现跨账号同名/同词线索：0
+- 最新成功快照（北京）：2026-11-12 06:41
+- 数据库视频：2593；24小时内且有频道ID的非教程候选：210
+- 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,12 +13,45 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-本轮没有足够具体且由两个独立作者共同使用的名字或标签。
+### 1. sheru bhai
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Zynex Hub | [Sheru Bhai Returns to His Village After 20 Years part-1 #ai #sheru#sherubhai#aianimation](https://www.youtube.com/watch?v=a_JmasOy5WU) | 2026-11-11 12:27 | 2026-11-12 06:41 | 9416 | 待多次采样 | 作者文字自述AI |
+| CoColemon | [Sheru Bhai Says! 🦁🔥 #Shorts #YouTubeShorts #AIAnimation #MalayalamShorts #FunnyShorts #ViralShorts](https://www.youtube.com/watch?v=-auvSBEOxEg) | 2026-11-11 12:21 | 2026-11-12 06:41 | 8189 | 待多次采样 | 作者文字自述AI |
+
+### 2. #shortfeed
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Beamdrive_Src | [❤️Red Egg vs Sonic — 😅#shorts #gaming #shortfeed #viralshorts #aianimation #cartooncomedy #sonic](https://www.youtube.com/watch?v=152a1VLj4vI) | 2026-11-11 15:55 | 2026-11-12 06:41 | 4746 | 待多次采样 | 作者文字自述AI |
+| Juliparveen22 | [🔥 Title: Ishqaun Dhishqaun 💃😍 / धमाकेदार AI Dance / Ram Leela Song ❤️ #Shorts#boost](https://www.youtube.com/watch?v=8IGqpr7zd7E) | 2026-11-11 14:26 | 2026-11-12 00:10 | 979 | 0.5 | 作者文字自述AI |
+| Juliparveen22 | [🔥 Title: Ishqaun Dhishqyaun ❤️ Killer Dance Moves 💃 /Trending Song / AI Dance #Shorts#boost](https://www.youtube.com/watch?v=NJN0ta1o5QI) | 2026-11-11 15:26 | 2026-11-12 00:10 | 948 | 0.5 | 作者文字自述AI |
+
+### 3. #animallife
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Sk skills zone | [Ai animation rabbit and goat video #rabbit #goat   #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=s9kK-fvK-r8) | 2026-11-11 07:48 | 2026-11-12 06:41 | 2981 | 待多次采样 | 作者文字自述AI |
+| Mini Magic World | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=nlBlPAvp14E) | 2026-11-11 14:10 | 2026-11-12 06:41 | 2 | 待多次采样 | 作者文字自述AI |
+
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| Futbol AI | [¡Lamine Llega Tarde Al Partido!  #lamineyamal #pedri #shorts #aigenerated #viral](https://www.youtube.com/watch?v=2WP_N7-NxsQ) | 10万级早期观察，不是爆款 | 2026-11-11 02:45 | 2026-11-12 00:10 | 102444 | 待二次采样 |
+| PolitEnt News | [జడ వేసే మిషన్..! #ai #aivideo #AIgenerated #hairbraider #aitechnology #shorts](https://www.youtube.com/watch?v=NuZNIFJr6ME) | 10万级早期观察，不是爆款 | 2026-11-11 08:30 | 2026-11-12 00:10 | 100857 | 4,507.1 |
 
 ## 人工核验清单
 

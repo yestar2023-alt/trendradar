@@ -1,8 +1,8 @@
 # AI Shorts 新玩法归组与独立模仿证据（自动候选）
 
-- 数据时间（北京）：2026-11-12 00:10
+- 数据时间（北京）：2026-11-12 06:41
 - 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询
-- 保存的历史状态池：2488 条；仅使用最近24小时发布的视频归组为 3 个主题
+- 保存的历史状态池：2593 条；仅使用最近24小时发布的视频归组为 2 个主题
 - 有两个及以上独立账号文字自述AI的**候选主题**：0（不等于同一玩法的模仿已证实）
 - 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**
 
@@ -13,49 +13,36 @@
 
 ## 窄义玩法候选与历史
 
-### 1. Car Transformation / 废车变超跑
+### 1. Living Food / 食物拟人短剧
 
 - 自动状态：**仅候选/尚未确认新玩法**；建议：单个或未核实AI视频；仅观察，不建议立即建站
 - 近期匹配视频：1；不同频道：1；文字自述AI的视频：0；其中独立作者频道：0
-- 最大单条观测播放量：1570；首次系统观察：2026-11-12 00:10（不等于真实首发）
-- 可复刻概念：车辆从废旧到崭新的视觉变化；输入素材：一张车辆照片
-- 混淆与排除：汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分；风险：汽车品牌/Logo 商标与真实维修误导
+- 最大单条观测播放量：287979；首次系统观察：2026-11-12 06:41（不等于真实首发）
+- 可复刻概念：食物拟人化并说话/表演；输入素材：食物照片或文字描述
+- 混淆与排除：标签只是类别线索，需验证是否是具体相同镜头/动作而非食物动画泛类；风险：商标包装、音乐、童声和配音
 
 | 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
 |---|---|---|---|---:|---|---:|
-| Viral Ai shorts | [BMW M2 Competition Rebuild 😱🔥 From Pieces to PERFECTION! / AI Car Restoration #shorts #bmwm2 #viral](https://www.youtube.com/watch?v=6eQLzWlWzcc) | 2026-11-11 00:31 | 2026-11-12 00:10 | 1570 | AI制作未核实 | 待多次采样 |
+| FUNNY AI COOKING 😂🍗   | [Funny Shami Kebab Cooking 😂 / Talking Food Characters / Pixar Style 3D Animation #Shorts](https://www.youtube.com/watch?v=hJcT7WO4cQM) | 2026-11-11 09:00 | 2026-11-12 06:41 | 287979 | AI制作未核实 | 待多次采样 |
 
-### 2. A2O LITE NEON AI 双人舞蹈
-
-- 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
-- 近期匹配视频：1；不同频道：1；文字自述AI的视频：1；其中独立作者频道：1
-- 最大单条观测播放量：466；首次系统观察：2026-11-12 00:10（不等于真实首发）
-- 可复刻概念：替换NEON双人编舞原角色进行动作模仿；输入素材：两张获得授权的成年人照片或宠物照片
-- 混淆与排除：10月20日已有生成器教程；作者自标日期并非独立归档首发验证，不能称今天才出现；风险：音乐、编舞、角色/艺人肖像与粉丝衍生作品授权
-- **不属于今日新发现玩法的历史证据：** 不晚于 2026-10-20 已有相关内容或商业页面（不能推断真正起源），[https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video](https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video)
-
-| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
-|---|---|---|---|---:|---|---:|
-| Kpop구독 데이트 [Dance Challenge 2026 Al] | [쿨하게 시선강탈 A2O LITE 'NEON' #kpop #Shorts #AiDance #커버댄스 #댄스챌린지](https://www.youtube.com/watch?v=7E7GOIefIeo) | 2026-11-11 06:27 | 2026-11-12 00:10 | 466 | 作者文字/标签自述AI | 待多次采样 |
-
-### 3. Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗
+### 2. Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗
 
 - 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
 - 近期匹配视频：7；不同频道：3；文字自述AI的视频：0；其中独立作者频道：0
-- 最大单条观测播放量：5416；首次系统观察：2026-11-12 00:10（不等于真实首发）
+- 最大单条观测播放量：5620；首次系统观察：2026-11-12 00:10（不等于真实首发）
 - 可复刻概念：跟随现有口号/音乐进行搞笑短舞；输入素材：自有授权素材或本人肖像
 - 混淆与排除：9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿；风险：音频版权、模仿素材授权与批量搬运
 - **不属于今日新发现玩法的历史证据：** 不晚于 2026-09-15 已有相关内容或商业页面（不能推断真正起源），[https://www.youtube.com/watch?v=hFpsTmThUpo](https://www.youtube.com/watch?v=hFpsTmThUpo)
 
 | 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
 |---|---|---|---|---:|---|---:|
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=cSUjYiRTWaE) | 2026-11-11 08:15 | 2026-11-12 00:10 | 5416 | AI制作未核实 | 待多次采样 |
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=0uzB1L-XE_c) | 2026-11-11 09:00 | 2026-11-12 00:10 | 4710 | AI制作未核实 | 待多次采样 |
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=tSjJiRRav7Q) | 2026-11-11 09:15 | 2026-11-12 00:10 | 4170 | AI制作未核实 | 待多次采样 |
-| August 2025 | [Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending](https://www.youtube.com/watch?v=-vaujVhYUhU) | 2026-11-11 11:33 | 2026-11-12 00:10 | 1929 | AI制作未核实 | 待多次采样 |
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=R9Dm0zYuPn0) | 2026-11-11 08:30 | 2026-11-12 00:10 | 1851 | AI制作未核实 | 待多次采样 |
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=aGjJU6uqegU) | 2026-11-11 15:10 | 2026-11-12 00:10 | 1586 | AI制作未核实 | 待多次采样 |
-| Anika Shakya Official | [Jhinga lala hu hu kaka dada mama🤣#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending](https://www.youtube.com/watch?v=zSAROV-ORns) | 2026-11-11 17:38 | 2026-11-12 00:10 | 1068 | AI制作未核实 | 待多次采样 |
+| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=cSUjYiRTWaE) | 2026-11-11 08:15 | 2026-11-12 00:10 | 5620 | AI制作未核实 | 31.3 |
+| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=0uzB1L-XE_c) | 2026-11-11 09:00 | 2026-11-12 00:10 | 4870 | AI制作未核实 | 24.6 |
+| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=tSjJiRRav7Q) | 2026-11-11 09:15 | 2026-11-12 00:10 | 4283 | AI制作未核实 | 17.3 |
+| August 2025 | [Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending](https://www.youtube.com/watch?v=-vaujVhYUhU) | 2026-11-11 11:33 | 2026-11-12 00:10 | 2166 | AI制作未核实 | 36.4 |
+| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=R9Dm0zYuPn0) | 2026-11-11 08:30 | 2026-11-12 00:10 | 1970 | AI制作未核实 | 18.3 |
+| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=aGjJU6uqegU) | 2026-11-11 15:10 | 2026-11-12 00:10 | 1772 | AI制作未核实 | 28.5 |
+| Anika Shakya Official | [Jhinga lala hu hu kaka dada mama🤣#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending](https://www.youtube.com/watch?v=zSAROV-ORns) | 2026-11-11 17:38 | 2026-11-12 00:10 | 1158 | AI制作未核实 | 13.8 |
 
 ## 单条超过100万播放，但尚未匹配具体玩法的 AI 自述视频
 
