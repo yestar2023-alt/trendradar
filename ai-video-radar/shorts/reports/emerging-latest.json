@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T21:48:33.393622+00:00",
-  "source_snapshot_at": "2026-11-10T21:48:28Z",
-  "source_video_count": 2537,
-  "published_last_24h_with_channel": 174,
+  "generated_at": "2026-11-11T06:17:17.342382+00:00",
+  "source_snapshot_at": "2026-11-11T06:17:13Z",
+  "source_video_count": 2508,
+  "published_last_24h_with_channel": 221,
   "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
@@ -10,12 +10,12 @@
     {
       "anchor": "sheru bhai",
       "anchor_type": "phrase",
-      "unique_channels": 3,
+      "unique_channels": 4,
       "ai_claimed_channels": 2,
-      "video_count": 3,
+      "video_count": 4,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
+      "near_duplicate_caption_fraction": 0.25,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=k1ZkxUbvh0w",
           "published_at": "2026-11-10T07:30:00Z",
           "first_seen_at": "2026-11-10T12:38:40Z",
-          "views": 5925,
-          "observed_growth_per_hour": 477.6,
+          "views": 6885,
+          "observed_growth_per_hour": 113.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,7 +38,19 @@
           "url": "https://www.youtube.com/watch?v=lx8wV0-Ra44",
           "published_at": "2026-11-10T09:41:54Z",
           "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 4344,
+          "views": 5315,
+          "observed_growth_per_hour": 114.5,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
+        {
+          "title": "🔥 Sheru Bhai vs Shark 🦁🦈 | Billionaire Auction Battle | AI Cartoon Comedy",
+          "channel": "Asmail 777",
+          "channel_id": "UCAJLCx4vD7fKUja4AtiPasg",
+          "url": "https://www.youtube.com/watch?v=EYsAOIq5smE",
+          "published_at": "2026-11-10T07:01:23Z",
+          "first_seen_at": "2026-11-11T06:17:13Z",
+          "views": 1472,
           "observed_growth_per_hour": null,
           "ai_evidence": "AI制作未验证",
           "actions": []
@@ -51,7 +63,7 @@
           "published_at": "2026-11-10T15:37:54Z",
           "first_seen_at": "2026-11-10T21:48:28Z",
           "views": 7,
-          "observed_growth_per_hour": null,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -76,8 +88,8 @@
           "url": "https://www.youtube.com/watch?v=0x6N5oE9tE4",
           "published_at": "2026-11-10T14:54:19Z",
           "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 1156,
-          "observed_growth_per_hour": null,
+          "views": 1163,
+          "observed_growth_per_hour": 0.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -88,8 +100,8 @@
           "url": "https://www.youtube.com/watch?v=_vJLD6d427I",
           "published_at": "2026-11-10T15:37:50Z",
           "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 2,
-          "observed_growth_per_hour": null,
+          "views": 3,
+          "observed_growth_per_hour": 0.1,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
