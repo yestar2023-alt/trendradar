@@ -1,112 +1,28 @@
 {
-  "generated_at": "2026-11-11T06:17:17.342382+00:00",
-  "source_snapshot_at": "2026-11-11T06:17:13Z",
-  "source_video_count": 2508,
-  "published_last_24h_with_channel": 221,
-  "shared_name_groups": 2,
+  "generated_at": "2026-11-11T16:10:19.137903+00:00",
+  "source_snapshot_at": "2026-11-11T16:10:13Z",
+  "source_video_count": 2488,
+  "published_last_24h_with_channel": 180,
+  "shared_name_groups": 0,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [
+  "cross_creator_groups": [],
+  "high_velocity_single_creator_watchlist": [
     {
-      "anchor": "sheru bhai",
-      "anchor_type": "phrase",
-      "unique_channels": 4,
-      "ai_claimed_channels": 2,
-      "video_count": 4,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.25,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Sheru Bhai Shorts 🦁 #sheru  #Shorts #ai #animation #youtubeshorts #shorts",
-          "channel": "CoColemon",
-          "channel_id": "UCK1-vapQGXkhhayyvkxHmOw",
-          "url": "https://www.youtube.com/watch?v=k1ZkxUbvh0w",
-          "published_at": "2026-11-10T07:30:00Z",
-          "first_seen_at": "2026-11-10T12:38:40Z",
-          "views": 6885,
-          "observed_growth_per_hour": 113.2,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🦁🐰 Sheru Bhai is taking over the internet! 😂🔥 #shorts #sherubhai",
-          "channel": "Devendra Tech",
-          "channel_id": "UCwHCjJZcANgae7tXI1zJLOw",
-          "url": "https://www.youtube.com/watch?v=lx8wV0-Ra44",
-          "published_at": "2026-11-10T09:41:54Z",
-          "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 5315,
-          "observed_growth_per_hour": 114.5,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "🔥 Sheru Bhai vs Shark 🦁🦈 | Billionaire Auction Battle | AI Cartoon Comedy",
-          "channel": "Asmail 777",
-          "channel_id": "UCAJLCx4vD7fKUja4AtiPasg",
-          "url": "https://www.youtube.com/watch?v=EYsAOIq5smE",
-          "published_at": "2026-11-10T07:01:23Z",
-          "first_seen_at": "2026-11-11T06:17:13Z",
-          "views": 1472,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "sheru bhai ki bugatti..⚜️💰 #sheru #sherubhai #beastempire08 #trend #instatrend #aivideo #ai #foryou",
-          "channel": "THE BEAST EMPIRE",
-          "channel_id": "UC2IHAbCIHe1PZ0XSEiufAtw",
-          "url": "https://www.youtube.com/watch?v=BcWJ7HbxAyU",
-          "published_at": "2026-11-10T15:37:54Z",
-          "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 7,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#chhathpuja",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🔥 jay chhathi maiya 🔥 #shorts #shortvideo #viral #viralshorts #chhathpuja #ai #aivideo #art #trend",
-          "channel": "BHAKTI 🥰",
-          "channel_id": "UCSLKCMw1CNsGNpBXFKU2lOA",
-          "url": "https://www.youtube.com/watch?v=0x6N5oE9tE4",
-          "published_at": "2026-11-10T14:54:19Z",
-          "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 1163,
-          "observed_growth_per_hour": 0.8,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Chhath Puja Ai Video Editing Prompt 2026...#ChhathPuja #viral #aiart #video #trend",
-          "channel": "Shobha Ai Prompt",
-          "channel_id": "UC5qfCYHjzAwtg84ftDiNxxg",
-          "url": "https://www.youtube.com/watch?v=_vJLD6d427I",
-          "published_at": "2026-11-10T15:37:50Z",
-          "first_seen_at": "2026-11-10T21:48:28Z",
-          "views": 3,
-          "observed_growth_per_hour": 0.1,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
+      "title": "¡Lamine Llega Tarde Al Partido!  #lamineyamal #pedri #shorts #aigenerated #viral",
+      "channel": "Futbol AI",
+      "channel_id": "UC4axf-DS3EdFNCb_MeuKeEw",
+      "url": "https://www.youtube.com/watch?v=2WP_N7-NxsQ",
+      "published_at": "2026-11-10T18:45:37Z",
+      "first_seen_at": "2026-11-11T16:10:13Z",
+      "views": 102444,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "llega tarde al partido",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
     }
-  ],
-  "high_velocity_single_creator_watchlist": []
+  ]
 }

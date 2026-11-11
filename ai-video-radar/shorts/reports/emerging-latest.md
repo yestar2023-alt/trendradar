@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-11 14:17
-- 数据库视频：2508；24小时内且有频道ID的非教程候选：221
-- 自动发现跨账号同名/同词线索：2
+- 最新成功快照（北京）：2026-11-12 00:10
+- 数据库视频：2488；24小时内且有频道ID的非教程候选：180
+- 自动发现跨账号同名/同词线索：0
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,35 +13,12 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. sheru bhai
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：4；其中AI文字自述频道：2；视频：4
-- 相同动作词：无；主文案复用比例：25%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| CoColemon | [Sheru Bhai Shorts 🦁 #sheru  #Shorts #ai #animation #youtubeshorts #shorts](https://www.youtube.com/watch?v=k1ZkxUbvh0w) | 2026-11-10 15:30 | 2026-11-10 20:38 | 6885 | 113.2 | 作者文字自述AI |
-| Devendra Tech | [🦁🐰 Sheru Bhai is taking over the internet! 😂🔥 #shorts #sherubhai](https://www.youtube.com/watch?v=lx8wV0-Ra44) | 2026-11-10 17:41 | 2026-11-11 05:48 | 5315 | 114.5 | AI制作未验证 |
-| Asmail 777 | [🔥 Sheru Bhai vs Shark 🦁🦈 / Billionaire Auction Battle / AI Cartoon Comedy](https://www.youtube.com/watch?v=EYsAOIq5smE) | 2026-11-10 15:01 | 2026-11-11 14:17 | 1472 | 待多次采样 | AI制作未验证 |
-| THE BEAST EMPIRE | [sheru bhai ki bugatti..⚜️💰 #sheru #sherubhai #beastempire08 #trend #instatrend #aivideo #ai #foryou](https://www.youtube.com/watch?v=BcWJ7HbxAyU) | 2026-11-10 23:37 | 2026-11-11 05:48 | 7 | 0.0 | 作者文字自述AI |
-
-### 2. #chhathpuja
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| BHAKTI 🥰 | [🔥 jay chhathi maiya 🔥 #shorts #shortvideo #viral #viralshorts #chhathpuja #ai #aivideo #art #trend](https://www.youtube.com/watch?v=0x6N5oE9tE4) | 2026-11-10 22:54 | 2026-11-11 05:48 | 1163 | 0.8 | 作者文字自述AI |
-| Shobha Ai Prompt | [Chhath Puja Ai Video Editing Prompt 2026...#ChhathPuja #viral #aiart #video #trend](https://www.youtube.com/watch?v=_vJLD6d427I) | 2026-11-10 23:37 | 2026-11-11 05:48 | 3 | 0.1 | 作者文字自述AI |
-
+本轮没有足够具体且由两个独立作者共同使用的名字或标签。
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| Futbol AI | [¡Lamine Llega Tarde Al Partido!  #lamineyamal #pedri #shorts #aigenerated #viral](https://www.youtube.com/watch?v=2WP_N7-NxsQ) | 10万级早期观察，不是爆款 | 2026-11-11 02:45 | 2026-11-12 00:10 | 102444 | 待二次采样 |
 
 ## 人工核验清单
 
