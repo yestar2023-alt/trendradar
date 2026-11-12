@@ -1,0 +1,35 @@
+name: AI video keyword ledger validation
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'ai-video-radar/keyword_queue.py'
+      - 'ai-video-radar/tests/test_keyword_queue.py'
+      - '.github/workflows/ai-video-keyword-queue-tests.yml'
+permissions:
+  contents: read
+jobs:
+  verify-ledger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Offline unit tests
+        run: python -m unittest discover -s ai-video-radar/tests -p 'test_keyword_queue.py' -v
+      - name: Process real committed URL snapshot (no web calls)
+        run: python ai-video-radar/keyword_queue.py
+      - name: Assert no URL observation lost
+        run: |
+          test -s ai-video-radar/reports/url-audit-latest.csv
+          python -c "import json; p=json.load(open('ai-video-radar/reports/keyword-queue-latest.json')); assert p['audited_url_rows']==p['input_url_rows']"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ai-video-keyword-ledger
+          path: |
+            ai-video-radar/reports/url-audit-latest.csv
+            ai-video-radar/reports/keyword-queue-latest.csv
+            ai-video-radar/reports/keyword-queue-latest.json
+            ai-video-radar/reports/keyword-queue-latest.md
