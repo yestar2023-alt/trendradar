@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-12T07:08:53.229484+00:00",
-  "source_snapshot_at": "2026-11-12T07:08:49Z",
-  "source_video_count": 2624,
-  "published_last_24h_with_channel": 203,
-  "shared_name_groups": 3,
+  "generated_at": "2026-11-12T16:48:23.643368+00:00",
+  "source_snapshot_at": "2026-11-12T16:48:16Z",
+  "source_video_count": 2588,
+  "published_last_24h_with_channel": 210,
+  "shared_name_groups": 4,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
       "anchor": "sheru bhai",
       "anchor_type": "phrase",
-      "unique_channels": 4,
-      "ai_claimed_channels": 4,
-      "video_count": 4,
+      "unique_channels": 5,
+      "ai_claimed_channels": 3,
+      "video_count": 5,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.25,
+      "near_duplicate_caption_fraction": 0.2,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Sheru Bhai നിങ്ങൾക്കും 😅 #shorts #viral #sheruBhai #aivideo",
-          "channel": "TipNo",
-          "channel_id": "UC6zPNOUN13NWactx5x6up7A",
-          "url": "https://www.youtube.com/watch?v=BTJs--3X-Us",
-          "published_at": "2026-11-11T12:32:16Z",
-          "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 20675,
+          "title": "🦁 SHERU BHAI KI ROYAL ENTRY 🔥 | AI Lion Transformation 😈 #shorts #sheru​ #oggy​ #viral​ #shorts​",
+          "channel": "𝐓𝐡𝐞𝐁𝐨𝐬𝐬𝐆𝐚𝐦𝐢𝐧𝐠",
+          "channel_id": "UCGhQtrJfe2VSxVMpOHZfkAg",
+          "url": "https://www.youtube.com/watch?v=s3qnrUrP4vI",
+          "published_at": "2026-11-12T00:52:36Z",
+          "first_seen_at": "2026-11-12T16:48:16Z",
+          "views": 77765,
           "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
+          "ai_evidence": "AI制作未验证",
           "actions": []
         },
         {
@@ -38,10 +38,24 @@
           "url": "https://www.youtube.com/watch?v=8u0IMH1TL8s",
           "published_at": "2026-11-12T02:10:11Z",
           "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 4421,
-          "observed_growth_per_hour": null,
+          "views": 11676,
+          "observed_growth_per_hour": 751.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
+        },
+        {
+          "title": "sheru bhai ko suppory      AI Lion Transformation 😈 #shorts​​.#sheru​​​#oggy​​​  #viral​​​#shorts​​​",
+          "channel": "Gamer x Noob",
+          "channel_id": "UCR9ZpAh8kFBwd1fEg9bQN7A",
+          "url": "https://www.youtube.com/watch?v=JJJXudKXAOw",
+          "published_at": "2026-11-12T03:10:00Z",
+          "first_seen_at": "2026-11-12T16:48:16Z",
+          "views": 3235,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未验证",
+          "actions": [
+            "transform"
+          ]
         },
         {
           "title": "🦁 SHERU BHAI VIRAL AI VIDEO TREND – 200M+ VIEWS 😱 | Free AI Tools से बनाओ Realistic Lion Videos",
@@ -50,74 +64,22 @@
           "url": "https://www.youtube.com/watch?v=FygDh26Wky8",
           "published_at": "2026-11-12T02:30:13Z",
           "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 1,
-          "observed_growth_per_hour": null,
+          "views": 24,
+          "observed_growth_per_hour": 2.4,
           "ai_evidence": "作者文字自述AI",
           "actions": []
-        },
-        {
-          "title": "Sheru Bhai Video #sheru , #aivideo , #trend #trending",
-          "channel": "PokeFire",
-          "channel_id": "UC4APXo0RUKw4FxIbnDl2ZvQ",
-          "url": "https://www.youtube.com/watch?v=mZdaxb4UymQ",
-          "published_at": "2026-11-12T01:51:34Z",
-          "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 0,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#shortfeed",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "❤️Red Egg vs Sonic — 😅#shorts #gaming #shortfeed #viralshorts #aianimation #cartooncomedy #sonic",
-          "channel": "Beamdrive_Src",
-          "channel_id": "UC6ARk1Rdcqv5itR1sWVrSaQ",
-          "url": "https://www.youtube.com/watch?v=152a1VLj4vI",
-          "published_at": "2026-11-11T07:55:05Z",
-          "first_seen_at": "2026-11-11T22:41:15Z",
-          "views": 4761,
-          "observed_growth_per_hour": 1.8,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🔥 Title: Ishqaun Dhishqyaun ❤️ Killer Dance Moves 💃 |Trending Song | AI Dance #Shorts#boost",
-          "channel": "Juliparveen22",
-          "channel_id": "UCE1s359JXi_P3ERX3nA2c7A",
-          "url": "https://www.youtube.com/watch?v=NJN0ta1o5QI",
-          "published_at": "2026-11-11T07:26:09Z",
-          "first_seen_at": "2026-11-11T16:10:13Z",
-          "views": 948,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "dance"
-          ]
         }
       ]
     },
     {
       "anchor": "#technology",
       "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.33,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
@@ -128,7 +90,19 @@
           "url": "https://www.youtube.com/watch?v=Of_EZODZ1oc",
           "published_at": "2026-11-12T03:30:25Z",
           "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 268,
+          "views": 2895,
+          "observed_growth_per_hour": 272.0,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "🔥 Maine Pyar Tumhi Se Kiya Hai 🎤😂 | NVIDIA CEO Meme #shorts",
+          "channel": "World Wide Information",
+          "channel_id": "UCg4SAiMoQUbmNDEZ7ODQiJg",
+          "url": "https://www.youtube.com/watch?v=slj0oOMgyms",
+          "published_at": "2026-11-12T11:30:17Z",
+          "first_seen_at": "2026-11-12T16:48:16Z",
+          "views": 1623,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -140,8 +114,88 @@
           "url": "https://www.youtube.com/watch?v=AGto3jr4sYk",
           "published_at": "2026-11-12T03:56:49Z",
           "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 0,
+          "views": 9,
+          "observed_growth_per_hour": 0.9,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "motu patlu characters",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Motu Patlu Cartoon Characters in Indian Army Version 🇮🇳🔥 | AI Transformation | Real Toon Zero",
+          "channel": "Real Toon Zero",
+          "channel_id": "UCGWKbr28aXenTCrVxl7ZUbg",
+          "url": "https://www.youtube.com/watch?v=W4NPAVW2AA8",
+          "published_at": "2026-11-12T13:28:33Z",
+          "first_seen_at": "2026-11-12T16:48:16Z",
+          "views": 364,
           "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Motu Patlu Cartoon Characters Ka Police Officer Version 👮🚔  AI Transformation ",
+          "channel": "Mass09",
+          "channel_id": "UCpw0lXHPfJwjupmgn-xgzZg",
+          "url": "https://www.youtube.com/watch?v=z6OgLFuSWWw",
+          "published_at": "2026-11-12T02:35:15Z",
+          "first_seen_at": "2026-11-12T16:48:16Z",
+          "views": 56,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "#wedding",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "💄 Bride Requests An Over-The-Top Makeup Transformation #dulhan #dulhandulhan #wedding #ai #aivideo",
+          "channel": "Vats ai",
+          "channel_id": "UCAStj3E6xv3Hgf0ri6PDUow",
+          "url": "https://www.youtube.com/watch?v=j7uGGMQ3AsE",
+          "published_at": "2026-11-12T05:17:00Z",
+          "first_seen_at": "2026-11-12T16:48:16Z",
+          "views": 2823,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        },
+        {
+          "title": "funniest couple #video #viral #wedding #aivideo #ai #funny #funnyvideo #funnyshorts #trending #trend",
+          "channel": "zoha journey ",
+          "channel_id": "UCA88DILFQmwRzFUdIiRdgQQ",
+          "url": "https://www.youtube.com/watch?v=IVOcJpd_tec",
+          "published_at": "2026-11-12T04:23:39Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 133,
+          "observed_growth_per_hour": 11.3,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
