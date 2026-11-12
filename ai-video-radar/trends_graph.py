@@ -62,7 +62,7 @@ def related_rows(result, field):
 
 
 def evaluate(graph, now_iso, fetcher=None, *, max_queries=3, max_depth=2,
-             geo="US", timeframe="today 7-d"):
+             geo="US", timeframe="now 7-d"):
     now = moment(now_iso)
     if now is None:
         raise ValueError("valid UTC timestamp required")
