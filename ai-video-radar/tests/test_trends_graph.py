@@ -24,7 +24,7 @@ class TrendsGraphTests(unittest.TestCase):
         graph = {"nodes": {}, "edges": []}
         ingest_seeds(graph, {"keywords": {"ai dance": {"keyword": "ai dance"}}}, self.NOW)
         def fake(word, geo, timeframe):
-            self.assertEqual((geo, timeframe), ("US", "today 7-d"))
+            self.assertEqual((geo, timeframe), ("US", "now 7-d"))
             return {"related_queries": {"rising": [{"query": "dance style ai", "formatted_value": "Breakout"}],
                                         "top": [{"query": "ai dance generator", "value": 75}]},
                     "interest_over_time": [{"date": "2026-11-12", "value": 15}]}
