@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T22:41:19.486261+00:00",
-  "source_snapshot_at": "2026-11-11T22:41:15Z",
-  "source_video_count": 2593,
-  "published_last_24h_with_channel": 210,
+  "generated_at": "2026-11-12T07:08:53.229484+00:00",
+  "source_snapshot_at": "2026-11-12T07:08:49Z",
+  "source_video_count": 2624,
+  "published_last_24h_with_channel": 203,
   "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
@@ -10,35 +10,59 @@
     {
       "anchor": "sheru bhai",
       "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
+      "unique_channels": 4,
+      "ai_claimed_channels": 4,
+      "video_count": 4,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.25,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Sheru Bhai Returns to His Village After 20 Years part-1 #ai #sheru#sherubhai#aianimation",
-          "channel": "Zynex Hub",
-          "channel_id": "UCljO7cOKLjEe4k5owKfQtPQ",
-          "url": "https://www.youtube.com/watch?v=a_JmasOy5WU",
-          "published_at": "2026-11-11T04:27:27Z",
-          "first_seen_at": "2026-11-11T22:41:15Z",
-          "views": 9416,
+          "title": "Sheru Bhai നിങ്ങൾക്കും 😅 #shorts #viral #sheruBhai #aivideo",
+          "channel": "TipNo",
+          "channel_id": "UC6zPNOUN13NWactx5x6up7A",
+          "url": "https://www.youtube.com/watch?v=BTJs--3X-Us",
+          "published_at": "2026-11-11T12:32:16Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 20675,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Sheru Bhai Says! 🦁🔥 #Shorts #YouTubeShorts #AIAnimation #MalayalamShorts #FunnyShorts #ViralShorts",
-          "channel": "CoColemon",
-          "channel_id": "UCK1-vapQGXkhhayyvkxHmOw",
-          "url": "https://www.youtube.com/watch?v=-auvSBEOxEg",
-          "published_at": "2026-11-11T04:21:16Z",
-          "first_seen_at": "2026-11-11T22:41:15Z",
-          "views": 8189,
+          "title": "sheru Bhai ka trend khatam ho jaye to moja bula gya ga bahi | #sheru #sher #ai #aivideo #viral",
+          "channel": "GUN BOY GAMER ",
+          "channel_id": "UCWksfAgE2i8NglIHp1j9OTQ",
+          "url": "https://www.youtube.com/watch?v=8u0IMH1TL8s",
+          "published_at": "2026-11-12T02:10:11Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 4421,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "🦁 SHERU BHAI VIRAL AI VIDEO TREND – 200M+ VIEWS 😱 | Free AI Tools से बनाओ Realistic Lion Videos",
+          "channel": "The Money Maker",
+          "channel_id": "UC_KcX5gnmBE9bjDGqrfnRCg",
+          "url": "https://www.youtube.com/watch?v=FygDh26Wky8",
+          "published_at": "2026-11-12T02:30:13Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 1,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Sheru Bhai Video #sheru , #aivideo , #trend #trending",
+          "channel": "PokeFire",
+          "channel_id": "UC4APXo0RUKw4FxIbnDl2ZvQ",
+          "url": "https://www.youtube.com/watch?v=mZdaxb4UymQ",
+          "published_at": "2026-11-12T01:51:34Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 0,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -50,10 +74,10 @@
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
-      "video_count": 3,
+      "video_count": 2,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
+      "near_duplicate_caption_fraction": 0.5,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
@@ -64,20 +88,8 @@
           "url": "https://www.youtube.com/watch?v=152a1VLj4vI",
           "published_at": "2026-11-11T07:55:05Z",
           "first_seen_at": "2026-11-11T22:41:15Z",
-          "views": 4746,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🔥 Title: Ishqaun Dhishqaun 💃😍 | धमाकेदार AI Dance | Ram Leela Song ❤️ #Shorts#boost",
-          "channel": "Juliparveen22",
-          "channel_id": "UCE1s359JXi_P3ERX3nA2c7A",
-          "url": "https://www.youtube.com/watch?v=8IGqpr7zd7E",
-          "published_at": "2026-11-11T06:26:07Z",
-          "first_seen_at": "2026-11-11T16:10:13Z",
-          "views": 979,
-          "observed_growth_per_hour": 0.5,
+          "views": 4761,
+          "observed_growth_per_hour": 1.8,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -89,7 +101,7 @@
           "published_at": "2026-11-11T07:26:09Z",
           "first_seen_at": "2026-11-11T16:10:13Z",
           "views": 948,
-          "observed_growth_per_hour": 0.5,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "dance"
@@ -98,7 +110,7 @@
       ]
     },
     {
-      "anchor": "#animallife",
+      "anchor": "#technology",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -110,25 +122,25 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Ai animation rabbit and goat video #rabbit #goat   #3danimation #wildlife #funny #animallife",
-          "channel": "Sk skills zone",
-          "channel_id": "UCwHB-RRxSx-hILa_TXJMoHg",
-          "url": "https://www.youtube.com/watch?v=s9kK-fvK-r8",
-          "published_at": "2026-11-10T23:48:50Z",
-          "first_seen_at": "2026-11-11T22:41:15Z",
-          "views": 2981,
+          "title": "Sheru viral video",
+          "channel": "Tushar Jethva",
+          "channel_id": "UCboS_dFt0AgJbDTpk4sS6vQ",
+          "url": "https://www.youtube.com/watch?v=Of_EZODZ1oc",
+          "published_at": "2026-11-12T03:30:25Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 268,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
-          "channel": "Mini Magic World",
-          "channel_id": "UCsGYnLdx3u_I_nAlm8nkDTQ",
-          "url": "https://www.youtube.com/watch?v=nlBlPAvp14E",
-          "published_at": "2026-11-11T06:10:20Z",
-          "first_seen_at": "2026-11-11T22:41:15Z",
-          "views": 2,
+          "title": "🔥 AI की दुनिया का नया कमाल 😱🤖 | Technology देखकर हो जाओगे हैरान!#AI #Technology #AIVideo #Trend",
+          "channel": " ꧁༒☬ 𝐀𝐊 𝐌𝐔𝐒𝐈𝐂 𝐒𝐓𝐔𝐃𝐈𝐎 ☬༒꧂",
+          "channel_id": "UC7ENKiDBn-gnll4DBsR8U4w",
+          "url": "https://www.youtube.com/watch?v=AGto3jr4sYk",
+          "published_at": "2026-11-12T03:56:49Z",
+          "first_seen_at": "2026-11-12T07:08:49Z",
+          "views": 0,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -136,22 +148,5 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "జడ వేసే మిషన్..! #ai #aivideo #AIgenerated #hairbraider #aitechnology #shorts",
-      "channel": "PolitEnt News",
-      "channel_id": "UCzWFvWu9RjG1C9jOhVQtOdA",
-      "url": "https://www.youtube.com/watch?v=NuZNIFJr6ME",
-      "published_at": "2026-11-11T00:30:09Z",
-      "first_seen_at": "2026-11-11T16:10:13Z",
-      "views": 100857,
-      "observed_growth_per_hour": 4507.1,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "#aitechnology",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
