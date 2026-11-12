@@ -4,12 +4,14 @@ on:
   pull_request:
     paths:
       - 'ai-video-radar/trends_graph.py'
+      - 'ai-video-radar/trends_seeds.json'
       - 'ai-video-radar/tests/test_trends_graph.py'
       - '.github/workflows/ai-video-trends-graph.yml'
   push:
     branches: [master]
     paths:
       - 'ai-video-radar/trends_graph.py'
+      - 'ai-video-radar/trends_seeds.json'
       - '.github/workflows/ai-video-trends-graph.yml'
   schedule:
     # Daily low-volume Explore probe; Google can rate limit GitHub runner IPs.
