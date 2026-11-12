@@ -71,7 +71,8 @@ def evaluate(graph, now_iso, fetcher=None, *, max_queries=3, max_depth=2,
     existing = {(e["parent"], e["child"], e["type"]) for e in edges}
     candidates = [(k, v) for k, v in nodes.items() if checkable(v, now, max_depth)]
     # Explore newly discovered child terms, but prioritize fresh roots before old backlog.
-    candidates.sort(key=lambda pair: (pair[1].get("depth", 0),
+    candidates.sort(key=lambda pair: (pair[1].get("seed_type") == "CURATED_ROOT",
+                                      pair[1].get("depth", 0),
                                       pair[1].get("first_observed_at", "")), reverse=True)
     attempted = success = new_terms = 0
     limited = False
@@ -141,6 +142,15 @@ def provider(keyword, geo, timeframe):
                                          retry_wait=2.0)
 
 
+def read_seed_roots(path):
+    try:
+        value = json.loads(Path(path).read_text(encoding="utf-8"))
+        roots = value.get("roots", [])
+        return [x.strip() for x in roots if isinstance(x, str) and x.strip()]
+    except (OSError, ValueError, AttributeError):
+        return []
+
+
 def process(root, *, execute=False, max_queries=3):
     root = Path(root)
     data = root / "data"
@@ -155,6 +165,13 @@ def process(root, *, execute=False, max_queries=3):
         graph = {"schema_version": 1, "nodes": {}, "edges": []}
     now_iso = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     new_seeds = ingest_seeds(graph, ledger, now_iso)
+    # Broad roots make Related Queries useful; source discoveries remain intact.
+    curated = read_seed_roots(root / "trends_seeds.json")
+    new_seeds += ingest_seeds(graph, {"keywords": {term: {"keyword": term} for term in curated}}, now_iso)
+    for term in curated:
+        node = graph["nodes"][norm(term)]
+        node["seed_type"] = "CURATED_ROOT"
+        node["depth"] = 0
     stats = evaluate(graph, now_iso, provider if execute else None, max_queries=max_queries)
     graph["last_run"] = {"checked_at": now_iso, "new_seeds": new_seeds, **stats}
     data.mkdir(parents=True, exist_ok=True)
