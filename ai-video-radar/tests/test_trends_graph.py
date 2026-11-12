@@ -53,5 +53,20 @@ class TrendsGraphTests(unittest.TestCase):
         self.assertEqual(sum(x["status"] == "RATE_LIMITED" for x in graph["nodes"].values()), 1)
 
 
+    def test_curated_roots_run_before_many_specific_names(self):
+        graph = {"nodes": {}, "edges": []}
+        ingest_seeds(graph, {"entities": {"one": {"title": "obscure name",
+                    "first_observed_at": "2026-11-12T16:00:00+00:00"}}}, self.NOW)
+        ingest_seeds(graph, {"keywords": {"ai video": {"keyword": "ai video"}}}, self.NOW)
+        graph["nodes"]["ai video"]["seed_type"] = "CURATED_ROOT"
+        queries = []
+        def record(word, *_):
+            queries.append(word)
+            return {"related_queries": {"top": [{"query": "ai video generator"}]}, "interest_over_time": []}
+        result = evaluate(graph, self.NOW, record, max_queries=1)
+        self.assertEqual(queries, ["ai video"])
+        self.assertEqual(result["new_terms"], 1)
+
+
 if __name__ == "__main__":
     unittest.main()
