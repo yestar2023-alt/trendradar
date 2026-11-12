@@ -14,6 +14,7 @@ on:
       - 'ai-video-radar/seo_metrics.py'
       - 'ai-video-radar/data/keyword_metrics.csv'
       - 'ai-video-radar/config.json'
+      - 'ai-video-radar/keyword_queue.py'
       - 'ai-video-radar/tests/**'
       - '.github/workflows/ai-video-radar.yml'
 
@@ -43,6 +44,8 @@ jobs:
         run: |
           if test -f ai-video-radar/radar.py; then echo "root=ai-video-radar" >> "$GITHUB_OUTPUT"; else echo "root=." >> "$GITHUB_OUTPUT"; fi
           python -m unittest discover -s "$(test -f ai-video-radar/radar.py && echo ai-video-radar/tests || echo tests)" -v
+      - name: Test all-URL keyword inventory
+        run: python -m unittest discover -s ai-video-radar/tests -p 'test_keyword_queue.py' -v
       - name: Crawl and compare snapshots
         env:
           SEO_AUTO_FETCH: ${{ vars.SEO_AUTO_FETCH }}
@@ -54,6 +57,8 @@ jobs:
           DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
           DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
         run: python "${{ steps.locate.outputs.root }}/radar.py" --root "${{ steps.locate.outputs.root }}"
+      - name: Build complete keyword backlog from every new URL
+        run: python ai-video-radar/keyword_queue.py
       - name: Verify fresh report and print Media.io crawl status
         shell: bash
         env:
@@ -88,5 +93,7 @@ jobs:
           path: |
             ${{ steps.locate.outputs.root }}/reports/latest.md
             ${{ steps.locate.outputs.root }}/reports/*.csv
+            ${{ steps.locate.outputs.root }}/reports/keyword-queue-latest.json
+            ${{ steps.locate.outputs.root }}/reports/keyword-queue-latest.md
           if-no-files-found: ignore
           retention-days: 30
