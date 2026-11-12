@@ -57,7 +57,7 @@ def checkable(item, now, max_depth):
 
 def related_rows(result, field):
     related = result.get("related_queries") or {}
-    value = related.get(field) if isinstance(related, dict) else []
+    value = (related.get(field) or []) if isinstance(related, dict) else []
     return [row for row in value if isinstance(row, dict) and str(row.get("query", "")).strip()]
 
 
