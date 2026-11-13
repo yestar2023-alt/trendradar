@@ -68,5 +68,27 @@ class TrendsGraphTests(unittest.TestCase):
         self.assertEqual(result["new_terms"], 1)
 
 
+    def test_quality_gate_skips_noise_and_prioritizes_verified_leads(self):
+        graph = {"nodes": {}, "edges": []}
+        ingest_seeds(graph, {"keywords": {
+            "bad general topic": {"keyword": "bad general topic"},
+            "glorybound roblox codes": {"keyword": "glorybound roblox codes"},
+            "other game codes": {"keyword": "other game codes"}}}, self.NOW)
+        quality = {
+            "bad general topic": {"quality_status": "EXCLUDED_NOISE", "score": 0},
+            "glorybound roblox codes": {"quality_status": "HIGH_PRIORITY_RESEARCH", "score": 82},
+            "other game codes": {"quality_status": "WATCH_ONLY", "score": 3}}
+        queried = []
+        def fake(word, *_):
+            queried.append(word)
+            return {"related_queries": {"rising": [], "top": []},
+                    "interest_over_time": []}
+        res = evaluate(graph, self.NOW, fake, max_queries=1, quality=quality)
+        self.assertEqual(queried, ["glorybound roblox codes"])
+        self.assertEqual(res["success"], 1)
+        self.assertEqual(graph["nodes"]["bad general topic"]["quality_gate"], "SKIPPED_NOISE")
+        self.assertEqual(graph["nodes"]["bad general topic"]["status"], "QUEUED")
+
+
 if __name__ == "__main__":
     unittest.main()
