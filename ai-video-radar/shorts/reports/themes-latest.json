@@ -1,70 +1,10 @@
 {
-  "built_at": "2026-11-13T01:04:25.222591+00:00",
-  "source_snapshot_at": "2026-11-13T01:04:20Z",
-  "snapshot_video_count": 2585,
-  "named_theme_count": 1,
+  "built_at": "2026-11-13T12:12:20.936342+00:00",
+  "source_snapshot_at": "2026-11-13T12:12:17Z",
+  "snapshot_video_count": 2552,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "jhinga_lala",
-      "name": "Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "跟随现有口号/音乐进行搞笑短舞",
-      "input": "自有授权素材或本人肖像",
-      "risk": "音频版权、模仿素材授权与批量搬运",
-      "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
-      "existing_before": "2026-09-15",
-      "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
-      "videos": 3,
-      "channel_count": 3,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 8099,
-      "first_observed_at": "2026-11-13T01:04:20Z",
-      "examples": [
-        {
-          "video_id": "HrTpi9zccDQ",
-          "title": "Jhinga lala huhu kakadadamama😂 #funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=HrTpi9zccDQ",
-          "channel": "Nkg kushvaha ",
-          "channel_id": "UCJXCZ7ToOz2gZT4YqLcxNSw",
-          "published_at": "2026-11-12T01:52:43Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 8099,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "3b2k_KEwqpw",
-          "title": "Jhinga lala hu hu kaka dada mama@#funny​​​​​​​​​ #comedy​​​​​​​​​#dance​​​​​​​​​ #ai​​​​​​​​​#trend",
-          "url": "https://www.youtube.com/watch?v=3b2k_KEwqpw",
-          "channel": "Parvati Chauhan vlogs",
-          "channel_id": "UClmBqcTcqjRtlRaWfbNnBiQ",
-          "published_at": "2026-11-12T03:57:08Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 3484,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "X3lNltaoTdI",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
-          "url": "https://www.youtube.com/watch?v=X3lNltaoTdI",
-          "channel": "Cute Raahi's Dairy ",
-          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
-          "published_at": "2026-11-12T01:15:07Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 1805,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }

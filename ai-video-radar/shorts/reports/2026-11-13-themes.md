@@ -1,8 +1,8 @@
 # AI Shorts 新玩法归组与独立模仿证据（自动候选）
 
-- 数据时间（北京）：2026-11-13 09:04
+- 数据时间（北京）：2026-11-13 20:12
 - 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询
-- 保存的历史状态池：2585 条；仅使用最近24小时发布的视频归组为 1 个主题
+- 保存的历史状态池：2552 条；仅使用最近24小时发布的视频归组为 0 个主题
 - 有两个及以上独立账号文字自述AI的**候选主题**：0（不等于同一玩法的模仿已证实）
 - 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**
 
@@ -12,21 +12,6 @@
 > 只有独立视频截图/动作、跨平台传播、搜索意图及竞品历史都复核后，才可给出真正新词 Top。
 
 ## 窄义玩法候选与历史
-
-### 1. Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗
-
-- 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
-- 近期匹配视频：3；不同频道：3；文字自述AI的视频：0；其中独立作者频道：0
-- 最大单条观测播放量：8099；首次系统观察：2026-11-13 09:04（不等于真实首发）
-- 可复刻概念：跟随现有口号/音乐进行搞笑短舞；输入素材：自有授权素材或本人肖像
-- 混淆与排除：9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿；风险：音频版权、模仿素材授权与批量搬运
-- **不属于今日新发现玩法的历史证据：** 不晚于 2026-09-15 已有相关内容或商业页面（不能推断真正起源），[https://www.youtube.com/watch?v=hFpsTmThUpo](https://www.youtube.com/watch?v=hFpsTmThUpo)
-
-| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
-|---|---|---|---|---:|---|---:|
-| Nkg kushvaha  | [Jhinga lala huhu kakadadamama😂 #funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending](https://www.youtube.com/watch?v=HrTpi9zccDQ) | 2026-11-12 09:52 | 2026-11-13 09:04 | 8099 | AI制作未核实 | 待多次采样 |
-| Parvati Chauhan vlogs | [Jhinga lala hu hu kaka dada mama@#funny​​​​​​​​​ #comedy​​​​​​​​​#dance​​​​​​​​​ #ai​​​​​​​​​#trend](https://www.youtube.com/watch?v=3b2k_KEwqpw) | 2026-11-12 11:57 | 2026-11-13 09:04 | 3484 | AI制作未核实 | 待多次采样 |
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=X3lNltaoTdI) | 2026-11-12 09:15 | 2026-11-13 09:04 | 1805 | AI制作未核实 | 待多次采样 |
 
 ## 单条超过100万播放，但尚未匹配具体玩法的 AI 自述视频
 

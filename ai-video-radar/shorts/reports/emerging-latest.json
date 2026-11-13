@@ -1,231 +1,15 @@
 {
-  "generated_at": "2026-11-13T01:04:25.344638+00:00",
-  "source_snapshot_at": "2026-11-13T01:04:20Z",
-  "source_video_count": 2585,
-  "published_last_24h_with_channel": 262,
-  "shared_name_groups": 5,
+  "generated_at": "2026-11-13T12:12:21.078188+00:00",
+  "source_snapshot_at": "2026-11-13T12:12:17Z",
+  "source_video_count": 2552,
+  "published_last_24h_with_channel": 158,
+  "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "sheru bhai",
-      "anchor_type": "phrase",
-      "unique_channels": 6,
-      "ai_claimed_channels": 3,
-      "video_count": 6,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.17,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "sheru Bhai ka trend khatam ho jaye to moja bula gya ga bahi | #sheru #sher #ai #aivideo #viral",
-          "channel": "GUN BOY GAMER ",
-          "channel_id": "UCWksfAgE2i8NglIHp1j9OTQ",
-          "url": "https://www.youtube.com/watch?v=8u0IMH1TL8s",
-          "published_at": "2026-11-12T02:10:11Z",
-          "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 13691,
-          "observed_growth_per_hour": 243.7,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "😱 Sheru Bhai Ka Humshakal Aa Gaya! Asli Sheru Kaun? 😂🦁 #shorts #sheru",
-          "channel": "SheruVerse Studio",
-          "channel_id": "UCEClPM9JqF3XQgAhrjF4scA",
-          "url": "https://www.youtube.com/watch?v=UDCmrHOx3Iw",
-          "published_at": "2026-11-12T04:36:16Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 8472,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "Sheru Bhai Kidnapped 🦁#aurafarming #algorithm #viralvideo #shorts.",
-          "channel": "ʙᴇʀʟɪɴ.ㅤㅤ",
-          "channel_id": "UCi8CxMjkxlo5j1u9OkfKjYg",
-          "url": "https://www.youtube.com/watch?v=Uno-iEuMxFY",
-          "published_at": "2026-11-12T12:15:34Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 5011,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "sheru bhai ko suppory      AI Lion Transformation 😈 #shorts​​.#sheru​​​#oggy​​​  #viral​​​#shorts​​​",
-          "channel": "Gamer x Noob",
-          "channel_id": "UCR9ZpAh8kFBwd1fEg9bQN7A",
-          "url": "https://www.youtube.com/watch?v=JJJXudKXAOw",
-          "published_at": "2026-11-12T03:10:00Z",
-          "first_seen_at": "2026-11-12T16:48:16Z",
-          "views": 4873,
-          "observed_growth_per_hour": 198.1,
-          "ai_evidence": "AI制作未验证",
-          "actions": [
-            "transform"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "#technology",
+      "anchor": "#aitrends2026",
       "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🔥 Maine Pyar Tumhi Se Kiya Hai 🎤😂 | NVIDIA CEO Meme #shorts",
-          "channel": "World Wide Information",
-          "channel_id": "UCg4SAiMoQUbmNDEZ7ODQiJg",
-          "url": "https://www.youtube.com/watch?v=slj0oOMgyms",
-          "published_at": "2026-11-12T11:30:17Z",
-          "first_seen_at": "2026-11-12T16:48:16Z",
-          "views": 5039,
-          "observed_growth_per_hour": 413.2,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Sheru viral video",
-          "channel": "Tushar Jethva",
-          "channel_id": "UCboS_dFt0AgJbDTpk4sS6vQ",
-          "url": "https://www.youtube.com/watch?v=Of_EZODZ1oc",
-          "published_at": "2026-11-12T03:30:25Z",
-          "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 4098,
-          "observed_growth_per_hour": 145.5,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "🔥 AI की दुनिया का नया कमाल 😱🤖 | Technology देखकर हो जाओगे हैरान!#AI #Technology #AIVideo #Trend",
-          "channel": " ꧁༒☬ 𝐀𝐊 𝐌𝐔𝐒𝐈𝐂 𝐒𝐓𝐔𝐃𝐈𝐎 ☬༒꧂",
-          "channel_id": "UC7ENKiDBn-gnll4DBsR8U4w",
-          "url": "https://www.youtube.com/watch?v=AGto3jr4sYk",
-          "published_at": "2026-11-12T03:56:49Z",
-          "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 11,
-          "observed_growth_per_hour": 0.2,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#islamicvideo",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "A Peaceful Islamic Story Scene 35 | AI-Inspired Reflection ✨ #islamic #shorts #viral #islamicvideo",
-          "channel": "Focus Ai Lens",
-          "channel_id": "UCf3LrN9rHZKc20M1ShLDpWw",
-          "url": "https://www.youtube.com/watch?v=8KTfQRVPTeg",
-          "published_at": "2026-11-12T07:46:57Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 85510,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "বিপদের সময় যে পাশে থাকে সেই প্রকৃত বন্ধু। #banglacartoon #shorts #islamicvideo",
-          "channel": "Fahim Story World",
-          "channel_id": "UCFJ9eSPfRBQGCiZnoWklM3w",
-          "url": "https://www.youtube.com/watch?v=oH0Jdg0rlUc",
-          "published_at": "2026-11-12T03:59:16Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 2056,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "#AlAqsaMosque #AITransformation #AIMagic #Jerusalem #IslamicVideo #AIVideo #Shorts",
-          "channel": "Ikabal  vrod",
-          "channel_id": "UCZ7mrpHrfP_g8r_XIGurx3g",
-          "url": "https://www.youtube.com/watch?v=2NfJygBUt7w",
-          "published_at": "2026-11-12T08:24:36Z",
-          "first_seen_at": "2026-11-12T16:48:16Z",
-          "views": 1268,
-          "observed_growth_per_hour": 37.6,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#wedding",
-      "anchor_type": "tag",
-      "unique_channels": 3,
-      "ai_claimed_channels": 2,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "❤️ ससुराल जाते हुए दुल्हन ने बचाई मरीज की जान! 😍👩‍⚕️ #Shorts #wedding #comedyshorts",
-          "channel": "AI comedy wedding ",
-          "channel_id": "UC27G9YBmEwmpTmMCMc9qrwA",
-          "url": "https://www.youtube.com/watch?v=rycYEKtdFlU",
-          "published_at": "2026-11-12T07:08:29Z",
-          "first_seen_at": "2026-11-13T01:04:20Z",
-          "views": 62489,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "💄 Bride Requests An Over-The-Top Makeup Transformation #dulhan #dulhandulhan #wedding #ai #aivideo",
-          "channel": "Vats ai",
-          "channel_id": "UCAStj3E6xv3Hgf0ri6PDUow",
-          "url": "https://www.youtube.com/watch?v=j7uGGMQ3AsE",
-          "published_at": "2026-11-12T05:17:00Z",
-          "first_seen_at": "2026-11-12T16:48:16Z",
-          "views": 4643,
-          "observed_growth_per_hour": 220.1,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
-        },
-        {
-          "title": "funniest couple #video #viral #wedding #aivideo #ai #funny #funnyvideo #funnyshorts #trending #trend",
-          "channel": "zoha journey ",
-          "channel_id": "UCA88DILFQmwRzFUdIiRdgQQ",
-          "url": "https://www.youtube.com/watch?v=IVOcJpd_tec",
-          "published_at": "2026-11-12T04:23:39Z",
-          "first_seen_at": "2026-11-12T07:08:49Z",
-          "views": 198,
-          "observed_growth_per_hour": 7.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "motu patlu characters",
-      "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
       "video_count": 2,
@@ -236,30 +20,28 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Motu Patlu Cartoon Characters in Indian Army Version 🇮🇳🔥 | AI Transformation | Real Toon Zero",
-          "channel": "Real Toon Zero",
-          "channel_id": "UCGWKbr28aXenTCrVxl7ZUbg",
-          "url": "https://www.youtube.com/watch?v=W4NPAVW2AA8",
-          "published_at": "2026-11-12T13:28:33Z",
-          "first_seen_at": "2026-11-12T16:48:16Z",
-          "views": 620,
-          "observed_growth_per_hour": 31.0,
+          "title": "best rabdi Ai video trend #aishorts #aitrends2026 #aivairal #vairalpost",
+          "channel": "Chhota cartoon",
+          "channel_id": "UCOtwA77367nw4axL6C1y8RA",
+          "url": "https://www.youtube.com/watch?v=yTtSRJkS5oI",
+          "published_at": "2026-11-13T06:59:55Z",
+          "first_seen_at": "2026-11-13T12:12:17Z",
+          "views": 1295,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Motu Patlu Cartoon Characters Ka Police Officer Version 👮🚔  AI Transformation ",
-          "channel": "Mass09",
-          "channel_id": "UCpw0lXHPfJwjupmgn-xgzZg",
-          "url": "https://www.youtube.com/watch?v=z6OgLFuSWWw",
-          "published_at": "2026-11-12T02:35:15Z",
-          "first_seen_at": "2026-11-12T16:48:16Z",
-          "views": 59,
-          "observed_growth_per_hour": 0.4,
+          "title": "KALYUG KA BANDA #lyft #trendingshorts #trend #aisongs #aivideo #aitrends2026",
+          "channel": "SUNNY JAAT RECORDS",
+          "channel_id": "UCeLEHMyArdgpUnK4FV6TxuA",
+          "url": "https://www.youtube.com/watch?v=_rjB3XXuFWQ",
+          "published_at": "2026-11-13T03:40:43Z",
+          "first_seen_at": "2026-11-13T12:12:17Z",
+          "views": 1,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
+          "actions": []
         }
       ]
     }
