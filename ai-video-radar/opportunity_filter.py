@@ -52,14 +52,28 @@ def age_days(value, now):
     point = parse_date(value)
     return (now - point).total_seconds() / 86400 if point else None
 
-def support_for(keyword, entries):
+def support_index(entries):
+    # Index by first title token to avoid N_graph_nodes * N_all_ledger_entries.
+    result = {}
+    for ident, entry in entries.items():
+        title = norm(entry.get("title") or entry.get("keyword"))
+        tokens = re.findall(r"[a-z0-9]+", title)
+        if tokens and len(title) >= 5:
+            result.setdefault(tokens[0], []).append((ident, entry, title))
+    return result
+
+
+def support_for(keyword, entries, index=None):
     # Preserve identities independently: matching a name is not ID verification.
     term = norm(keyword)
     ids, sources, urls = [], set(), set()
-    for ident, entry in entries.items():
-        title = norm(entry.get("title") or entry.get("keyword"))
-        if not title or len(title) < 5:
-            continue
+    candidates = (index or support_index(entries))
+    tokens = set(re.findall(r"[a-z0-9]+", term))
+    matches = {}
+    for token in tokens:
+        for ident, entry, title in candidates.get(token, []):
+            matches[ident] = (entry, title)
+    for ident, (entry, title) in matches.items():
         if title == term or (len(title) >= 7 and
           re.search(r"(?<![a-z0-9])" + re.escape(title) + r"(?![a-z0-9])", term)):
             ids.append(ident)
@@ -144,6 +158,7 @@ def assess(graph, ledger, vertical, now_iso):
     if now is None or vertical not in ("game", "ai"):
         raise ValueError("valid time and vertical required")
     entries = ledger.get("entities") or ledger.get("keywords") or {}
+    index = support_index(entries)
     edges_by_child = {}
     for edge in graph.get("edges") or []:
         if isinstance(edge, dict) and edge.get("child"):
@@ -151,7 +166,7 @@ def assess(graph, ledger, vertical, now_iso):
     rows = []
     for key, node in (graph.get("nodes") or {}).items():
         term = str(node.get("keyword") or key).strip()
-        sources = support_for(term, entries)
+        sources = support_for(term, entries, index)
         reason = noise_reason(term, vertical, sources["urls"])
         edges = edges_by_child.get(norm(key), [])
         rising = [e for e in edges if e.get("type") == "rising" and
