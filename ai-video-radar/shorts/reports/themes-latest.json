@@ -1,10 +1,116 @@
 {
-  "built_at": "2026-11-13T12:12:20.936342+00:00",
-  "source_snapshot_at": "2026-11-13T12:12:17Z",
-  "snapshot_video_count": 2552,
-  "named_theme_count": 0,
+  "built_at": "2026-11-13T19:44:37.920575+00:00",
+  "source_snapshot_at": "2026-11-13T19:44:33Z",
+  "snapshot_video_count": 2543,
+  "named_theme_count": 2,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
+  "themes": [
+    {
+      "theme_id": "a2o_lite_neon",
+      "name": "A2O LITE NEON AI 双人舞蹈",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "替换NEON双人编舞原角色进行动作模仿",
+      "input": "两张获得授权的成年人照片或宠物照片",
+      "risk": "音乐、编舞、角色/艺人肖像与粉丝衍生作品授权",
+      "caution": "10月20日已有生成器教程；作者自标日期并非独立归档首发验证，不能称今天才出现",
+      "existing_before": "2026-10-20",
+      "previous_evidence_url": "https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video",
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 547693,
+      "first_observed_at": "2026-11-13T19:44:33Z",
+      "examples": [
+        {
+          "video_id": "5YRkyQhqmLU",
+          "title": "AI보다 AI 같음, 태권도판 NEON #에이투오라이트 #A2OLITE #NEON #태권도 #Shorts",
+          "url": "https://www.youtube.com/watch?v=5YRkyQhqmLU",
+          "channel": "enterpocket",
+          "channel_id": "UC8SwIdxLBhzACO684GwVq4w",
+          "published_at": "2026-11-13T08:00:30Z",
+          "first_seen_at": "2026-11-13T19:44:33Z",
+          "views": 547693,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "jhinga_lala",
+      "name": "Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "跟随现有口号/音乐进行搞笑短舞",
+      "input": "自有授权素材或本人肖像",
+      "risk": "音频版权、模仿素材授权与批量搬运",
+      "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
+      "existing_before": "2026-09-15",
+      "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
+      "videos": 4,
+      "channel_count": 3,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 2421,
+      "first_observed_at": "2026-11-13T19:44:33Z",
+      "examples": [
+        {
+          "video_id": "xvLOBYvwczA",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=xvLOBYvwczA",
+          "channel": "Cute Raahi's Dairy ",
+          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
+          "published_at": "2026-11-13T01:15:08Z",
+          "first_seen_at": "2026-11-13T19:44:33Z",
+          "views": 2421,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "oGy8lPYrSQo",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=oGy8lPYrSQo",
+          "channel": "Cute Raahi's Dairy ",
+          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
+          "published_at": "2026-11-13T00:15:13Z",
+          "first_seen_at": "2026-11-13T19:44:33Z",
+          "views": 2040,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "EkLOiewozAo",
+          "title": "Jhinga lala hu hu kaka dada mama🤣 #funny#comedy #dance #ai #reels #youtubeshorts #shorts #trending",
+          "url": "https://www.youtube.com/watch?v=EkLOiewozAo",
+          "channel": "Nkg kushvaha ",
+          "channel_id": "UCJXCZ7ToOz2gZT4YqLcxNSw",
+          "published_at": "2026-11-13T02:31:18Z",
+          "first_seen_at": "2026-11-13T19:44:33Z",
+          "views": 1880,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "lyC5MBmy8Q8",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
+          "url": "https://www.youtube.com/watch?v=lyC5MBmy8Q8",
+          "channel": "August 2025",
+          "channel_id": "UC4xi2FOnaTFYs5eFWOUh8PA",
+          "published_at": "2026-11-13T13:45:08Z",
+          "first_seen_at": "2026-11-13T19:44:33Z",
+          "views": 1250,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    }
+  ],
   "unmatched_creative_candidates": []
 }

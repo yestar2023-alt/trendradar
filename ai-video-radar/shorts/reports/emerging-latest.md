@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-13 20:12
-- 数据库视频：2552；24小时内且有频道ID的非教程候选：158
+- 最新成功快照（北京）：2026-11-14 03:44
+- 数据库视频：2543；24小时内且有频道ID的非教程候选：217
 - 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -21,14 +21,14 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Chhota cartoon | [best rabdi Ai video trend #aishorts #aitrends2026 #aivairal #vairalpost](https://www.youtube.com/watch?v=yTtSRJkS5oI) | 2026-11-13 14:59 | 2026-11-13 20:12 | 1295 | 待多次采样 | 作者文字自述AI |
-| SUNNY JAAT RECORDS | [KALYUG KA BANDA #lyft #trendingshorts #trend #aisongs #aivideo #aitrends2026](https://www.youtube.com/watch?v=_rjB3XXuFWQ) | 2026-11-13 11:40 | 2026-11-13 20:12 | 1 | 待多次采样 | 作者文字自述AI |
+| Chhota cartoon | [best rabdi Ai video trend #aishorts #aitrends2026 #aivairal #vairalpost](https://www.youtube.com/watch?v=yTtSRJkS5oI) | 2026-11-13 14:59 | 2026-11-13 20:12 | 1347 | 6.9 | 作者文字自述AI |
+| SUNNY JAAT RECORDS | [KALYUG KA BANDA #lyft #trendingshorts #trend #aisongs #aivideo #aitrends2026](https://www.youtube.com/watch?v=_rjB3XXuFWQ) | 2026-11-13 11:40 | 2026-11-13 20:12 | 1 | 0.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| 𝑪𝒉𝒓𝒊𝒄𝒆𝒍 𝑼𝑲  | [Sling shot failed when Trump Tried to Get Revenge on Putin 😂#aigenerated](https://www.youtube.com/watch?v=ttkXSvJ0MGE) | 10万级早期观察，不是爆款 | 2026-11-13 17:01 | 2026-11-14 03:44 | 130140 | 待二次采样 |
 
 ## 人工核验清单
 

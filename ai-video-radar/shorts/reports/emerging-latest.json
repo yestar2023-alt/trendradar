@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T12:12:21.078188+00:00",
-  "source_snapshot_at": "2026-11-13T12:12:17Z",
-  "source_video_count": 2552,
-  "published_last_24h_with_channel": 158,
+  "generated_at": "2026-11-13T19:44:38.023771+00:00",
+  "source_snapshot_at": "2026-11-13T19:44:33Z",
+  "source_video_count": 2543,
+  "published_last_24h_with_channel": 217,
   "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=yTtSRJkS5oI",
           "published_at": "2026-11-13T06:59:55Z",
           "first_seen_at": "2026-11-13T12:12:17Z",
-          "views": 1295,
-          "observed_growth_per_hour": null,
+          "views": 1347,
+          "observed_growth_per_hour": 6.9,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -39,12 +39,29 @@
           "published_at": "2026-11-13T03:40:43Z",
           "first_seen_at": "2026-11-13T12:12:17Z",
           "views": 1,
-          "observed_growth_per_hour": null,
+          "observed_growth_per_hour": 0.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "Sling shot failed when Trump Tried to Get Revenge on Putin 😂#aigenerated",
+      "channel": "𝑪𝒉𝒓𝒊𝒄𝒆𝒍 𝑼𝑲 ",
+      "channel_id": "UCKpbfvaKRGirvV6Qv21FIaA",
+      "url": "https://www.youtube.com/watch?v=ttkXSvJ0MGE",
+      "published_at": "2026-11-13T09:01:19Z",
+      "first_seen_at": "2026-11-13T19:44:33Z",
+      "views": 130140,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "tried get revenge putin",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }
