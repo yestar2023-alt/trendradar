@@ -62,17 +62,28 @@ def related_rows(result, field):
 
 
 def evaluate(graph, now_iso, fetcher=None, *, max_queries=3, max_depth=2,
-             geo="US", timeframe="now 7-d"):
+             geo="US", timeframe="now 7-d", quality=None):
     now = moment(now_iso)
     if now is None:
         raise ValueError("valid UTC timestamp required")
     nodes = graph.setdefault("nodes", {})
     edges = graph.setdefault("edges", [])
     existing = {(e["parent"], e["child"], e["type"]) for e in edges}
-    candidates = [(k, v) for k, v in nodes.items() if checkable(v, now, max_depth)]
-    # Explore newly discovered child terms, but prioritize fresh roots before old backlog.
+    quality = quality or {}
+    candidates = []
+    for k, v in nodes.items():
+        if not checkable(v, now, max_depth):
+            continue
+        gate = quality.get(k, {})
+        if gate.get("quality_status") == "EXCLUDED_NOISE" and v.get("seed_type") != "CURATED_ROOT":
+            v["quality_gate"] = "SKIPPED_NOISE"
+            continue
+        candidates.append((k, v))
+    # Curated roots first. Then prioritize Rising/source-confirmed keywords
+    # before wandering through the long tail of unrelated Top queries.
     candidates.sort(key=lambda pair: (pair[1].get("seed_type") == "CURATED_ROOT",
-                                      pair[1].get("depth", 0),
+                                      quality.get(pair[0], {}).get("score", 0),
+                                      -pair[1].get("depth", 0),
                                       pair[1].get("first_observed_at", "")), reverse=True)
     attempted = success = new_terms = 0
     limited = False
@@ -151,6 +162,15 @@ def read_seed_roots(path):
         return []
 
 
+def read_quality_gate(path):
+    try:
+        report = json.loads(Path(path).read_text(encoding="utf-8"))
+        return {norm(r["keyword"]): r for r in report.get("rows", [])
+                if isinstance(r, dict) and r.get("keyword")}
+    except (OSError, ValueError, TypeError):
+        return {}
+
+
 def process(root, *, execute=False, max_queries=3):
     root = Path(root)
     data = root / "data"
@@ -172,7 +192,9 @@ def process(root, *, execute=False, max_queries=3):
         node = graph["nodes"][norm(term)]
         node["seed_type"] = "CURATED_ROOT"
         node["depth"] = 0
-    stats = evaluate(graph, now_iso, provider if execute else None, max_queries=max_queries)
+    earlier_quality = read_quality_gate(root / "reports" / "opportunity-latest.json")
+    stats = evaluate(graph, now_iso, provider if execute else None,
+                     max_queries=max_queries, quality=earlier_quality)
     graph["last_run"] = {"checked_at": now_iso, "new_seeds": new_seeds, **stats}
     data.mkdir(parents=True, exist_ok=True)
     graph_path.write_text(json.dumps(graph, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

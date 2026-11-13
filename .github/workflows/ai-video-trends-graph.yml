@@ -5,6 +5,8 @@ on:
     paths:
       - 'ai-video-radar/trends_graph.py'
       - 'ai-video-radar/trends_seeds.json'
+      - 'ai-video-radar/opportunity_filter.py'
+      - 'ai-video-radar/tests/test_opportunity_filter.py'
       - 'ai-video-radar/tests/test_trends_graph.py'
       - '.github/workflows/ai-video-trends-graph.yml'
   push:
@@ -12,10 +14,12 @@ on:
     paths:
       - 'ai-video-radar/trends_graph.py'
       - 'ai-video-radar/trends_seeds.json'
+      - 'ai-video-radar/opportunity_filter.py'
+      - 'ai-video-radar/tests/test_opportunity_filter.py'
       - '.github/workflows/ai-video-trends-graph.yml'
   schedule:
-    # Daily low-volume Explore probe; Google can rate limit GitHub runner IPs.
-    - cron: '23 2 * * *'
+    # Daily, before the morning Beijing reports (best effort); Google may rate limit runners.
+    - cron: '51 23 * * *'
 permissions:
   contents: write
 concurrency:
@@ -41,12 +45,19 @@ jobs:
       - name: Free, bounded live Explore probe (stop at first rate limit)
         if: github.event_name != 'pull_request'
         run: python ai-video-radar/trends_graph.py --execute --max-queries 3
+      - name: Validate scoring, noise filters and SERP cache offline
+        run: python -m unittest discover -s ai-video-radar/tests -p 'test_opportunity_filter.py' -v
+      - name: Triage all keywords and check up to two Google SERPs if configured
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: python ai-video-radar/opportunity_filter.py --root ai-video-radar --vertical ai --max-serp 2
       - name: Persist graph without force-push
         if: github.event_name != 'pull_request' && success()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add ai-video-radar/data/trends_graph.json ai-video-radar/reports/trends-graph-latest.md
+          git add ai-video-radar/data/serp_cache.json ai-video-radar/reports/opportunity-latest.json ai-video-radar/reports/opportunity-latest.csv ai-video-radar/reports/opportunity-latest.md
           if ! git diff --cached --quiet; then
             git commit -m 'trends: low-volume related queries expansion'
             git pull --rebase origin "$GITHUB_REF_NAME"
@@ -59,5 +70,8 @@ jobs:
           path: |
             ai-video-radar/data/trends_graph.json
             ai-video-radar/reports/trends-graph-latest.md
+            ai-video-radar/reports/opportunity-latest.json
+            ai-video-radar/reports/opportunity-latest.csv
+            ai-video-radar/reports/opportunity-latest.md
           if-no-files-found: ignore
           retention-days: 30
