@@ -2,10 +2,10 @@
 
 Report date: **2026-11-13**
 
-- URL rows reviewed: **39**
-- Distinct URL observations: **39**
-- Keyword candidates preserved (including earlier scans): **38**
-- Keywords without verified Trends evidence: **38**
+- URL rows reviewed: **2869**
+- Distinct URL observations: **2869**
+- Keyword candidates preserved (including earlier scans): **2867**
+- Keywords without verified Trends evidence: **2867**
 
 The short daily Top 30 display is not the full candidate universe.
 Full URL coverage: url-audit-latest.csv. Full keyword coverage: keyword-queue-latest.csv.
@@ -13,23 +13,23 @@ No Google Trends, SERP, or original website publication dates were inferred.
 
 ## High priority for next verification (display only)
 
+- **zsky ai video generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zsky-ai-video-generator
 - **zoolander who is she ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend
-- **tough like a gorilla ai lip sync** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/tough-like-a-gorilla-ai-lip-sync
-- **st tropez dj ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/st-tropez-dj-ai-trend
-- **spin that coupe like what ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/spin-that-coupe-like-what-ai
-- **short script ai drama scene** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/short-script-ai-drama-scene
-- **seedance 2 5 standard flash draft** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/seedance-2-5-standard-flash-draft
-- **recreate ad pacing visual idea** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/recreate-ad-pacing-visual-idea
-- **polska jumpstyle ai golf trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/polska-jumpstyle-ai-golf-trend
-- **original character reference action** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/original-character-reference-action
-- **old town road ai video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/old-town-road-ai-video
-- **misanthropy meme ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/misanthropy-meme-ai-trend
-- **island boy ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/island-boy-ai-trend
-- **if i was chatgpt trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/if-i-was-chatgpt-trend
-- **dreamina short drama guide** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/dreamina-short-drama-guide
-- **davul zurna ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/davul-zurna-ai-trend
-- **barbie girl dance ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend
-- **almost almost ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/almost-almost-ai-trend
-- **ai video with celebrity** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/ai-video-with-celebrity
-- **ai drama episode continuity** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/ai-drama-episode-continuity
-- **7686722840711777554** — 1 sources · PENDING_NAME_REVIEW · https://www.capcut.com/template-detail/newtemplate/7686722840711777554
+- **zombie owner pet cure ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zombie-owner-pet-cure-ai
+- **zombie love story ai video generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zombie-love-story-ai-video-generator
+- **zombie ai video trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zombie-ai-video-trend
+- **zendaya ai video generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zendaya-ai-video-generator
+- **zeely ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zeely-ai
+- **zaalima capcut template** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zaalima-capcut-template
+- **yt prompt ai bulk video generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/yt-prompt-ai-bulk-video-generator
+- **youtube video marketing** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-video-marketing
+- **youtube video generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-video-generator
+- **youtube video enhancer** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-video-enhancer
+- **youtube video editor** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-video-editor
+- **youtube trailer** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-trailer
+- **youtube shorts ideas** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-shorts-ideas
+- **youtube shorts creator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-shorts-creator
+- **youtube shorts ai video prompts** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-shorts-ai-video-prompts
+- **youtube marriage proposal** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-marriage-proposal
+- **youtube lip sync ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-lip-sync-ai
+- **youtube intro ideas** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/youtube-intro-ideas
