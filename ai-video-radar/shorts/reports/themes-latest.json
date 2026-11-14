@@ -1,8 +1,8 @@
 {
-  "built_at": "2026-11-14T17:59:51.556803+00:00",
-  "source_snapshot_at": "2026-11-14T17:59:47Z",
-  "snapshot_video_count": 2504,
-  "named_theme_count": 1,
+  "built_at": "2026-11-14T23:54:37.463103+00:00",
+  "source_snapshot_at": "2026-11-14T23:54:33Z",
+  "snapshot_video_count": 2570,
+  "named_theme_count": 2,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
@@ -33,6 +33,39 @@
           "published_at": "2026-11-14T02:45:37Z",
           "first_seen_at": "2026-11-14T17:59:47Z",
           "views": 933,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
+    {
+      "theme_id": "cinema_breakout",
+      "name": "4D Cinema Breakout / 影院破屏",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "银幕的虚构物体冲向座位",
+      "input": "一张本人照片+原创影院场景",
+      "risk": "影视IP与原视频素材授权",
+      "caution": "至少9月已有独立模板；新闻/解说视频不代表新AI二创",
+      "existing_before": "2026-09-30",
+      "previous_evidence_url": "https://www.makeviral.ai/templates/ai-cinema-breakout-video",
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 4793,
+      "first_observed_at": "2026-11-14T23:54:33Z",
+      "examples": [
+        {
+          "video_id": "WIJrGvF7Loo",
+          "title": "The truth behind viral 4D cinema videos.!",
+          "url": "https://www.youtube.com/watch?v=WIJrGvF7Loo",
+          "channel": "Dev",
+          "channel_id": "UCGkklSNvlMrfumpWZQuVLcg",
+          "published_at": "2026-11-14T10:51:44Z",
+          "first_seen_at": "2026-11-14T23:54:33Z",
+          "views": 4793,
           "observed_growth_per_hour": null,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
