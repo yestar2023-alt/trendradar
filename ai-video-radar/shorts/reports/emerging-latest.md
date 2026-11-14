@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-14 19:27
-- 数据库视频：2526；24小时内且有频道ID的非教程候选：176
+- 最新成功快照（北京）：2026-11-15 01:59
+- 数据库视频：2504；24小时内且有频道ID的非教程候选：179
 - 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -13,16 +13,17 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #cosplay
+### 1. jensen huang
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：3；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Midnight Rewind | [He Thought He Got Away With It 😭 #Shorts](https://www.youtube.com/watch?v=ALAA2WnatKg) | 2026-11-13 21:11 | 2026-11-14 19:27 | 5133 | 待多次采样 | 作者文字自述AI |
-| Neon Boulevard | [He Hid the Snacks… She Checked 😰 #Shorts](https://www.youtube.com/watch?v=3mZH11qx8PA) | 2026-11-13 20:41 | 2026-11-14 19:27 | 3063 | 待多次采样 | 作者文字自述AI |
+| Ticker & Price | [The Matrix of Jensen Huang 😂 / Nvidia CEO AI Parody #jensenhuang #nvidia #ai #thematrix #shorts](https://www.youtube.com/watch?v=PdlwNAMn02E) | 2026-11-14 02:49 | 2026-11-15 01:59 | 7439 | 待多次采样 | 作者文字自述AI |
+| Mega Pint Collections | [Jensen Huang after his 3rd and 4th side chick gets officially revealed](https://www.youtube.com/watch?v=19DdyUK4JYY) | 2026-11-14 05:02 | 2026-11-14 08:52 | 2332 | 41.0 | AI制作未验证 |
+| Louis Imstrongarm | [AI Made Jensen Huang a Troublemaker 💀 AI Meme TOP 5](https://www.youtube.com/watch?v=w8M3kQ3b4SU) | 2026-11-14 07:00 | 2026-11-15 01:59 | 1934 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
