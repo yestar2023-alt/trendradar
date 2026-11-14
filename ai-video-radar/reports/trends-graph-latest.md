@@ -1,16 +1,16 @@
 # Free Google Trends Related Queries graph
 
-Checked: 2026-11-13T08:52:42+00:00
+Checked: 2026-11-14T03:38:03+00:00
 
 - Mode: LIVE_HTTP
-- New seed names imported: 0
+- New seed names imported: 2908
 - Provider calls attempted: 3
 - Successful requests: 3
-- New related-query nodes: 75
-- Pending requests: 205
+- New related-query nodes: 40
+- Pending requests: 3150
 - Google throttled this run: False
-- Total graph nodes: 217
-- Total parent-child edges: 221
+- Total graph nodes: 3165
+- Total parent-child edges: 292
 
 A Google Trends relative-interest value is NOT search volume.
 A related search query is NOT itself a verified SEO or build opportunity.
@@ -18,23 +18,23 @@ If a provider fails or returns no query, search demand is UNKNOWN, not zero.
 
 ## Recent discovered related queries (display only)
 
-- video generator -> free ai video generator (top, 44)
-- video generator -> best video ai generator (top, 12)
-- video generator -> ai image generator (top, 12)
-- video generator -> image to video generator (top, 8)
-- video generator -> ai image to video generator (top, 7)
-- video generator -> free ai image generator (top, 6)
-- video generator -> google video generator (top, 5)
-- video generator -> free image to video ai generator (top, 4)
-- video generator -> best ai video generator free (top, 4)
-- video generator -> google ai video generator (top, 4)
-- video generator -> ai music video generator (top, 3)
-- video generator -> sora (top, 3)
-- video generator -> sora video generator (top, 3)
-- video generator -> video transcript generator (top, 3)
-- video generator -> transcript generator (top, 3)
-- video generator -> sora ai video generator (top, 3)
-- video generator -> sora ai (top, 3)
-- video generator -> chatgpt video generator (top, 3)
-- video generator -> gemini video generator (top, 2)
-- video generator -> free ai video generator no sign up (top, 2)
+- ai music -> apple music (top, 36)
+- ai music -> ai generated music (top, 35)
+- ai music -> ai music app (top, 32)
+- ai music -> free ai music generator (top, 30)
+- ai music -> how to make ai music (top, 30)
+- ai music -> ai music artist (top, 26)
+- ai music -> music maker ai (top, 25)
+- ai music -> music maker (top, 25)
+- ai music -> ai video generator (top, 22)
+- ai music -> ai music video generator (top, 22)
+- ai music -> play music (top, 18)
+- ai music -> gemini ai (top, 17)
+- ai music -> ai music artists (top, 15)
+- ai music -> ai detector (top, 14)
+- ai gif -> fotor ai gif generator (rising, +110%)
+- ai gif -> ai gifs (top, 100)
+- ai gif -> ai gif maker (top, 99)
+- ai gif -> free ai gif generator (top, 61)
+- ai gif -> ai gif editor (top, 37)
+- ai gif -> fotor ai gif generator (top, 6)
