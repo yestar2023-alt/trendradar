@@ -1,164 +1,14 @@
 {
-  "generated_at": "2026-11-14T00:53:04.193386+00:00",
-  "source_snapshot_at": "2026-11-14T00:52:59Z",
-  "source_video_count": 2595,
-  "published_last_24h_with_channel": 296,
-  "shared_name_groups": 4,
+  "generated_at": "2026-11-14T11:27:41.763402+00:00",
+  "source_snapshot_at": "2026-11-14T11:27:37Z",
+  "source_video_count": 2526,
+  "published_last_24h_with_channel": 176,
+  "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "all characters",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🔥💥Mr Bean All Cartoon Characters In Real Life  | Real  Vempire Look | Ai Generated Transformation 🔥",
-          "channel": "Your Edit Toon Tv",
-          "channel_id": "UCkmigj6OEi0F6b7EeRsC8fA",
-          "url": "https://www.youtube.com/watch?v=fYOMtgEfYJQ",
-          "published_at": "2026-11-13T14:44:03Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 12448,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "The Jungle Book All Characters Wedding Look Part 3 💍🌿 | जंगल बुक कार्टून | AI Transformation",
-          "channel": "Nirob Official 🔍💸 ",
-          "channel_id": "UCxajdw9CP4IvW4atqbRbsUA",
-          "url": "https://www.youtube.com/watch?v=e8G78BFeYvA",
-          "published_at": "2026-11-13T03:58:03Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 5323,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Chikoo Bunty All Cartoon Characters in Real Life 😍🔥 | AI Transformation",
-          "channel": "RajMahato72",
-          "channel_id": "UCVNfSwGXpcrI85oTiNL7NsQ",
-          "url": "https://www.youtube.com/watch?v=Bye8c_ZCZT4",
-          "published_at": "2026-11-13T02:30:08Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 502,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "jensen huang",
-      "anchor_type": "phrase",
-      "unique_channels": 4,
-      "ai_claimed_channels": 2,
-      "video_count": 4,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.25,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Jensen Huang के 7 Bollywood AI Memes | Hum Chip De Chuke Sanam",
-          "channel": "India Views 24",
-          "channel_id": "UC6joXPeSaiFOMEntPNFYaQw",
-          "url": "https://www.youtube.com/watch?v=Kz48fpEdjmM",
-          "published_at": "2026-11-13T07:43:16Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 67594,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Jensen Huang Has NO TYPE! 😂💀 NVIDIA CEO Meme #Shorts",
-          "channel": "MrUGYT",
-          "channel_id": "UCdaVZWWuV1EeXFpxPcKajUQ",
-          "url": "https://www.youtube.com/watch?v=YpCgPhGADnE",
-          "published_at": "2026-11-13T02:35:10Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 4741,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "Jensen Huang Top 5 AI Memes😭😭",
-          "channel": "Ranktheunranked",
-          "channel_id": "UCAs13AvTaPtwFmGuljRSgUw",
-          "url": "https://www.youtube.com/watch?v=iVgniDVrKcE",
-          "published_at": "2026-11-13T04:49:45Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 1765,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Jensen Huang after his 3rd and 4th side chick gets officially revealed",
-          "channel": "Mega Pint Collections",
-          "channel_id": "UCUVPmCywviB_eGHwvrVw7lQ",
-          "url": "https://www.youtube.com/watch?v=19DdyUK4JYY",
-          "published_at": "2026-11-13T21:02:12Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 1366,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "shiva characters",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Shiva Cartoon Characters in Real Life 😱🔥 | Realistic AI Transformation!",
-          "channel": "Jai Dev",
-          "channel_id": "UC15mUypNHE1AqF37b1gXwOw",
-          "url": "https://www.youtube.com/watch?v=9XmJQzuD-Yw",
-          "published_at": "2026-11-13T09:22:33Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 3728,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Shiva Cartoon Characters in Iron Man Version 🤖🔥 | AI Transformation | NYJ TOONS #shivacartoon ",
-          "channel": "NYJ TOONS",
-          "channel_id": "UC0pTTY4a_vNLiVPLnCgz9Ow",
-          "url": "https://www.youtube.com/watch?v=-I_VDOe1Glk",
-          "published_at": "2026-11-13T07:30:11Z",
-          "first_seen_at": "2026-11-14T00:52:59Z",
-          "views": 825,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#aitrends2026",
+      "anchor": "#cosplay",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -166,68 +16,35 @@
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
       "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
+      "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "best rabdi Ai video trend #aishorts #aitrends2026 #aivairal #vairalpost",
-          "channel": "Chhota cartoon",
-          "channel_id": "UCOtwA77367nw4axL6C1y8RA",
-          "url": "https://www.youtube.com/watch?v=yTtSRJkS5oI",
-          "published_at": "2026-11-13T06:59:55Z",
-          "first_seen_at": "2026-11-13T12:12:17Z",
-          "views": 1347,
-          "observed_growth_per_hour": 0.0,
+          "title": "He Thought He Got Away With It 😭 #Shorts",
+          "channel": "Midnight Rewind",
+          "channel_id": "UCv-HW1CACMoVt4GdPxAn1Hw",
+          "url": "https://www.youtube.com/watch?v=ALAA2WnatKg",
+          "published_at": "2026-11-13T13:11:19Z",
+          "first_seen_at": "2026-11-14T11:27:37Z",
+          "views": 5133,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "KALYUG KA BANDA #lyft #trendingshorts #trend #aisongs #aivideo #aitrends2026",
-          "channel": "SUNNY JAAT RECORDS",
-          "channel_id": "UCeLEHMyArdgpUnK4FV6TxuA",
-          "url": "https://www.youtube.com/watch?v=_rjB3XXuFWQ",
-          "published_at": "2026-11-13T03:40:43Z",
-          "first_seen_at": "2026-11-13T12:12:17Z",
-          "views": 1,
-          "observed_growth_per_hour": 0.0,
+          "title": "He Hid the Snacks… She Checked 😰 #Shorts",
+          "channel": "Neon Boulevard",
+          "channel_id": "UC4s2zCE_JbnLvd3tw3lLu_A",
+          "url": "https://www.youtube.com/watch?v=3mZH11qx8PA",
+          "published_at": "2026-11-13T12:41:20Z",
+          "first_seen_at": "2026-11-14T11:27:37Z",
+          "views": 3063,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "Sling shot failed when Trump Tried to Get Revenge on Putin 😂#aigenerated",
-      "channel": "𝑪𝒉𝒓𝒊𝒄𝒆𝒍 𝑼𝑲 ",
-      "channel_id": "UCKpbfvaKRGirvV6Qv21FIaA",
-      "url": "https://www.youtube.com/watch?v=ttkXSvJ0MGE",
-      "published_at": "2026-11-13T09:01:19Z",
-      "first_seen_at": "2026-11-13T19:44:33Z",
-      "views": 278875,
-      "observed_growth_per_hour": 28933.6,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "tried get revenge putin",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    },
-    {
-      "title": "🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light",
-      "channel": " Ghibli village y5g",
-      "channel_id": "UCUAfwQFzwFjMVTdlvXzr8ag",
-      "url": "https://www.youtube.com/watch?v=8OtFbRRpUO4",
-      "published_at": "2026-11-13T02:01:23Z",
-      "first_seen_at": "2026-11-14T00:52:59Z",
-      "views": 2534519,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "summer night until power",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "百万播放候选，仍需验证AI"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
