@@ -1,11 +1,44 @@
 {
-  "built_at": "2026-11-13T19:44:37.920575+00:00",
-  "source_snapshot_at": "2026-11-13T19:44:33Z",
-  "snapshot_video_count": 2543,
-  "named_theme_count": 2,
+  "built_at": "2026-11-14T00:53:04.071311+00:00",
+  "source_snapshot_at": "2026-11-14T00:52:59Z",
+  "snapshot_video_count": 2595,
+  "named_theme_count": 3,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
+    {
+      "theme_id": "car_restoration",
+      "name": "Car Transformation / 废车变超跑",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "车辆从废旧到崭新的视觉变化",
+      "input": "一张车辆照片",
+      "risk": "汽车品牌/Logo 商标与真实维修误导",
+      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 5251,
+      "first_observed_at": "2026-11-14T00:52:59Z",
+      "examples": [
+        {
+          "video_id": "JWbQS-DrfG4",
+          "title": "पुरानी बोलेरो बनी G-Wagon 😱🔥 | Emotional Car Transformation #shorts",
+          "url": "https://www.youtube.com/watch?v=JWbQS-DrfG4",
+          "channel": "Akbar AI Garage",
+          "channel_id": "UCDG-MPVtlq-hNe_Tm3DMRkg",
+          "published_at": "2026-11-13T09:30:11Z",
+          "first_seen_at": "2026-11-14T00:52:59Z",
+          "views": 5251,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    },
     {
       "theme_id": "a2o_lite_neon",
       "name": "A2O LITE NEON AI 双人舞蹈",
@@ -21,7 +54,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 547693,
+      "max_observed_views": 662149,
       "first_observed_at": "2026-11-13T19:44:33Z",
       "examples": [
         {
@@ -32,8 +65,8 @@
           "channel_id": "UC8SwIdxLBhzACO684GwVq4w",
           "published_at": "2026-11-13T08:00:30Z",
           "first_seen_at": "2026-11-13T19:44:33Z",
-          "views": 547693,
-          "observed_growth_per_hour": null,
+          "views": 662149,
+          "observed_growth_per_hour": 22265.3,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
@@ -50,11 +83,11 @@
       "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
       "existing_before": "2026-09-15",
       "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
-      "videos": 4,
+      "videos": 3,
       "channel_count": 3,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 2421,
+      "max_observed_views": 2976,
       "first_observed_at": "2026-11-13T19:44:33Z",
       "examples": [
         {
@@ -65,21 +98,8 @@
           "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
           "published_at": "2026-11-13T01:15:08Z",
           "first_seen_at": "2026-11-13T19:44:33Z",
-          "views": 2421,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "oGy8lPYrSQo",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
-          "url": "https://www.youtube.com/watch?v=oGy8lPYrSQo",
-          "channel": "Cute Raahi's Dairy ",
-          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
-          "published_at": "2026-11-13T00:15:13Z",
-          "first_seen_at": "2026-11-13T19:44:33Z",
-          "views": 2040,
-          "observed_growth_per_hour": null,
+          "views": 2976,
+          "observed_growth_per_hour": 108.0,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -91,8 +111,8 @@
           "channel_id": "UCJXCZ7ToOz2gZT4YqLcxNSw",
           "published_at": "2026-11-13T02:31:18Z",
           "first_seen_at": "2026-11-13T19:44:33Z",
-          "views": 1880,
-          "observed_growth_per_hour": null,
+          "views": 1976,
+          "observed_growth_per_hour": 18.7,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         },
@@ -104,13 +124,23 @@
           "channel_id": "UC4xi2FOnaTFYs5eFWOUh8PA",
           "published_at": "2026-11-13T13:45:08Z",
           "first_seen_at": "2026-11-13T19:44:33Z",
-          "views": 1250,
-          "observed_growth_per_hour": null,
+          "views": 1301,
+          "observed_growth_per_hour": 9.9,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
       ]
     }
   ],
-  "unmatched_creative_candidates": []
+  "unmatched_creative_candidates": [
+    {
+      "title": "🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light",
+      "url": "https://www.youtube.com/watch?v=8OtFbRRpUO4",
+      "views": 2534519,
+      "channel": " Ghibli village y5g",
+      "first_seen_at": "2026-11-14T00:52:59Z",
+      "published_at": "2026-11-13T02:01:23Z",
+      "observed_growth_per_hour": null
+    }
+  ]
 }
