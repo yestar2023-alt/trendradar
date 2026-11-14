@@ -1,6 +1,6 @@
 # AI 视频上游信号报告（YouTube Data API 试运行）
 
-- 抓取时间（北京时间）：2026-11-14 03:36
+- 抓取时间（北京时间）：2026-11-14 08:52
 - 成功频道：1/1
 - 失败/未配置频道：0/1
 - 经成功历史快照对比的首次观察视频：1
@@ -15,7 +15,7 @@
 
 | 首次观察（北京） | 原视频发布时间（北京） | 来源 | 链接 | 当前播放量 | 上次采样至今增长 |
 |---|---|---|---|---:|---:|
-| 2026-11-14 03:36 | 2026-11-14 02:00 | League of Legends Official | [when you bump into the competition #kda #truedamage](https://www.youtube.com/watch?v=S34FWKhHDyY) | 10561 | — |
+| 2026-11-14 08:52 | 2026-11-14 04:00 | League of Legends Official | [the real headliners of #Worlds2026 Fan Fest](https://www.youtube.com/watch?v=IXennD8iS-w) | 15069 | — |
 
 ## 审核规则
 
