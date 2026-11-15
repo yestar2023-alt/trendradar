@@ -1,44 +1,11 @@
 {
-  "built_at": "2026-11-14T23:54:37.463103+00:00",
-  "source_snapshot_at": "2026-11-14T23:54:33Z",
-  "snapshot_video_count": 2570,
-  "named_theme_count": 2,
+  "built_at": "2026-11-15T06:30:01.139724+00:00",
+  "source_snapshot_at": "2026-11-15T06:29:57Z",
+  "snapshot_video_count": 2620,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [
-    {
-      "theme_id": "car_restoration",
-      "name": "Car Transformation / 废车变超跑",
-      "status": "仅候选/尚未确认新玩法",
-      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
-      "concept": "车辆从废旧到崭新的视觉变化",
-      "input": "一张车辆照片",
-      "risk": "汽车品牌/Logo 商标与真实维修误导",
-      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
-      "existing_before": null,
-      "previous_evidence_url": null,
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 933,
-      "first_observed_at": "2026-11-14T17:59:47Z",
-      "examples": [
-        {
-          "video_id": "OrxuzRN46is",
-          "title": "😱 From Pieces to a PINK SUPRA! 🔥 Insane AI Car Transformation 🚗💨 #shortsfeed",
-          "url": "https://www.youtube.com/watch?v=OrxuzRN46is",
-          "channel": "animation& hub",
-          "channel_id": "UCToCvGGQZhUvpOFZSUFdzCA",
-          "published_at": "2026-11-14T02:45:37Z",
-          "first_seen_at": "2026-11-14T17:59:47Z",
-          "views": 933,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    },
     {
       "theme_id": "cinema_breakout",
       "name": "4D Cinema Breakout / 影院破屏",
@@ -54,7 +21,7 @@
       "channel_count": 1,
       "claimed_ai_creations": 0,
       "independent_claimed_creator_count": 0,
-      "max_observed_views": 4793,
+      "max_observed_views": 8275,
       "first_observed_at": "2026-11-14T23:54:33Z",
       "examples": [
         {
@@ -65,8 +32,8 @@
           "channel_id": "UCGkklSNvlMrfumpWZQuVLcg",
           "published_at": "2026-11-14T10:51:44Z",
           "first_seen_at": "2026-11-14T23:54:33Z",
-          "views": 4793,
-          "observed_growth_per_hour": null,
+          "views": 8275,
+          "observed_growth_per_hour": 528.4,
           "ai_evidence": "AI制作未核实",
           "creative_claimed": false
         }
