@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-15T15:39:28.661285+00:00",
-  "source_snapshot_at": "2026-11-15T15:39:25Z",
-  "source_video_count": 2558,
-  "published_last_24h_with_channel": 187,
-  "shared_name_groups": 4,
+  "generated_at": "2026-11-15T21:02:05.446993+00:00",
+  "source_snapshot_at": "2026-11-15T21:02:01Z",
+  "source_video_count": 2636,
+  "published_last_24h_with_channel": 247,
+  "shared_name_groups": 7,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
       "anchor": "sheru bhai",
       "anchor_type": "phrase",
-      "unique_channels": 7,
-      "ai_claimed_channels": 5,
-      "video_count": 14,
+      "unique_channels": 6,
+      "ai_claimed_channels": 4,
+      "video_count": 13,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.57,
+      "near_duplicate_caption_fraction": 0.62,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
@@ -26,9 +26,21 @@
           "url": "https://www.youtube.com/watch?v=zXx4AIxeA1U",
           "published_at": "2026-11-15T14:31:38Z",
           "first_seen_at": "2026-11-15T15:39:25Z",
-          "views": 2829,
-          "observed_growth_per_hour": null,
+          "views": 11122,
+          "observed_growth_per_hour": 1542.4,
           "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
+        {
+          "title": "Sheru bhai or jalpari part (02)#viralreels #aianimation #aistory #freefire #ffshorts #viralworld",
+          "channel": "Tp devil gaming ",
+          "channel_id": "UClr4xpA9_nAGTRVs8P8VBxQ",
+          "url": "https://www.youtube.com/watch?v=_ScnyYHf25Q",
+          "published_at": "2026-11-14T23:22:02Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 5444,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
@@ -38,8 +50,8 @@
           "url": "https://www.youtube.com/watch?v=YqCkIJyk1xc",
           "published_at": "2026-11-15T12:30:22Z",
           "first_seen_at": "2026-11-15T15:39:25Z",
-          "views": 2013,
-          "observed_growth_per_hour": null,
+          "views": 4408,
+          "observed_growth_per_hour": 445.4,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -50,21 +62,9 @@
           "url": "https://www.youtube.com/watch?v=5Bbd86XmEu4",
           "published_at": "2026-11-15T09:46:53Z",
           "first_seen_at": "2026-11-15T15:39:25Z",
-          "views": 1711,
-          "observed_growth_per_hour": null,
+          "views": 2705,
+          "observed_growth_per_hour": 184.9,
           "ai_evidence": "AI制作未验证",
-          "actions": []
-        },
-        {
-          "title": "Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani",
-          "channel": "Sapwa Sheru Ki Duniya",
-          "channel_id": "UCwZQqO1BUs-2JgMTQQMH5bQ",
-          "url": "https://www.youtube.com/watch?v=g5ke68vRik4",
-          "published_at": "2026-11-15T12:24:20Z",
-          "first_seen_at": "2026-11-15T15:39:25Z",
-          "views": 91,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
@@ -88,8 +88,8 @@
           "url": "https://www.youtube.com/watch?v=mVKJaMgHhPE",
           "published_at": "2026-11-15T01:00:16Z",
           "first_seen_at": "2026-11-15T15:39:25Z",
-          "views": 2994,
-          "observed_growth_per_hour": null,
+          "views": 3876,
+          "observed_growth_per_hour": 164.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -101,6 +101,82 @@
           "published_at": "2026-11-15T13:44:43Z",
           "first_seen_at": "2026-11-15T15:39:25Z",
           "views": 295,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#freefire",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Sheru ka ghop ghop card Part-2 😱 #freefire #ai #animation #viral #shorts #digitalfire #subscribe",
+          "channel": "Red Gamer 03 ",
+          "channel_id": "UCvF4m58C7jyg2stZ093ij5g",
+          "url": "https://www.youtube.com/watch?v=3Hx3iaq3VJA",
+          "published_at": "2026-11-15T00:00:02Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 8445,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Sheru bhai or jalpari part (02)#viralreels #aianimation #aistory #freefire #ffshorts #viralworld",
+          "channel": "Tp devil gaming ",
+          "channel_id": "UClr4xpA9_nAGTRVs8P8VBxQ",
+          "url": "https://www.youtube.com/watch?v=_ScnyYHf25Q",
+          "published_at": "2026-11-14T23:22:02Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 5444,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#tranding",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "cute cat ai video...#viral #shorts #youtubeshorts #tranding #ytshorts #viralshort #ai #aivideo #cute",
+          "channel": "Garv&mom masti Verse ",
+          "channel_id": "UCOs7dx7Pr68menfRthxmW_Q",
+          "url": "https://www.youtube.com/watch?v=5FyqT1sbZ_Q",
+          "published_at": "2026-11-15T02:00:39Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 1393,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "AI 3D Cartoon Video Banana Sikho 😱 | Mobile Se Free Mein Banaye | #shorts #viral #ytshorts #trending",
+          "channel": "Autonexis AI",
+          "channel_id": "UCETr9riNE5LhxeAyopSaKFA",
+          "url": "https://www.youtube.com/watch?v=FQ4LWJ7h2Zg",
+          "published_at": "2026-11-15T13:30:09Z",
+          "first_seen_at": "2026-11-15T15:39:25Z",
+          "views": 1,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -146,7 +222,45 @@
       ]
     },
     {
-      "anchor": "#hanuman",
+      "anchor": "#belajar",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": false,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Lupa pas punya utang doang 🫪 #belajar #ytshorts #animasiai #aianimation #absurdhumor #komedi",
+          "channel": "MENYINAU",
+          "channel_id": "UCCqCNt2z_ycCIEIKk4W7NPw",
+          "url": "https://www.youtube.com/watch?v=f1MMX8HvPFw",
+          "published_at": "2026-11-14T22:00:01Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 1915,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Berenang Bersama Ikan Pari!! #aianimation #belajar #aishorts #shorts",
+          "channel": "Raka Rimba",
+          "channel_id": "UCQLK2yoUwdi7ah01Dk1wEUQ",
+          "url": "https://www.youtube.com/watch?v=SpA_X4QyBXc",
+          "published_at": "2026-11-14T23:00:39Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 1338,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#sherubhai",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -158,48 +272,31 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "jai hanuman #bajarangbali #hanuman #mahabalihanuman #ai #video #viral #shorts #youtubeshorts #trend",
-          "channel": "Abhi AI Dreams",
-          "channel_id": "UCg_o0BZicFPj_x7fdNdt3_g",
-          "url": "https://www.youtube.com/watch?v=VjD7ha5O4lU",
-          "published_at": "2026-11-15T10:35:53Z",
-          "first_seen_at": "2026-11-15T15:39:25Z",
-          "views": 1353,
+          "title": "Part 3  The Mystery Villain Entry🔥🔥 #aianimation #sherubhai #sherubhai #viralreelspart 3",
+          "channel": "Ad_tube",
+          "channel_id": "UChLAqSa_EgngfXKNB7zH9Lw",
+          "url": "https://www.youtube.com/watch?v=dHR7lAllGCc",
+          "published_at": "2026-11-15T04:24:48Z",
+          "first_seen_at": "2026-11-15T21:02:01Z",
+          "views": 16500,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "ஜெய் ஸ்ரீராம் 🚩 | ராமாயணம் AI VideoJaiShreeRam #Ramayanam #Hanuman #AIvideo #TamilShorts #Ram #Trend",
-          "channel": "Sivachandran",
-          "channel_id": "UCJ8d_qgh9NnUHmldZjR46Aw",
-          "url": "https://www.youtube.com/watch?v=nV3For1M7K8",
-          "published_at": "2026-11-14T15:40:52Z",
-          "first_seen_at": "2026-11-14T23:54:33Z",
-          "views": 376,
-          "observed_growth_per_hour": 3.6,
+          "title": "Sheru Bhai നിങ്ങൾക്കും 😅 #shorts #viral #sheruBhai #aivideo",
+          "channel": "TipNo",
+          "channel_id": "UC6zPNOUN13NWactx5x6up7A",
+          "url": "https://www.youtube.com/watch?v=YqCkIJyk1xc",
+          "published_at": "2026-11-15T12:30:22Z",
+          "first_seen_at": "2026-11-15T15:39:25Z",
+          "views": 4408,
+          "observed_growth_per_hour": 445.4,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "😂”It was hot summer night…..until Grandma went rooftop ⚡️👻. #youtubeshorts #ghibli #funny #shorts",
-      "channel": "Ghibli Wali Vibes",
-      "channel_id": "UC9DN2l-iBnkaQ5rbz2kt7fQ",
-      "url": "https://www.youtube.com/watch?v=kYXK1CaLOFg",
-      "published_at": "2026-11-14T15:46:26Z",
-      "first_seen_at": "2026-11-15T15:39:25Z",
-      "views": 12104292,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "until grandma went rooftop",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "百万播放候选，仍需验证AI"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }

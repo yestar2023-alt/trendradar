@@ -1,16 +1,16 @@
 # 最近24小时 AI 短视频：百万爆款候选（未核验画面）
 
-- 北京时间：2026-11-15 23:39
-- 视频发布时间窗口：2026-11-14 23:39 — 2026-11-15 23:39（北京时间）
+- 北京时间：2026-11-16 05:02
+- 视频发布时间窗口：2026-11-15 05:02 — 2026-11-16 05:02（北京时间）
 - 本轮搜索成功率：3/3；失败：0
-- 无AI关键词的跨地区热门短视频抽样：1/1次成功；本轮命中24小时短视频：50条
+- 无AI关键词的跨地区热门短视频抽样：1/1次成功；本轮命中24小时短视频：48条
 - 其中只靠作者合成内容声明（标题/标签无AI词）检出的百万候选：0条
-- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：184
-- 全部候选中单条观看量≥1,000,000的视频：51（含非AI/未验证AI内容）
-- **百万爆款 AI/合成媒体候选：1**（单条≥1,000,000，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）
-- **其他百万播放待核验视频：50**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）
+- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：211
+- 全部候选中单条观看量≥1,000,000的视频：39（含非AI/未验证AI内容）
+- **百万爆款 AI/合成媒体候选：0**（单条≥1,000,000，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）
+- **其他百万播放待核验视频：39**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）
 - **早期观察，非爆款：0**（单条≥100,000但未满百万）
-- 历史快照后首次观察到的原视频：143
+- 历史快照后首次观察到的原视频：140
 - 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控
 
 > **严格定义**：爆款门槛是最近24小时内发布的单条视频，当前累计≥100万次观看。
@@ -25,65 +25,54 @@
 
 | 原视频链接 | 频道 | 官方发布时间（北京） | 本次累计播放量 | 真实观测增速/小时 | AI证据 |
 |---|---|---|---:|---:|---|
-| [😂”It was hot summer night…..until Grandma went rooftop ⚡️👻. #youtubeshorts #ghibli #funny #shorts](https://www.youtube.com/watch?v=kYXK1CaLOFg) | Ghibli Wali Vibes | 2026-11-14 23:46 | 12,104,292 | 待第二次采样 | 标题/标签自述 AI 制作（未经画面核验） |
+| — | — | — | — | — | 本轮无合格百万AI候选，禁止用低播放视频凑数 |
 
-## 其他百万播放视频（50条；AI身份未确认，单独供人工查看）
+## 其他百万播放视频（39条；AI身份未确认，单独供人工查看）
 
 > 这张表可能包含普通非AI爆款，不等于确认由AI生成、可复刻或有SEO机会。API未返回合成声明不是创作者明确否认AI。
 > 与上方已具AI文字/作者声明的百万候选互斥；只列本轮刷新真实观看数据、近24小时发布的短视频。最多前50条；全量见latest.csv。
 
 | 原视频（可点击） | 频道 | 官方发布（北京） | 采样播放量 | 合成媒体声明 | 发现来源 |
 |---|---|---|---:|---|---|
-| [Now KEVIN is LOCKED OUT 📦 PART 3 (FINAL)](https://www.youtube.com/watch?v=KD93twH0Y_c) | SEEDPIT Official | 2026-11-15 05:00 | 18,444,275 | API未返回 | broad_no_keyword:MX |
-| [How you invented blinds!](https://www.youtube.com/watch?v=4e_N2CiLdws) | Odd Tilt | 2026-11-15 00:00 | 13,430,860 | API未返回 | broad_no_keyword:MX |
-| [Can A Fired Bullet Beat A Dropped Bullet 🤔](https://www.youtube.com/watch?v=bm6iRlDf1Rk) | Zack D. Films | 2026-11-15 02:30 | 6,309,126 | API未返回 | broad_no_keyword:MX |
-| [Can Kevin MOW Seed? 🌱](https://www.youtube.com/watch?v=Kpfj83SuYiE) | SEEDPIT Official | 2026-11-15 00:00 | 5,861,514 | API未返回 | broad_no_keyword:MX |
-| [We Race To Lose](https://www.youtube.com/watch?v=GS1P52baszE) | Volze | 2026-11-15 04:02 | 5,234,561 | API未返回 | broad_no_keyword:MX |
-| [How New NBA Basketballs Get Their Grip 🤔](https://www.youtube.com/watch?v=GwgYkoaKcGI) | Zack D. Films | 2026-11-15 06:30 | 5,018,494 | API未返回 | broad_no_keyword:IN, broad_no_keyword:MX |
-| [He Went Down a FOAM SLIDE… and Entered a SECRET NEON WORLD! 🫧🌈😱](https://www.youtube.com/watch?v=5-OSFrPxnFo) | Jett and Lyra | 2026-11-15 00:45 | 4,530,089 | API未返回 | broad_no_keyword:MX |
-| [Have You Heard This Before??](https://www.youtube.com/watch?v=PmfyBebbnWI) | Colby Martel | 2026-11-15 03:00 | 4,171,216 | API未返回 | broad_no_keyword:MX |
-| [SpaceX Just CAUGHT a STARSHIP! #spacex #starship #elonmusk #explosion](https://www.youtube.com/watch?v=vlV6347oqsQ) | NASASpaceflight | 2026-11-15 05:58 | 4,060,362 | API未返回 | broad_no_keyword:MX |
-| [Kenapa Keran Bisa Netes? #shorts](https://www.youtube.com/watch?v=yQIh0CJBdf8) | How Come? | 2026-11-15 08:30 | 3,927,432 | API未返回 | broad_no_keyword:MX |
-| [Ibu yang Anaknya Pulang Lewat Atap](https://www.youtube.com/watch?v=1qso5PRvgz8) | konon | 2026-11-15 08:01 | 3,728,666 | API未返回 | broad_no_keyword:MX |
-| [पापा की परी🧚‍♀️का पहला प्यार 😂🤣 Comedy Shorts #viral #trending #shorts #youtubeshorts #funny](https://www.youtube.com/watch?v=0_5HIAhgSUc) | Keshav Shashi Vlogs | 2026-11-15 18:55 | 3,573,628 | API未返回 | broad_no_keyword:MX |
-| [Organizing my phone shelf..](https://www.youtube.com/watch?v=bhHgrABJktI) | CarterPCs | 2026-11-15 05:35 | 3,474,712 | API未返回 | broad_no_keyword:IN, broad_no_keyword:MX |
-| [The Sheepdog 🐑](https://www.youtube.com/watch?v=pJBJkoXyHqI) | GreenBroRants | 2026-11-15 00:00 | 3,462,151 | API未返回 | broad_no_keyword:MX |
-| [What They DON’T Tell You About Houses 😬🏡🧹](https://www.youtube.com/watch?v=EU0UeYfoeIs) | Landen Levine | 2026-11-15 03:06 | 3,226,700 | API未返回 | broad_no_keyword:MX |
-| [Prefer to remain anonymous #kindness #neymar  #respect](https://www.youtube.com/watch?v=_1oeGAeiolk) | Haaland - KPOP  | 2026-11-15 02:03 | 3,090,257 | API未返回 | broad_no_keyword:MX |
-| [He Flooded His Own Basement Before the River Could](https://www.youtube.com/watch?v=rMmG7s-IIMQ) | Mildly Elsewhere | 2026-11-15 06:05 | 3,081,801 | API未返回 | broad_no_keyword:MX |
-| [bro accidentally bought all Fortnite skins 😳](https://www.youtube.com/watch?v=01E8Pj_taZ0) | ohnepixel raw | 2026-11-15 05:00 | 2,925,197 | API未返回 | broad_no_keyword:MX |
-| [게임 엔진을 극한으로 공부하면 생기는 일](https://www.youtube.com/watch?v=2-1oXe4g6ZA) | 평양냉면 | 2026-11-15 08:00 | 2,786,287 | API未返回 | broad_no_keyword:MX |
-| [Nashtar Episode 32 Teaser - 14th November 2026](https://www.youtube.com/watch?v=lRqZ9g8pfWE) | Nashtar | 2026-11-15 00:45 | 2,783,413 | API未返回 | broad_no_keyword:TR |
-| [CUIDADO COM OS TITÃS 😭](https://www.youtube.com/watch?v=GnO0uroDDY4) | Custki | 2026-11-15 00:00 | 2,582,547 | API未返回 | broad_no_keyword:MX |
-| [produtos QUE FORAM BANIDOS por serem GOLPE](https://www.youtube.com/watch?v=R2qL0_GAvuA) | Giuliana Mafra | 2026-11-15 03:00 | 2,422,554 | API未返回 | broad_no_keyword:IN, broad_no_keyword:TR |
-| [Trở về ký ức](https://www.youtube.com/watch?v=jEZu3-s0zMA) | Rô Tới Chơi | 2026-11-15 11:04 | 2,382,432 | API未返回 | broad_no_keyword:MX |
-| [Pria Ini Diputusin Karena Miskin, Diorama Kereta Api Mengubah Nasibnya! #motivation #drama #life](https://www.youtube.com/watch?v=iPIC-j2vDs8) | CEO Drama Indonesia | 2026-11-15 06:00 | 2,221,812 | API未返回 | broad_no_keyword:MX |
-| [Bigg Boss Tamil Season 10 / 15th November 2026 - Promo 2](https://www.youtube.com/watch?v=3W5d36HGFfg) | Vijay Television | 2026-11-15 14:40 | 2,057,266 | API未返回 | broad_no_keyword:MX |
-| [Elang vs Mobil RC! #shorts #faktaunik](https://www.youtube.com/watch?v=lmlNmjz-J0k) | Your Daily Videos | 2026-11-15 06:00 | 2,019,447 | API未返回 | broad_no_keyword:MX |
-| [HAKIM INI PUNYA CARA UNIK UNTUK MENGHUKUM ‼️ #alurceritafilm #shorts](https://www.youtube.com/watch?v=Jx8-j0ZN_04) | Alur Singkat Cerita Film | 2026-11-15 15:00 | 1,872,137 | API未返回 | broad_no_keyword:MX |
-| [Baby exigió usar la corona de oro de Jinu sin saber que era una trampa de brillo 😱💦 #shorts #kpop](https://www.youtube.com/watch?v=iBS406u55UY) | SoulCryptos | 2026-11-15 02:30 | 1,818,492 | API未返回 | broad_no_keyword:MX |
-| [Bigg Boss Season 10 Telugu / Family Party / Day 70 Promo 2 / Today at 7 PM / Nagarjuna / Star Maa](https://www.youtube.com/watch?v=-XLtdNxAWrg) | Star Maa | 2026-11-15 14:20 | 1,790,560 | API未返回 | broad_no_keyword:MX |
-| [Cuando tu hámster muerde los barrotes, NO es por sus dientes 🐹](https://www.youtube.com/watch?v=3qIVX4KADnE) | Desarmado | 2026-11-15 06:00 | 1,667,363 | API未返回 | broad_no_keyword:MX |
-| [Bigg Boss Tamil Season 10 / 15th November 2026 - Promo 3](https://www.youtube.com/watch?v=yf2586EHB40) | Vijay Television | 2026-11-15 17:30 | 1,605,536 | API未返回 | broad_no_keyword:MX |
-| [[오늘 이 뉴스] 우주 찍고 온 '초유의 컴백'.."이게 믿어져" 환호 터졌다 (2026.11.15/MBC뉴스)](https://www.youtube.com/watch?v=tBpt-3_rQBA) | MBCNEWS | 2026-11-15 12:40 | 1,602,532 | API未返回 | broad_no_keyword:MX |
-| [How you invented the paper shredder!](https://www.youtube.com/watch?v=bKzsmc6XSmE) | Odd Tilt | 2026-11-15 02:00 | 1,582,398 | API未返回 | broad_no_keyword:MX |
-| [NEW WEAPON AND OFF-HAND FOR BEDROCK! / TwitchCon San Diego](https://www.youtube.com/watch?v=5um9-i2Ta7w) | Minecraft | 2026-11-15 08:00 | 1,579,009 | API未返回 | broad_no_keyword:MX |
-| [Parents Naming Their Kids #Shorts @MiniMoochi](https://www.youtube.com/watch?v=kaF0rHJi7Kc) | Luke Davidson | 2026-11-15 01:24 | 1,460,738 | API未返回 | broad_no_keyword:MX |
-| [India vs PAK U19 Asia Cup Final: भारत ने पाकिस्तान को हराकर पलटी बाजी, बता दिया बाप-बाप होता है!](https://www.youtube.com/watch?v=fWM6Ohug-JY) | SportsNext | 2026-11-14 23:45 | 1,432,504 | API未返回 | broad_no_keyword:MX |
-| [Dar-e-Nijaat Episode 32 / Promo / Sheheryar Munawar / Dur-e-Fishan / ARY Digital](https://www.youtube.com/watch?v=aIyhO70M5do) | ARY Digital HD | 2026-11-15 00:26 | 1,420,583 | API未返回 | broad_no_keyword:TR |
-| [Does MKBHD need to shave his head now??](https://www.youtube.com/watch?v=UrNcYExuBZg) | CarterPCs | 2026-11-15 03:35 | 1,412,410 | API未返回 | broad_no_keyword:MX |
-| [Si te encuentras un oso, NO corras 🐻](https://www.youtube.com/watch?v=nUVSOM4tPkI) | Desarmado | 2026-11-15 03:00 | 1,386,113 | API未返回 | broad_no_keyword:MX |
-| [14 نوفمبر، 2026](https://www.youtube.com/watch?v=6Sne0-U4LD0) | Mr_Artive | 2026-11-14 23:48 | 1,382,365 | API未返回 | broad_no_keyword:MX |
-| [[오늘 이 뉴스] "AI 부정행위 인정 자수했다"..세무사 수석 '급자백 영상' (2026.11.15/MBC뉴스)](https://www.youtube.com/watch?v=6qchVdv5YrQ) | MBCNEWS | 2026-11-15 09:47 | 1,345,456 | API未返回 | broad_no_keyword:MX |
-| [Queso de 1s vs 1 hora!!🧀🔥 @Respondemesta](https://www.youtube.com/watch?v=92fwIDNXMgU) | Mamá recetas2.0 | 2026-11-15 00:02 | 1,320,472 | API未返回 | broad_no_keyword:IN |
-| [“Cuando tu hermano NO te deja tener amigos 😂💀”](https://www.youtube.com/watch?v=cVHTB4C90U4) | LORETTA | 2026-11-15 00:00 | 1,294,009 | API未返回 | broad_no_keyword:MX |
-| [Bigg Boss Season 10 Telugu / Family Party / Day 70 Promo 3 / Today at 7 PM / Nagarjuna / Star Maa](https://www.youtube.com/watch?v=v4aAUSmf8hk) | Star Maa | 2026-11-15 15:30 | 1,217,279 | API未返回 | broad_no_keyword:MX |
-| [Levels of Fragrances](https://www.youtube.com/watch?v=Xa5McM_GjbY) | Pierre Dalati | 2026-11-15 03:15 | 1,170,380 | API未返回 | broad_no_keyword:MX |
-| [She's deep in shark territory 😳 #bondirescue #lifeguard #shark #shortsfeed](https://www.youtube.com/watch?v=n9hB3scppII) | BondiRescue | 2026-11-15 04:00 | 1,153,756 | API未返回 | broad_no_keyword:MX |
-| [Daha 17 / Özetsiz 25. Bölüm 2. Ön İzleme “Bir Ömür Süren Terk Edilmişlik Hissi ve O Büyük Yüzleşme!”](https://www.youtube.com/watch?v=lhR1pFbuobw) | Daha 17 | 2026-11-15 17:00 | 1,061,410 | API未返回 | broad_no_keyword:MX |
-| [CUIDADO COM A LUZ 😭](https://www.youtube.com/watch?v=sqJ3wMkpi2g) | Custki | 2026-11-15 04:00 | 1,055,782 | API未返回 | broad_no_keyword:MX |
-| [Everyone In My Town Is Nine](https://www.youtube.com/watch?v=RRXaKwH29bA) | Volze | 2026-11-15 02:00 | 1,034,956 | API未返回 | broad_no_keyword:MX |
-| [Be back soon 😋🦎🍄 #angeltree shopping for Christmas presents for angel gift tree](https://www.youtube.com/watch?v=d_5XxjWdcJk) | Serena Neel | 2026-11-15 02:15 | 1,028,625 | API未返回 | broad_no_keyword:MX |
+| [पापा की परी🧚‍♀️का पहला प्यार 😂🤣 Comedy Shorts #viral #trending #shorts #youtubeshorts #funny](https://www.youtube.com/watch?v=0_5HIAhgSUc) | Keshav Shashi Vlogs | 2026-11-15 18:55 | 10,292,925 | API未返回 | broad_no_keyword:JP, broad_no_keyword:MX |
+| [SpaceX Just CAUGHT a STARSHIP! #spacex #starship #elonmusk](https://www.youtube.com/watch?v=vlV6347oqsQ) | NASASpaceflight | 2026-11-15 05:58 | 6,260,524 | API未返回 | broad_no_keyword:MX |
+| [How New NBA Basketballs Get Their Grip 🤔](https://www.youtube.com/watch?v=GwgYkoaKcGI) | Zack D. Films | 2026-11-15 06:30 | 6,083,186 | API未返回 | broad_no_keyword:IN, broad_no_keyword:MX |
+| [He Flooded His Own Basement Before the River Could](https://www.youtube.com/watch?v=rMmG7s-IIMQ) | Mildly Elsewhere | 2026-11-15 06:05 | 5,163,504 | API未返回 | broad_no_keyword:MX |
+| [Kenapa Keran Bisa Netes? #shorts](https://www.youtube.com/watch?v=yQIh0CJBdf8) | How Come? | 2026-11-15 08:30 | 4,278,683 | API未返回 | broad_no_keyword:MX |
+| [Ibu yang Anaknya Pulang Lewat Atap](https://www.youtube.com/watch?v=1qso5PRvgz8) | konon | 2026-11-15 08:01 | 4,260,985 | API未返回 | broad_no_keyword:MX |
+| [Organizing my phone shelf..](https://www.youtube.com/watch?v=bhHgrABJktI) | CarterPCs | 2026-11-15 05:35 | 4,207,451 | API未返回 | broad_no_keyword:IN, broad_no_keyword:MX |
+| [TVアニメ「無職転生 ～異世界行ったら本気だす～」コラボCM【モンスト公式】](https://www.youtube.com/watch?v=dweFeVVnN0w) | モンスト（モンスターストライク）公式 | 2026-11-15 11:00 | 3,608,623 | API未返回 | broad_no_keyword:JP |
+| [Ayyanar Thunai / 16th to 22nd November 2026 - Promo](https://www.youtube.com/watch?v=rDhfDeI0d6I) | Vijay Television | 2026-11-15 12:30 | 3,453,123 | API未返回 | broad_no_keyword:JP |
+| [Cuando tu hámster muerde los barrotes, NO es por sus dientes 🐹](https://www.youtube.com/watch?v=3qIVX4KADnE) | Desarmado | 2026-11-15 06:00 | 3,218,758 | API未返回 | broad_no_keyword:MX |
+| [게임 엔진을 극한으로 공부하면 생기는 일](https://www.youtube.com/watch?v=2-1oXe4g6ZA) | 평양냉면 | 2026-11-15 08:00 | 3,131,456 | API未返回 | broad_no_keyword:MX |
+| [#kpopdemonhunters #kpop #huntrix](https://www.youtube.com/watch?v=hHrU9jjgYMM) | Big Marvel | 2026-11-15 17:53 | 3,008,886 | API未返回 | broad_no_keyword:JP |
+| [HAKIM INI PUNYA CARA UNIK UNTUK MENGHUKUM ‼️ #alurceritafilm #shorts](https://www.youtube.com/watch?v=Jx8-j0ZN_04) | Alur Singkat Cerita Film | 2026-11-15 15:00 | 2,526,264 | API未返回 | broad_no_keyword:MX |
+| [Trở về ký ức](https://www.youtube.com/watch?v=jEZu3-s0zMA) | Rô Tới Chơi | 2026-11-15 11:04 | 2,506,349 | API未返回 | broad_no_keyword:MX |
+| [Pria Ini Diputusin Karena Miskin, Diorama Kereta Api Mengubah Nasibnya! #motivation #drama #life](https://www.youtube.com/watch?v=iPIC-j2vDs8) | CEO Drama Indonesia | 2026-11-15 06:00 | 2,368,545 | API未返回 | broad_no_keyword:MX |
+| [Bigg Boss Tamil Season 10 / 15th November 2026 - Promo 2](https://www.youtube.com/watch?v=3W5d36HGFfg) | Vijay Television | 2026-11-15 14:40 | 2,286,190 | API未返回 | broad_no_keyword:JP, broad_no_keyword:MX |
+| [Elang vs Mobil RC! #shorts #faktaunik](https://www.youtube.com/watch?v=lmlNmjz-J0k) | Your Daily Videos | 2026-11-15 06:00 | 2,269,364 | API未返回 | broad_no_keyword:MX |
+| [Hair Extension S•2 🔥Part 87🔥 @aiswaryafrancis17 @anjanachandrank @Rithin_simon](https://www.youtube.com/watch?v=-3UOAWgrV3k) | Manjusha Martin | 2026-11-15 20:29 | 2,110,795 | API未返回 | broad_no_keyword:JP |
+| [Bigg Boss Season 10 Telugu / Family Party / Day 70 Promo 2 / Today at 7 PM / Nagarjuna / Star Maa](https://www.youtube.com/watch?v=-XLtdNxAWrg) | Star Maa | 2026-11-15 14:20 | 2,062,641 | API未返回 | broad_no_keyword:MX |
+| [What do you think ?](https://www.youtube.com/watch?v=ynl77sZI0p4) | Fit Arshia | 2026-11-15 22:59 | 1,971,781 | API未返回 | broad_no_keyword:JP |
+| [[오늘 이 뉴스] 우주 찍고 온 '초유의 컴백'.."이게 믿어져" 환호 터졌다 (2026.11.15/MBC뉴스)](https://www.youtube.com/watch?v=tBpt-3_rQBA) | MBCNEWS | 2026-11-15 12:40 | 1,950,286 | API未返回 | broad_no_keyword:JP, broad_no_keyword:MX |
+| [Bigg Boss Tamil Season 10 / 15th November 2026 - Promo 3](https://www.youtube.com/watch?v=yf2586EHB40) | Vijay Television | 2026-11-15 17:30 | 1,944,545 | API未返回 | broad_no_keyword:JP, broad_no_keyword:MX |
+| [NEW WEAPON AND OFF-HAND FOR BEDROCK! / TwitchCon San Diego](https://www.youtube.com/watch?v=5um9-i2Ta7w) | Minecraft | 2026-11-15 08:00 | 1,916,955 | API未返回 | broad_no_keyword:MX |
+| [【苛立ち】ラフィーニャがペットボトルを蹴る](https://www.youtube.com/watch?v=RXnVbdffkQ8) | フットタイムズ | 2026-11-15 09:20 | 1,836,685 | API未返回 | broad_no_keyword:JP |
+| [【マインクラフト】弟が崖から落とされて兄が怒った！助けに行かないと…😱](https://www.youtube.com/watch?v=vyipJ36xr08) | IORI GAME ROOM | 2026-11-15 19:06 | 1,805,686 | API未返回 | broad_no_keyword:JP |
+| [Daha 17 / Özetsiz 25. Bölüm 2. Ön İzleme “Bir Ömür Süren Terk Edilmişlik Hissi ve O Büyük Yüzleşme!”](https://www.youtube.com/watch?v=lhR1pFbuobw) | Daha 17 | 2026-11-15 17:00 | 1,625,635 | API未返回 | broad_no_keyword:JP, broad_no_keyword:MX |
+| [No Exceptions 💉](https://www.youtube.com/watch?v=yBoJWoamwxw) | His Story | 2026-11-15 19:49 | 1,608,921 | API未返回 | broad_no_keyword:JP |
+| [“Building Wooden Log Cabin in Forest 👽🌲/ Survival House Step by Step”](https://www.youtube.com/watch?v=hz72BVO9Bug) | DCR FUN | 2026-11-15 21:35 | 1,418,358 | API未返回 | broad_no_keyword:JP |
+| [[오늘 이 뉴스] "AI 부정행위 인정 자수했다"..세무사 수석 '급자백 영상' (2026.11.15/MBC뉴스)](https://www.youtube.com/watch?v=6qchVdv5YrQ) | MBCNEWS | 2026-11-15 09:47 | 1,371,057 | API未返回 | broad_no_keyword:MX |
+| [Bigg Boss Season 10 Telugu / Family Party / Day 70 Promo 3 / Today at 7 PM / Nagarjuna / Star Maa](https://www.youtube.com/watch?v=v4aAUSmf8hk) | Star Maa | 2026-11-15 15:30 | 1,347,718 | API未返回 | broad_no_keyword:MX |
+| [COISAS no seu corpo que você acha FEIAS, mas são MUITO RARAS](https://www.youtube.com/watch?v=FvECBbYUghY) | Giuliana Mafra | 2026-11-15 23:00 | 1,282,113 | API未返回 | broad_no_keyword:JP |
+| [【実録シリーズ】修学旅行で寝ていたら...👨‍🏫　#先生 #あるある #学校 #教員](https://www.youtube.com/watch?v=rG5asruwRcM) | 西田くん | 2026-11-15 17:09 | 1,275,260 | API未返回 | broad_no_keyword:JP |
+| [하하 개판이네](https://www.youtube.com/watch?v=zgWp9vJqs4Y) | 침착맨 | 2026-11-15 15:00 | 1,265,368 | API未返回 | broad_no_keyword:JP |
+| ["이제 진짜 수석?"...'AI 자수' 뒤 차석 합격자 재조명 [앵커리포트] / YTN](https://www.youtube.com/watch?v=2zvo7On-y_0) |  YTN | 2026-11-15 16:02 | 1,248,092 | API未返回 | broad_no_keyword:JP |
+| [Bigg Boss Season 10 Telugu / Family Party / Day 70 Promo 7 / Today at 7 PM / Nagarjuna / Star Maa](https://www.youtube.com/watch?v=rmNYvnpRFqU) | Star Maa | 2026-11-15 20:30 | 1,190,543 | API未返回 | broad_no_keyword:JP |
+| [【マインクラフト】崖に追い込まれる兄弟…もう海に飛び込むしか…😱](https://www.youtube.com/watch?v=iZUs14_xRMI) | IORI GAME ROOM | 2026-11-15 17:00 | 1,088,255 | API未返回 | broad_no_keyword:JP |
+| [Bigg Boss Season 10 Telugu / Family Party / Day 70 Promo 6 / Today at 7 PM / Nagarjuna / Star Maa](https://www.youtube.com/watch?v=MF4zScKo2To) | Star Maa | 2026-11-15 19:30 | 1,078,742 | API未返回 | broad_no_keyword:JP |
+| [Başkalarının Hayatı 8. Bölüm 1. Tanıtım  - "Nisan Yaşıyor!" #shorts](https://www.youtube.com/watch?v=K3O3NQze8pI) | Başkalarının Hayatı | 2026-11-15 05:21 | 1,068,000 | API未返回 | broad_no_keyword:JP |
+| [I can’t believe I went all my life without knowing the sooner… #kitchentips](https://www.youtube.com/watch?v=2_byj--mgek) | Jose.elcook | 2026-11-15 10:39 | 1,033,308 | API未返回 | broad_no_keyword:JP |
 
 ## 早期潜力观察（10万–99.9万；明确不是爆款，最多5条）
 
@@ -95,9 +84,9 @@
 
 | 本轮查询 | 排序 | 状态 | 返回视频条数 |
 |---|---|---|---:|
-| AI video trend | date | success | 50 |
-| video IA viral | viewCount | success | 50 |
-| broad_no_keyword:MX | viewCount | success | 50 |
+| AI cat video | viewCount | success | 50 |
+| AI animation | viewCount | success | 50 |
+| broad_no_keyword:JP | viewCount | success | 50 |
 
 ## 进一步SEO判断
 
