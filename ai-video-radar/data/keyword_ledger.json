@@ -1,21 +1,22 @@
 {
-  "checked_date": "2026-11-14",
-  "input_url_rows": 95,
-  "unique_urls_in_batch": 95,
-  "audited_url_rows": 95,
-  "unique_keywords_in_ledger": 2956,
-  "pending_trends": 2956,
+  "checked_date": "2026-11-15",
+  "input_url_rows": 92,
+  "unique_urls_in_batch": 92,
+  "audited_url_rows": 92,
+  "unique_keywords_in_ledger": 3029,
+  "pending_trends": 3029,
   "keywords": {
     "old town road ai video": {
       "keyword": "old town road ai video",
       "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
       "review_status": "PENDING_TRENDS_VERIFICATION",
       "trends_status": "NOT_CHECKED",
       "serp_status": "NOT_CHECKED",
       "sources": [
         "MakeViral",
-        "Media.io"
+        "Media.io",
+        "Dreamina"
       ],
       "evidence": [
         {
@@ -29,13 +30,173 @@
           "source": "Media.io",
           "first_observed_date": "2026-11-14",
           "channel": "sitemap"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/old-town-road-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tough like a gorilla ai lip sync": {
+      "keyword": "tough like a gorilla ai lip sync",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/tough-like-a-gorilla-ai-lip-sync",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/tough-like-a-gorilla-ai-lip-sync",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "stormzy shut up ai video": {
+      "keyword": "stormzy shut up ai video",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/stormzy-shut-up-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-14",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/stormzy-shut-up-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dog drummer ai": {
+      "keyword": "dog drummer ai",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/dog-drummer-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-14",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/dog-drummer-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "we dont talk anymore dance ai trend": {
+      "keyword": "we dont talk anymore dance ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "wake up music video": {
+      "keyword": "wake up music video",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/wake-up-music-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
+        }
+      ]
+    },
+    "vintage slow motion video": {
+      "keyword": "vintage slow motion video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/vintage-slow-motion-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "video diary maker": {
+      "keyword": "video diary maker",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/video-diary-maker",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
         }
       ]
     },
     "vhs effect": {
       "keyword": "vhs effect",
       "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
       "review_status": "PENDING_TRENDS_VERIFICATION",
       "trends_status": "NOT_CHECKED",
       "serp_status": "NOT_CHECKED",
@@ -47,6 +208,1564 @@
           "url": "https://dreamina.capcut.com/ai-video/vhs-effect",
           "source": "Dreamina",
           "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "tweenslop ai trend": {
+      "keyword": "tweenslop ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/tweenslop-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tsundere hmph stomp ai dance": {
+      "keyword": "tsundere hmph stomp ai dance",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/tsundere-hmph-stomp-ai-dance",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "train motion blur effect": {
+      "keyword": "train motion blur effect",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/train-motion-blur-effect",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "title card generator": {
+      "keyword": "title card generator",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/title-card-generator",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "text to video tools for planned scenes": {
+      "keyword": "text to video tools for planned scenes",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/text-to-video-tools-for-planned-scenes",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "story to video tools for short films": {
+      "keyword": "story to video tools for short films",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/story-to-video-tools-for-short-films",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "snowman dance ai trend": {
+      "keyword": "snowman dance ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/snowman-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "skincare event video": {
+      "keyword": "skincare event video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/skincare-event-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "self hug sketch ai trend": {
+      "keyword": "self hug sketch ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/self-hug-sketch-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "scorpio zodiac video": {
+      "keyword": "scorpio zodiac video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/scorpio-zodiac-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "sad to happy transition": {
+      "keyword": "sad to happy transition",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/sad-to-happy-transition",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "rowing workout video": {
+      "keyword": "rowing workout video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/rowing-workout-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "repair one shot in an ai video": {
+      "keyword": "repair one shot in an ai video",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/repair-one-shot-in-an-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "regenerate or edit an ai video clip": {
+      "keyword": "regenerate or edit an ai video clip",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/regenerate-or-edit-an-ai-video-clip",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "princess transformation video": {
+      "keyword": "princess transformation video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/princess-transformation-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "photo capture transition": {
+      "keyword": "photo capture transition",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/photo-capture-transition",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "phone call music video": {
+      "keyword": "phone call music video",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/phone-call-music-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
+        }
+      ]
+    },
+    "party popper ai trend": {
+      "keyword": "party popper ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/party-popper-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "never let her pay ai trend": {
+      "keyword": "never let her pay ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/never-let-her-pay-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "need for speed ai trend": {
+      "keyword": "need for speed ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/need-for-speed-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "music recommendation video": {
+      "keyword": "music recommendation video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/music-recommendation-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "mr and mrs smith ai trend": {
+      "keyword": "mr and mrs smith ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/mr-and-mrs-smith-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "mourinho pressure ai trend": {
+      "keyword": "mourinho pressure ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/mourinho-pressure-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "motorcycle riding video": {
+      "keyword": "motorcycle riding video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/motorcycle-riding-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "motorcycle restoration video": {
+      "keyword": "motorcycle restoration video",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/motorcycle-restoration-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
+        }
+      ]
+    },
+    "mens outfit video": {
+      "keyword": "mens outfit video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/mens-outfit-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "make text to video with free credits": {
+      "keyword": "make text to video with free credits",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/make-text-to-video-with-free-credits",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "lyric title animation": {
+      "keyword": "lyric title animation",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/lyric-title-animation",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
+        }
+      ]
+    },
+    "lisa crab dance ai trend": {
+      "keyword": "lisa crab dance ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/lisa-crab-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "la mujer del pelotero ai dance": {
+      "keyword": "la mujer del pelotero ai dance",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/la-mujer-del-pelotero-ai-dance",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "keep product logo clear in motion": {
+      "keyword": "keep product logo clear in motion",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/keep-product-logo-clear-in-motion",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "jingle bell rock mean girls ai trend": {
+      "keyword": "jingle bell rock mean girls ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/jingle-bell-rock-mean-girls-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "japanese aesthetic video": {
+      "keyword": "japanese aesthetic video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/japanese-aesthetic-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "island hopping video": {
+      "keyword": "island hopping video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/island-hopping-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "image to video tools for creative motion": {
+      "keyword": "image to video tools for creative motion",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/image-to-video-tools-for-creative-motion",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "i built this brick by brick ai video": {
+      "keyword": "i built this brick by brick ai video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/i-built-this-brick-by-brick-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "how to make bigxthaplug give it all ai video": {
+      "keyword": "how to make bigxthaplug give it all ai video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Summrs"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.summrs.com/blog/how-to-make-bigxthaplug-give-it-all-ai-video",
+          "source": "Summrs",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gym vlog video": {
+      "keyword": "gym vlog video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/gym-vlog-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "glitch transition": {
+      "keyword": "glitch transition",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/glitch-transition",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-13",
+          "channel": "listing"
+        }
+      ]
+    },
+    "gaming guild intro": {
+      "keyword": "gaming guild intro",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/gaming-guild-intro",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "funny frank ai video prompt": {
+      "keyword": "funny frank ai video prompt",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/funny-frank-ai-video-prompt",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "funny car meme video": {
+      "keyword": "funny car meme video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/funny-car-meme-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "free video to video tools and editing routes": {
+      "keyword": "free video to video tools and editing routes",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/free-video-to-video-tools-and-editing-routes",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "free image to video tools by workflow": {
+      "keyword": "free image to video tools by workflow",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/free-image-to-video-tools-by-workflow",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "free ai video generators by usable output": {
+      "keyword": "free ai video generators by usable output",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/free-ai-video-generators-by-usable-output",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "free ai lip sync tools by input": {
+      "keyword": "free ai lip sync tools by input",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/free-ai-lip-sync-tools-by-input",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "free ai animation tools for short scenes": {
+      "keyword": "free ai animation tools for short scenes",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/free-ai-animation-tools-for-short-scenes",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "event highlight video": {
+      "keyword": "event highlight video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/event-highlight-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "electrician work video": {
+      "keyword": "electrician work video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/electrician-work-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dj mix visualizer": {
+      "keyword": "dj mix visualizer",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/dj-mix-visualizer",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "corner frame video effect": {
+      "keyword": "corner frame video effect",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/corner-frame-video-effect",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas princess carriage ai video": {
+      "keyword": "christmas princess carriage ai video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/christmas-princess-carriage-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "bigxthaplug give it all ai trend": {
+      "keyword": "bigxthaplug give it all ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/bigxthaplug-give-it-all-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "baba aku yok ai trend": {
+      "keyword": "baba aku yok ai trend",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/baba-aku-yok-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "autumn aesthetic video": {
+      "keyword": "autumn aesthetic video",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/autumn-aesthetic-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai video models by shot requirement": {
+      "keyword": "ai video models by shot requirement",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-video-models-by-shot-requirement",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai video generators by shot and workflow": {
+      "keyword": "ai video generators by shot and workflow",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-video-generators-by-shot-and-workflow",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai video editing tools by edit": {
+      "keyword": "ai video editing tools by edit",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-video-editing-tools-by-edit",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ai talking photo tools for voice and motion": {
+      "keyword": "ai talking photo tools for voice and motion",
+      "first_observed_date": "2026-11-14",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-talking-photo-tools-for-voice-and-motion",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-14",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ai influencer tools for character and content": {
+      "keyword": "ai influencer tools for character and content",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-influencer-tools-for-character-and-content",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai animation tools by animation style": {
+      "keyword": "ai animation tools by animation style",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-animation-tools-by-animation-style",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "affordable ai video generators by project": {
+      "keyword": "affordable ai video generators by project",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/affordable-ai-video-generators-by-project",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "7694835784838401300": {
+      "keyword": "7694835784838401300",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viraltiktokaudio-viralgroup-selfie-trend-viral/7694835784838401300",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7694524684196465938": {
+      "keyword": "7694524684196465938",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viralgroup-fyp-trending-viral/7694524684196465938",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7682943199572200724": {
+      "keyword": "7682943199572200724",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/dance-meme-trend/7682943199572200724",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7682004423924649236": {
+      "keyword": "7682004423924649236",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/trend-viralgroup-viraltiktokaudio-creat-77/7682004423924649236",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7675041314957823253": {
+      "keyword": "7675041314957823253",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viraltiktokaudio-viralgroup-trend/7675041314957823253",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7657276020776733972": {
+      "keyword": "7657276020776733972",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/sidhu-viral-trending-fyp-foryou-trend/7657276020776733972",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7645211341908741396": {
+      "keyword": "7645211341908741396",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viral-capcut-slowmo-fyp-trend/7645211341908741396",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7641341759204642049": {
+      "keyword": "7641341759204642049",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viraltiktokaudio-viralgroup-trend-stopmotion-fyp/7641341759204642049",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7620838770555817269": {
+      "keyword": "7620838770555817269",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viraltiktokaudio-newviraltemplate-viral-fyp-capcut/7620838770555817269",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7614155497708539153": {
+      "keyword": "7614155497708539153",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viraltiktokaudio-fyp-use-and-export-daniela-viral/7614155497708539153",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7613416064084348213": {
+      "keyword": "7613416064084348213",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/slowmo-viralreels/7613416064084348213",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7596642037504478517": {
+      "keyword": "7596642037504478517",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/fyp-viral-trend-reelsbyali-capcut/7596642037504478517",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7589342336199511349": {
+      "keyword": "7589342336199511349",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/trendingcapcut-viraltiktok-slowmo-gangster-fyp/7589342336199511349",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7573615359832427792": {
+      "keyword": "7573615359832427792",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/attitude-sigma-ncvlogger17-trending-slowmo/7573615359832427792",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7573310404814834997": {
+      "keyword": "7573310404814834997",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/fyp-viral-template-trending-capcut/7573310404814834997",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7552755886771555637": {
+      "keyword": "7552755886771555637",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/viraltiktokaudio-gataonly-slowmotion-tiktoktrend/7552755886771555637",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7550281815563570485": {
+      "keyword": "7550281815563570485",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/tiktoktrend/7550281815563570485",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7539912117269417269": {
+      "keyword": "7539912117269417269",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/sohanefx-trending-CreateTask-viral/7539912117269417269",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "7533330731842522421": {
+      "keyword": "7533330731842522421",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/template-detail/slowmotion-newtrend-slowmo-mrzobi-foryou/7533330731842522421",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-15",
+          "channel": "listing"
+        }
+      ]
+    },
+    "1980s ai photo prompt": {
+      "keyword": "1980s ai photo prompt",
+      "first_observed_date": "2026-11-15",
+      "last_observed_date": "2026-11-15",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/1980s-ai-photo-prompt",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-15",
           "channel": "listing"
         }
       ]
@@ -108,44 +1827,6 @@
         }
       ]
     },
-    "tough like a gorilla ai lip sync": {
-      "keyword": "tough like a gorilla ai lip sync",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/tough-like-a-gorilla-ai-lip-sync",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
-        }
-      ]
-    },
-    "title card generator": {
-      "keyword": "title card generator",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/title-card-generator",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
-        }
-      ]
-    },
     "the office parkour ai": {
       "keyword": "the office parkour ai",
       "first_observed_date": "2026-11-14",
@@ -179,44 +1860,6 @@
         {
           "url": "https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend",
           "source": "MakeViral",
-          "first_observed_date": "2026-11-14",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "story to video tools for short films": {
-      "keyword": "story to video tools for short films",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/story-to-video-tools-for-short-films",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
-        }
-      ]
-    },
-    "stormzy shut up ai video": {
-      "keyword": "stormzy shut up ai video",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/stormzy-shut-up-ai-video",
-          "source": "Media.io",
           "first_observed_date": "2026-11-14",
           "channel": "sitemap"
         }
@@ -333,44 +1976,6 @@
           "source": "Media.io",
           "first_observed_date": "2026-11-14",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "repair one shot in an ai video": {
-      "keyword": "repair one shot in an ai video",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/repair-one-shot-in-an-ai-video",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
-        }
-      ]
-    },
-    "regenerate or edit an ai video clip": {
-      "keyword": "regenerate or edit an ai video clip",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/regenerate-or-edit-an-ai-video-clip",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
         }
       ]
     },
@@ -754,25 +2359,6 @@
         }
       ]
     },
-    "free video to video tools and editing routes": {
-      "keyword": "free video to video tools and editing routes",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/free-video-to-video-tools-and-editing-routes",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
-        }
-      ]
-    },
     "flash couple silhouette ai photo": {
       "keyword": "flash couple silhouette ai photo",
       "first_observed_date": "2026-11-14",
@@ -843,25 +2429,6 @@
       "evidence": [
         {
           "url": "https://www.media.io/ai/explore/zone/dugun-oyunu-ai-trend",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-14",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "dog drummer ai": {
-      "keyword": "dog drummer ai",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/dog-drummer-ai",
           "source": "Media.io",
           "first_observed_date": "2026-11-14",
           "channel": "sitemap"
@@ -1644,44 +3211,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-14",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "ai video editing tools by edit": {
-      "keyword": "ai video editing tools by edit",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/ai-video-editing-tools-by-edit",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
-        }
-      ]
-    },
-    "ai talking photo tools for voice and motion": {
-      "keyword": "ai talking photo tools for voice and motion",
-      "first_observed_date": "2026-11-14",
-      "last_observed_date": "2026-11-14",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/ai-talking-photo-tools-for-voice-and-motion",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-14",
-          "channel": "listing"
         }
       ]
     },
@@ -4022,25 +5551,6 @@
         }
       ]
     },
-    "wake up music video": {
-      "keyword": "wake up music video",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/wake-up-music-video",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
-        }
-      ]
-    },
     "vyond review": {
       "keyword": "vyond review",
       "first_observed_date": "2026-11-13",
@@ -5786,25 +7296,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-13",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "video diary maker": {
-      "keyword": "video diary maker",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/video-diary-maker",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
         }
       ]
     },
@@ -17974,25 +19465,6 @@
         }
       ]
     },
-    "phone call music video": {
-      "keyword": "phone call music video",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/phone-call-music-video",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
-        }
-      ]
-    },
     "petal face trend": {
       "keyword": "petal face trend",
       "first_observed_date": "2026-11-13",
@@ -21014,25 +22486,6 @@
         }
       ]
     },
-    "motorcycle restoration video": {
-      "keyword": "motorcycle restoration video",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/motorcycle-restoration-video",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
-        }
-      ]
-    },
     "motor chase ai video": {
       "keyword": "motor chase ai video",
       "first_observed_date": "2026-11-13",
@@ -23538,25 +24991,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-13",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "lyric title animation": {
-      "keyword": "lyric title animation",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/lyric-title-animation",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
         }
       ]
     },
@@ -30473,25 +31907,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-13",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "glitch transition": {
-      "keyword": "glitch transition",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/glitch-transition",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "listing"
         }
       ]
     },
