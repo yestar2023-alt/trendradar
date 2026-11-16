@@ -1,10 +1,10 @@
 {
-  "checked_date": "2026-11-15",
-  "input_url_rows": 92,
-  "unique_urls_in_batch": 92,
-  "audited_url_rows": 92,
-  "unique_keywords_in_ledger": 3029,
-  "pending_trends": 3029,
+  "checked_date": "2026-11-16",
+  "input_url_rows": 22,
+  "unique_urls_in_batch": 22,
+  "audited_url_rows": 22,
+  "unique_keywords_in_ledger": 3050,
+  "pending_trends": 3050,
   "keywords": {
     "old town road ai video": {
       "keyword": "old town road ai video",
@@ -113,6 +113,405 @@
           "url": "https://dreamina.capcut.com/ai-video/dog-drummer-ai",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "you rock my world ai trend": {
+      "keyword": "you rock my world ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/you-rock-my-world-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "wassup in a minute ai trend": {
+      "keyword": "wassup in a minute ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/wassup-in-a-minute-ai-trend",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-16",
+          "channel": "listing"
+        }
+      ]
+    },
+    "tiger transition ai trend": {
+      "keyword": "tiger transition ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/tiger-transition-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "snowman dance ai guide": {
+      "keyword": "snowman dance ai guide",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/snowman-dance-ai-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "snowman dance": {
+      "keyword": "snowman dance",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/snowman-dance",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "seedance 2 5 flash vs seedance 2 5": {
+      "keyword": "seedance 2 5 flash vs seedance 2 5",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/seedance-2-5-flash-vs-seedance-2-5",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ronaldo header ai trend": {
+      "keyword": "ronaldo header ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ronaldo-header-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "reaching out cat ai": {
+      "keyword": "reaching out cat ai",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/reaching-out-cat-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "neon cat trio dance guide": {
+      "keyword": "neon cat trio dance guide",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/neon-cat-trio-dance-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "neon cat trio dance": {
+      "keyword": "neon cat trio dance",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/neon-cat-trio-dance",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "nadie ta frio ai trend": {
+      "keyword": "nadie ta frio ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "minimax h3 image review": {
+      "keyword": "minimax h3 image review",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/minimax-h3-image-review",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "jingle bell brazil dance ai": {
+      "keyword": "jingle bell brazil dance ai",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 loading screen ai": {
+      "keyword": "gta 6 loading screen ai",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-6-loading-screen-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "grok imagine image 2 0 review": {
+      "keyword": "grok imagine image 2 0 review",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/grok-imagine-image-2-0-review",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dog washing dishes ai trend": {
+      "keyword": "dog washing dishes ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dance with santa ai": {
+      "keyword": "dance with santa ai",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/dance-with-santa-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas dance with your pet guide": {
+      "keyword": "christmas dance with your pet guide",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/christmas-dance-with-your-pet-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas dance with your pet": {
+      "keyword": "christmas dance with your pet",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/christmas-dance-with-your-pet",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "airport transition ai trend": {
+      "keyword": "airport transition ai trend",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/airport-transition-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai tidal wave video": {
+      "keyword": "ai tidal wave video",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-16",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ai-tidal-wave-video",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
           "channel": "sitemap"
         }
       ]

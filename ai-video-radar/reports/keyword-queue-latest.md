@@ -1,11 +1,11 @@
 # AI Video complete URL and keyword inventory
 
-Report date: **2026-11-15**
+Report date: **2026-11-16**
 
-- URL rows reviewed: **92**
-- Distinct URL observations: **92**
-- Keyword candidates preserved (including earlier scans): **3029**
-- Keywords without verified Trends evidence: **3029**
+- URL rows reviewed: **22**
+- Distinct URL observations: **22**
+- Keyword candidates preserved (including earlier scans): **3050**
+- Keywords without verified Trends evidence: **3050**
 
 The short daily Top 30 display is not the full candidate universe.
 Full URL coverage: url-audit-latest.csv. Full keyword coverage: keyword-queue-latest.csv.
@@ -17,19 +17,19 @@ No Google Trends, SERP, or original website publication dates were inferred.
 - **tough like a gorilla ai lip sync** — 2 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/tough-like-a-gorilla-ai-lip-sync
 - **stormzy shut up ai video** — 2 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/stormzy-shut-up-ai-video
 - **dog drummer ai** — 2 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/dog-drummer-ai
-- **we dont talk anymore dance ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend
-- **wake up music video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/wake-up-music-video
-- **vintage slow motion video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/vintage-slow-motion-video
-- **video diary maker** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/video-diary-maker
-- **vhs effect** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/vhs-effect
-- **tweenslop ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/tweenslop-ai-trend
-- **tsundere hmph stomp ai dance** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/tsundere-hmph-stomp-ai-dance
-- **train motion blur effect** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/train-motion-blur-effect
-- **title card generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/title-card-generator
-- **text to video tools for planned scenes** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/text-to-video-tools-for-planned-scenes
-- **story to video tools for short films** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/story-to-video-tools-for-short-films
-- **snowman dance ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/snowman-dance-ai-trend
-- **skincare event video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/skincare-event-video
-- **self hug sketch ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/self-hug-sketch-ai-trend
-- **scorpio zodiac video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/scorpio-zodiac-video
-- **sad to happy transition** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/sad-to-happy-transition
+- **you rock my world ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/you-rock-my-world-ai-trend
+- **wassup in a minute ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/wassup-in-a-minute-ai-trend
+- **tiger transition ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/tiger-transition-ai-trend
+- **snowman dance ai guide** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/blog/snowman-dance-ai-guide
+- **snowman dance** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/templates/video/snowman-dance
+- **seedance 2 5 flash vs seedance 2 5** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/blog/seedance-2-5-flash-vs-seedance-2-5
+- **ronaldo header ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/ronaldo-header-ai-trend
+- **reaching out cat ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/reaching-out-cat-ai
+- **neon cat trio dance guide** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/blog/neon-cat-trio-dance-guide
+- **neon cat trio dance** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/templates/video/neon-cat-trio-dance
+- **nadie ta frio ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend
+- **minimax h3 image review** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/blog/minimax-h3-image-review
+- **jingle bell brazil dance ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai
+- **gta 6 loading screen ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/gta-6-loading-screen-ai
+- **grok imagine image 2 0 review** — 1 sources · PENDING_TRENDS_VERIFICATION · https://zooop.ai/blog/grok-imagine-image-2-0-review
+- **dog washing dishes ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend

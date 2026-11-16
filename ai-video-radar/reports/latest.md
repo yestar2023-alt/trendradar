@@ -1,61 +1,51 @@
-# AI 视频新增词日报 | 2026-11-15（北京时间）
+# AI 视频新增词日报 | 2026-11-16（北京时间）
 
 - 本次完成检查：16 个频道；失败/不可用：4 个频道
-- **有历史快照比对的新 URL：92 条（当日累计，非真实网页发布日期）**
-- **本轮扫描额外发现：92 条 URL**
-- **需核实的新关键词候选（跨站均衡核验）：30 个**
-- **本次核验详情页：30 条，覆盖 5 个有候选的来源**（每日归档池 92 条；不限于本次新发现）
-- **本轮原始URL全量明细存档：92 条**（如非零，可查看 `reports/2026-11-15-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
+- **有历史快照比对的新 URL：22 条（当日累计，非真实网页发布日期）**
+- **本轮扫描额外发现：22 条 URL**
+- **需核实的新关键词候选（跨站均衡核验）：20 个**
+- **本次核验详情页：21 条，覆盖 3 个有候选的来源**（每日归档池 22 条；不限于本次新发现）
+- **本轮原始URL全量明细存档：22 条**（如非零，可查看 `reports/2026-11-16-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
 ## 候选新词（基于 URL 差集，热度尚未核实）
 
 | 首次发现 | 候选规范词 | 网站 | 新出现的链接 | 检测类型 |
 |---|---|---|---|---|
-| 2026-11-15 | the bigxthaplug give it all ai video from the block trend | Summrs | [页面1](https://www.summrs.com/blog/how-to-make-bigxthaplug-give-it-all-ai-video) | 进入 Sitemap |
-| 2026-11-10 | capcut log vul hate h | CapCut Trending | [页面1](https://www.capcut.com/template-detail/attitude-sigma-ncvlogger17-trending-slowmo/7573615359832427792) | 模板列表首次出现 |
-| 2026-11-15 | baba akü yok yapay zeka vizontele scene ai video | MakeViral | [页面1](https://www.makeviral.ai/templates/baba-aku-yok-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | christmas princess carriage ai video red gown snow | Media.io | [页面1](https://www.media.io/ai/explore/zone/christmas-princess-carriage-ai-video) | 模板列表首次出现 |
-| 2026-11-15 | corner frame video effect for food and clips | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/corner-frame-video-effect) | 进入 Sitemap |
-| 2026-11-15 | capcut summer bummer tren | CapCut Trending | [页面1](https://www.capcut.com/template-detail/dance-meme-trend/7682943199572200724) | 模板列表首次出现 |
-| 2026-11-15 | bigxthaplug give it all ai trend rap at the mic | MakeViral | [页面1](https://www.makeviral.ai/templates/bigxthaplug-give-it-all-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | la mujer del pelotero ai dance from photo | Media.io | [页面1](https://www.media.io/ai/explore/zone/la-mujer-del-pelotero-ai-dance) | 模板列表首次出现 |
-| 2026-11-15 | funny car meme video stage the dashboard double take | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/funny-car-meme-video) | 进入 Sitemap |
-| 2026-11-10 | capcut ye nighahe tuu kaha | CapCut Trending | [页面1](https://www.capcut.com/template-detail/fyp-viral-template-trending-capcut/7573310404814834997) | 模板列表首次出现 |
-| 2026-11-15 | mean girls jingle bell rock ai dance it with friends | MakeViral | [页面1](https://www.makeviral.ai/templates/jingle-bell-rock-mean-girls-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | tsundere hmph stomp ai dance from photo | Media.io | [页面1](https://www.media.io/ai/explore/zone/tsundere-hmph-stomp-ai-dance) | 模板列表首次出现 |
-| 2026-11-15 | train motion blur effect keep the subject sharp through the pass | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/train-motion-blur-effect) | 进入 Sitemap |
-| 2026-11-15 | capcut dil laga leya | CapCut Trending | [页面1](https://www.capcut.com/template-detail/fyp-viral-trend-reelsbyali-capcut/7596642037504478517) | 模板列表首次出现 |
-| 2026-11-15 | lisa crab dance ai trend you or your pet poker face on | MakeViral | [页面1](https://www.makeviral.ai/templates/lisa-crab-dance-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | 1980s ai photo prompt retro portraits couples | Media.io | [页面1](https://www.media.io/ai/explore/zone/1980s-ai-photo-prompt) | 模板列表首次出现 |
-| 2026-11-14 | vhs effect turn modern photos into lost home tapes | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/vhs-effect) | 进入 Sitemap |
-| 2026-11-15 | capcut sidhu trending | CapCut Trending | [页面1](https://www.capcut.com/template-detail/sidhu-viral-trending-fyp-foryou-trend/7657276020776733972) | 模板列表首次出现 |
-| 2026-11-15 | mourinho pressure ai trend not feeling the pressure | MakeViral | [页面1](https://www.makeviral.ai/templates/mourinho-pressure-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | 7 affordable ai video generators for small budgets | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/affordable-ai-video-generators-by-project) | 进入 Sitemap |
-| 2026-10-26 | capcut deewane deewane | CapCut Trending | [页面1](https://www.capcut.com/template-detail/slowmo-viralreels/7613416064084348213) | 模板列表首次出现 |
-| 2026-11-15 | mr and mrs smith edit the ai couple trend from 2 photos | MakeViral | [页面1](https://www.makeviral.ai/templates/mr-and-mrs-smith-ai-trend) | 进入 Sitemap |
-| 2026-11-14 | 8 ai video editing tools for scenes and social clips | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/ai-video-editing-tools-by-edit) | 进入 Sitemap |
-| 2026-11-15 | capcut new slowmotion | CapCut Trending | [页面1](https://www.capcut.com/template-detail/slowmotion-newtrend-slowmo-mrzobi-foryou/7533330731842522421) | 模板列表首次出现 |
-| 2026-11-15 | need for speed ai trend put your car in the movie scene | MakeViral | [页面1](https://www.makeviral.ai/templates/need-for-speed-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | 8 ai video generators for shots and product stories | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/ai-video-generators-by-shot-and-workflow) | 进入 Sitemap |
-| 2026-11-15 | capcut tere nam pe | CapCut Trending | [页面1](https://www.capcut.com/template-detail/sohanefx-trending-CreateTask-viral/7539912117269417269) | 模板列表首次出现 |
-| 2026-11-15 | never let her pay ai trend the sponge dinner video | MakeViral | [页面1](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend) | 进入 Sitemap |
-| 2026-11-15 | 8 free ai video tools for clips and finished videos | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/free-ai-video-generators-by-usable-output) | 进入 Sitemap |
-| 2026-11-15 | capcut tik tok trending try | CapCut Trending | [页面1](https://www.capcut.com/template-detail/tiktoktrend/7550281815563570485) | 模板列表首次出现 |
+| 2026-11-16 | ai tidal wave video a giant wave hits you and friends | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-tidal-wave-video) | 进入 Sitemap |
+| 2026-11-16 | ai christmas dance video with three friends | Zooop | [页面1](https://zooop.ai/blog/christmas-dance-with-your-pet-guide) [页面2](https://zooop.ai/templates/video/christmas-dance-with-your-pet) | 进入 Sitemap |
+| 2026-11-16 | wassup in a minute ai trend trio dance prompts | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/wassup-in-a-minute-ai-trend) | 模板列表首次出现 |
+| 2026-11-16 | airport transition ai teleport to a neon city | MakeViral | [页面1](https://www.makeviral.ai/templates/airport-transition-ai-trend) | 进入 Sitemap |
+| 2026-11-16 | grok imagine image 2 0 low vs medium text and edits tested | Zooop | [页面1](https://zooop.ai/blog/grok-imagine-image-2-0-review) | 进入 Sitemap |
+| 2026-11-16 | dancing with santa ai dance with santa from 1 photo | MakeViral | [页面1](https://www.makeviral.ai/templates/dance-with-santa-ai) | 进入 Sitemap |
+| 2026-11-16 | minimax h3 image review | Zooop | [页面1](https://zooop.ai/blog/minimax-h3-image-review) | 进入 Sitemap |
+| 2026-11-16 | dog washing dishes ai the iphone sponge prank meme | MakeViral | [页面1](https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend) | 进入 Sitemap |
+| 2026-11-16 | cat dance videos make a neon trio from three photos | Zooop | [页面1](https://zooop.ai/blog/neon-cat-trio-dance-guide) | 进入 Sitemap |
+| 2026-11-16 | gta 6 loading screen ai your photo as a gta poster | MakeViral | [页面1](https://www.makeviral.ai/templates/gta-6-loading-screen-ai) | 进入 Sitemap |
+| 2026-11-16 | seedance 2 5 flash vs seedance 2 5 | Zooop | [页面1](https://zooop.ai/blog/seedance-2-5-flash-vs-seedance-2-5) | 进入 Sitemap |
+| 2026-11-16 | jingle bell brazil dance ai do it in a row from photos | MakeViral | [页面1](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai) | 进入 Sitemap |
+| 2026-11-16 | snowman dance ai make a christmas duet from two photos | Zooop | [页面1](https://zooop.ai/blog/snowman-dance-ai-guide) | 进入 Sitemap |
+| 2026-11-16 | nadie ta frio trend ai do the dance from one photo | MakeViral | [页面1](https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend) | 进入 Sitemap |
+| 2026-11-16 | reaching out cat trend make it with your pet ai | MakeViral | [页面1](https://www.makeviral.ai/templates/reaching-out-cat-ai) | 进入 Sitemap |
+| 2026-11-16 | neon cat trio ai dance video | Zooop | [页面1](https://zooop.ai/templates/video/neon-cat-trio-dance) | 进入 Sitemap |
+| 2026-11-16 | ronaldo header ai the soccer header leap trend | MakeViral | [页面1](https://www.makeviral.ai/templates/ronaldo-header-ai-trend) | 进入 Sitemap |
+| 2026-11-16 | snowman dance ai | Zooop | [页面1](https://zooop.ai/templates/video/snowman-dance) | 进入 Sitemap |
+| 2026-11-16 | tiger transition ai you cannot reason with a tiger | MakeViral | [页面1](https://www.makeviral.ai/templates/tiger-transition-ai-trend) | 进入 Sitemap |
+| 2026-11-16 | you rock my world trend ai couple transition video | MakeViral | [页面1](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend) | 进入 Sitemap |
 
 > 注意：这里的“新增”是自上次**成功快照**以来新增的 URL，不等于网页在当天发布；发现词 ≠ 已确认爆火。
 
 ## 可点开的核查入口（供运营核实趋势和竞品）
 
-- **the bigxthaplug give it all ai video from the block trend**： [TikTok](https://www.tiktok.com/search?q=the+bigxthaplug+give+it+all+ai+video+from+the+block+trend) · [YouTube](https://www.youtube.com/results?search_query=the+bigxthaplug+give+it+all+ai+video+from+the+block+trend) · [Google](https://www.google.com/search?q=the+bigxthaplug+give+it+all+ai+video+from+the+block+trend) · [Google Trends](https://trends.google.com/trends/explore?q=the+bigxthaplug+give+it+all+ai+video+from+the+block+trend)
-- **capcut log vul hate h**： [TikTok](https://www.tiktok.com/search?q=capcut+log+vul+hate+h) · [YouTube](https://www.youtube.com/results?search_query=capcut+log+vul+hate+h) · [Google](https://www.google.com/search?q=capcut+log+vul+hate+h) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+log+vul+hate+h)
-- **baba akü yok yapay zeka vizontele scene ai video**： [TikTok](https://www.tiktok.com/search?q=baba+ak%C3%BC+yok+yapay+zeka+vizontele+scene+ai+video) · [YouTube](https://www.youtube.com/results?search_query=baba+ak%C3%BC+yok+yapay+zeka+vizontele+scene+ai+video) · [Google](https://www.google.com/search?q=baba+ak%C3%BC+yok+yapay+zeka+vizontele+scene+ai+video) · [Google Trends](https://trends.google.com/trends/explore?q=baba+ak%C3%BC+yok+yapay+zeka+vizontele+scene+ai+video)
-- **christmas princess carriage ai video red gown snow**： [TikTok](https://www.tiktok.com/search?q=christmas+princess+carriage+ai+video+red+gown+snow) · [YouTube](https://www.youtube.com/results?search_query=christmas+princess+carriage+ai+video+red+gown+snow) · [Google](https://www.google.com/search?q=christmas+princess+carriage+ai+video+red+gown+snow) · [Google Trends](https://trends.google.com/trends/explore?q=christmas+princess+carriage+ai+video+red+gown+snow)
-- **corner frame video effect for food and clips**： [TikTok](https://www.tiktok.com/search?q=corner+frame+video+effect+for+food+and+clips) · [YouTube](https://www.youtube.com/results?search_query=corner+frame+video+effect+for+food+and+clips) · [Google](https://www.google.com/search?q=corner+frame+video+effect+for+food+and+clips) · [Google Trends](https://trends.google.com/trends/explore?q=corner+frame+video+effect+for+food+and+clips)
-- **capcut summer bummer tren**： [TikTok](https://www.tiktok.com/search?q=capcut+summer+bummer+tren) · [YouTube](https://www.youtube.com/results?search_query=capcut+summer+bummer+tren) · [Google](https://www.google.com/search?q=capcut+summer+bummer+tren) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+summer+bummer+tren)
-- **bigxthaplug give it all ai trend rap at the mic**： [TikTok](https://www.tiktok.com/search?q=bigxthaplug+give+it+all+ai+trend+rap+at+the+mic) · [YouTube](https://www.youtube.com/results?search_query=bigxthaplug+give+it+all+ai+trend+rap+at+the+mic) · [Google](https://www.google.com/search?q=bigxthaplug+give+it+all+ai+trend+rap+at+the+mic) · [Google Trends](https://trends.google.com/trends/explore?q=bigxthaplug+give+it+all+ai+trend+rap+at+the+mic)
-- **la mujer del pelotero ai dance from photo**： [TikTok](https://www.tiktok.com/search?q=la+mujer+del+pelotero+ai+dance+from+photo) · [YouTube](https://www.youtube.com/results?search_query=la+mujer+del+pelotero+ai+dance+from+photo) · [Google](https://www.google.com/search?q=la+mujer+del+pelotero+ai+dance+from+photo) · [Google Trends](https://trends.google.com/trends/explore?q=la+mujer+del+pelotero+ai+dance+from+photo)
-- **funny car meme video stage the dashboard double take**： [TikTok](https://www.tiktok.com/search?q=funny+car+meme+video+stage+the+dashboard+double+take) · [YouTube](https://www.youtube.com/results?search_query=funny+car+meme+video+stage+the+dashboard+double+take) · [Google](https://www.google.com/search?q=funny+car+meme+video+stage+the+dashboard+double+take) · [Google Trends](https://trends.google.com/trends/explore?q=funny+car+meme+video+stage+the+dashboard+double+take)
-- **capcut ye nighahe tuu kaha**： [TikTok](https://www.tiktok.com/search?q=capcut+ye+nighahe+tuu+kaha) · [YouTube](https://www.youtube.com/results?search_query=capcut+ye+nighahe+tuu+kaha) · [Google](https://www.google.com/search?q=capcut+ye+nighahe+tuu+kaha) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+ye+nighahe+tuu+kaha)
+- **ai tidal wave video a giant wave hits you and friends**： [TikTok](https://www.tiktok.com/search?q=ai+tidal+wave+video+a+giant+wave+hits+you+and+friends) · [YouTube](https://www.youtube.com/results?search_query=ai+tidal+wave+video+a+giant+wave+hits+you+and+friends) · [Google](https://www.google.com/search?q=ai+tidal+wave+video+a+giant+wave+hits+you+and+friends) · [Google Trends](https://trends.google.com/trends/explore?q=ai+tidal+wave+video+a+giant+wave+hits+you+and+friends)
+- **ai christmas dance video with three friends**： [TikTok](https://www.tiktok.com/search?q=ai+christmas+dance+video+with+three+friends) · [YouTube](https://www.youtube.com/results?search_query=ai+christmas+dance+video+with+three+friends) · [Google](https://www.google.com/search?q=ai+christmas+dance+video+with+three+friends) · [Google Trends](https://trends.google.com/trends/explore?q=ai+christmas+dance+video+with+three+friends)
+- **wassup in a minute ai trend trio dance prompts**： [TikTok](https://www.tiktok.com/search?q=wassup+in+a+minute+ai+trend+trio+dance+prompts) · [YouTube](https://www.youtube.com/results?search_query=wassup+in+a+minute+ai+trend+trio+dance+prompts) · [Google](https://www.google.com/search?q=wassup+in+a+minute+ai+trend+trio+dance+prompts) · [Google Trends](https://trends.google.com/trends/explore?q=wassup+in+a+minute+ai+trend+trio+dance+prompts)
+- **airport transition ai teleport to a neon city**： [TikTok](https://www.tiktok.com/search?q=airport+transition+ai+teleport+to+a+neon+city) · [YouTube](https://www.youtube.com/results?search_query=airport+transition+ai+teleport+to+a+neon+city) · [Google](https://www.google.com/search?q=airport+transition+ai+teleport+to+a+neon+city) · [Google Trends](https://trends.google.com/trends/explore?q=airport+transition+ai+teleport+to+a+neon+city)
+- **grok imagine image 2 0 low vs medium text and edits tested**： [TikTok](https://www.tiktok.com/search?q=grok+imagine+image+2+0+low+vs+medium+text+and+edits+tested) · [YouTube](https://www.youtube.com/results?search_query=grok+imagine+image+2+0+low+vs+medium+text+and+edits+tested) · [Google](https://www.google.com/search?q=grok+imagine+image+2+0+low+vs+medium+text+and+edits+tested) · [Google Trends](https://trends.google.com/trends/explore?q=grok+imagine+image+2+0+low+vs+medium+text+and+edits+tested)
+- **dancing with santa ai dance with santa from 1 photo**： [TikTok](https://www.tiktok.com/search?q=dancing+with+santa+ai+dance+with+santa+from+1+photo) · [YouTube](https://www.youtube.com/results?search_query=dancing+with+santa+ai+dance+with+santa+from+1+photo) · [Google](https://www.google.com/search?q=dancing+with+santa+ai+dance+with+santa+from+1+photo) · [Google Trends](https://trends.google.com/trends/explore?q=dancing+with+santa+ai+dance+with+santa+from+1+photo)
+- **minimax h3 image review**： [TikTok](https://www.tiktok.com/search?q=minimax+h3+image+review) · [YouTube](https://www.youtube.com/results?search_query=minimax+h3+image+review) · [Google](https://www.google.com/search?q=minimax+h3+image+review) · [Google Trends](https://trends.google.com/trends/explore?q=minimax+h3+image+review)
+- **dog washing dishes ai the iphone sponge prank meme**： [TikTok](https://www.tiktok.com/search?q=dog+washing+dishes+ai+the+iphone+sponge+prank+meme) · [YouTube](https://www.youtube.com/results?search_query=dog+washing+dishes+ai+the+iphone+sponge+prank+meme) · [Google](https://www.google.com/search?q=dog+washing+dishes+ai+the+iphone+sponge+prank+meme) · [Google Trends](https://trends.google.com/trends/explore?q=dog+washing+dishes+ai+the+iphone+sponge+prank+meme)
+- **cat dance videos make a neon trio from three photos**： [TikTok](https://www.tiktok.com/search?q=cat+dance+videos+make+a+neon+trio+from+three+photos) · [YouTube](https://www.youtube.com/results?search_query=cat+dance+videos+make+a+neon+trio+from+three+photos) · [Google](https://www.google.com/search?q=cat+dance+videos+make+a+neon+trio+from+three+photos) · [Google Trends](https://trends.google.com/trends/explore?q=cat+dance+videos+make+a+neon+trio+from+three+photos)
+- **gta 6 loading screen ai your photo as a gta poster**： [TikTok](https://www.tiktok.com/search?q=gta+6+loading+screen+ai+your+photo+as+a+gta+poster) · [YouTube](https://www.youtube.com/results?search_query=gta+6+loading+screen+ai+your+photo+as+a+gta+poster) · [Google](https://www.google.com/search?q=gta+6+loading+screen+ai+your+photo+as+a+gta+poster) · [Google Trends](https://trends.google.com/trends/explore?q=gta+6+loading+screen+ai+your+photo+as+a+gta+poster)
 
 本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。
 
@@ -68,6 +58,19 @@
 
 | 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
+| ai tidal wave video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai christmas dance video with three friends | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| wassup in a minute ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| airport transition ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| dancing with santa ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| dog washing dishes ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| gta 6 loading screen ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| jingle bell brazil dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| snowman dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| nadie ta frio trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| neon cat trio ai dance video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ronaldo header ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| tiger transition ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | the bigxthaplug give it all ai video from the block trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | christmas princess carriage ai video red gown snow | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | bigxthaplug give it all ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -95,19 +98,6 @@
 | arabic poetry recitation ai video from a photo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | balmain earkid ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | awkward car meme ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 6 ai talking photo generators for speaking clips | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| cat shower ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| boy it s just alcohol ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| edit or regenerate an ai video clip | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| christian dior dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| how to fix one failed shot in an ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| christmas photobooth trend ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| dugun oyunu ai trend turkish wedding dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 6 ai story to video tools for films and narration | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| jake gyllenhaal headphones walk ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| fantasy rush hour ai trend backseat carpool singing video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| favorite rumors about us ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| 코르티스 go 챌린지 만드는 법 사진 4장으로 ai 댄스 영상 만들기 | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
@@ -120,8 +110,8 @@
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 5 links from 1/1 listings |
 | Higgsfield Viral | 184 relevant URLs in sitemap | 27 links from 2/2 listings |
-| MakeViral | 542 relevant URLs in sitemap | 525 links from 2/2 listings |
-| Zooop | 260 relevant URLs in sitemap | 119 links from 2/2 listings |
+| MakeViral | 553 relevant URLs in sitemap | 536 links from 2/2 listings |
+| Zooop | 269 relevant URLs in sitemap | 122 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
 | Media.io | 3019 relevant URLs in sitemap | 160 links from 3/3 listings |
 | Dreamina | 2874 relevant URLs in sitemap | 33 links from 2/2 listings |
