@@ -1,9 +1,9 @@
 # AI 视频上游信号报告（YouTube Data API 试运行）
 
-- 抓取时间（北京时间）：2026-11-16 14:18
+- 抓取时间（北京时间）：2026-11-17 02:27
 - 成功频道：1/1
 - 失败/未配置频道：0/1
-- 经成功历史快照对比的首次观察视频：1
+- 经成功历史快照对比的首次观察视频：2
 
 > 这只代表上游新视频，并不是已确认 AI 新玩法。视频发布与首次观察是不同时间。
 
@@ -15,7 +15,8 @@
 
 | 首次观察（北京） | 原视频发布时间（北京） | 来源 | 链接 | 当前播放量 | 上次采样至今增长 |
 |---|---|---|---|---:|---:|
-| 2026-11-16 14:18 | 2026-11-16 09:02 | League of Legends Official | [Dantes and AloisNL blind rank league of legends](https://www.youtube.com/watch?v=BtSRkAoFvpE) | 60794 | — |
+| 2026-11-17 02:27 | 2026-11-17 00:00 | League of Legends Official | [Dev Update: Season 1 2027](https://www.youtube.com/watch?v=fIb_1N2fq10) | 19673 | — |
+| 2026-11-17 02:27 | 2026-11-17 00:00 | League of Legends Official | [Season 1 2027 / Dev Update - League of Legends](https://www.youtube.com/watch?v=rw98WDnsgkw) | 230758 | — |
 
 ## 审核规则
 
