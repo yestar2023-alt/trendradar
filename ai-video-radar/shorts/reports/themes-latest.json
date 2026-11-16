@@ -1,20 +1,44 @@
 {
-  "built_at": "2026-11-16T06:27:15.811204+00:00",
-  "source_snapshot_at": "2026-11-16T06:27:11Z",
-  "snapshot_video_count": 2626,
-  "named_theme_count": 0,
+  "built_at": "2026-11-16T18:31:53.864820+00:00",
+  "source_snapshot_at": "2026-11-16T18:31:49Z",
+  "snapshot_video_count": 2556,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
-  "unmatched_creative_candidates": [
+  "themes": [
     {
-      "title": "ননদের বাড়িতে বেড়াতে গেল নূরজাহান!বোনের বিপদে পাশে দাঁড়ালো কালাম ❤️। #LifewithNurzahan",
-      "url": "https://www.youtube.com/watch?v=zvMXzDYjWyA",
-      "views": 1180974,
-      "channel": "Life with Nurzahan",
-      "first_seen_at": "2026-11-16T06:27:11Z",
-      "published_at": "2026-11-15T08:40:32Z",
-      "observed_growth_per_hour": null
+      "theme_id": "car_restoration",
+      "name": "Car Transformation / 废车变超跑",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "车辆从废旧到崭新的视觉变化",
+      "input": "一张车辆照片",
+      "risk": "汽车品牌/Logo 商标与真实维修误导",
+      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 1,
+      "channel_count": 1,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 1254,
+      "first_observed_at": "2026-11-16T18:31:49Z",
+      "examples": [
+        {
+          "video_id": "tqg__3eahIg",
+          "title": "😱 WHITE vs BLACK SUPERCAR! INSANE AI CAR TRANSFORMATION! 🔥 #bmwm4 #CarLovers #USA #ViralShorts",
+          "url": "https://www.youtube.com/watch?v=tqg__3eahIg",
+          "channel": "USA Ultra Viral ",
+          "channel_id": "UC89t64twGJdjSJceAh6XE_g",
+          "published_at": "2026-11-16T02:07:34Z",
+          "first_seen_at": "2026-11-16T18:31:49Z",
+          "views": 1254,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
     }
-  ]
+  ],
+  "unmatched_creative_candidates": []
 }
