@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-17 21:24
-- 数据库视频：2586；24小时内且有频道ID的非教程候选：150
-- 自动发现跨账号同名/同词线索：0
+- 最新成功快照（北京）：2026-11-18 07:29
+- 数据库视频：2552；24小时内且有频道ID的非教程候选：215
+- 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,41 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-本轮没有足够具体且由两个独立作者共同使用的名字或标签。
+### 1. sheru bhai
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：5；其中AI文字自述频道：5；视频：5
+- 相同动作词：无；主文案复用比例：20%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Tp devil gaming  | [Sheru bhai Ki love story part -01 #viralreels #aianimation #sheru #part1](https://www.youtube.com/watch?v=GMiAcOZbSRI) | 2026-11-17 15:01 | 2026-11-18 07:29 | 39801 | 待多次采样 | 作者文字自述AI |
+| Gamer_Bhai | [Sheru Bhai Returns to His Village After 20 Years part-1 . .#ai #sheru #sherubhai #aianimation](https://www.youtube.com/watch?v=4IWC8SJoSHs) | 2026-11-17 15:30 | 2026-11-18 07:29 | 37262 | 待多次采样 | 作者文字自述AI |
+| RKG10K | [TUNG TUNG VS SHERU BHAI 💸#sheru #aianimation #tungtungtungsahur](https://www.youtube.com/watch?v=ifC_n4tIitE) | 2026-11-17 12:24 | 2026-11-18 07:29 | 1915 | 待多次采样 | 作者文字自述AI |
+| Tiger king Ai | [Doraemon in Billionaire Mode with White Sheru Bhai! 💰🏎️ #AIAnimation#shorts](https://www.youtube.com/watch?v=JngV_v94bcQ) | 2026-11-17 16:30 | 2026-11-18 07:29 | 1257 | 待多次采样 | 作者文字自述AI |
+
+### 2. #telugucomedy
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Bommala Gola | [కోతి vs సింహం 😂 అడవిలో అసలైన కింగ్ ఎవరు? /#funnycartoon#comedy #telugucomedy #aianimation #cartoon](https://www.youtube.com/watch?v=oNTV4YPH1os) | 2026-11-17 16:50 | 2026-11-18 07:29 | 1883 | 待多次采样 | 作者文字自述AI |
+| AI MAHIMA | [మోటు మాటలు వింటే నవ్వకుండా ఉండలేరు రా 😂🤣🌳 #MotuPatlu #TeluguComedy #AIAnimation #ComedyReels](https://www.youtube.com/watch?v=N-qkO9qSYzY) | 2026-11-17 10:13 | 2026-11-18 07:29 | 1624 | 待多次采样 | 作者文字自述AI |
+
+### 3. #lifelessons
+
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| The Digital Hafiza | [Assubhu Bada Naat 🤲🍁The Golden Ship vs The Mysterious Silver Ship! #allah #islam #islamicvideo](https://www.youtube.com/watch?v=vwpvL-HVf0s) | 2026-11-17 11:00 | 2026-11-18 07:29 | 22205 | 待多次采样 | 作者文字自述AI |
+| kuttystory111 | [தியாகத்துக்கு ஒரு எல்லை வேண்டும் P1. #tamilshorts #tamilstory #emotionalstory #aivideo #lifelessons](https://www.youtube.com/watch?v=pnmpr06qf-Q) | 2026-11-17 19:00 | 2026-11-17 21:24 | 1607 | 67.8 | 作者文字自述AI |
+
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
