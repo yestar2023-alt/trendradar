@@ -1003,7 +1003,8 @@
       "parents": [
         "ai dance",
         "ai animation",
-        "video generator"
+        "video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "CHECKED",
@@ -9850,7 +9851,8 @@
         "ai video",
         "video generator",
         "ai video generator",
-        "ai image"
+        "ai image",
+        "ai image to video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -9990,7 +9992,8 @@
       "parents": [
         "ai video",
         "ai video generator",
-        "free ai video generator"
+        "free ai video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -10041,7 +10044,8 @@
         "video generator",
         "ai video generator",
         "generator",
-        "free ai video generator"
+        "free ai video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -10057,7 +10061,9 @@
       "parents": [
         "ai video",
         "ai video generator",
-        "free ai video generator"
+        "free ai video generator",
+        "ai image to video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -10086,7 +10092,8 @@
       "depth": 1,
       "parents": [
         "ai video",
-        "ai image"
+        "ai image",
+        "ai image to video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -10173,7 +10180,8 @@
         "ai video",
         "video generator",
         "ai video generator",
-        "free ai video generator"
+        "free ai video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -10191,7 +10199,8 @@
         "ai video",
         "video generator",
         "ai video generator",
-        "free ai video generator"
+        "free ai video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -11437,7 +11446,9 @@
       "parents": [
         "image to video",
         "ai animation",
-        "everygen ai video generator"
+        "everygen ai video generator",
+        "ai image to video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -11468,7 +11479,8 @@
         "image to video",
         "video generator",
         "ai video generator",
-        "free ai video generator"
+        "free ai video generator",
+        "ai image to video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -11496,7 +11508,8 @@
       "keyword": "nsfw image to video generator",
       "depth": 1,
       "parents": [
-        "image to video"
+        "image to video",
+        "ai image to video generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -12960,7 +12973,8 @@
       "keyword": "video generator ai",
       "depth": 1,
       "parents": [
-        "video generator"
+        "video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-13T08:52:42+00:00",
       "status": "QUEUED",
@@ -13023,12 +13037,631 @@
         "ai video generator"
       ],
       "first_observed_at": "2026-11-13T08:52:42+00:00",
-      "status": "QUEUED",
-      "last_checked_at": null,
+      "status": "CHECKED",
+      "last_checked_at": "2026-11-17T05:15:56+00:00",
       "next_check_at": null,
-      "rising": [],
-      "top": [],
-      "interest_over_time": []
+      "rising": [
+        {
+          "query": "veed",
+          "value": 42950,
+          "formatted_value": "Breakout",
+          "link": "https://trends.google.com/trends/explore?q=veed&date=now+7-d&geo=US"
+        },
+        {
+          "query": "darlink ai",
+          "value": 90,
+          "formatted_value": "+90%",
+          "link": "https://trends.google.com/trends/explore?q=darlink+ai&date=now+7-d&geo=US"
+        }
+      ],
+      "top": [
+        {
+          "query": "ai video generator free",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=ai+video+generator+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "free ai image generator",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=free+ai+image+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "image to video ai free",
+          "value": 99,
+          "formatted_value": "99",
+          "link": "https://trends.google.com/trends/explore?q=image+to+video+ai+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "free image to video ai",
+          "value": 99,
+          "formatted_value": "99",
+          "link": "https://trends.google.com/trends/explore?q=free+image+to+video+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "nsfw image to video generator",
+          "value": 27,
+          "formatted_value": "27",
+          "link": "https://trends.google.com/trends/explore?q=nsfw+image+to+video+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "best ai image to video generator",
+          "value": 20,
+          "formatted_value": "20",
+          "link": "https://trends.google.com/trends/explore?q=best+ai+image+to+video+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "best ai video generator",
+          "value": 19,
+          "formatted_value": "19",
+          "link": "https://trends.google.com/trends/explore?q=best+ai+video+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai image to video generator no restrictions",
+          "value": 15,
+          "formatted_value": "15",
+          "link": "https://trends.google.com/trends/explore?q=ai+image+to+video+generator+no+restrictions&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai image to video generator free no sign up",
+          "value": 12,
+          "formatted_value": "12",
+          "link": "https://trends.google.com/trends/explore?q=ai+image+to+video+generator+free+no+sign+up&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai video generator from image",
+          "value": 10,
+          "formatted_value": "10",
+          "link": "https://trends.google.com/trends/explore?q=ai+video+generator+from+image&date=now+7-d&geo=US"
+        },
+        {
+          "query": "perchance ai",
+          "value": 6,
+          "formatted_value": "6",
+          "link": "https://trends.google.com/trends/explore?q=perchance+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "perchance ai image generator",
+          "value": 6,
+          "formatted_value": "6",
+          "link": "https://trends.google.com/trends/explore?q=perchance+ai+image+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai image to video generator free unlimited",
+          "value": 6,
+          "formatted_value": "6",
+          "link": "https://trends.google.com/trends/explore?q=ai+image+to+video+generator+free+unlimited&date=now+7-d&geo=US"
+        },
+        {
+          "query": "image to video ai free unlimited",
+          "value": 6,
+          "formatted_value": "6",
+          "link": "https://trends.google.com/trends/explore?q=image+to+video+ai+free+unlimited&date=now+7-d&geo=US"
+        },
+        {
+          "query": "free ai video generator from image",
+          "value": 6,
+          "formatted_value": "6",
+          "link": "https://trends.google.com/trends/explore?q=free+ai+video+generator+from+image&date=now+7-d&geo=US"
+        },
+        {
+          "query": "darlink ai",
+          "value": 2,
+          "formatted_value": "2",
+          "link": "https://trends.google.com/trends/explore?q=darlink+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "veed",
+          "value": 1,
+          "formatted_value": "1",
+          "link": "https://trends.google.com/trends/explore?q=veed&date=now+7-d&geo=US"
+        }
+      ],
+      "interest_over_time": [
+        {
+          "date": "2026-11-13T02:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T03:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T05:00:00+00:00",
+          "value": 13,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T06:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T07:00:00+00:00",
+          "value": 25,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T19:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T20:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T21:00:00+00:00",
+          "value": 10,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T22:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T23:00:00+00:00",
+          "value": 11,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T01:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T02:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T09:00:00+00:00",
+          "value": 100,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T14:00:00+00:00",
+          "value": 54,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T16:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T20:00:00+00:00",
+          "value": 11,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T21:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T22:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T23:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T01:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T03:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T04:00:00+00:00",
+          "value": 13,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T05:00:00+00:00",
+          "value": 12,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T06:00:00+00:00",
+          "value": 16,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T07:00:00+00:00",
+          "value": 21,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T14:00:00+00:00",
+          "value": 10,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T17:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T19:00:00+00:00",
+          "value": 11,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T20:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T21:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T22:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T23:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T00:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T01:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T02:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T03:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T04:00:00+00:00",
+          "value": 9,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T05:00:00+00:00",
+          "value": 12,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T06:00:00+00:00",
+          "value": 24,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T13:00:00+00:00",
+          "value": 10,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T16:00:00+00:00",
+          "value": 5,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T17:00:00+00:00",
+          "value": 5,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T18:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T19:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T21:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T22:00:00+00:00",
+          "value": 6,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T23:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T00:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T01:00:00+00:00",
+          "value": 7,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T03:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T04:00:00+00:00",
+          "value": 8,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T05:00:00+00:00",
+          "value": 0,
+          "is_partial": true
+        }
+      ],
+      "geo": "US",
+      "timeframe": "now 7-d"
     },
     "google video generator": {
       "keyword": "google video generator",
@@ -13054,12 +13687,522 @@
         "free ai video generator"
       ],
       "first_observed_at": "2026-11-13T08:52:42+00:00",
-      "status": "QUEUED",
-      "last_checked_at": null,
+      "status": "CHECKED",
+      "last_checked_at": "2026-11-17T05:15:56+00:00",
       "next_check_at": null,
       "rising": [],
-      "top": [],
-      "interest_over_time": []
+      "top": [
+        {
+          "query": "image to video ai free unlimited",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=image+to+video+ai+free+unlimited&date=now+7-d&geo=US"
+        }
+      ],
+      "interest_over_time": [
+        {
+          "date": "2026-11-13T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T19:00:00+00:00",
+          "value": 11,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T21:00:00+00:00",
+          "value": 11,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T22:00:00+00:00",
+          "value": 13,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T03:00:00+00:00",
+          "value": 13,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T09:00:00+00:00",
+          "value": 100,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T14:00:00+00:00",
+          "value": 61,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T19:00:00+00:00",
+          "value": 12,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T20:00:00+00:00",
+          "value": 15,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T21:00:00+00:00",
+          "value": 12,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T04:00:00+00:00",
+          "value": 18,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T19:00:00+00:00",
+          "value": 13,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T00:00:00+00:00",
+          "value": 10,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T03:00:00+00:00",
+          "value": 13,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T00:00:00+00:00",
+          "value": 10,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T01:00:00+00:00",
+          "value": 10,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T05:00:00+00:00",
+          "value": 0,
+          "is_partial": true
+        }
+      ],
+      "geo": "US",
+      "timeframe": "now 7-d"
     },
     "best ai video generator free": {
       "keyword": "best ai video generator free",
@@ -13160,7 +14303,8 @@
       "parents": [
         "video generator",
         "ai video generator",
-        "free ai video generator"
+        "free ai video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-13T08:52:42+00:00",
       "status": "QUEUED",
@@ -13179,13 +14323,589 @@
         "free ai video generator"
       ],
       "first_observed_at": "2026-11-13T08:52:42+00:00",
-      "status": "QUEUED",
-      "last_checked_at": null,
+      "status": "CHECKED",
+      "last_checked_at": "2026-11-17T05:15:56+00:00",
       "next_check_at": null,
       "rising": [],
-      "top": [],
-      "interest_over_time": [],
-      "quality_gate": "SKIPPED_NOISE"
+      "top": [
+        {
+          "query": "video generator ai",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=video+generator+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai video",
+          "value": 98,
+          "formatted_value": "98",
+          "link": "https://trends.google.com/trends/explore?q=ai+video&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai video generator free",
+          "value": 50,
+          "formatted_value": "50",
+          "link": "https://trends.google.com/trends/explore?q=ai+video+generator+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "chatgpt image generator",
+          "value": 15,
+          "formatted_value": "15",
+          "link": "https://trends.google.com/trends/explore?q=chatgpt+image+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "best ai video generator",
+          "value": 14,
+          "formatted_value": "14",
+          "link": "https://trends.google.com/trends/explore?q=best+ai+video+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai image generator",
+          "value": 12,
+          "formatted_value": "12",
+          "link": "https://trends.google.com/trends/explore?q=ai+image+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "sora",
+          "value": 10,
+          "formatted_value": "10",
+          "link": "https://trends.google.com/trends/explore?q=sora&date=now+7-d&geo=US"
+        },
+        {
+          "query": "sora ai video generator",
+          "value": 10,
+          "formatted_value": "10",
+          "link": "https://trends.google.com/trends/explore?q=sora+ai+video+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "sora ai",
+          "value": 9,
+          "formatted_value": "9",
+          "link": "https://trends.google.com/trends/explore?q=sora+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "gemini",
+          "value": 7,
+          "formatted_value": "7",
+          "link": "https://trends.google.com/trends/explore?q=gemini&date=now+7-d&geo=US"
+        },
+        {
+          "query": "higgsfield",
+          "value": 4,
+          "formatted_value": "4",
+          "link": "https://trends.google.com/trends/explore?q=higgsfield&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai video maker",
+          "value": 3,
+          "formatted_value": "3",
+          "link": "https://trends.google.com/trends/explore?q=ai+video+maker&date=now+7-d&geo=US"
+        }
+      ],
+      "interest_over_time": [
+        {
+          "date": "2026-11-13T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T13:00:00+00:00",
+          "value": 58,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-13T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T22:00:00+00:00",
+          "value": 40,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-14T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T21:00:00+00:00",
+          "value": 37,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-15T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T05:00:00+00:00",
+          "value": 93,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T06:00:00+00:00",
+          "value": 100,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-16T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-17T05:00:00+00:00",
+          "value": 0,
+          "is_partial": true
+        }
+      ],
+      "quality_gate": "SKIPPED_NOISE",
+      "geo": "US",
+      "timeframe": "now 7-d"
     },
     "gemini video generator": {
       "keyword": "gemini video generator",
@@ -51022,7 +52742,8 @@
       "keyword": "perchance ai",
       "depth": 1,
       "parents": [
-        "ai image"
+        "ai image",
+        "ai image to video generator"
       ],
       "first_observed_at": "2026-11-15T03:08:36+00:00",
       "status": "QUEUED",
@@ -51635,7 +53356,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "wassup in a minute ai trend": {
       "keyword": "wassup in a minute ai trend",
@@ -51647,7 +53369,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "tiger transition ai trend": {
       "keyword": "tiger transition ai trend",
@@ -51659,7 +53382,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "snowman dance ai guide": {
       "keyword": "snowman dance ai guide",
@@ -51707,7 +53431,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "reaching out cat ai": {
       "keyword": "reaching out cat ai",
@@ -51719,7 +53444,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "neon cat trio dance guide": {
       "keyword": "neon cat trio dance guide",
@@ -51755,7 +53481,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "minimax h3 image review": {
       "keyword": "minimax h3 image review",
@@ -51791,7 +53518,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "grok imagine image 2 0 review": {
       "keyword": "grok imagine image 2 0 review",
@@ -51815,7 +53543,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "dance with santa ai": {
       "keyword": "dance with santa ai",
@@ -51863,7 +53592,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ai tidal wave video": {
       "keyword": "ai tidal wave video",
@@ -51903,7 +53633,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "everygen.ai": {
       "keyword": "everygen.ai",
@@ -51917,7 +53648,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "magic hour": {
       "keyword": "magic hour",
@@ -51931,7 +53663,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "openart ai": {
       "keyword": "openart ai",
@@ -51945,7 +53678,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "open art ai": {
       "keyword": "open art ai",
@@ -51959,7 +53693,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ai video generator for free": {
       "keyword": "ai video generator for free",
@@ -52021,7 +53756,8 @@
       "keyword": "free ai video generator from image",
       "depth": 2,
       "parents": [
-        "free ai video generator"
+        "free ai video generator",
+        "ai image to video generator"
       ],
       "first_observed_at": "2026-11-16T03:14:22+00:00",
       "status": "QUEUED",
@@ -52077,9 +53813,1222 @@
       "keyword": "higgsfield",
       "depth": 2,
       "parents": [
-        "free ai video generator"
+        "free ai video generator",
+        "chatgpt video generator"
       ],
       "first_observed_at": "2026-11-16T03:14:22+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
+    },
+    "youth service video": {
+      "keyword": "youth service video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "you never let her pay ai video": {
+      "keyword": "you never let her pay ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "you met me at a very chinese time ai": {
+      "keyword": "you met me at a very chinese time ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "whoville ai trend": {
+      "keyword": "whoville ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "what if you fly ai trend": {
+      "keyword": "what if you fly ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "whaletail ai prompts": {
+      "keyword": "whaletail ai prompts",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "video to video ai for social media": {
+      "keyword": "video to video ai for social media",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "usb flash drive product ad": {
+      "keyword": "usb flash drive product ad",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "triptych video": {
+      "keyword": "triptych video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tom hardy legend edit ai": {
+      "keyword": "tom hardy legend edit ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tiranga patriotic music video": {
+      "keyword": "tiranga patriotic music video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "telugu folk music video": {
+      "keyword": "telugu folk music video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tamil gana music video": {
+      "keyword": "tamil gana music video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "steer wrestling ai video": {
+      "keyword": "steer wrestling ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "st tropez dj ai video": {
+      "keyword": "st tropez dj ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "spiderman fridge fail ai video": {
+      "keyword": "spiderman fridge fail ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "soccer missed goal ai video": {
+      "keyword": "soccer missed goal ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "sneaker showcase video": {
+      "keyword": "sneaker showcase video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "skibidi bobbidi boo ai freestyle": {
+      "keyword": "skibidi bobbidi boo ai freestyle",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "self interview video": {
+      "keyword": "self interview video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "self hug sketch ai video": {
+      "keyword": "self hug sketch ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "rose photo slideshow": {
+      "keyword": "rose photo slideshow",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ronaldo header ai video trend": {
+      "keyword": "ronaldo header ai video trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "rollie on my wrist ai trend": {
+      "keyword": "rollie on my wrist ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "rio de janeiro travel video": {
+      "keyword": "rio de janeiro travel video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ps2 filter": {
+      "keyword": "ps2 filter",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "promptseen com jatayu": {
+      "keyword": "promptseen com jatayu",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "prompt seen sheru bhai": {
+      "keyword": "prompt seen sheru bhai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "player entrance video": {
+      "keyword": "player entrance video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "peaky blinders explosion ai video": {
+      "keyword": "peaky blinders explosion ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "paloma blanca ai dance": {
+      "keyword": "paloma blanca ai dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "one shot beach video": {
+      "keyword": "one shot beach video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "olly olly dance ai trend": {
+      "keyword": "olly olly dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "old song video": {
+      "keyword": "old song video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "nonprofit promo video": {
+      "keyword": "nonprofit promo video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "never let her pay ai video trend": {
+      "keyword": "never let her pay ai video trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "my moon my man ai trend": {
+      "keyword": "my moon my man ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "mourinho pressure ai video trend": {
+      "keyword": "mourinho pressure ai video trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "magic spell video effect": {
+      "keyword": "magic spell video effect",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kirk cousins ai video": {
+      "keyword": "kirk cousins ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "king jin ai trend": {
+      "keyword": "king jin ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "k pop funny moments video": {
+      "keyword": "k pop funny moments video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "joaquin buckley knockout ai trend": {
+      "keyword": "joaquin buckley knockout ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jensen huang you cant do this to me ai": {
+      "keyword": "jensen huang you cant do this to me ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jensen huang ai video generator": {
+      "keyword": "jensen huang ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jatayu ji ai video editing": {
+      "keyword": "jatayu ji ai video editing",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jatayu edit ai video prompt": {
+      "keyword": "jatayu edit ai video prompt",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "image to video vs video to video": {
+      "keyword": "image to video vs video to video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "image carousel video": {
+      "keyword": "image carousel video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "huell money ai video": {
+      "keyword": "huell money ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "how to make rollie on my wrist ai video": {
+      "keyword": "how to make rollie on my wrist ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "how to make quiet on the creek ai video": {
+      "keyword": "how to make quiet on the creek ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "how to make james bond reveal ai video": {
+      "keyword": "how to make james bond reveal ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "how to make feel the pressure ai video": {
+      "keyword": "how to make feel the pressure ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "holiday recap video": {
+      "keyword": "holiday recap video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hero theme song video": {
+      "keyword": "hero theme song video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 loading screen ai generator": {
+      "keyword": "gta 6 loading screen ai generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "grandma parkour ai": {
+      "keyword": "grandma parkour ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "funny frank ai video editing prompt": {
+      "keyword": "funny frank ai video editing prompt",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "food and drink review vlog": {
+      "keyword": "food and drink review vlog",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "filmcraft ai review": {
+      "keyword": "filmcraft ai review",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "favorite place video": {
+      "keyword": "favorite place video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "fast cut transition video": {
+      "keyword": "fast cut transition video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "exo first snow ai dance generator": {
+      "keyword": "exo first snow ai dance generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dog cake smash ai trend": {
+      "keyword": "dog cake smash ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cowboy video": {
+      "keyword": "cowboy video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "concert review video": {
+      "keyword": "concert review video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas pet dance ai": {
+      "keyword": "christmas pet dance ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas dance with friends guide": {
+      "keyword": "christmas dance with friends guide",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas dance with friends": {
+      "keyword": "christmas dance with friends",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas": {
+      "keyword": "christmas",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "chovy drinking water ai video": {
+      "keyword": "chovy drinking water ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "chatgpt sweater portrait ai trend": {
+      "keyword": "chatgpt sweater portrait ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "chased by hyenas ai trend": {
+      "keyword": "chased by hyenas ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "car sale video": {
+      "keyword": "car sale video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "car drift ai video": {
+      "keyword": "car drift ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "beat sync video": {
+      "keyword": "beat sync video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "barbie girl dance duo guide": {
+      "keyword": "barbie girl dance duo guide",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "barbie girl dance duo": {
+      "keyword": "barbie girl dance duo",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "babu babu ai video generator": {
+      "keyword": "babu babu ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "are you hungry i can cook ai": {
+      "keyword": "are you hungry i can cook ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai pet christmas video generator": {
+      "keyword": "ai pet christmas video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7679103418518097172": {
+      "keyword": "7679103418518097172",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7659946921343175944": {
+      "keyword": "7659946921343175944",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7604703787197943093": {
+      "keyword": "7604703787197943093",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7598386163812044037": {
+      "keyword": "7598386163812044037",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7569661857015893256": {
+      "keyword": "7569661857015893256",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7552762928261238077": {
+      "keyword": "7552762928261238077",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-17",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "veed": {
+      "keyword": "veed",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "free image to video ai": {
+      "keyword": "free image to video ai",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "best ai image to video generator": {
+      "keyword": "best ai image to video generator",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai image to video generator no restrictions": {
+      "keyword": "ai image to video generator no restrictions",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai image to video generator free no sign up": {
+      "keyword": "ai image to video generator free no sign up",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai video generator from image": {
+      "keyword": "ai video generator from image",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "perchance ai image generator": {
+      "keyword": "perchance ai image generator",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai image to video generator free unlimited": {
+      "keyword": "ai image to video generator free unlimited",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "image to video ai free unlimited": {
+      "keyword": "image to video ai free unlimited",
+      "depth": 2,
+      "parents": [
+        "ai image to video generator",
+        "free image to video ai generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "chatgpt image generator": {
+      "keyword": "chatgpt image generator",
+      "depth": 2,
+      "parents": [
+        "chatgpt video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gemini": {
+      "keyword": "gemini",
+      "depth": 2,
+      "parents": [
+        "chatgpt video generator"
+      ],
+      "first_observed_at": "2026-11-17T05:15:56+00:00",
       "status": "QUEUED",
       "last_checked_at": null,
       "next_check_at": null,
@@ -55376,16 +58325,272 @@
       "observed_at": "2026-11-16T03:14:22+00:00",
       "formatted_value": "9",
       "value": 9
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "veed",
+      "type": "rising",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "Breakout",
+      "value": 42950
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "darlink ai",
+      "type": "rising",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "+90%",
+      "value": 90
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "ai video generator free",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "100",
+      "value": 100
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "free ai image generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "100",
+      "value": 100
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "image to video ai free",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "99",
+      "value": 99
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "free image to video ai",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "99",
+      "value": 99
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "nsfw image to video generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "27",
+      "value": 27
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "best ai image to video generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "20",
+      "value": 20
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "best ai video generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "19",
+      "value": 19
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "ai image to video generator no restrictions",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "15",
+      "value": 15
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "ai image to video generator free no sign up",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "12",
+      "value": 12
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "ai video generator from image",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "10",
+      "value": 10
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "perchance ai",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "6",
+      "value": 6
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "perchance ai image generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "6",
+      "value": 6
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "ai image to video generator free unlimited",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "6",
+      "value": 6
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "image to video ai free unlimited",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "6",
+      "value": 6
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "free ai video generator from image",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "6",
+      "value": 6
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "darlink ai",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "2",
+      "value": 2
+    },
+    {
+      "parent": "ai image to video generator",
+      "child": "veed",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "1",
+      "value": 1
+    },
+    {
+      "parent": "free image to video ai generator",
+      "child": "image to video ai free unlimited",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "100",
+      "value": 100
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "video generator ai",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "100",
+      "value": 100
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "ai video",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "98",
+      "value": 98
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "ai video generator free",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "50",
+      "value": 50
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "chatgpt image generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "15",
+      "value": 15
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "best ai video generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "14",
+      "value": 14
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "ai image generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "12",
+      "value": 12
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "sora",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "10",
+      "value": 10
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "sora ai video generator",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "10",
+      "value": 10
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "sora ai",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "9",
+      "value": 9
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "gemini",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "7",
+      "value": 7
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "higgsfield",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "4",
+      "value": 4
+    },
+    {
+      "parent": "chatgpt video generator",
+      "child": "ai video maker",
+      "type": "top",
+      "observed_at": "2026-11-17T05:15:56+00:00",
+      "formatted_value": "3",
+      "value": 3
     }
   ],
   "last_run": {
-    "checked_at": "2026-11-16T03:14:22+00:00",
-    "new_seeds": 21,
+    "checked_at": "2026-11-17T05:15:56+00:00",
+    "new_seeds": 88,
     "attempted": 3,
     "success": 3,
-    "new_terms": 15,
+    "new_terms": 11,
     "rate_limited": false,
-    "queued": 3311,
+    "queued": 3407,
     "mode": "LIVE_HTTP"
   }
 }
