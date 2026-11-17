@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-17 02:31
-- 数据库视频：2556；24小时内且有频道ID的非教程候选：189
-- 自动发现跨账号同名/同词线索：4
+- 最新成功快照（北京）：2026-11-17 10:55
+- 数据库视频：2616；24小时内且有频道ID的非教程候选：214
+- 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,33 +13,19 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. sheru bhai
+### 1. all characters
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：5；其中AI文字自述频道：4；视频：10
-- 相同动作词：无；主文案复用比例：70%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：3；其中AI文字自述频道：3；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Amrit Lal | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend #sheru #sherucartoon #sherukikahani](https://www.youtube.com/watch?v=aVgaM3CpdvE) | 2026-11-16 10:18 | 2026-11-16 14:27 | 1871 | 79.9 | 作者文字自述AI |
-| 1P ROCKS | [🦁 SHERU BHAI KI ROYAL ENTRY 🔥 / AI Lion Transformation 😈 #shorts​ #sheru​](https://www.youtube.com/watch?v=rM46m7lZLb8) | 2026-11-16 08:56 | 2026-11-17 02:31 | 1628 | 待多次采样 | AI制作未验证 |
-| Sapwa Sheru Ki Duniya ▷777k views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=hcMkAR54HBs) | 2026-11-16 12:23 | 2026-11-16 14:27 | 176 | 12.2 | 作者文字自述AI |
-| Sapwa Sheru Ki Duniya ▷16 Lakh views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=eWAvwgqEuIc) | 2026-11-16 14:08 | 2026-11-16 14:27 | 156 | 12.2 | 作者文字自述AI |
+| Samiul Sk | [🔥 Mr Bean All Cartoon Characters In Real Life  / Real  Child Look / Ai Generated Transformation](https://www.youtube.com/watch?v=qSShNiodaHI) | 2026-11-16 18:48 | 2026-11-17 02:31 | 82091 | 1,259.5 | 作者文字自述AI |
+| R.D Rocks | [Nobita & Doraemon All Cartoon Characters in Real Life 🤯🧬✨ / Doraemon AI Transformation / ](https://www.youtube.com/watch?v=OYqSY56GLJE) | 2026-11-16 20:00 | 2026-11-17 02:31 | 642 | 21.8 | 作者文字自述AI |
+| Ranjeet Toons | [🔥😱 Mr Bean All Cartoon Characters In Real Life Ai Transformation Real Life ](https://www.youtube.com/watch?v=_j6ywElMvbU) | 2026-11-16 14:48 | 2026-11-17 02:31 | 451 | 3.6 | 作者文字自述AI |
 
-### 2. all characters
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：4；其中AI文字自述频道：4；视频：4
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Samiul Sk | [🔥 Mr Bean All Cartoon Characters In Real Life  / Real  Child Look / Ai Generated Transformation](https://www.youtube.com/watch?v=qSShNiodaHI) | 2026-11-16 18:48 | 2026-11-17 02:31 | 71523 | 待多次采样 | 作者文字自述AI |
-| TOONS TO REAL | [🔥 Mr Bean All Cartoon Characters In Real Life  / Real  Child Look / Ai Generated Transformation](https://www.youtube.com/watch?v=kH7X8ONiqXI) | 2026-11-16 10:34 | 2026-11-17 02:31 | 2858 | 待多次采样 | 作者文字自述AI |
-| R.D Rocks | [Nobita & Doraemon All Cartoon Characters in Real Life 🤯🧬✨ / Doraemon AI Transformation / ](https://www.youtube.com/watch?v=OYqSY56GLJE) | 2026-11-16 20:00 | 2026-11-17 02:31 | 459 | 待多次采样 | 作者文字自述AI |
-| Ranjeet Toons | [🔥😱 Mr Bean All Cartoon Characters In Real Life Ai Transformation Real Life ](https://www.youtube.com/watch?v=_j6ywElMvbU) | 2026-11-16 14:48 | 2026-11-17 02:31 | 421 | 待多次采样 | 作者文字自述AI |
-
-### 3. fashion show
+### 2. fashion show
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -47,21 +33,21 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Varsha Singh | [😱 हॉस्टल में हुआ Fashion Show! लड़कियों का Before vs After Transformation 😍👗 / #shorts #rampwalk #ai](https://www.youtube.com/watch?v=lq8ugQ78lsU) | 2026-11-16 14:34 | 2026-11-17 02:31 | 792 | 待多次采样 | 作者文字自述AI |
-| AI Glam Studio | [Fashion show #viral #viralvideo #viralshorts #trendingshorts #trending #trend #model #aivideo #ai](https://www.youtube.com/watch?v=CHNNiIDuKQ4) | 2026-11-16 13:16 | 2026-11-16 14:27 | 219 | 18.1 | 作者文字自述AI |
+| Varsha Singh | [😱 हॉस्टल में हुआ Fashion Show! लड़कियों का Before vs After Transformation 😍👗 / #shorts #rampwalk #ai](https://www.youtube.com/watch?v=lq8ugQ78lsU) | 2026-11-16 14:34 | 2026-11-17 02:31 | 803 | 1.3 | 作者文字自述AI |
+| AI Glam Studio | [Fashion show #viral #viralvideo #viralshorts #trendingshorts #trending #trend #model #aivideo #ai](https://www.youtube.com/watch?v=CHNNiIDuKQ4) | 2026-11-16 13:16 | 2026-11-16 14:27 | 521 | 36.0 | 作者文字自述AI |
 
-### 4. mess sheru bhai rich
+### 3. sheru bhai
 
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：7
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
+- 相同动作词：无；主文案复用比例：86%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Amrit Lal | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend #sheru #sherucartoon #sherukikahani](https://www.youtube.com/watch?v=aVgaM3CpdvE) | 2026-11-16 10:18 | 2026-11-16 14:27 | 1871 | 79.9 | 作者文字自述AI |
-| Sapwa Sheru Ki Duniya ▷777k views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=hcMkAR54HBs) | 2026-11-16 12:23 | 2026-11-16 14:27 | 176 | 12.2 | 作者文字自述AI |
-| Sapwa Sheru Ki Duniya ▷16 Lakh views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=eWAvwgqEuIc) | 2026-11-16 14:08 | 2026-11-16 14:27 | 156 | 12.2 | 作者文字自述AI |
-| Sapwa Sheru Ki Duniya ▷16 Lakh views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=TzHmVrWdtmc) | 2026-11-16 13:59 | 2026-11-16 14:27 | 145 | 11.0 | 作者文字自述AI |
+| Sapwa Sheru Ki Duniya ▷16 Lakh views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=hcMkAR54HBs) | 2026-11-16 12:23 | 2026-11-16 14:27 | 218 | 5.0 | 作者文字自述AI |
+| Sapwa Sheru Ki Duniya ▷16 Lakh views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=eWAvwgqEuIc) | 2026-11-16 14:08 | 2026-11-16 14:27 | 178 | 2.6 | 作者文字自述AI |
+| Sapwa Sheru Ki Duniya ▷16 Lakh views 10 day ago | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=TzHmVrWdtmc) | 2026-11-16 13:59 | 2026-11-16 14:27 | 162 | 2.0 | 作者文字自述AI |
+| Sapwa Sheru Ki Duniya | [Never Mess With Sheru Bhai 😎👑 Rich Lion AI Video Trend  #sheru  #sherucartoon  #sherukikahani](https://www.youtube.com/watch?v=K9Ic-p7sU3w) | 2026-11-16 13:08 | 2026-11-16 14:27 | 12 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
