@@ -1,90 +1,10 @@
 {
-  "built_at": "2026-11-17T02:55:20.218266+00:00",
-  "source_snapshot_at": "2026-11-17T02:55:15Z",
-  "snapshot_video_count": 2616,
-  "named_theme_count": 2,
+  "built_at": "2026-11-17T13:24:47.811073+00:00",
+  "source_snapshot_at": "2026-11-17T13:24:44Z",
+  "snapshot_video_count": 2586,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "robot_girl",
-      "name": "Robot Girl Dance / 机械人偶跳舞",
-      "status": "仅候选/尚未确认新玩法",
-      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
-      "concept": "仿真人偶启动并跳舞",
-      "input": "成年人自有肖像或原创虚构角色",
-      "risk": "肖像、深伪误导与过度性化",
-      "caution": "同一作者连续发片不代表跨作者爆发，可能是真实拍摄/剪辑",
-      "existing_before": null,
-      "previous_evidence_url": null,
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 19239,
-      "first_observed_at": "2026-11-17T02:55:15Z",
-      "examples": [
-        {
-          "video_id": "ko-Dx3VnwAU",
-          "title": "🤖 Did This AI Robot Girl Just Malfunction? ⚡動きが止まらないアンドロイド少女 #AI #RobotGirl #Popping",
-          "url": "https://www.youtube.com/watch?v=ko-Dx3VnwAU",
-          "channel": "Barbin.ili芭比",
-          "channel_id": "UCV6rVpeDc16dZXJf15fUUCQ",
-          "published_at": "2026-11-16T10:21:28Z",
-          "first_seen_at": "2026-11-17T02:55:15Z",
-          "views": 19239,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    },
-    {
-      "theme_id": "a2o_lite_neon",
-      "name": "A2O LITE NEON AI 双人舞蹈",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "替换NEON双人编舞原角色进行动作模仿",
-      "input": "两张获得授权的成年人照片或宠物照片",
-      "risk": "音乐、编舞、角色/艺人肖像与粉丝衍生作品授权",
-      "caution": "10月20日已有生成器教程；作者自标日期并非独立归档首发验证，不能称今天才出现",
-      "existing_before": "2026-10-20",
-      "previous_evidence_url": "https://www.summrs.com/blog/how-to-make-a2o-lite-neon-ai-dance-video",
-      "videos": 2,
-      "channel_count": 2,
-      "claimed_ai_creations": 1,
-      "independent_claimed_creator_count": 1,
-      "max_observed_views": 2093,
-      "first_observed_at": "2026-11-17T02:55:15Z",
-      "examples": [
-        {
-          "video_id": "rpzSKfAOgio",
-          "title": "NEON 릴스 A20 LITE 챌린지 #a20lite #dance #challenge #ai",
-          "url": "https://www.youtube.com/watch?v=rpzSKfAOgio",
-          "channel": "하은우 haeunwoo:)",
-          "channel_id": "UCi68T7mELkkdSo640wieaBg",
-          "published_at": "2026-11-16T09:08:23Z",
-          "first_seen_at": "2026-11-17T02:55:15Z",
-          "views": 2093,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "xBaZqzShZxk",
-          "title": "A2O LITE - 'NEON' | AI Dance Cover (Shapeshifter ver.🔄) ทําพลาดแต่แถได้ 😝",
-          "url": "https://www.youtube.com/watch?v=xBaZqzShZxk",
-          "channel": "Songs for Ther",
-          "channel_id": "UCMyq1NHfEBd2x74fTpPJj7A",
-          "published_at": "2026-11-16T10:55:10Z",
-          "first_seen_at": "2026-11-17T02:55:15Z",
-          "views": 1296,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }
