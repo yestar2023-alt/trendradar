@@ -1,10 +1,10 @@
 {
-  "checked_date": "2026-11-17",
-  "input_url_rows": 115,
-  "unique_urls_in_batch": 115,
-  "audited_url_rows": 115,
-  "unique_keywords_in_ledger": 3138,
-  "pending_trends": 3138,
+  "checked_date": "2026-11-18",
+  "input_url_rows": 24,
+  "unique_urls_in_batch": 24,
+  "audited_url_rows": 24,
+  "unique_keywords_in_ledger": 3161,
+  "pending_trends": 3161,
   "keywords": {
     "old town road ai video": {
       "keyword": "old town road ai video",
@@ -35,6 +35,32 @@
           "url": "https://dreamina.capcut.com/ai-video/old-town-road-ai-video",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai tidal wave video": {
+      "keyword": "ai tidal wave video",
+      "first_observed_date": "2026-11-16",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral",
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ai-tidal-wave-video",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-16",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://zooop.ai/blog/ai-tidal-wave-video",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
           "channel": "sitemap"
         }
       ]
@@ -139,6 +165,443 @@
           "url": "https://dreamina.capcut.com/ai-video/dog-drummer-ai",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "yamal dance ai trend": {
+      "keyword": "yamal dance ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/yamal-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tying my shoes tip cup ai video": {
+      "keyword": "tying my shoes tip cup ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/tying-my-shoes-tip-cup-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "sunlight eye portrait ai": {
+      "keyword": "sunlight eye portrait ai",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/sunlight-eye-portrait-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "steer wrestling ai guide": {
+      "keyword": "steer wrestling ai guide",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/steer-wrestling-ai-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "steer wrestling ai": {
+      "keyword": "steer wrestling ai",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/steer-wrestling-ai",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "sidewalk drop in ai trend": {
+      "keyword": "sidewalk drop in ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/sidewalk-drop-in-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "sheru bhai ai trend": {
+      "keyword": "sheru bhai ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/sheru-bhai-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "pixar snow globe ai filter": {
+      "keyword": "pixar snow globe ai filter",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/pixar-snow-globe-ai-filter",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "pet dj ai guide": {
+      "keyword": "pet dj ai guide",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/pet-dj-ai-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "pet dj ai": {
+      "keyword": "pet dj ai",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/pet-dj-ai",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "opa opa opa ai hair bounce": {
+      "keyword": "opa opa opa ai hair bounce",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/opa-opa-opa-ai-hair-bounce",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "need for speed ai video": {
+      "keyword": "need for speed ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/need-for-speed-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "me parece que te vi bailando ai trend": {
+      "keyword": "me parece que te vi bailando ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/me-parece-que-te-vi-bailando-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "me and my girlfriend ai trend": {
+      "keyword": "me and my girlfriend ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/me-and-my-girlfriend-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "laisse tomber les filles ai trend": {
+      "keyword": "laisse tomber les filles ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/laisse-tomber-les-filles-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "king jin ai video": {
+      "keyword": "king jin ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/king-jin-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "james bond reveal ai trend": {
+      "keyword": "james bond reveal ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/james-bond-reveal-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "how to make old town road ai video": {
+      "keyword": "how to make old town road ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Summrs"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.summrs.com/blog/how-to-make-old-town-road-ai-video",
+          "source": "Summrs",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 5 goodbye ai trend": {
+      "keyword": "gta 5 goodbye ai trend",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-5-goodbye-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "golden statue baby kiss ai": {
+      "keyword": "golden statue baby kiss ai",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/golden-statue-baby-kiss-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "couple yacht selfie guide": {
+      "keyword": "couple yacht selfie guide",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/couple-yacht-selfie-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "couple yacht selfie": {
+      "keyword": "couple yacht selfie",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/couple-yacht-selfie",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai tidal wave": {
+      "keyword": "ai tidal wave",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-18",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/ai-tidal-wave",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-18",
           "channel": "sitemap"
         }
       ]
@@ -2664,25 +3127,6 @@
       "evidence": [
         {
           "url": "https://www.makeviral.ai/templates/airport-transition-ai-trend",
-          "source": "MakeViral",
-          "first_observed_date": "2026-11-16",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "ai tidal wave video": {
-      "keyword": "ai tidal wave video",
-      "first_observed_date": "2026-11-16",
-      "last_observed_date": "2026-11-16",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "MakeViral"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.makeviral.ai/templates/ai-tidal-wave-video",
           "source": "MakeViral",
           "first_observed_date": "2026-11-16",
           "channel": "sitemap"
