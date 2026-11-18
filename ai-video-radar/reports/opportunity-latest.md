@@ -1,9 +1,9 @@
 # 新词机会报告 · AI 视频
 
-- 检查时间（UTC）：**2026-11-17T05:16:00+00:00**
-- 全部候选节点：**3428**
-- 高优先级：**3**
-- 排除明显噪音：**955**
+- 检查时间（UTC）：**2026-11-18T04:44:22+00:00**
+- 全部候选节点：**3466**
+- 高优先级：**5**
+- 排除明显噪音：**978**
 - 本轮真实 SERP 请求：**0**
 - 已核验前十结果：**0**
 - SERP 凭证可用：**否**
@@ -16,15 +16,17 @@
 |---|---:|---|---|---|
 | [everygen ai video generator](https://www.google.com/search?q=everygen+ai+video+generator&gl=us&hl=en) | 82 | 60.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [can chatgpt make videos](https://www.google.com/search?q=can+chatgpt+make+videos&gl=us&hl=en) | 82 | 140.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
+| [darlink image to video](https://www.google.com/search?q=darlink+image+to+video&gl=us&hl=en) | 82 | 120.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
+| [image to video ai with prompt online free](https://www.google.com/search?q=image+to+video+ai+with+prompt+online+free&gl=us&hl=en) | 71 | 60.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [free ai video generator](https://www.google.com/search?q=free+ai+video+generator&gl=us&hl=en) | 65 | 80.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 
 ## 完整分类统计
 | 状态 | 数量 |
 |---|---:|
-| EXCLUDED_NOISE | 955 |
-| HIGH_PRIORITY_RESEARCH | 3 |
-| RESEARCH_QUEUE | 2370 |
-| WATCH_ONLY | 100 |
+| EXCLUDED_NOISE | 978 |
+| HIGH_PRIORITY_RESEARCH | 5 |
+| RESEARCH_QUEUE | 2382 |
+| WATCH_ONLY | 101 |
 
 注意：首次观察并不等于关键词刚诞生。仅相关查询暴涨不能证明真实可获得流量。
 未配置 SERPER_API_KEY 时自动保留待验证状态及 Google 搜索链接；不调用付费服务。
