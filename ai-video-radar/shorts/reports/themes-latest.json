@@ -1,20 +1,10 @@
 {
-  "built_at": "2026-11-17T23:30:03.484561+00:00",
-  "source_snapshot_at": "2026-11-17T23:29:59Z",
-  "snapshot_video_count": 2552,
+  "built_at": "2026-11-18T07:27:29.062235+00:00",
+  "source_snapshot_at": "2026-11-18T07:27:25Z",
+  "snapshot_video_count": 2550,
   "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
   "themes": [],
-  "unmatched_creative_candidates": [
-    {
-      "title": "राजस्थानी दाल बाटी चूरमा की शाही थाली बनाकर अन्ना ढाबे में मचा दिया धमाल! 🔥😋 #shorts #cooking #viral",
-      "url": "https://www.youtube.com/watch?v=QjFH86mdqjg",
-      "views": 2941353,
-      "channel": "SP production house",
-      "first_seen_at": "2026-11-17T23:29:59Z",
-      "published_at": "2026-11-17T03:30:50Z",
-      "observed_growth_per_hour": null
-    }
-  ]
+  "unmatched_creative_candidates": []
 }
