@@ -1,50 +1,44 @@
 {
-  "generated_at": "2026-11-19T13:04:20.189605+00:00",
-  "source_snapshot_at": "2026-11-19T13:04:16Z",
-  "source_video_count": 2494,
-  "published_last_24h_with_channel": 166,
-  "shared_name_groups": 1,
+  "generated_at": "2026-11-19T23:03:01.974499+00:00",
+  "source_snapshot_at": "2026-11-19T23:02:58Z",
+  "source_video_count": 2540,
+  "published_last_24h_with_channel": 207,
+  "shared_name_groups": 0,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [
+  "cross_creator_groups": [],
+  "high_velocity_single_creator_watchlist": [
     {
-      "anchor": "#devotional",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Trust God, Everything Will Be Fine 🙏✨| Devotional Shorts #ganesh #dance #mumbai #shorts #ytshorts#Ai",
-          "channel": "RealLife29",
-          "channel_id": "UCVx0OGrsaafHVkMEtxHbfxw",
-          "url": "https://www.youtube.com/watch?v=_CMGPSWjpIg",
-          "published_at": "2026-11-18T13:18:32Z",
-          "first_seen_at": "2026-11-19T01:52:14Z",
-          "views": 7850,
-          "observed_growth_per_hour": 369.4,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "\"राधा के बिना अधूरे हैं कान्हा\"Jiva Bhajan #shorts #bhakti #viral #trending  #youtubeshorts",
-          "channel": "Jiva bhajan ",
-          "channel_id": "UC7Bw9WCbbOchFHyx-iqFOug",
-          "url": "https://www.youtube.com/watch?v=7rZISAOE0l0",
-          "published_at": "2026-11-19T12:13:37Z",
-          "first_seen_at": "2026-11-19T13:04:16Z",
-          "views": 308,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
+      "title": "What would YOU do to get revenge? 😏 #ai #movie #aianimation #artificialthings",
+      "channel": "Florss | Dream Frame Academy ♡ ",
+      "channel_id": "UCKDUYbvhGaPZyB-r8Mc83Ug",
+      "url": "https://www.youtube.com/watch?v=ww8cn03ao4o",
+      "published_at": "2026-11-19T06:33:57Z",
+      "first_seen_at": "2026-11-19T23:02:58Z",
+      "views": 158777,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "would do get revenge",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "🚜 Massive Tractor DJ Rig Setup #aianimation #animalstories",
+      "channel": " AI  ALL  ACTIVITY   !! 🌍",
+      "channel_id": "UCmF3RjMQg0vBOcGIPgFUO2g",
+      "url": "https://www.youtube.com/watch?v=rKn8bSNqifQ",
+      "published_at": "2026-11-19T01:08:54Z",
+      "first_seen_at": "2026-11-19T23:02:58Z",
+      "views": 156895,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "massive tractor dj rig",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
     }
-  ],
-  "high_velocity_single_creator_watchlist": []
+  ]
 }
