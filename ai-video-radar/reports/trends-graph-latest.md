@@ -1,15 +1,15 @@
 # Free Google Trends Related Queries graph
 
-Checked: 2026-11-18T04:44:16+00:00
+Checked: 2026-11-19T04:34:34+00:00
 
 - Mode: LIVE_HTTP
-- New seed names imported: 23
-- Provider calls attempted: 3
-- Successful requests: 3
-- New related-query nodes: 15
-- Pending requests: 3442
-- Google throttled this run: False
-- Total graph nodes: 3466
+- New seed names imported: 72
+- Provider calls attempted: 1
+- Successful requests: 0
+- New related-query nodes: 0
+- Pending requests: 3513
+- Google throttled this run: True
+- Total graph nodes: 3538
 - Total parent-child edges: 518
 
 A Google Trends relative-interest value is NOT search volume.

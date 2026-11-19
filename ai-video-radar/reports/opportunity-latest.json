@@ -1,12 +1,12 @@
 {
   "vertical": "ai",
-  "checked_at": "2026-11-18T04:44:22+00:00",
-  "total_nodes": 3466,
+  "checked_at": "2026-11-19T04:34:37+00:00",
+  "total_nodes": 3538,
   "quality_counts": {
     "HIGH_PRIORITY_RESEARCH": 5,
-    "RESEARCH_QUEUE": 2382,
+    "RESEARCH_QUEUE": 2396,
     "WATCH_ONLY": 101,
-    "EXCLUDED_NOISE": 978
+    "EXCLUDED_NOISE": 1036
   },
   "serp_summary": {
     "calls": 0,
@@ -1294,6 +1294,38 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
+      "keyword": "gta 6 loading screen ai generator",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 3,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/gta-6-loading-screen-ai",
+        "https://www.media.io/ai/explore/zone/gta-6-loading-screen-ai-generator",
+        "https://zooop.ai/templates/image/gta-6-loading-screen"
+      ],
+      "identity_ids": [
+        "gta 6 loading screen",
+        "gta 6 loading screen ai generator",
+        "gta 6 loading screen ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+loading+screen+ai+generator",
+      "google_url": "https://www.google.com/search?q=gta+6+loading+screen+ai+generator&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
       "keyword": "stormzy shut up ai video",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -1372,8 +1404,8 @@
         "https://zooop.ai/templates/video/snowman-dance"
       ],
       "identity_ids": [
-        "sia snowman dance ai",
-        "snowman dance"
+        "snowman dance",
+        "sia snowman dance ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=sia+snowman+dance+ai",
       "google_url": "https://www.google.com/search?q=sia+snowman+dance+ai&gl=us&hl=en",
@@ -1744,6 +1776,215 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
+      "keyword": "st tropez dj ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/st-tropez-dj-ai",
+        "https://www.media.io/ai/explore/zone/st-tropez-dj-ai-video"
+      ],
+      "identity_ids": [
+        "st tropez dj ai",
+        "st tropez dj ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=st+tropez+dj+ai+video",
+      "google_url": "https://www.google.com/search?q=st+tropez+dj+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "spiderman fridge fail ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/spiderman-fridge-fail-ai",
+        "https://www.media.io/ai/explore/zone/spiderman-fridge-fail-ai-video"
+      ],
+      "identity_ids": [
+        "spiderman fridge fail ai",
+        "spiderman fridge fail ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=spiderman+fridge+fail+ai+video",
+      "google_url": "https://www.google.com/search?q=spiderman+fridge+fail+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "soccer missed goal ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/soccer-missed-goal-ai",
+        "https://www.media.io/ai/explore/zone/soccer-missed-goal-ai-video"
+      ],
+      "identity_ids": [
+        "soccer missed goal ai",
+        "soccer missed goal ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=soccer+missed+goal+ai+video",
+      "google_url": "https://www.google.com/search?q=soccer+missed+goal+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "self hug sketch ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/self-hug-sketch-ai",
+        "https://www.media.io/ai/explore/zone/self-hug-sketch-ai-video"
+      ],
+      "identity_ids": [
+        "self hug sketch ai",
+        "self hug sketch ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=self+hug+sketch+ai+video",
+      "google_url": "https://www.google.com/search?q=self+hug+sketch+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "peaky blinders explosion ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/peaky-blinders-explosion-ai",
+        "https://www.media.io/ai/explore/zone/peaky-blinders-explosion-ai-video"
+      ],
+      "identity_ids": [
+        "peaky blinders explosion ai",
+        "peaky blinders explosion ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=peaky+blinders+explosion+ai+video",
+      "google_url": "https://www.google.com/search?q=peaky+blinders+explosion+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "paloma blanca ai dance",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/paloma-blanca-ai-dance",
+        "https://www.media.io/ai/explore/zone/paloma-blanca-ai-dance"
+      ],
+      "identity_ids": [
+        "paloma blanca ai dance"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=paloma+blanca+ai+dance",
+      "google_url": "https://www.google.com/search?q=paloma+blanca+ai+dance&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "mourinho pressure ai video trend",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/mourinho-pressure-ai",
+        "https://www.media.io/ai/explore/zone/mourinho-pressure-ai-video-trend"
+      ],
+      "identity_ids": [
+        "mourinho pressure ai",
+        "mourinho pressure ai video trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mourinho+pressure+ai+video+trend",
+      "google_url": "https://www.google.com/search?q=mourinho+pressure+ai+video+trend&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
       "keyword": "jensen huang ai video generator",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -1774,7 +2015,7 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
-      "keyword": "gta 6 loading screen ai generator",
+      "keyword": "huell money ai video",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
       "score": 52,
@@ -1789,15 +2030,15 @@
       "trends_window": "now 7-d",
       "source_count": 2,
       "source_urls": [
-        "https://www.makeviral.ai/templates/gta-6-loading-screen-ai",
-        "https://www.media.io/ai/explore/zone/gta-6-loading-screen-ai-generator"
+        "https://dreamina.capcut.com/ai-video/huell-money-ai",
+        "https://www.media.io/ai/explore/zone/huell-money-ai-video"
       ],
       "identity_ids": [
-        "gta 6 loading screen ai generator",
-        "gta 6 loading screen ai"
+        "huell money ai",
+        "huell money ai video"
       ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+loading+screen+ai+generator",
-      "google_url": "https://www.google.com/search?q=gta+6+loading+screen+ai+generator&gl=us&hl=en",
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=huell+money+ai+video",
+      "google_url": "https://www.google.com/search?q=huell+money+ai+video&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -1834,6 +2075,36 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
+      "keyword": "chovy drinking water ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/chovy-drinking-water-ai",
+        "https://www.media.io/ai/explore/zone/chovy-drinking-water-ai-video"
+      ],
+      "identity_ids": [
+        "chovy drinking water ai",
+        "chovy drinking water ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chovy+drinking+water+ai+video",
+      "google_url": "https://www.google.com/search?q=chovy+drinking+water+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
       "keyword": "ai pet christmas video generator",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -1858,6 +2129,36 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+pet+christmas+video+generator",
       "google_url": "https://www.google.com/search?q=ai+pet+christmas+video+generator&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "gta 5 goodbye ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 52,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://www.media.io/ai/explore/zone/gta-5-goodbye-ai-video",
+        "https://zooop.ai/templates/video/gta-5-goodbye-ai"
+      ],
+      "identity_ids": [
+        "gta 5 goodbye ai video",
+        "gta 5 goodbye ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+5+goodbye+ai+video",
+      "google_url": "https://www.google.com/search?q=gta+5+goodbye+ai+video&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -2728,8 +3029,8 @@
         "https://dreamina.capcut.com/ai-video/editing-tools"
       ],
       "identity_ids": [
-        "ai video editing tools by edit",
-        "editing tools"
+        "editing tools",
+        "ai video editing tools by edit"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+video+editing+tools+by+edit",
       "google_url": "https://www.google.com/search?q=ai+video+editing+tools+by+edit&gl=us&hl=en",
@@ -5650,8 +5951,8 @@
         "https://dreamina.capcut.com/ai-video/video-to-animation-motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "video to animation motion transfer"
+        "video to animation motion transfer",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=video+to+animation+motion+transfer",
       "google_url": "https://www.google.com/search?q=video+to+animation+motion+transfer&gl=us&hl=en",
@@ -6690,8 +6991,8 @@
         "https://dreamina.capcut.com/ai-video/wedding-invitation-video-maker"
       ],
       "identity_ids": [
-        "vertical wedding invitation video maker",
-        "wedding invitation video maker"
+        "wedding invitation video maker",
+        "vertical wedding invitation video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=vertical+wedding+invitation+video+maker",
       "google_url": "https://www.google.com/search?q=vertical+wedding+invitation+video+maker&gl=us&hl=en",
@@ -7114,8 +7415,8 @@
         "https://dreamina.capcut.com/ai-video/unforgettable-ai-car-video-generator"
       ],
       "identity_ids": [
-        "ai car video generator",
-        "unforgettable ai car video generator"
+        "unforgettable ai car video generator",
+        "ai car video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=unforgettable+ai+car+video+generator",
       "google_url": "https://www.google.com/search?q=unforgettable+ai+car+video+generator&gl=us&hl=en",
@@ -8604,8 +8905,8 @@
         "https://dreamina.capcut.com/ai-video/tiktok-lip-sync-video-maker"
       ],
       "identity_ids": [
-        "tiktok lip sync video maker",
-        "lip sync"
+        "lip sync",
+        "tiktok lip sync video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=tiktok+lip+sync+video+maker",
       "google_url": "https://www.google.com/search?q=tiktok+lip+sync+video+maker&gl=us&hl=en",
@@ -9222,8 +9523,8 @@
         "https://dreamina.capcut.com/ai-video/text-to-cartoon-video-generator"
       ],
       "identity_ids": [
-        "cartoon video generator",
-        "text to cartoon video generator"
+        "text to cartoon video generator",
+        "cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=text+to+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=text+to+cartoon+video+generator&gl=us&hl=en",
@@ -11438,8 +11739,8 @@
         "https://dreamina.capcut.com/ai-video/social-media-lip-sync-generator"
       ],
       "identity_ids": [
-        "social media lip sync generator",
-        "lip sync"
+        "lip sync",
+        "social media lip sync generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=social+media+lip+sync+generator",
       "google_url": "https://www.google.com/search?q=social+media+lip+sync+generator&gl=us&hl=en",
@@ -15503,8 +15804,8 @@
         "https://dreamina.capcut.com/ai-video/reference-image-to-video-prompts"
       ],
       "identity_ids": [
-        "image to video",
-        "reference image to video prompts"
+        "reference image to video prompts",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=reference+image+to+video+prompts",
       "google_url": "https://www.google.com/search?q=reference+image+to+video+prompts&gl=us&hl=en",
@@ -17745,8 +18046,8 @@
         "https://dreamina.capcut.com/ai-video/portrait-image-to-video-prompts"
       ],
       "identity_ids": [
-        "portrait image to video prompts",
-        "image to video"
+        "image to video",
+        "portrait image to video prompts"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=portrait+image+to+video+prompts",
       "google_url": "https://www.google.com/search?q=portrait+image+to+video+prompts&gl=us&hl=en",
@@ -18027,8 +18328,8 @@
         "https://dreamina.capcut.com/ai-video/picture-to-cartoon-video-generator"
       ],
       "identity_ids": [
-        "cartoon video generator",
-        "picture to cartoon video generator"
+        "picture to cartoon video generator",
+        "cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=picture+to+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=picture+to+cartoon+video+generator&gl=us&hl=en",
@@ -21927,8 +22228,8 @@
         "https://dreamina.capcut.com/ai-video/merge-3-videos-together"
       ],
       "identity_ids": [
-        "merge 3 videos together",
-        "3 videos together"
+        "3 videos together",
+        "merge 3 videos together"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=merge+3+videos+together",
       "google_url": "https://www.google.com/search?q=merge+3+videos+together&gl=us&hl=en",
@@ -25689,8 +25990,8 @@
         "https://dreamina.capcut.com/ai-video/lip-sync"
       ],
       "identity_ids": [
-        "instagram lip sync video maker",
-        "lip sync"
+        "lip sync",
+        "instagram lip sync video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=instagram+lip+sync+video+maker",
       "google_url": "https://www.google.com/search?q=instagram+lip+sync+video+maker&gl=us&hl=en",
@@ -25915,8 +26216,8 @@
         "https://dreamina.capcut.com/ai-video/wedding-invitation-video-maker"
       ],
       "identity_ids": [
-        "indian wedding invitation video maker",
-        "wedding invitation video maker"
+        "wedding invitation video maker",
+        "indian wedding invitation video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=indian+wedding+invitation+video+maker",
       "google_url": "https://www.google.com/search?q=indian+wedding+invitation+video+maker&gl=us&hl=en",
@@ -26148,9 +26449,9 @@
         "https://dreamina.capcut.com/ai-video/motion-control"
       ],
       "identity_ids": [
-        "motion control",
         "image to video motion control",
-        "image to video"
+        "image to video",
+        "motion control"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=image+to+video+motion+control",
       "google_url": "https://www.google.com/search?q=image+to+video+motion+control&gl=us&hl=en",
@@ -26691,8 +26992,8 @@
         "https://dreamina.capcut.com/ai-video/make-cartoon-videos"
       ],
       "identity_ids": [
-        "make cartoon videos",
-        "how to make cartoon videos"
+        "how to make cartoon videos",
+        "make cartoon videos"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+cartoon+videos",
       "google_url": "https://www.google.com/search?q=how+to+make+cartoon+videos&gl=us&hl=en",
@@ -26721,8 +27022,8 @@
         "https://dreamina.capcut.com/ai-video/make-animated-cartoon-videos"
       ],
       "identity_ids": [
-        "make animated cartoon videos",
-        "how to make animated cartoon videos"
+        "how to make animated cartoon videos",
+        "make animated cartoon videos"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+animated+cartoon+videos",
       "google_url": "https://www.google.com/search?q=how+to+make+animated+cartoon+videos&gl=us&hl=en",
@@ -26835,8 +27136,8 @@
         "https://dreamina.capcut.com/ai-video/make-a-cartoon-video"
       ],
       "identity_ids": [
-        "make a cartoon video",
-        "how to make a cartoon video"
+        "how to make a cartoon video",
+        "make a cartoon video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+a+cartoon+video",
       "google_url": "https://www.google.com/search?q=how+to+make+a+cartoon+video&gl=us&hl=en",
@@ -29889,8 +30190,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video tools compared"
+        "free image to video tools compared",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+tools+compared",
       "google_url": "https://www.google.com/search?q=free+image+to+video+tools+compared&gl=us&hl=en",
@@ -29919,8 +30220,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video tools access"
+        "free image to video tools access",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+tools+access",
       "google_url": "https://www.google.com/search?q=free+image+to+video+tools+access&gl=us&hl=en",
@@ -29949,8 +30250,8 @@
         "https://dreamina.capcut.com/ai-video/free-cartoon-video-maker"
       ],
       "identity_ids": [
-        "cartoon video maker",
-        "free cartoon video maker"
+        "free cartoon video maker",
+        "cartoon video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+cartoon+video+maker",
       "google_url": "https://www.google.com/search?q=free+cartoon+video+maker&gl=us&hl=en",
@@ -29979,8 +30280,8 @@
         "https://dreamina.capcut.com/ai-video/free-cartoon-video-generator"
       ],
       "identity_ids": [
-        "cartoon video generator",
-        "free cartoon video generator"
+        "free cartoon video generator",
+        "cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=free+cartoon+video+generator&gl=us&hl=en",
@@ -30037,8 +30338,8 @@
         "https://dreamina.capcut.com/ai-video/free-ai-video-to-video-tools"
       ],
       "identity_ids": [
-        "ai video to video",
-        "free ai video to video tools"
+        "free ai video to video tools",
+        "ai video to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+video+to+video+tools",
       "google_url": "https://www.google.com/search?q=free+ai+video+to+video+tools&gl=us&hl=en",
@@ -30207,8 +30508,8 @@
         "https://dreamina.capcut.com/ai-video/free-ai-video-ad-generator"
       ],
       "identity_ids": [
-        "ai video ad generator",
-        "free ai video ad generator"
+        "free ai video ad generator",
+        "ai video ad generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+video+ad+generator",
       "google_url": "https://www.google.com/search?q=free+ai+video+ad+generator&gl=us&hl=en",
@@ -30238,9 +30539,9 @@
         "https://dreamina.capcut.com/ai-video/free-ai-cartoon-video-generator"
       ],
       "identity_ids": [
-        "ai cartoon video generator",
+        "free ai cartoon video generator",
         "cartoon video generator",
-        "free ai cartoon video generator"
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=free+ai+cartoon+video+generator&gl=us&hl=en",
@@ -30297,8 +30598,8 @@
         "https://dreamina.capcut.com/ai-video/free-ai-ad-video-generator"
       ],
       "identity_ids": [
-        "ai ad video generator",
-        "free ai ad video generator"
+        "free ai ad video generator",
+        "ai ad video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+ad+video+generator",
       "google_url": "https://www.google.com/search?q=free+ai+ad+video+generator&gl=us&hl=en",
@@ -30327,8 +30628,8 @@
         "https://dreamina.capcut.com/ai-video/free-advertising-video-maker"
       ],
       "identity_ids": [
-        "advertising video maker",
-        "free advertising video maker"
+        "free advertising video maker",
+        "advertising video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+advertising+video+maker",
       "google_url": "https://www.google.com/search?q=free+advertising+video+maker&gl=us&hl=en",
@@ -33275,8 +33576,8 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "diwali video ads",
-        "video ads"
+        "video ads",
+        "diwali video ads"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=diwali+video+ads",
       "google_url": "https://www.google.com/search?q=diwali+video+ads&gl=us&hl=en",
@@ -33529,8 +33830,8 @@
         "https://dreamina.capcut.com/ai-video/marketing-video-production"
       ],
       "identity_ids": [
-        "marketing video production",
-        "digital marketing video production"
+        "digital marketing video production",
+        "marketing video production"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=digital+marketing+video+production",
       "google_url": "https://www.google.com/search?q=digital+marketing+video+production&gl=us&hl=en",
@@ -34767,8 +35068,8 @@
         "https://dreamina.capcut.com/ai-video/content-calendar-to-ai-video-workflow"
       ],
       "identity_ids": [
-        "ai video workflow",
-        "content calendar to ai video workflow"
+        "content calendar to ai video workflow",
+        "ai video workflow"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=content+calendar+to+ai+video+workflow",
       "google_url": "https://www.google.com/search?q=content+calendar+to+ai+video+workflow&gl=us&hl=en",
@@ -34881,8 +35182,8 @@
         "https://dreamina.capcut.com/ai-video/lip-sync"
       ],
       "identity_ids": [
-        "concert video lip sync ai",
-        "lip sync"
+        "lip sync",
+        "concert video lip sync ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=concert+video+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=concert+video+lip+sync+ai&gl=us&hl=en",
@@ -36149,8 +36450,8 @@
         "https://dreamina.capcut.com/ai-video/change-one-part-ai-video-workflow"
       ],
       "identity_ids": [
-        "ai video workflow",
-        "change one part ai video workflow"
+        "change one part ai video workflow",
+        "ai video workflow"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=change+one+part+ai+video+workflow",
       "google_url": "https://www.google.com/search?q=change+one+part+ai+video+workflow&gl=us&hl=en",
@@ -36431,8 +36732,8 @@
         "https://dreamina.capcut.com/ai-video/monster-slayer-ai-video-effect"
       ],
       "identity_ids": [
-        "casual monster slayer ai video effect",
-        "monster slayer ai video effect"
+        "monster slayer ai video effect",
+        "casual monster slayer ai video effect"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=casual+monster+slayer+ai+video+effect",
       "google_url": "https://www.google.com/search?q=casual+monster+slayer+ai+video+effect&gl=us&hl=en",
@@ -37545,8 +37846,8 @@
         "https://dreamina.capcut.com/ai-video/slow-motion-template"
       ],
       "identity_ids": [
-        "slow motion template",
-        "capcut slow motion template neon effect"
+        "capcut slow motion template neon effect",
+        "slow motion template"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=capcut+slow+motion+template+neon+effect",
       "google_url": "https://www.google.com/search?q=capcut+slow+motion+template+neon+effect&gl=us&hl=en",
@@ -38163,8 +38464,8 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "video ads",
-        "bulk clone video ads"
+        "bulk clone video ads",
+        "video ads"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=bulk+clone+video+ads",
       "google_url": "https://www.google.com/search?q=bulk+clone+video+ads&gl=us&hl=en",
@@ -39523,10 +39824,10 @@
         "https://dreamina.capcut.com/ai-video/free-ai-cartoon-video-generator"
       ],
       "identity_ids": [
-        "ai cartoon video generator",
+        "free ai cartoon video generator",
         "cartoon video generator",
         "best free ai cartoon video generator",
-        "free ai cartoon video generator"
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+free+ai+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=best+free+ai+cartoon+video+generator&gl=us&hl=en",
@@ -39863,8 +40164,8 @@
         "https://dreamina.capcut.com/ai-video/best-ai-short-film-generator"
       ],
       "identity_ids": [
-        "ai short film generator",
-        "best ai short film generator"
+        "best ai short film generator",
+        "ai short film generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+short+film+generator",
       "google_url": "https://www.google.com/search?q=best+ai+short+film+generator&gl=us&hl=en",
@@ -39893,8 +40194,8 @@
         "https://dreamina.capcut.com/ai-video/best-ai-reels-video-generator"
       ],
       "identity_ids": [
-        "ai reels video generator",
-        "best ai reels video generator"
+        "best ai reels video generator",
+        "ai reels video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+reels+video+generator",
       "google_url": "https://www.google.com/search?q=best+ai+reels+video+generator&gl=us&hl=en",
@@ -40036,9 +40337,9 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
-        "ai cartoon video generator",
         "cartoon video generator",
-        "best ai cartoon video generator"
+        "best ai cartoon video generator",
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=best+ai+cartoon+video+generator&gl=us&hl=en",
@@ -41749,8 +42050,8 @@
         "https://dreamina.capcut.com/ai-video/marketing-videos-for-business"
       ],
       "identity_ids": [
-        "animated marketing videos for business",
-        "marketing videos for business"
+        "marketing videos for business",
+        "animated marketing videos for business"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=animated+marketing+videos+for+business",
       "google_url": "https://www.google.com/search?q=animated+marketing+videos+for+business&gl=us&hl=en",
@@ -42317,8 +42618,8 @@
         "https://dreamina.capcut.com/ai-video/video-montage-maker"
       ],
       "identity_ids": [
-        "ai wedding video montage maker",
-        "video montage maker"
+        "video montage maker",
+        "ai wedding video montage maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+wedding+video+montage+maker",
       "google_url": "https://www.google.com/search?q=ai+wedding+video+montage+maker&gl=us&hl=en",
@@ -42573,8 +42874,8 @@
         "https://dreamina.capcut.com/ai-video/lip-sync"
       ],
       "identity_ids": [
-        "ai video translation with lip sync",
-        "lip sync"
+        "lip sync",
+        "ai video translation with lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+video+translation+with+lip+sync",
       "google_url": "https://www.google.com/search?q=ai+video+translation+with+lip+sync&gl=us&hl=en",
@@ -43845,8 +44146,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "ai video generator image to video",
-        "image to video"
+        "image to video",
+        "ai video generator image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+video+generator+image+to+video",
       "google_url": "https://www.google.com/search?q=ai+video+generator+image+to+video&gl=us&hl=en",
@@ -44352,9 +44653,9 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
+        "video ads",
         "ai video ads generator free",
-        "ai video ads generator",
-        "video ads"
+        "ai video ads generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+video+ads+generator+free",
       "google_url": "https://www.google.com/search?q=ai+video+ads+generator+free&gl=us&hl=en",
@@ -44383,8 +44684,8 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "ai video ads generator",
-        "video ads"
+        "video ads",
+        "ai video ads generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+video+ads+generator",
       "google_url": "https://www.google.com/search?q=ai+video+ads+generator&gl=us&hl=en",
@@ -44413,8 +44714,8 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "ai video ads for restaurants",
-        "video ads"
+        "video ads",
+        "ai video ads for restaurants"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+video+ads+for+restaurants",
       "google_url": "https://www.google.com/search?q=ai+video+ads+for+restaurants&gl=us&hl=en",
@@ -44779,8 +45080,8 @@
         "https://dreamina.capcut.com/ai-video/marketing-video-production"
       ],
       "identity_ids": [
-        "ai tools for marketing video production",
-        "marketing video production"
+        "marketing video production",
+        "ai tools for marketing video production"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+tools+for+marketing+video+production",
       "google_url": "https://www.google.com/search?q=ai+tools+for+marketing+video+production&gl=us&hl=en",
@@ -44837,8 +45138,8 @@
         "https://dreamina.capcut.com/ai-video/product-video-maker"
       ],
       "identity_ids": [
-        "ai temu product video maker",
-        "product video maker"
+        "product video maker",
+        "ai temu product video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+temu+product+video+maker",
       "google_url": "https://www.google.com/search?q=ai+temu+product+video+maker&gl=us&hl=en",
@@ -46941,8 +47242,8 @@
         "https://dreamina.capcut.com/ai-video/graduation-video"
       ],
       "identity_ids": [
-        "ai graduation video maker 2026",
-        "graduation video"
+        "graduation video",
+        "ai graduation video maker 2026"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+graduation+video+maker+2026",
       "google_url": "https://www.google.com/search?q=ai+graduation+video+maker+2026&gl=us&hl=en",
@@ -48323,10 +48624,10 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator-from-text"
       ],
       "identity_ids": [
-        "ai cartoon video generator from text",
-        "ai cartoon video generator",
         "cartoon video generator from text",
-        "cartoon video generator"
+        "cartoon video generator",
+        "ai cartoon video generator from text",
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+cartoon+video+generator+from+text",
       "google_url": "https://www.google.com/search?q=ai+cartoon+video+generator+from+text&gl=us&hl=en",
@@ -48356,9 +48657,9 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
+        "cartoon video generator",
         "ai cartoon video generator from script",
-        "ai cartoon video generator",
-        "cartoon video generator"
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+cartoon+video+generator+from+script",
       "google_url": "https://www.google.com/search?q=ai+cartoon+video+generator+from+script&gl=us&hl=en",
@@ -48389,10 +48690,10 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
+        "cartoon video generator",
         "ai cartoon video generator free online",
         "ai cartoon video generator free",
-        "ai cartoon video generator",
-        "cartoon video generator"
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+cartoon+video+generator+free+online",
       "google_url": "https://www.google.com/search?q=ai+cartoon+video+generator+free+online&gl=us&hl=en",
@@ -48422,9 +48723,9 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
+        "cartoon video generator",
         "ai cartoon video generator free",
-        "ai cartoon video generator",
-        "cartoon video generator"
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+cartoon+video+generator+free",
       "google_url": "https://www.google.com/search?q=ai+cartoon+video+generator+free&gl=us&hl=en",
@@ -49075,8 +49376,8 @@
         "https://dreamina.capcut.com/ai-video/anime-video-generator"
       ],
       "identity_ids": [
-        "ai anime video generator",
-        "anime video generator"
+        "anime video generator",
+        "ai anime video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+anime+video+generator",
       "google_url": "https://www.google.com/search?q=ai+anime+video+generator&gl=us&hl=en",
@@ -49245,8 +49546,8 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
-        "ai animation cartoon video generator",
-        "cartoon video generator"
+        "cartoon video generator",
+        "ai animation cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+animation+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=ai+animation+cartoon+video+generator&gl=us&hl=en",
@@ -49275,8 +49576,8 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
-        "ai animated cartoon video generator",
-        "cartoon video generator"
+        "cartoon video generator",
+        "ai animated cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+animated+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=ai+animated+cartoon+video+generator&gl=us&hl=en",
@@ -49502,9 +49803,9 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
-        "ai 3d cartoon video generator",
+        "3d cartoon video generator",
         "cartoon video generator",
-        "3d cartoon video generator"
+        "ai 3d cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+3d+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=ai+3d+cartoon+video+generator&gl=us&hl=en",
@@ -49589,8 +49890,8 @@
         "https://dreamina.capcut.com/ai-video/event-video"
       ],
       "identity_ids": [
-        "after event video",
-        "event video"
+        "event video",
+        "after event video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=after+event+video",
       "google_url": "https://www.google.com/search?q=after+event+video&gl=us&hl=en",
@@ -50629,10 +50930,10 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-maker-online-free"
       ],
       "identity_ids": [
+        "3d cartoon video maker online free",
         "cartoon video maker online free",
         "cartoon video maker online",
-        "cartoon video maker",
-        "3d cartoon video maker online free"
+        "cartoon video maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=3d+cartoon+video+maker+online+free",
       "google_url": "https://www.google.com/search?q=3d+cartoon+video+maker+online+free&gl=us&hl=en",
@@ -50889,8 +51190,8 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
-        "2d cartoon video generator",
-        "cartoon video generator"
+        "cartoon video generator",
+        "2d cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=2d+cartoon+video+generator",
       "google_url": "https://www.google.com/search?q=2d+cartoon+video+generator&gl=us&hl=en",
@@ -52200,90 +52501,6 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
-      "keyword": "st tropez dj ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/st-tropez-dj-ai-video"
-      ],
-      "identity_ids": [
-        "st tropez dj ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=st+tropez+dj+ai+video",
-      "google_url": "https://www.google.com/search?q=st+tropez+dj+ai+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "spiderman fridge fail ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/spiderman-fridge-fail-ai-video"
-      ],
-      "identity_ids": [
-        "spiderman fridge fail ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=spiderman+fridge+fail+ai+video",
-      "google_url": "https://www.google.com/search?q=spiderman+fridge+fail+ai+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "soccer missed goal ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/soccer-missed-goal-ai-video"
-      ],
-      "identity_ids": [
-        "soccer missed goal ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=soccer+missed+goal+ai+video",
-      "google_url": "https://www.google.com/search?q=soccer+missed+goal+ai+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
       "keyword": "sneaker showcase video",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -52334,34 +52551,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=self+interview+video",
       "google_url": "https://www.google.com/search?q=self+interview+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "self hug sketch ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/self-hug-sketch-ai-video"
-      ],
-      "identity_ids": [
-        "self hug sketch ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=self+hug+sketch+ai+video",
-      "google_url": "https://www.google.com/search?q=self+hug+sketch+ai+video&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -52446,62 +52635,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=player+entrance+video",
       "google_url": "https://www.google.com/search?q=player+entrance+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "peaky blinders explosion ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/peaky-blinders-explosion-ai-video"
-      ],
-      "identity_ids": [
-        "peaky blinders explosion ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=peaky+blinders+explosion+ai+video",
-      "google_url": "https://www.google.com/search?q=peaky+blinders+explosion+ai+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "paloma blanca ai dance",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/paloma-blanca-ai-dance"
-      ],
-      "identity_ids": [
-        "paloma blanca ai dance"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=paloma+blanca+ai+dance",
-      "google_url": "https://www.google.com/search?q=paloma+blanca+ai+dance&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -52614,34 +52747,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=nonprofit+promo+video",
       "google_url": "https://www.google.com/search?q=nonprofit+promo+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "mourinho pressure ai video trend",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/mourinho-pressure-ai-video-trend"
-      ],
-      "identity_ids": [
-        "mourinho pressure ai video trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mourinho+pressure+ai+video+trend",
-      "google_url": "https://www.google.com/search?q=mourinho+pressure+ai+video+trend&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -52810,34 +52915,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=image+carousel+video",
       "google_url": "https://www.google.com/search?q=image+carousel+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "huell money ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/huell-money-ai-video"
-      ],
-      "identity_ids": [
-        "huell money ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=huell+money+ai+video",
-      "google_url": "https://www.google.com/search?q=huell+money+ai+video&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -53130,34 +53207,6 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
-      "keyword": "chovy drinking water ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 47,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/chovy-drinking-water-ai-video"
-      ],
-      "identity_ids": [
-        "chovy drinking water ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chovy+drinking+water+ai+video",
-      "google_url": "https://www.google.com/search?q=chovy+drinking+water+ai+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
       "keyword": "car sale video",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -53412,6 +53461,174 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
+      "keyword": "nyc rats ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 47,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/nyc-rats-ai-video"
+      ],
+      "identity_ids": [
+        "nyc rats ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=nyc+rats+ai+video",
+      "google_url": "https://www.google.com/search?q=nyc+rats+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "infinity pool ai video guide",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 47,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/infinity-pool-ai-video-guide"
+      ],
+      "identity_ids": [
+        "infinity pool ai video guide"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=infinity+pool+ai+video+guide",
+      "google_url": "https://www.google.com/search?q=infinity+pool+ai+video+guide&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "imagine the moon capcut template",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 47,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/imagine-the-moon-capcut-template"
+      ],
+      "identity_ids": [
+        "imagine the moon capcut template"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=imagine+the+moon+capcut+template",
+      "google_url": "https://www.google.com/search?q=imagine+the+moon+capcut+template&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "gta 6 dog ai video guide",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 47,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/gta-6-dog-ai-video-guide"
+      ],
+      "identity_ids": [
+        "gta 6 dog ai video guide"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+dog+ai+video+guide",
+      "google_url": "https://www.google.com/search?q=gta+6+dog+ai+video+guide&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "dog pool party ai dance",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 47,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/dog-pool-party-ai-dance"
+      ],
+      "identity_ids": [
+        "dog pool party ai dance"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=dog+pool+party+ai+dance",
+      "google_url": "https://www.google.com/search?q=dog+pool+party+ai+dance&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "ai plot generator",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 47,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/ai-plot-generator"
+      ],
+      "identity_ids": [
+        "ai plot generator"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+plot+generator",
+      "google_url": "https://www.google.com/search?q=ai+plot+generator&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
       "keyword": "ai image to video generator free unlimited",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -53436,6 +53653,35 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+image+to+video+generator+free+unlimited",
       "google_url": "https://www.google.com/search?q=ai+image+to+video+generator+free+unlimited&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "grinch pet ai filter",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 43,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-14",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/grinch-pet-ai-filter",
+        "https://www.media.io/ai/explore/zone/grinch-pet-ai-filter"
+      ],
+      "identity_ids": [
+        "grinch pet ai filter"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=grinch+pet+ai+filter",
+      "google_url": "https://www.google.com/search?q=grinch+pet+ai+filter&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -53553,8 +53799,8 @@
         "https://www.summrs.com/blog/how-to-make-old-town-road-ai-video"
       ],
       "identity_ids": [
-        "old town road ai video",
-        "how to make old town road ai video"
+        "how to make old town road ai video",
+        "old town road ai video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+old+town+road+ai+video",
       "google_url": "https://www.google.com/search?q=how+to+make+old+town+road+ai+video&gl=us&hl=en",
@@ -53643,11 +53889,71 @@
         "https://www.summrs.com/blog/how-to-make-bigxthaplug-give-it-all-ai-video"
       ],
       "identity_ids": [
-        "bigxthaplug give it all ai",
-        "how to make bigxthaplug give it all ai video"
+        "how to make bigxthaplug give it all ai video",
+        "bigxthaplug give it all ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+bigxthaplug+give+it+all+ai+video",
       "google_url": "https://www.google.com/search?q=how+to+make+bigxthaplug+give+it+all+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "you never let her pay ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 41,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/never-let-her-pay-ai",
+        "https://www.media.io/ai/explore/zone/you-never-let-her-pay-ai-video"
+      ],
+      "identity_ids": [
+        "you never let her pay ai video",
+        "never let her pay ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=you+never+let+her+pay+ai+video",
+      "google_url": "https://www.google.com/search?q=you+never+let+her+pay+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "never let her pay ai video trend",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 41,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/never-let-her-pay-ai",
+        "https://www.media.io/ai/explore/zone/never-let-her-pay-ai-video-trend"
+      ],
+      "identity_ids": [
+        "never let her pay ai",
+        "never let her pay ai video trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=never+let+her+pay+ai+video+trend",
+      "google_url": "https://www.google.com/search?q=never+let+her+pay+ai+video+trend&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -53704,34 +54010,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=sheru+bhai+ai+photo+editing+prompt",
       "google_url": "https://www.google.com/search?q=sheru+bhai+ai+photo+editing+prompt&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "grinch pet ai filter",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 38,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-14",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/grinch-pet-ai-filter"
-      ],
-      "identity_ids": [
-        "grinch pet ai filter"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=grinch+pet+ai+filter",
-      "google_url": "https://www.google.com/search?q=grinch+pet+ai+filter&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -54345,8 +54623,8 @@
         "https://dreamina.capcut.com/ai-video/youtube-lip-sync-ai"
       ],
       "identity_ids": [
-        "lip sync",
-        "youtube lip sync ai"
+        "youtube lip sync ai",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=youtube+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=youtube+lip+sync+ai&gl=us&hl=en",
@@ -54433,8 +54711,8 @@
         "https://dreamina.capcut.com/ai-video/workout-motion-transfer-ai"
       ],
       "identity_ids": [
-        "motion transfer",
-        "workout motion transfer ai"
+        "workout motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=workout+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=workout+motion+transfer+ai&gl=us&hl=en",
@@ -54519,8 +54797,8 @@
         "https://dreamina.capcut.com/ai-video/walking-motion-transfer-ai"
       ],
       "identity_ids": [
-        "walking motion transfer ai",
-        "motion transfer"
+        "motion transfer",
+        "walking motion transfer ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=walking+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=walking+motion+transfer+ai&gl=us&hl=en",
@@ -54947,8 +55225,8 @@
         "https://dreamina.capcut.com/ai-video/sports-motion-transfer-ai"
       ],
       "identity_ids": [
-        "motion transfer",
-        "sports motion transfer ai"
+        "sports motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=sports+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=sports+motion+transfer+ai&gl=us&hl=en",
@@ -55065,8 +55343,8 @@
         "https://dreamina.capcut.com/ai-video/singer-lip-sync-ai"
       ],
       "identity_ids": [
-        "lip sync",
-        "singer lip sync ai"
+        "singer lip sync ai",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=singer+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=singer+lip+sync+ai&gl=us&hl=en",
@@ -55207,8 +55485,8 @@
         "https://dreamina.capcut.com/ai-video/running-motion-transfer-ai"
       ],
       "identity_ids": [
-        "running motion transfer ai",
-        "motion transfer"
+        "motion transfer",
+        "running motion transfer ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=running+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=running+motion+transfer+ai&gl=us&hl=en",
@@ -55323,8 +55601,8 @@
         "https://dreamina.capcut.com/ai-video/rap-lip-sync-ai"
       ],
       "identity_ids": [
-        "lip sync",
-        "rap lip sync ai"
+        "rap lip sync ai",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=rap+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=rap+lip+sync+ai&gl=us&hl=en",
@@ -55439,8 +55717,8 @@
         "https://dreamina.capcut.com/ai-video/product-demo-motion-control-ai"
       ],
       "identity_ids": [
-        "motion control",
-        "product demo motion control ai"
+        "product demo motion control ai",
+        "motion control"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=product+demo+motion+control+ai",
       "google_url": "https://www.google.com/search?q=product+demo+motion+control+ai&gl=us&hl=en",
@@ -55469,8 +55747,8 @@
         "https://dreamina.capcut.com/ai-video/product-demo-lip-sync"
       ],
       "identity_ids": [
-        "lip sync",
-        "product demo lip sync"
+        "product demo lip sync",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=product+demo+lip+sync",
       "google_url": "https://www.google.com/search?q=product+demo+lip+sync&gl=us&hl=en",
@@ -55729,8 +56007,8 @@
         "https://dreamina.capcut.com/ai-video/person-to-character-motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "person to character motion transfer"
+        "person to character motion transfer",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=person+to+character+motion+transfer",
       "google_url": "https://www.google.com/search?q=person+to+character+motion+transfer&gl=us&hl=en",
@@ -55957,8 +56235,8 @@
         "https://dreamina.capcut.com/ai-video/npc-lip-sync-ai"
       ],
       "identity_ids": [
-        "lip sync",
-        "npc lip sync ai"
+        "npc lip sync ai",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=npc+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=npc+lip+sync+ai&gl=us&hl=en",
@@ -56077,8 +56355,8 @@
         "https://dreamina.capcut.com/ai-video/multi-speaker-lip-sync"
       ],
       "identity_ids": [
-        "lip sync",
-        "multi speaker lip sync"
+        "multi speaker lip sync",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=multi+speaker+lip+sync",
       "google_url": "https://www.google.com/search?q=multi+speaker+lip+sync&gl=us&hl=en",
@@ -56107,8 +56385,8 @@
         "https://dreamina.capcut.com/ai-video/multi-character-lip-sync-ai"
       ],
       "identity_ids": [
-        "multi character lip sync ai",
-        "lip sync"
+        "lip sync",
+        "multi character lip sync ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=multi+character+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=multi+character+lip+sync+ai&gl=us&hl=en",
@@ -56165,8 +56443,8 @@
         "https://dreamina.capcut.com/ai-video/movie-dubbing-lip-sync-ai"
       ],
       "identity_ids": [
-        "movie dubbing lip sync ai",
-        "lip sync"
+        "lip sync",
+        "movie dubbing lip sync ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=movie+dubbing+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=movie+dubbing+lip+sync+ai&gl=us&hl=en",
@@ -56393,8 +56671,8 @@
         "https://dreamina.capcut.com/ai-video/mascot-lip-sync-ai"
       ],
       "identity_ids": [
-        "lip sync",
-        "mascot lip sync ai"
+        "mascot lip sync ai",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mascot+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=mascot+lip+sync+ai&gl=us&hl=en",
@@ -56423,8 +56701,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "martial arts motion transfer ai"
+        "martial arts motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=martial+arts+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=martial+arts+motion+transfer+ai&gl=us&hl=en",
@@ -56537,8 +56815,8 @@
         "https://dreamina.capcut.com/ai-video/motion-control"
       ],
       "identity_ids": [
-        "motion control",
-        "local motion control ai"
+        "local motion control ai",
+        "motion control"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=local+motion+control+ai",
       "google_url": "https://www.google.com/search?q=local+motion+control+ai&gl=us&hl=en",
@@ -56769,8 +57047,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "illustration motion transfer ai",
-        "motion transfer"
+        "motion transfer",
+        "illustration motion transfer ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=illustration+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=illustration+motion+transfer+ai&gl=us&hl=en",
@@ -57623,8 +57901,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "fight scene motion transfer ai"
+        "fight scene motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=fight+scene+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=fight+scene+motion+transfer+ai&gl=us&hl=en",
@@ -57653,8 +57931,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "fashion pose motion transfer ai"
+        "fashion pose motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=fashion+pose+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=fashion+pose+motion+transfer+ai&gl=us&hl=en",
@@ -57683,8 +57961,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "fashion model motion transfer ai"
+        "fashion model motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=fashion+model+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=fashion+model+motion+transfer+ai&gl=us&hl=en",
@@ -57885,8 +58163,8 @@
         "https://dreamina.capcut.com/ai-video/lip-sync"
       ],
       "identity_ids": [
-        "lip sync",
-        "digital human lip sync"
+        "digital human lip sync",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=digital+human+lip+sync",
       "google_url": "https://www.google.com/search?q=digital+human+lip+sync&gl=us&hl=en",
@@ -57943,8 +58221,8 @@
         "https://dreamina.capcut.com/ai-video/lip-sync"
       ],
       "identity_ids": [
-        "comic character lip sync ai",
-        "lip sync"
+        "lip sync",
+        "comic character lip sync ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=comic+character+lip+sync+ai",
       "google_url": "https://www.google.com/search?q=comic+character+lip+sync+ai&gl=us&hl=en",
@@ -58225,8 +58503,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "character motion transfer ai"
+        "character motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=character+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=character+motion+transfer+ai&gl=us&hl=en",
@@ -58341,8 +58619,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "cartoon motion transfer ai",
-        "motion transfer"
+        "motion transfer",
+        "cartoon motion transfer ai"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=cartoon+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=cartoon+motion+transfer+ai&gl=us&hl=en",
@@ -58457,8 +58735,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "boxing motion transfer ai"
+        "boxing motion transfer ai",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=boxing+motion+transfer+ai",
       "google_url": "https://www.google.com/search?q=boxing+motion+transfer+ai&gl=us&hl=en",
@@ -58603,8 +58881,8 @@
       ],
       "identity_ids": [
         "lip sync",
-        "best free ai lip sync tools",
-        "free ai lip sync tools"
+        "free ai lip sync tools",
+        "best free ai lip sync tools"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+free+ai+lip+sync+tools",
       "google_url": "https://www.google.com/search?q=best+free+ai+lip+sync+tools&gl=us&hl=en",
@@ -60076,9 +60354,9 @@
         "https://dreamina.capcut.com/ai-video/motion-control"
       ],
       "identity_ids": [
-        "motion control",
         "action scene motion control ai",
-        "action scene"
+        "action scene",
+        "motion control"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=action+scene+motion+control+ai",
       "google_url": "https://www.google.com/search?q=action+scene+motion+control+ai&gl=us&hl=en",
@@ -60165,8 +60443,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "3d animation motion transfer",
-        "motion transfer"
+        "motion transfer",
+        "3d animation motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=3d+animation+motion+transfer",
       "google_url": "https://www.google.com/search?q=3d+animation+motion+transfer&gl=us&hl=en",
@@ -60450,6 +60728,118 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=pixar+snow+globe+ai+filter",
       "google_url": "https://www.google.com/search?q=pixar+snow+globe+ai+filter&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "noahs ark ai film",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 38,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/noahs-ark-ai-film"
+      ],
+      "identity_ids": [
+        "noahs ark ai film"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=noahs+ark+ai+film",
+      "google_url": "https://www.google.com/search?q=noahs+ark+ai+film&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "careless whisper car meme ai",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 38,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/careless-whisper-car-meme-ai"
+      ],
+      "identity_ids": [
+        "careless whisper car meme ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=careless+whisper+car+meme+ai",
+      "google_url": "https://www.google.com/search?q=careless+whisper+car+meme+ai&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "baby face filter ai",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 38,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/baby-face-filter-ai"
+      ],
+      "identity_ids": [
+        "baby face filter ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=baby+face+filter+ai",
+      "google_url": "https://www.google.com/search?q=baby+face+filter+ai&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "ai fashion film",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 38,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/ai-fashion-film"
+      ],
+      "identity_ids": [
+        "ai fashion film"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+fashion+film",
+      "google_url": "https://www.google.com/search?q=ai+fashion+film&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -61442,8 +61832,8 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "turn raw videos into video ads that sell",
-        "video ads"
+        "video ads",
+        "turn raw videos into video ads that sell"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=turn+raw+videos+into+video+ads+that+sell",
       "google_url": "https://www.google.com/search?q=turn+raw+videos+into+video+ads+that+sell&gl=us&hl=en",
@@ -61924,8 +62314,8 @@
         "https://dreamina.capcut.com/ai-video/small-team-low-cost-ai-video-workflow"
       ],
       "identity_ids": [
-        "ai video workflow",
-        "small team low cost ai video workflow"
+        "small team low cost ai video workflow",
+        "ai video workflow"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=small+team+low+cost+ai+video+workflow",
       "google_url": "https://www.google.com/search?q=small+team+low+cost+ai+video+workflow&gl=us&hl=en",
@@ -62488,8 +62878,8 @@
         "https://dreamina.capcut.com/ai-video/marketing-campaign-ai-video-workflow-stack-2026"
       ],
       "identity_ids": [
-        "ai video workflow",
-        "marketing campaign ai video workflow stack 2026"
+        "marketing campaign ai video workflow stack 2026",
+        "ai video workflow"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=marketing+campaign+ai+video+workflow+stack+2026",
       "google_url": "https://www.google.com/search?q=marketing+campaign+ai+video+workflow+stack+2026&gl=us&hl=en",
@@ -62715,9 +63105,9 @@
         "https://dreamina.capcut.com/ai-video/instagram-reels-ai-video-workflow-guide-2026"
       ],
       "identity_ids": [
+        "instagram reels ai video workflow guide 2026",
         "ai video workflow guide",
-        "ai video workflow",
-        "instagram reels ai video workflow guide 2026"
+        "ai video workflow"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=instagram+reels+ai+video+workflow+guide+2026",
       "google_url": "https://www.google.com/search?q=instagram+reels+ai+video+workflow+guide+2026&gl=us&hl=en",
@@ -62830,8 +63220,8 @@
         "https://dreamina.capcut.com/ai-video/make-cartoon-videos"
       ],
       "identity_ids": [
-        "make cartoon videos",
-        "how to use ai to make cartoon videos"
+        "how to use ai to make cartoon videos",
+        "make cartoon videos"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+use+ai+to+make+cartoon+videos",
       "google_url": "https://www.google.com/search?q=how+to+use+ai+to+make+cartoon+videos&gl=us&hl=en",
@@ -63056,8 +63446,8 @@
         "https://dreamina.capcut.com/ai-video/how-to-make-ceiling-fan-transition-video"
       ],
       "identity_ids": [
-        "ceiling fan transition",
-        "how to make ceiling fan transition video"
+        "how to make ceiling fan transition video",
+        "ceiling fan transition"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+ceiling+fan+transition+video",
       "google_url": "https://www.google.com/search?q=how+to+make+ceiling+fan+transition+video&gl=us&hl=en",
@@ -63087,9 +63477,9 @@
         "https://dreamina.capcut.com/ai-video/make-cartoon-videos"
       ],
       "identity_ids": [
-        "make cartoon videos",
         "how to make cartoon videos for youtube free",
-        "how to make cartoon videos"
+        "how to make cartoon videos",
+        "make cartoon videos"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+cartoon+videos+for+youtube+free",
       "google_url": "https://www.google.com/search?q=how+to+make+cartoon+videos+for+youtube+free&gl=us&hl=en",
@@ -63259,9 +63649,9 @@
         "https://dreamina.capcut.com/ai-video/make-a-cartoon-video"
       ],
       "identity_ids": [
-        "make a cartoon video",
         "how to make a cartoon video with ai",
-        "how to make a cartoon video"
+        "how to make a cartoon video",
+        "make a cartoon video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+a+cartoon+video+with+ai",
       "google_url": "https://www.google.com/search?q=how+to+make+a+cartoon+video+with+ai&gl=us&hl=en",
@@ -63431,9 +63821,9 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "linkedin video",
         "how to create professional linkedin video ads with ai",
-        "video ads"
+        "video ads",
+        "linkedin video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+create+professional+linkedin+video+ads+with+ai",
       "google_url": "https://www.google.com/search?q=how+to+create+professional+linkedin+video+ads+with+ai&gl=us&hl=en",
@@ -63630,8 +64020,8 @@
         "https://dreamina.capcut.com/ai-video/make-a-cartoon-video"
       ],
       "identity_ids": [
-        "make a cartoon video",
-        "how do you make a cartoon video"
+        "how do you make a cartoon video",
+        "make a cartoon video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+do+you+make+a+cartoon+video",
       "google_url": "https://www.google.com/search?q=how+do+you+make+a+cartoon+video&gl=us&hl=en",
@@ -63660,8 +64050,8 @@
         "https://dreamina.capcut.com/ai-video/make-a-cartoon-video"
       ],
       "identity_ids": [
-        "make a cartoon video",
-        "how do i make a cartoon video"
+        "how do i make a cartoon video",
+        "make a cartoon video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+do+i+make+a+cartoon+video",
       "google_url": "https://www.google.com/search?q=how+do+i+make+a+cartoon+video&gl=us&hl=en",
@@ -63776,8 +64166,8 @@
         "https://dreamina.capcut.com/ai-video/how-business-teams-create-ai-marketing-videos"
       ],
       "identity_ids": [
-        "ai marketing videos",
-        "how business teams create ai marketing videos"
+        "how business teams create ai marketing videos",
+        "ai marketing videos"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+business+teams+create+ai+marketing+videos",
       "google_url": "https://www.google.com/search?q=how+business+teams+create+ai+marketing+videos&gl=us&hl=en",
@@ -63834,8 +64224,8 @@
         "https://dreamina.capcut.com/ai-video/guide-to-ai-video-generator-for-business-use"
       ],
       "identity_ids": [
-        "ai video generator for business use",
-        "guide to ai video generator for business use"
+        "guide to ai video generator for business use",
+        "ai video generator for business use"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=guide+to+ai+video+generator+for+business+use",
       "google_url": "https://www.google.com/search?q=guide+to+ai+video+generator+for+business+use&gl=us&hl=en",
@@ -64088,8 +64478,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video tools photo motion guide"
+        "free image to video tools photo motion guide",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+tools+photo+motion+guide",
       "google_url": "https://www.google.com/search?q=free+image+to+video+tools+photo+motion+guide&gl=us&hl=en",
@@ -64118,8 +64508,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video generator credits faq"
+        "free image to video generator credits faq",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+generator+credits+faq",
       "google_url": "https://www.google.com/search?q=free+image+to+video+generator+credits+faq&gl=us&hl=en",
@@ -64148,8 +64538,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video generator by job 2026"
+        "free image to video generator by job 2026",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+generator+by+job+2026",
       "google_url": "https://www.google.com/search?q=free+image+to+video+generator+by+job+2026&gl=us&hl=en",
@@ -64178,8 +64568,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video access credit limits"
+        "free image to video access credit limits",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+access+credit+limits",
       "google_url": "https://www.google.com/search?q=free+image+to+video+access+credit+limits&gl=us&hl=en",
@@ -64292,8 +64682,8 @@
         "https://dreamina.capcut.com/ai-video/free-ai-video-character-replacement-tools-budget"
       ],
       "identity_ids": [
-        "ai video character replacement tools",
-        "free ai video character replacement tools budget"
+        "free ai video character replacement tools budget",
+        "ai video character replacement tools"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+video+character+replacement+tools+budget",
       "google_url": "https://www.google.com/search?q=free+ai+video+character+replacement+tools+budget&gl=us&hl=en",
@@ -64350,8 +64740,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free ai image to video tools compared"
+        "free ai image to video tools compared",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+image+to+video+tools+compared",
       "google_url": "https://www.google.com/search?q=free+ai+image+to+video+tools+compared&gl=us&hl=en",
@@ -64548,8 +64938,8 @@
         "https://dreamina.capcut.com/ai-video/dreamina-best-ai-video-maker-for-content-creators"
       ],
       "identity_ids": [
-        "ai video maker for content creators",
-        "dreamina best ai video maker for content creators"
+        "dreamina best ai video maker for content creators",
+        "ai video maker for content creators"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=dreamina+best+ai+video+maker+for+content+creators",
       "google_url": "https://www.google.com/search?q=dreamina+best+ai+video+maker+for+content+creators&gl=us&hl=en",
@@ -64662,8 +65052,8 @@
         "https://dreamina.capcut.com/ai-video/realistic-video-with-your-crush-gf"
       ],
       "identity_ids": [
-        "realistic video with your crush gf",
-        "create realistic video with your crush gf"
+        "create realistic video with your crush gf",
+        "realistic video with your crush gf"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=create+realistic+video+with+your+crush+gf",
       "google_url": "https://www.google.com/search?q=create+realistic+video+with+your+crush+gf&gl=us&hl=en",
@@ -64694,10 +65084,10 @@
         "https://dreamina.capcut.com/ai-video/motion-control"
       ],
       "identity_ids": [
-        "motion control",
         "convert image to video motion control guide",
         "image to video motion control",
-        "image to video"
+        "image to video",
+        "motion control"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=convert+image+to+video+motion+control+guide",
       "google_url": "https://www.google.com/search?q=convert+image+to+video+motion+control+guide&gl=us&hl=en",
@@ -65158,8 +65548,8 @@
         "https://dreamina.capcut.com/ai-video/best-free-ai-video-ad-maker-tools"
       ],
       "identity_ids": [
-        "ai video ad maker",
-        "best free ai video ad maker tools"
+        "best free ai video ad maker tools",
+        "ai video ad maker"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+free+ai+video+ad+maker+tools",
       "google_url": "https://www.google.com/search?q=best+free+ai+video+ad+maker+tools&gl=us&hl=en",
@@ -65188,8 +65578,8 @@
         "https://dreamina.capcut.com/ai-video/video-ads"
       ],
       "identity_ids": [
-        "best free ai tools for video ads",
-        "video ads"
+        "video ads",
+        "best free ai tools for video ads"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+free+ai+tools+for+video+ads",
       "google_url": "https://www.google.com/search?q=best+free+ai+tools+for+video+ads&gl=us&hl=en",
@@ -65640,8 +66030,8 @@
         "https://dreamina.capcut.com/ai-video/best-ai-video-generators-for-tiktok-clips"
       ],
       "identity_ids": [
-        "ai video generators for tiktok clips",
-        "best ai video generators for tiktok clips"
+        "best ai video generators for tiktok clips",
+        "ai video generators for tiktok clips"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+video+generators+for+tiktok+clips",
       "google_url": "https://www.google.com/search?q=best+ai+video+generators+for+tiktok+clips&gl=us&hl=en",
@@ -65894,8 +66284,8 @@
         "https://dreamina.capcut.com/ai-video/best-ai-video-generator-for-tiktok-and-instagram"
       ],
       "identity_ids": [
-        "ai video generator for tiktok and instagram",
-        "best ai video generator for tiktok and instagram"
+        "best ai video generator for tiktok and instagram",
+        "ai video generator for tiktok and instagram"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+video+generator+for+tiktok+and+instagram",
       "google_url": "https://www.google.com/search?q=best+ai+video+generator+for+tiktok+and+instagram&gl=us&hl=en",
@@ -66210,8 +66600,8 @@
         "https://dreamina.capcut.com/ai-video/motion-transfer"
       ],
       "identity_ids": [
-        "motion transfer",
-        "best ai dance motion transfer generators 2026"
+        "best ai dance motion transfer generators 2026",
+        "motion transfer"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+dance+motion+transfer+generators+2026",
       "google_url": "https://www.google.com/search?q=best+ai+dance+motion+transfer+generators+2026&gl=us&hl=en",
@@ -66802,8 +67192,8 @@
         "https://dreamina.capcut.com/ai-video/lip-sync"
       ],
       "identity_ids": [
-        "ai lip sync tools for singing and music videos",
-        "lip sync"
+        "lip sync",
+        "ai lip sync tools for singing and music videos"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+lip+sync+tools+for+singing+and+music+videos",
       "google_url": "https://www.google.com/search?q=ai+lip+sync+tools+for+singing+and+music+videos&gl=us&hl=en",
@@ -66832,8 +67222,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "ai image to video tools official guide",
-        "image to video"
+        "image to video",
+        "ai image to video tools official guide"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+image+to+video+tools+official+guide",
       "google_url": "https://www.google.com/search?q=ai+image+to+video+tools+official+guide&gl=us&hl=en",
@@ -66862,8 +67252,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "ai image to video prompts for tiktok",
-        "image to video"
+        "image to video",
+        "ai image to video prompts for tiktok"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+image+to+video+prompts+for+tiktok",
       "google_url": "https://www.google.com/search?q=ai+image+to+video+prompts+for+tiktok&gl=us&hl=en",
@@ -66922,10 +67312,10 @@
         "https://dreamina.capcut.com/ai-video/cartoon-video-generator"
       ],
       "identity_ids": [
+        "cartoon video generator",
         "ai cartoon video generator free without watermark",
         "ai cartoon video generator free",
-        "ai cartoon video generator",
-        "cartoon video generator"
+        "ai cartoon video generator"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+cartoon+video+generator+free+without+watermark",
       "google_url": "https://www.google.com/search?q=ai+cartoon+video+generator+free+without+watermark&gl=us&hl=en",
@@ -67208,8 +67598,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free image to video tools by workflow"
+        "free image to video tools by workflow",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+image+to+video+tools+by+workflow",
       "google_url": "https://www.google.com/search?q=free+image+to+video+tools+by+workflow&gl=us&hl=en",
@@ -67303,34 +67693,6 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
-      "keyword": "you never let her pay ai video",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 36,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/you-never-let-her-pay-ai-video"
-      ],
-      "identity_ids": [
-        "you never let her pay ai video"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=you+never+let+her+pay+ai+video",
-      "google_url": "https://www.google.com/search?q=you+never+let+her+pay+ai+video&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
       "keyword": "video to video ai for social media",
       "quality_status": "RESEARCH_QUEUE",
       "noise_reason": null,
@@ -67353,34 +67715,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=video+to+video+ai+for+social+media",
       "google_url": "https://www.google.com/search?q=video+to+video+ai+for+social+media&gl=us&hl=en",
-      "serp_status": "NOT_CONFIGURED",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "NOT_BUILD_APPROVED"
-    },
-    {
-      "keyword": "never let her pay ai video trend",
-      "quality_status": "RESEARCH_QUEUE",
-      "noise_reason": null,
-      "score": 36,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/never-let-her-pay-ai-video-trend"
-      ],
-      "identity_ids": [
-        "never let her pay ai video trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=never+let+her+pay+ai+video+trend",
-      "google_url": "https://www.google.com/search?q=never+let+her+pay+ai+video+trend&gl=us&hl=en",
       "serp_status": "NOT_CONFIGURED",
       "serp_checked_at": null,
       "serp": {},
@@ -67557,6 +67891,90 @@
       "decision": "NOT_BUILD_APPROVED"
     },
     {
+      "keyword": "she love the way i talk dance ai",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 36,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/she-love-the-way-i-talk-dance-ai"
+      ],
+      "identity_ids": [
+        "she love the way i talk dance ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=she+love+the+way+i+talk+dance+ai",
+      "google_url": "https://www.google.com/search?q=she+love+the+way+i+talk+dance+ai&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "how to make i am doom ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 36,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.summrs.com/blog/how-to-make-i-am-doom-ai-video"
+      ],
+      "identity_ids": [
+        "how to make i am doom ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+i+am+doom+ai+video",
+      "google_url": "https://www.google.com/search?q=how+to+make+i+am+doom+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
+      "keyword": "how to make dip on em dance ai video",
+      "quality_status": "RESEARCH_QUEUE",
+      "noise_reason": null,
+      "score": 36,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.summrs.com/blog/how-to-make-dip-on-em-dance-ai-video"
+      ],
+      "identity_ids": [
+        "how to make dip on em dance ai video"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=how+to+make+dip+on+em+dance+ai+video",
+      "google_url": "https://www.google.com/search?q=how+to+make+dip+on+em+dance+ai+video&gl=us&hl=en",
+      "serp_status": "NOT_CONFIGURED",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "NOT_BUILD_APPROVED"
+    },
+    {
       "keyword": "tough like a gorilla ai lip sync",
       "quality_status": "WATCH_ONLY",
       "noise_reason": null,
@@ -67577,8 +67995,8 @@
         "https://www.media.io/ai/explore/zone/tough-like-a-gorilla-ai-lip-sync"
       ],
       "identity_ids": [
-        "lip sync",
-        "tough like a gorilla ai lip sync"
+        "tough like a gorilla ai lip sync",
+        "lip sync"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=tough+like+a+gorilla+ai+lip+sync",
       "google_url": "https://www.google.com/search?q=tough+like+a+gorilla+ai+lip+sync&gl=us&hl=en",
@@ -71962,6 +72380,36 @@
       "decision": "EXCLUDE"
     },
     {
+      "keyword": "st tropez dj ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-13",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/st-tropez-dj-ai",
+        "https://www.makeviral.ai/templates/st-tropez-dj-ai-trend"
+      ],
+      "identity_ids": [
+        "st tropez dj ai",
+        "st tropez dj ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=st+tropez+dj+ai+trend",
+      "google_url": "https://www.google.com/search?q=st+tropez+dj+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
       "keyword": "the office parkour ai",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -71985,6 +72433,36 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=the+office+parkour+ai",
       "google_url": "https://www.google.com/search?q=the+office+parkour+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "talk to me doja ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-14",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/talk-to-me-doja-ai",
+        "https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend"
+      ],
+      "identity_ids": [
+        "talk to me doja ai",
+        "talk to me doja ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=talk+to+me+doja+ai+trend",
+      "google_url": "https://www.google.com/search?q=talk+to+me+doja+ai+trend&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
@@ -72039,8 +72517,8 @@
         "https://zooop.ai/templates/christmas"
       ],
       "identity_ids": [
-        "christmas",
-        "all i want for christmas ai trend"
+        "all i want for christmas ai trend",
+        "christmas"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=all+i+want+for+christmas+ai+trend",
       "google_url": "https://www.google.com/search?q=all+i+want+for+christmas+ai+trend&gl=us&hl=en",
@@ -72069,8 +72547,8 @@
         "https://zooop.ai/templates/christmas"
       ],
       "identity_ids": [
-        "christmas",
-        "composing christmas music"
+        "composing christmas music",
+        "christmas"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=composing+christmas+music",
       "google_url": "https://www.google.com/search?q=composing+christmas+music&gl=us&hl=en",
@@ -72110,6 +72588,96 @@
       "decision": "EXCLUDE"
     },
     {
+      "keyword": "self hug sketch ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-15",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/self-hug-sketch-ai",
+        "https://www.makeviral.ai/templates/self-hug-sketch-ai-trend"
+      ],
+      "identity_ids": [
+        "self hug sketch ai",
+        "self hug sketch ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=self+hug+sketch+ai+trend",
+      "google_url": "https://www.google.com/search?q=self+hug+sketch+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "never let her pay ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-15",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/never-let-her-pay-ai",
+        "https://www.makeviral.ai/templates/never-let-her-pay-ai-trend"
+      ],
+      "identity_ids": [
+        "never let her pay ai",
+        "never let her pay ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=never+let+her+pay+ai+trend",
+      "google_url": "https://www.google.com/search?q=never+let+her+pay+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "mourinho pressure ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-15",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/mourinho-pressure-ai",
+        "https://www.makeviral.ai/templates/mourinho-pressure-ai-trend"
+      ],
+      "identity_ids": [
+        "mourinho pressure ai",
+        "mourinho pressure ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mourinho+pressure+ai+trend",
+      "google_url": "https://www.google.com/search?q=mourinho+pressure+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
       "keyword": "bigxthaplug give it all ai trend",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -72140,6 +72708,125 @@
       "decision": "EXCLUDE"
     },
     {
+      "keyword": "gta 6 loading screen ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-16",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/gta-6-loading-screen-ai",
+        "https://zooop.ai/templates/image/gta-6-loading-screen"
+      ],
+      "identity_ids": [
+        "gta 6 loading screen",
+        "gta 6 loading screen ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+loading+screen+ai",
+      "google_url": "https://www.google.com/search?q=gta+6+loading+screen+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "grandma parkour ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/grandma-parkour-ai",
+        "https://www.media.io/ai/explore/zone/grandma-parkour-ai"
+      ],
+      "identity_ids": [
+        "grandma parkour ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=grandma+parkour+ai",
+      "google_url": "https://www.google.com/search?q=grandma+parkour+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "chased by hyenas ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-17",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/chased-by-hyenas-ai",
+        "https://www.media.io/ai/explore/zone/chased-by-hyenas-ai-trend"
+      ],
+      "identity_ids": [
+        "chased by hyenas ai",
+        "chased by hyenas ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chased+by+hyenas+ai+trend",
+      "google_url": "https://www.google.com/search?q=chased+by+hyenas+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 5 goodbye ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-18",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 2,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/gta-5-goodbye-ai-trend",
+        "https://zooop.ai/templates/video/gta-5-goodbye-ai"
+      ],
+      "identity_ids": [
+        "gta 5 goodbye ai",
+        "gta 5 goodbye ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+5+goodbye+ai+trend",
+      "google_url": "https://www.google.com/search?q=gta+5+goodbye+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
       "keyword": "zoolander who is she ai trend",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -72162,34 +72849,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=zoolander+who+is+she+ai+trend",
       "google_url": "https://www.google.com/search?q=zoolander+who+is+she+ai+trend&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
-      "keyword": "st tropez dj ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-13",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/st-tropez-dj-ai-trend"
-      ],
-      "identity_ids": [
-        "st tropez dj ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=st+tropez+dj+ai+trend",
-      "google_url": "https://www.google.com/search?q=st+tropez+dj+ai+trend&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
@@ -72243,8 +72902,8 @@
         "https://dreamina.capcut.com/ai-video/short-script-ai-drama-scene"
       ],
       "identity_ids": [
-        "ai drama",
-        "short script ai drama scene"
+        "short script ai drama scene",
+        "ai drama"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=short+script+ai+drama+scene",
       "google_url": "https://www.google.com/search?q=short+script+ai+drama+scene&gl=us&hl=en",
@@ -73246,34 +73905,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=two+girls+kicking+ai",
       "google_url": "https://www.google.com/search?q=two+girls+kicking+ai&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
-      "keyword": "talk to me doja ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-14",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend"
-      ],
-      "identity_ids": [
-        "talk to me doja ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=talk+to+me+doja+ai+trend",
-      "google_url": "https://www.google.com/search?q=talk+to+me+doja+ai+trend&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
@@ -74729,8 +75360,8 @@
         "https://dreamina.capcut.com/ai-video/what-is-ai-video-inpainting"
       ],
       "identity_ids": [
-        "ai video inpainting",
-        "what is ai video inpainting"
+        "what is ai video inpainting",
+        "ai video inpainting"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=what+is+ai+video+inpainting",
       "google_url": "https://www.google.com/search?q=what+is+ai+video+inpainting&gl=us&hl=en",
@@ -81959,8 +82590,8 @@
         "https://dreamina.capcut.com/ai-video/minimax-h3"
       ],
       "identity_ids": [
-        "minimax h3",
-        "kling 4 0 vs seedance 2 5 vs minimax h3"
+        "kling 4 0 vs seedance 2 5 vs minimax h3",
+        "minimax h3"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=kling+4+0+vs+seedance+2+5+vs+minimax+h3",
       "google_url": "https://www.google.com/search?q=kling+4+0+vs+seedance+2+5+vs+minimax+h3&gl=us&hl=en",
@@ -82017,8 +82648,8 @@
         "https://dreamina.capcut.com/ai-video/keep-characters-consistent-ai-animated-series"
       ],
       "identity_ids": [
-        "ai animated series",
-        "keep characters consistent ai animated series"
+        "keep characters consistent ai animated series",
+        "ai animated series"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=keep+characters+consistent+ai+animated+series",
       "google_url": "https://www.google.com/search?q=keep+characters+consistent+ai+animated+series&gl=us&hl=en",
@@ -82523,8 +83154,8 @@
         "https://dreamina.capcut.com/ai-video/indomaret-coolmax-trend"
       ],
       "identity_ids": [
-        "indomaret coolmax trend",
-        "coolmax trend"
+        "coolmax trend",
+        "indomaret coolmax trend"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=indomaret+coolmax+trend",
       "google_url": "https://www.google.com/search?q=indomaret+coolmax+trend&gl=us&hl=en",
@@ -84599,8 +85230,8 @@
         "https://dreamina.capcut.com/ai-video/image-to-video"
       ],
       "identity_ids": [
-        "image to video",
-        "free ai image to video tools reference repair control 2026"
+        "free ai image to video tools reference repair control 2026",
+        "image to video"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=free+ai+image+to+video+tools+reference+repair+control+2026",
       "google_url": "https://www.google.com/search?q=free+ai+image+to+video+tools+reference+repair+control+2026&gl=us&hl=en",
@@ -87999,8 +88630,8 @@
         "https://dreamina.capcut.com/ai-video/best-ai-video-maker-for-content-creators-and-everyday-users"
       ],
       "identity_ids": [
-        "ai video maker for content creators",
-        "best ai video maker for content creators and everyday users"
+        "best ai video maker for content creators and everyday users",
+        "ai video maker for content creators"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+video+maker+for+content+creators+and+everyday+users",
       "google_url": "https://www.google.com/search?q=best+ai+video+maker+for+content+creators+and+everyday+users&gl=us&hl=en",
@@ -88309,8 +88940,8 @@
         "https://dreamina.capcut.com/ai-video/best-ai-canvas"
       ],
       "identity_ids": [
-        "ai canvas",
-        "best ai canvas"
+        "best ai canvas",
+        "ai canvas"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=best+ai+canvas",
       "google_url": "https://www.google.com/search?q=best+ai+canvas&gl=us&hl=en",
@@ -90755,8 +91386,8 @@
         "https://dreamina.capcut.com/ai-video/cinemagraph"
       ],
       "identity_ids": [
-        "ai cinemagraph tools",
-        "cinemagraph"
+        "cinemagraph",
+        "ai cinemagraph tools"
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+cinemagraph+tools",
       "google_url": "https://www.google.com/search?q=ai+cinemagraph+tools&gl=us&hl=en",
@@ -92170,34 +92801,6 @@
       "decision": "EXCLUDE"
     },
     {
-      "keyword": "self hug sketch ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-15",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/self-hug-sketch-ai-trend"
-      ],
-      "identity_ids": [
-        "self hug sketch ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=self+hug+sketch+ai+trend",
-      "google_url": "https://www.google.com/search?q=self+hug+sketch+ai+trend&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
       "keyword": "sad to happy transition",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -92254,34 +92857,6 @@
       "decision": "EXCLUDE"
     },
     {
-      "keyword": "never let her pay ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-15",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/never-let-her-pay-ai-trend"
-      ],
-      "identity_ids": [
-        "never let her pay ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=never+let+her+pay+ai+trend",
-      "google_url": "https://www.google.com/search?q=never+let+her+pay+ai+trend&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
       "keyword": "need for speed ai trend",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -92332,34 +92907,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mr+and+mrs+smith+ai+trend",
       "google_url": "https://www.google.com/search?q=mr+and+mrs+smith+ai+trend&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
-      "keyword": "mourinho pressure ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-15",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/mourinho-pressure-ai-trend"
-      ],
-      "identity_ids": [
-        "mourinho pressure ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mourinho+pressure+ai+trend",
-      "google_url": "https://www.google.com/search?q=mourinho+pressure+ai+trend&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
@@ -93206,34 +93753,6 @@
       "decision": "EXCLUDE"
     },
     {
-      "keyword": "gta 6 loading screen ai",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-16",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/gta-6-loading-screen-ai"
-      ],
-      "identity_ids": [
-        "gta 6 loading screen ai"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+loading+screen+ai",
-      "google_url": "https://www.google.com/search?q=gta+6+loading+screen+ai&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
       "keyword": "dog washing dishes ai trend",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -93682,34 +94201,6 @@
       "decision": "EXCLUDE"
     },
     {
-      "keyword": "grandma parkour ai",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/grandma-parkour-ai"
-      ],
-      "identity_ids": [
-        "grandma parkour ai"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=grandma+parkour+ai",
-      "google_url": "https://www.google.com/search?q=grandma+parkour+ai&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
       "keyword": "food and drink review vlog",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -93816,34 +94307,6 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chatgpt+sweater+portrait+ai+trend",
       "google_url": "https://www.google.com/search?q=chatgpt+sweater+portrait+ai+trend&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
-      "keyword": "chased by hyenas ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-17",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.media.io/ai/explore/zone/chased-by-hyenas-ai-trend"
-      ],
-      "identity_ids": [
-        "chased by hyenas ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chased+by+hyenas+ai+trend",
-      "google_url": "https://www.google.com/search?q=chased+by+hyenas+ai+trend&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
@@ -94386,34 +94849,6 @@
       "decision": "EXCLUDE"
     },
     {
-      "keyword": "gta 5 goodbye ai trend",
-      "quality_status": "EXCLUDED_NOISE",
-      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
-      "score": 0,
-      "origin": "MONITORED_NAME",
-      "first_observed_at": "2026-11-18",
-      "parents": [],
-      "rising_evidence": 0,
-      "top_evidence": 0,
-      "breakout_label": false,
-      "highest_rising_growth_pct": null,
-      "trends_geo": "US",
-      "trends_window": "now 7-d",
-      "source_count": 1,
-      "source_urls": [
-        "https://www.makeviral.ai/templates/gta-5-goodbye-ai-trend"
-      ],
-      "identity_ids": [
-        "gta 5 goodbye ai trend"
-      ],
-      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+5+goodbye+ai+trend",
-      "google_url": "https://www.google.com/search?q=gta+5+goodbye+ai+trend&gl=us&hl=en",
-      "serp_status": "SKIPPED_NOISE",
-      "serp_checked_at": null,
-      "serp": {},
-      "decision": "EXCLUDE"
-    },
-    {
       "keyword": "golden statue baby kiss ai",
       "quality_status": "EXCLUDED_NOISE",
       "noise_reason": "NO_VIDEO_GENERATION_INTENT",
@@ -94522,6 +94957,1608 @@
       ],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+tidal+wave",
       "google_url": "https://www.google.com/search?q=ai+tidal+wave&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "teach me how to dougie ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/teach-me-how-to-dougie-ai"
+      ],
+      "identity_ids": [
+        "teach me how to dougie ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=teach+me+how+to+dougie+ai",
+      "google_url": "https://www.google.com/search?q=teach+me+how+to+dougie+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "talk to me doja ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/talk-to-me-doja-ai"
+      ],
+      "identity_ids": [
+        "talk to me doja ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=talk+to+me+doja+ai",
+      "google_url": "https://www.google.com/search?q=talk+to+me+doja+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "st tropez dj ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/st-tropez-dj-ai"
+      ],
+      "identity_ids": [
+        "st tropez dj ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=st+tropez+dj+ai",
+      "google_url": "https://www.google.com/search?q=st+tropez+dj+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "spiderman fridge fail ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/spiderman-fridge-fail-ai"
+      ],
+      "identity_ids": [
+        "spiderman fridge fail ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=spiderman+fridge+fail+ai",
+      "google_url": "https://www.google.com/search?q=spiderman+fridge+fail+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "soccer missed goal ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/soccer-missed-goal-ai"
+      ],
+      "identity_ids": [
+        "soccer missed goal ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=soccer+missed+goal+ai",
+      "google_url": "https://www.google.com/search?q=soccer+missed+goal+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "self hug sketch ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/self-hug-sketch-ai"
+      ],
+      "identity_ids": [
+        "self hug sketch ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=self+hug+sketch+ai",
+      "google_url": "https://www.google.com/search?q=self+hug+sketch+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "santa hat pet ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/santa-hat-pet-ai-trend"
+      ],
+      "identity_ids": [
+        "santa hat pet ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=santa+hat+pet+ai+trend",
+      "google_url": "https://www.google.com/search?q=santa+hat+pet+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "riding lion ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/riding-lion-ai"
+      ],
+      "identity_ids": [
+        "riding lion ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=riding+lion+ai",
+      "google_url": "https://www.google.com/search?q=riding+lion+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "peaky blinders explosion ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/peaky-blinders-explosion-ai"
+      ],
+      "identity_ids": [
+        "peaky blinders explosion ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=peaky+blinders+explosion+ai",
+      "google_url": "https://www.google.com/search?q=peaky+blinders+explosion+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "never let her pay ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/never-let-her-pay-ai"
+      ],
+      "identity_ids": [
+        "never let her pay ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=never+let+her+pay+ai",
+      "google_url": "https://www.google.com/search?q=never+let+her+pay+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "mourinho pressure ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/mourinho-pressure-ai"
+      ],
+      "identity_ids": [
+        "mourinho pressure ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mourinho+pressure+ai",
+      "google_url": "https://www.google.com/search?q=mourinho+pressure+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "more like a quesadilla ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/more-like-a-quesadilla-ai-trend"
+      ],
+      "identity_ids": [
+        "more like a quesadilla ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=more+like+a+quesadilla+ai+trend",
+      "google_url": "https://www.google.com/search?q=more+like+a+quesadilla+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "mexico pterodactyl ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/mexico-pterodactyl-ai-trend"
+      ],
+      "identity_ids": [
+        "mexico pterodactyl ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=mexico+pterodactyl+ai+trend",
+      "google_url": "https://www.google.com/search?q=mexico+pterodactyl+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "matcha ai commercial",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/matcha-ai-commercial"
+      ],
+      "identity_ids": [
+        "matcha ai commercial"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=matcha+ai+commercial",
+      "google_url": "https://www.google.com/search?q=matcha+ai+commercial&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "kiat jud dai kitten parade ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/kiat-jud-dai-kitten-parade-ai"
+      ],
+      "identity_ids": [
+        "kiat jud dai kitten parade ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=kiat+jud+dai+kitten+parade+ai",
+      "google_url": "https://www.google.com/search?q=kiat+jud+dai+kitten+parade+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "infinity pool float",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/infinity-pool-float"
+      ],
+      "identity_ids": [
+        "infinity pool float"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=infinity+pool+float",
+      "google_url": "https://www.google.com/search?q=infinity+pool+float&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "huell money ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/huell-money-ai"
+      ],
+      "identity_ids": [
+        "huell money ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=huell+money+ai",
+      "google_url": "https://www.google.com/search?q=huell+money+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "hot chick ice cream ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/hot-chick-ice-cream-ai-trend"
+      ],
+      "identity_ids": [
+        "hot chick ice cream ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=hot+chick+ice+cream+ai+trend",
+      "google_url": "https://www.google.com/search?q=hot+chick+ice+cream+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta goodbye airport prompts",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/gta-goodbye-airport-prompts"
+      ],
+      "identity_ids": [
+        "gta goodbye airport prompts"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+goodbye+airport+prompts",
+      "google_url": "https://www.google.com/search?q=gta+goodbye+airport+prompts&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 wanted level",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-wanted-level"
+      ],
+      "identity_ids": [
+        "gta 6 wanted level"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+wanted+level",
+      "google_url": "https://www.google.com/search?q=gta+6+wanted+level&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 vice city story guide",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/gta-6-vice-city-story-guide",
+        "https://zooop.ai/templates/video/gta-6-vice-city-story"
+      ],
+      "identity_ids": [
+        "gta 6 vice city story guide",
+        "gta 6 vice city story"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+vice+city+story+guide",
+      "google_url": "https://www.google.com/search?q=gta+6+vice+city+story+guide&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 vice city story",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-vice-city-story"
+      ],
+      "identity_ids": [
+        "gta 6 vice city story"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+vice+city+story",
+      "google_url": "https://www.google.com/search?q=gta+6+vice+city+story&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 trailer ai guide",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/gta-6-trailer-ai-guide",
+        "https://zooop.ai/templates/video/gta-6-trailer-ai"
+      ],
+      "identity_ids": [
+        "gta 6 trailer ai guide",
+        "gta 6 trailer ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+trailer+ai+guide",
+      "google_url": "https://www.google.com/search?q=gta+6+trailer+ai+guide&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 trailer ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-trailer-ai"
+      ],
+      "identity_ids": [
+        "gta 6 trailer ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+trailer+ai",
+      "google_url": "https://www.google.com/search?q=gta+6+trailer+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 pet getaway",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-pet-getaway"
+      ],
+      "identity_ids": [
+        "gta 6 pet getaway"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+pet+getaway",
+      "google_url": "https://www.google.com/search?q=gta+6+pet+getaway&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 partner in crime",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/image/gta-6-partner-in-crime"
+      ],
+      "identity_ids": [
+        "gta 6 partner in crime"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+partner+in+crime",
+      "google_url": "https://www.google.com/search?q=gta+6+partner+in+crime&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 nightclub",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-nightclub"
+      ],
+      "identity_ids": [
+        "gta 6 nightclub"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+nightclub",
+      "google_url": "https://www.google.com/search?q=gta+6+nightclub&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 mugshot",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/image/gta-6-mugshot"
+      ],
+      "identity_ids": [
+        "gta 6 mugshot"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+mugshot",
+      "google_url": "https://www.google.com/search?q=gta+6+mugshot&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 lovers on the run",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-lovers-on-the-run"
+      ],
+      "identity_ids": [
+        "gta 6 lovers on the run"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+lovers+on+the+run",
+      "google_url": "https://www.google.com/search?q=gta+6+lovers+on+the+run&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 loading screen",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/image/gta-6-loading-screen"
+      ],
+      "identity_ids": [
+        "gta 6 loading screen"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+loading+screen",
+      "google_url": "https://www.google.com/search?q=gta+6+loading+screen&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 getaway duo",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-6-getaway-duo"
+      ],
+      "identity_ids": [
+        "gta 6 getaway duo"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+getaway+duo",
+      "google_url": "https://www.google.com/search?q=gta+6+getaway+duo&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 cover art",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/image/gta-6-cover-art"
+      ],
+      "identity_ids": [
+        "gta 6 cover art"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+cover+art",
+      "google_url": "https://www.google.com/search?q=gta+6+cover+art&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 ai selfie",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/image/gta-6-ai-selfie"
+      ],
+      "identity_ids": [
+        "gta 6 ai selfie"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+ai+selfie",
+      "google_url": "https://www.google.com/search?q=gta+6+ai+selfie&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 ai poster",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/image/gta-6-ai-poster"
+      ],
+      "identity_ids": [
+        "gta 6 ai poster"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+ai+poster",
+      "google_url": "https://www.google.com/search?q=gta+6+ai+poster&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 ai police chase guide",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/gta-6-ai-police-chase-guide"
+      ],
+      "identity_ids": [
+        "gta 6 ai police chase guide"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+ai+police+chase+guide",
+      "google_url": "https://www.google.com/search?q=gta+6+ai+police+chase+guide&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 6 ai guide",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/gta-6-ai-guide"
+      ],
+      "identity_ids": [
+        "gta 6 ai guide"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+6+ai+guide",
+      "google_url": "https://www.google.com/search?q=gta+6+ai+guide&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 5 goodbye ai guide",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/blog/gta-5-goodbye-ai-guide",
+        "https://zooop.ai/templates/video/gta-5-goodbye-ai"
+      ],
+      "identity_ids": [
+        "gta 5 goodbye ai guide",
+        "gta 5 goodbye ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+5+goodbye+ai+guide",
+      "google_url": "https://www.google.com/search?q=gta+5+goodbye+ai+guide&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "gta 5 goodbye ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://zooop.ai/templates/video/gta-5-goodbye-ai"
+      ],
+      "identity_ids": [
+        "gta 5 goodbye ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=gta+5+goodbye+ai",
+      "google_url": "https://www.google.com/search?q=gta+5+goodbye+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "groomer vs dog ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/groomer-vs-dog-ai"
+      ],
+      "identity_ids": [
+        "groomer vs dog ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=groomer+vs+dog+ai",
+      "google_url": "https://www.google.com/search?q=groomer+vs+dog+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "funny goalkeeper ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/funny-goalkeeper-ai-trend"
+      ],
+      "identity_ids": [
+        "funny goalkeeper ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=funny+goalkeeper+ai+trend",
+      "google_url": "https://www.google.com/search?q=funny+goalkeeper+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "frozen feet couple ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/frozen-feet-couple-ai-trend"
+      ],
+      "identity_ids": [
+        "frozen feet couple ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=frozen+feet+couple+ai+trend",
+      "google_url": "https://www.google.com/search?q=frozen+feet+couple+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "dog coffee fail ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/dog-coffee-fail-ai"
+      ],
+      "identity_ids": [
+        "dog coffee fail ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=dog+coffee+fail+ai",
+      "google_url": "https://www.google.com/search?q=dog+coffee+fail+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "disney couple three panel ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/disney-couple-three-panel-ai-trend"
+      ],
+      "identity_ids": [
+        "disney couple three panel ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=disney+couple+three+panel+ai+trend",
+      "google_url": "https://www.google.com/search?q=disney+couple+three+panel+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "chovy drinking water ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/chovy-drinking-water-ai"
+      ],
+      "identity_ids": [
+        "chovy drinking water ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chovy+drinking+water+ai",
+      "google_url": "https://www.google.com/search?q=chovy+drinking+water+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "chased by hyenas ai",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/chased-by-hyenas-ai"
+      ],
+      "identity_ids": [
+        "chased by hyenas ai"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=chased+by+hyenas+ai",
+      "google_url": "https://www.google.com/search?q=chased+by+hyenas+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "boxing dog ai trend",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/boxing-dog-ai-trend"
+      ],
+      "identity_ids": [
+        "boxing dog ai trend"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=boxing+dog+ai+trend",
+      "google_url": "https://www.google.com/search?q=boxing+dog+ai+trend&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "amv maker",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/amv-maker"
+      ],
+      "identity_ids": [
+        "amv maker"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=amv+maker",
+      "google_url": "https://www.google.com/search?q=amv+maker&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "airport finger circle ai transition",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/airport-finger-circle-ai-transition"
+      ],
+      "identity_ids": [
+        "airport finger circle ai transition"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=airport+finger+circle+ai+transition",
+      "google_url": "https://www.google.com/search?q=airport+finger+circle+ai+transition&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "ai wedding dress transformation",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.makeviral.ai/templates/ai-wedding-dress-transformation"
+      ],
+      "identity_ids": [
+        "ai wedding dress transformation"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+wedding+dress+transformation",
+      "google_url": "https://www.google.com/search?q=ai+wedding+dress+transformation&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "ai kpop group",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NO_VIDEO_GENERATION_INTENT",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://dreamina.capcut.com/ai-video/ai-kpop-group"
+      ],
+      "identity_ids": [
+        "ai kpop group"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=ai+kpop+group",
+      "google_url": "https://www.google.com/search?q=ai+kpop+group&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7663288260466068753",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/viraltiktokaudio-viralgroup-selfie-trend-viral/7663288260466068753"
+      ],
+      "identity_ids": [
+        "7663288260466068753"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7663288260466068753",
+      "google_url": "https://www.google.com/search?q=7663288260466068753&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7655203906531740929",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/viral-foryou-trending-foryoupage-fyp/7655203906531740929"
+      ],
+      "identity_ids": [
+        "7655203906531740929"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7655203906531740929",
+      "google_url": "https://www.google.com/search?q=7655203906531740929&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7631592390670798101",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/Trending-Instagram-Template-trending-nding/7631592390670798101"
+      ],
+      "identity_ids": [
+        "7631592390670798101"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7631592390670798101",
+      "google_url": "https://www.google.com/search?q=7631592390670798101&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7590649367787261200",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/RomanticTrends-yubimgr-yubi-mgr-pinterest-protrend/7590649367787261200"
+      ],
+      "identity_ids": [
+        "7590649367787261200"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7590649367787261200",
+      "google_url": "https://www.google.com/search?q=7590649367787261200&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7575416298172075317",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/Try-This-New-Template/7575416298172075317"
+      ],
+      "identity_ids": [
+        "7575416298172075317"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7575416298172075317",
+      "google_url": "https://www.google.com/search?q=7575416298172075317&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7574395599290633525",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/tiktok-foryou-trending/7574395599290633525"
+      ],
+      "identity_ids": [
+        "7574395599290633525"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7574395599290633525",
+      "google_url": "https://www.google.com/search?q=7574395599290633525&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "7564743649842744581",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "NOT_QUERY",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 1,
+      "source_urls": [
+        "https://www.capcut.com/template-detail/slomotemplate-CreateTask-viraltemplate-newtemplate/7564743649842744581"
+      ],
+      "identity_ids": [
+        "7564743649842744581"
+      ],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=7564743649842744581",
+      "google_url": "https://www.google.com/search?q=7564743649842744581&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
@@ -97438,6 +99475,30 @@
       "identity_ids": [],
       "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=venice+ai",
       "google_url": "https://www.google.com/search?q=venice+ai&gl=us&hl=en",
+      "serp_status": "SKIPPED_NOISE",
+      "serp_checked_at": null,
+      "serp": {},
+      "decision": "EXCLUDE"
+    },
+    {
+      "keyword": "11",
+      "quality_status": "EXCLUDED_NOISE",
+      "noise_reason": "BAD_LENGTH",
+      "score": 0,
+      "origin": "MONITORED_NAME",
+      "first_observed_at": "2026-11-19",
+      "parents": [],
+      "rising_evidence": 0,
+      "top_evidence": 0,
+      "breakout_label": false,
+      "highest_rising_growth_pct": null,
+      "trends_geo": "US",
+      "trends_window": "now 7-d",
+      "source_count": 0,
+      "source_urls": [],
+      "identity_ids": [],
+      "trends_url": "https://trends.google.com/trends/explore?date=now+7-d&geo=US&q=11",
+      "google_url": "https://www.google.com/search?q=11&gl=us&hl=en",
       "serp_status": "SKIPPED_NOISE",
       "serp_checked_at": null,
       "serp": {},
