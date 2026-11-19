@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-19 01:15
-- 数据库视频：2552；24小时内且有频道ID的非教程候选：232
+- 最新成功快照（北京）：2026-11-19 09:52
+- 数据库视频：2583；24小时内且有频道ID的非教程候选：224
 - 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -21,28 +21,27 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| Enjoyment_Mithun | [🔥Masha and The Bear All Cartoon Characters in  Spider Life / Ai Generated Transformation ](https://www.youtube.com/watch?v=NgyIzGgqBOM) | 2026-11-18 13:30 | 2026-11-19 01:15 | 33048 | 待多次采样 | 作者文字自述AI |
-| BK REACTIONS | [Masha And The Bear Ghost Version Part 2  // All Cartoon Characters Ghost Transformation / AI Cartoon](https://www.youtube.com/watch?v=TJoCnBpNAsk) | 2026-11-18 11:28 | 2026-11-19 01:15 | 23205 | 待多次采样 | AI制作未验证 |
-| Chhiya Toons | [Mr Bean All Cartoon Characters In Real Life / Real Life Look / AI Realistic Transformation](https://www.youtube.com/watch?v=pEcTWfSKkS0) | 2026-11-18 19:01 | 2026-11-19 01:15 | 7939 | 待多次采样 | AI制作未验证 |
-| Your Shivaman | [🔥 Mr Bean All Cartoon Characters In Real Life  / Real  Child Look / Ai Generated Transformation ](https://www.youtube.com/watch?v=VNM4uLnoX1Q) | 2026-11-18 11:30 | 2026-11-19 01:15 | 2611 | 待多次采样 | 作者文字自述AI |
+| Enjoyment_Mithun | [🔥Masha and The Bear All Cartoon Characters in  Spider Life / Ai Generated Transformation ](https://www.youtube.com/watch?v=NgyIzGgqBOM) | 2026-11-18 13:30 | 2026-11-19 01:15 | 39759 | 779.3 | 作者文字自述AI |
+| BK REACTIONS | [Masha And The Bear Ghost Version Part 2  // All Cartoon Characters Ghost Transformation / AI Cartoon](https://www.youtube.com/watch?v=TJoCnBpNAsk) | 2026-11-18 11:28 | 2026-11-19 01:15 | 24044 | 97.4 | AI制作未验证 |
+| Chhiya Toons | [Mr Bean All Cartoon Characters In Real Life / Real Life Look / AI Realistic Transformation](https://www.youtube.com/watch?v=pEcTWfSKkS0) | 2026-11-18 19:01 | 2026-11-19 01:15 | 8637 | 81.1 | AI制作未验证 |
+| Your Shivaman | [🔥 Mr Bean All Cartoon Characters In Real Life  / Real  Child Look / Ai Generated Transformation ](https://www.youtube.com/watch?v=VNM4uLnoX1Q) | 2026-11-18 11:30 | 2026-11-19 01:15 | 3103 | 57.1 | 作者文字自述AI |
 
 ### 2. sheru bhai
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| HITU    GAMER | [sheru bhai ai video #trending #trendingshorts #viralshorts #viralvideo #sheru #trend](https://www.youtube.com/watch?v=Mk5C7ZwOPXE) | 2026-11-18 12:46 | 2026-11-18 15:27 | 1270 | 62.0 | 作者文字自述AI |
-| Razcks Star | [I hate this sheru bhai ai meme !!](https://www.youtube.com/watch?v=8zNRMC6eM9E) | 2026-11-18 22:33 | 2026-11-19 01:15 | 1239 | 待多次采样 | 作者文字自述AI |
-| Aniket_Warisa_Vlogs | [Sheru Bhai Tadpan Tadpan #sheru #bhai  #trend  #aivideo  #funny  #shorts  #newvideo](https://www.youtube.com/watch?v=nXBQXWnNTYw) | 2026-11-18 09:39 | 2026-11-18 15:27 | 8 | 0.4 | 作者文字自述AI |
+| Razcks Star | [I hate this sheru bhai ai meme !!](https://www.youtube.com/watch?v=8zNRMC6eM9E) | 2026-11-18 22:33 | 2026-11-19 01:15 | 2075 | 97.1 | 作者文字自述AI |
+| HITU    GAMER | [sheru bhai ai video #trending #trendingshorts #viralshorts #viralvideo #sheru #trend](https://www.youtube.com/watch?v=Mk5C7ZwOPXE) | 2026-11-18 12:46 | 2026-11-18 15:27 | 1536 | 30.9 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| AskedItDumb | [Stupid AI Responses From The Future…😭 #deadinternettheory #aifails #ailoveyou #funny #memes](https://www.youtube.com/watch?v=MgvkNUpdDwY) | 10万级早期观察，不是爆款 | 2026-11-18 03:01 | 2026-11-19 01:15 | 154048 | 待二次采样 |
+| Lotie’s Nest  | [Monster Haaland Ate Everyone’s FOOD! 😱🍕 Mbappé Was SHOCKED! 😂 #shorts](https://www.youtube.com/watch?v=HXtg6dkJqzE) | 10万级早期观察，不是爆款 | 2026-11-18 10:00 | 2026-11-19 09:52 | 138912 | 待二次采样 |
 
 ## 人工核验清单
 
