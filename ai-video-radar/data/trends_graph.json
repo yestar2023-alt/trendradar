@@ -33920,12 +33920,13 @@
         "image to video ai free"
       ],
       "first_observed_at": "2026-11-13",
-      "status": "QUEUED",
-      "last_checked_at": null,
-      "next_check_at": null,
+      "status": "RATE_LIMITED",
+      "last_checked_at": "2026-11-20T04:22:37+00:00",
+      "next_check_at": "2026-11-21T04:22:37+00:00",
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "error": "Google refused a direct Trends request (HTTP 429)."
     },
     "image to cartoon video generator": {
       "keyword": "image to cartoon video generator",
@@ -57606,7 +57607,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "talk to me doja ai": {
       "keyword": "talk to me doja ai",
@@ -57618,7 +57620,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "st tropez dj ai": {
       "keyword": "st tropez dj ai",
@@ -57630,7 +57633,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "spiderman fridge fail ai": {
       "keyword": "spiderman fridge fail ai",
@@ -57642,7 +57646,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "soccer missed goal ai": {
       "keyword": "soccer missed goal ai",
@@ -57654,7 +57659,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "she love the way i talk dance ai": {
       "keyword": "she love the way i talk dance ai",
@@ -57678,7 +57684,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "santa hat pet ai trend": {
       "keyword": "santa hat pet ai trend",
@@ -57690,7 +57697,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "riding lion ai": {
       "keyword": "riding lion ai",
@@ -57702,7 +57710,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "peaky blinders explosion ai": {
       "keyword": "peaky blinders explosion ai",
@@ -57714,7 +57723,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "nyc rats ai video": {
       "keyword": "nyc rats ai video",
@@ -57750,7 +57760,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "mourinho pressure ai": {
       "keyword": "mourinho pressure ai",
@@ -57762,7 +57773,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "more like a quesadilla ai trend": {
       "keyword": "more like a quesadilla ai trend",
@@ -57774,7 +57786,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "mexico pterodactyl ai trend": {
       "keyword": "mexico pterodactyl ai trend",
@@ -57786,7 +57799,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "matcha ai commercial": {
       "keyword": "matcha ai commercial",
@@ -57798,7 +57812,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "kiat jud dai kitten parade ai": {
       "keyword": "kiat jud dai kitten parade ai",
@@ -57810,7 +57825,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "infinity pool float": {
       "keyword": "infinity pool float",
@@ -57822,7 +57838,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "infinity pool ai video guide": {
       "keyword": "infinity pool ai video guide",
@@ -57858,7 +57875,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "how to make i am doom ai video": {
       "keyword": "how to make i am doom ai video",
@@ -57894,7 +57912,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta goodbye airport prompts": {
       "keyword": "gta goodbye airport prompts",
@@ -57906,7 +57925,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 wanted level": {
       "keyword": "gta 6 wanted level",
@@ -57918,7 +57938,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 vice city story guide": {
       "keyword": "gta 6 vice city story guide",
@@ -57930,7 +57951,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 vice city story": {
       "keyword": "gta 6 vice city story",
@@ -57942,7 +57964,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 trailer ai guide": {
       "keyword": "gta 6 trailer ai guide",
@@ -57954,7 +57977,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 trailer ai": {
       "keyword": "gta 6 trailer ai",
@@ -57966,7 +57990,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 pet getaway": {
       "keyword": "gta 6 pet getaway",
@@ -57978,7 +58003,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 partner in crime": {
       "keyword": "gta 6 partner in crime",
@@ -57990,7 +58016,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 nightclub": {
       "keyword": "gta 6 nightclub",
@@ -58002,7 +58029,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 mugshot": {
       "keyword": "gta 6 mugshot",
@@ -58014,7 +58042,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 lovers on the run": {
       "keyword": "gta 6 lovers on the run",
@@ -58026,7 +58055,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 loading screen": {
       "keyword": "gta 6 loading screen",
@@ -58038,7 +58068,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 getaway duo": {
       "keyword": "gta 6 getaway duo",
@@ -58050,7 +58081,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 dog ai video guide": {
       "keyword": "gta 6 dog ai video guide",
@@ -58074,7 +58106,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 ai selfie": {
       "keyword": "gta 6 ai selfie",
@@ -58086,7 +58119,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 ai poster": {
       "keyword": "gta 6 ai poster",
@@ -58098,7 +58132,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 ai police chase guide": {
       "keyword": "gta 6 ai police chase guide",
@@ -58110,7 +58145,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 6 ai guide": {
       "keyword": "gta 6 ai guide",
@@ -58122,7 +58158,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 5 goodbye ai video": {
       "keyword": "gta 5 goodbye ai video",
@@ -58146,7 +58183,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gta 5 goodbye ai": {
       "keyword": "gta 5 goodbye ai",
@@ -58158,7 +58196,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "groomer vs dog ai": {
       "keyword": "groomer vs dog ai",
@@ -58170,7 +58209,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "funny goalkeeper ai trend": {
       "keyword": "funny goalkeeper ai trend",
@@ -58182,7 +58222,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "frozen feet couple ai trend": {
       "keyword": "frozen feet couple ai trend",
@@ -58194,7 +58235,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "dog pool party ai dance": {
       "keyword": "dog pool party ai dance",
@@ -58218,7 +58260,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "disney couple three panel ai trend": {
       "keyword": "disney couple three panel ai trend",
@@ -58230,7 +58273,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "chovy drinking water ai": {
       "keyword": "chovy drinking water ai",
@@ -58242,7 +58286,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "chased by hyenas ai": {
       "keyword": "chased by hyenas ai",
@@ -58254,7 +58299,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "careless whisper car meme ai": {
       "keyword": "careless whisper car meme ai",
@@ -58278,7 +58324,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "baby face filter ai": {
       "keyword": "baby face filter ai",
@@ -58302,7 +58349,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "airport finger circle ai transition": {
       "keyword": "airport finger circle ai transition",
@@ -58314,7 +58362,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ai wedding dress transformation": {
       "keyword": "ai wedding dress transformation",
@@ -58326,7 +58375,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ai plot generator": {
       "keyword": "ai plot generator",
@@ -58350,7 +58400,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ai fashion film": {
       "keyword": "ai fashion film",
@@ -58374,7 +58425,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "7655203906531740929": {
       "keyword": "7655203906531740929",
@@ -58386,7 +58438,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "7631592390670798101": {
       "keyword": "7631592390670798101",
@@ -58398,7 +58451,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "7590649367787261200": {
       "keyword": "7590649367787261200",
@@ -58410,7 +58464,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "7575416298172075317": {
       "keyword": "7575416298172075317",
@@ -58422,7 +58477,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "7574395599290633525": {
       "keyword": "7574395599290633525",
@@ -58434,7 +58490,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "7564743649842744581": {
       "keyword": "7564743649842744581",
@@ -58446,13 +58503,1167 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "11": {
       "keyword": "11",
       "depth": 0,
       "parents": [],
       "first_observed_at": "2026-11-19",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
+    },
+    "passenger princess ai video": {
+      "keyword": "passenger princess ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "zoolander stare ai video generator": {
+      "keyword": "zoolander stare ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "zoolander stare ai": {
+      "keyword": "zoolander stare ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "your next opponent is you ai video": {
+      "keyword": "your next opponent is you ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "you are nice you are pretty ai trend": {
+      "keyword": "you are nice you are pretty ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "x factor mysterious girl ai video": {
+      "keyword": "x factor mysterious girl ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "wwe tag team partner ai photo generator": {
+      "keyword": "wwe tag team partner ai photo generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "winter wonderland dance ai trend": {
+      "keyword": "winter wonderland dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "whoville character ai filter": {
+      "keyword": "whoville character ai filter",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "what if you fly ai": {
+      "keyword": "what if you fly ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "welcome 2027 ai video": {
+      "keyword": "welcome 2027 ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "we dont talk anymore ai dance generator": {
+      "keyword": "we dont talk anymore ai dance generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "water park video": {
+      "keyword": "water park video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "truck driver ai video trend": {
+      "keyword": "truck driver ai video trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tricycle crash ai trend": {
+      "keyword": "tricycle crash ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "trailer title animation": {
+      "keyword": "trailer title animation",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tow truck video": {
+      "keyword": "tow truck video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "toesa quit job ai dance": {
+      "keyword": "toesa quit job ai dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tiktok ai video": {
+      "keyword": "tiktok ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tiger transition ai video": {
+      "keyword": "tiger transition ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "the hot chick ice cream ai video": {
+      "keyword": "the hot chick ice cream ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "the hot chick ice cream ai": {
+      "keyword": "the hot chick ice cream ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "thanksgiving ai generator": {
+      "keyword": "thanksgiving ai generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "supercar night drive ai trend": {
+      "keyword": "supercar night drive ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "skincare ads": {
+      "keyword": "skincare ads",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "shutup remix ai trend": {
+      "keyword": "shutup remix ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "scuba diving video": {
+      "keyword": "scuba diving video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "scoreboard template": {
+      "keyword": "scoreboard template",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "reverse hurdle ai trend": {
+      "keyword": "reverse hurdle ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "prompt seen christmas": {
+      "keyword": "prompt seen christmas",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "product teaser": {
+      "keyword": "product teaser",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "process explainer video": {
+      "keyword": "process explainer video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "private jet ai video generator": {
+      "keyword": "private jet ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "pop pop animation ai trend": {
+      "keyword": "pop pop animation ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "personalized christmas video for kids": {
+      "keyword": "personalized christmas video for kids",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "olly olly ai dance": {
+      "keyword": "olly olly ai dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "oh my carne asada singing dog": {
+      "keyword": "oh my carne asada singing dog",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "office design walkthrough": {
+      "keyword": "office design walkthrough",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "not today cupid ai video generator": {
+      "keyword": "not today cupid ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "my moon my man jesus ai photo": {
+      "keyword": "my moon my man jesus ai photo",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "movie end credits": {
+      "keyword": "movie end credits",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "missed train dance ai video": {
+      "keyword": "missed train dance ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "marvel title template": {
+      "keyword": "marvel title template",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "lower third animation": {
+      "keyword": "lower third animation",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "lounge bar music": {
+      "keyword": "lounge bar music",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kite flying video": {
+      "keyword": "kite flying video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kiss your phone ai trend": {
+      "keyword": "kiss your phone ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jingle bell brazil dance ai generator": {
+      "keyword": "jingle bell brazil dance ai generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jatayu flying video editing tutorial": {
+      "keyword": "jatayu flying video editing tutorial",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jatayu ai video": {
+      "keyword": "jatayu ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "james bond 007 ai reveal video generator": {
+      "keyword": "james bond 007 ai reveal video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "james bond 007 ai photo generator": {
+      "keyword": "james bond 007 ai photo generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "imagination love ai video": {
+      "keyword": "imagination love ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ig story ads": {
+      "keyword": "ig story ads",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ice and fire video effect": {
+      "keyword": "ice and fire video effect",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hunger games ai filter": {
+      "keyword": "hunger games ai filter",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "headlight restoration video": {
+      "keyword": "headlight restoration video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hanuman ai video generator": {
+      "keyword": "hanuman ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "halloween": {
+      "keyword": "halloween",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "halay ai trend": {
+      "keyword": "halay ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "guzarishon pe ai video": {
+      "keyword": "guzarishon pe ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta wasted meme ai": {
+      "keyword": "gta wasted meme ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 pfp": {
+      "keyword": "gta 6 pfp",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 jet ski dog ai": {
+      "keyword": "gta 6 jet ski dog ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 filter": {
+      "keyword": "gta 6 filter",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 ai video": {
+      "keyword": "gta 6 ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 ai prompt": {
+      "keyword": "gta 6 ai prompt",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "formula one car": {
+      "keyword": "formula one car",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "flower from nose ai": {
+      "keyword": "flower from nose ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dog ai video": {
+      "keyword": "dog ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dip on em dance ai trend": {
+      "keyword": "dip on em dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dip on em ai dance": {
+      "keyword": "dip on em ai dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "deck the halls dance trend tutorial": {
+      "keyword": "deck the halls dance trend tutorial",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dark ride ai video": {
+      "keyword": "dark ride ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dancing crocodiles ai": {
+      "keyword": "dancing crocodiles ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "corporate video transitions": {
+      "keyword": "corporate video transitions",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cocktail bar": {
+      "keyword": "cocktail bar",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cleaning transformation video": {
+      "keyword": "cleaning transformation video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas photobooth ai": {
+      "keyword": "christmas photobooth ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas photo prompts for men": {
+      "keyword": "christmas photo prompts for men",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas photo prompts for girls": {
+      "keyword": "christmas photo prompts for girls",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "christmas ai generator": {
+      "keyword": "christmas ai generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cctv tiger fight ai video": {
+      "keyword": "cctv tiger fight ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cctv tiger fight ai": {
+      "keyword": "cctv tiger fight ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cat from every angle ai trend": {
+      "keyword": "cat from every angle ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cat ai video": {
+      "keyword": "cat ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "car reveal video": {
+      "keyword": "car reveal video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "car assembly animation": {
+      "keyword": "car assembly animation",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "black friday advertising": {
+      "keyword": "black friday advertising",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "black and white wet face ai photo": {
+      "keyword": "black and white wet face ai photo",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "award announcement video": {
+      "keyword": "award announcement video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "auto parts showcase video": {
+      "keyword": "auto parts showcase video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "auto mechanic portfolio video": {
+      "keyword": "auto mechanic portfolio video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai funny video": {
+      "keyword": "ai funny video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai fashion video edit": {
+      "keyword": "ai fashion video edit",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "8 mile rap battle ai video": {
+      "keyword": "8 mile rap battle ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-20",
       "status": "QUEUED",
       "last_checked_at": null,
       "next_check_at": null,
@@ -62608,13 +63819,13 @@
     }
   ],
   "last_run": {
-    "checked_at": "2026-11-19T04:34:34+00:00",
-    "new_seeds": 72,
+    "checked_at": "2026-11-20T04:22:37+00:00",
+    "new_seeds": 96,
     "attempted": 1,
     "success": 0,
     "new_terms": 0,
     "rate_limited": true,
-    "queued": 3513,
+    "queued": 3608,
     "mode": "LIVE_HTTP"
   }
 }
