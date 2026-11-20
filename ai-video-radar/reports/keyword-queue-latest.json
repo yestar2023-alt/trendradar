@@ -1,10 +1,10 @@
 {
-  "checked_date": "2026-11-19",
-  "input_url_rows": 77,
-  "unique_urls_in_batch": 77,
-  "audited_url_rows": 77,
-  "unique_keywords_in_ledger": 3233,
-  "pending_trends": 3233,
+  "checked_date": "2026-11-20",
+  "input_url_rows": 112,
+  "unique_urls_in_batch": 112,
+  "audited_url_rows": 112,
+  "unique_keywords_in_ledger": 3330,
+  "pending_trends": 3330,
   "keywords": {
     "old town road ai video": {
       "keyword": "old town road ai video",
@@ -35,6 +35,84 @@
           "url": "https://dreamina.capcut.com/ai-video/old-town-road-ai-video",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "pixar snow globe ai filter": {
+      "keyword": "pixar snow globe ai filter",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral",
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/pixar-snow-globe-ai-filter",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-18",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://www.media.io/ai/explore/zone/pixar-snow-globe-ai-filter",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "passenger princess ai video": {
+      "keyword": "passenger princess ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/passenger-princess-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/passenger-princess-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "if i was chatgpt trend": {
+      "keyword": "if i was chatgpt trend",
+      "first_observed_date": "2026-11-13",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral",
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/if-i-was-chatgpt-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-13",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://www.media.io/ai/explore/zone/if-i-was-chatgpt-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
           "channel": "sitemap"
         }
       ]
@@ -243,6 +321,2039 @@
           "url": "https://dreamina.capcut.com/ai-video/dog-drummer-ai",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "zoolander stare ai video generator": {
+      "keyword": "zoolander stare ai video generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/zoolander-stare-ai-video-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "zoolander stare ai": {
+      "keyword": "zoolander stare ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/zoolander-stare-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "your next opponent is you ai video": {
+      "keyword": "your next opponent is you ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/your-next-opponent-is-you-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "you are nice you are pretty ai trend": {
+      "keyword": "you are nice you are pretty ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/you-are-nice-you-are-pretty-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "x factor mysterious girl ai video": {
+      "keyword": "x factor mysterious girl ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/x-factor-mysterious-girl-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "wwe tag team partner ai photo generator": {
+      "keyword": "wwe tag team partner ai photo generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/wwe-tag-team-partner-ai-photo-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "winter wonderland dance ai trend": {
+      "keyword": "winter wonderland dance ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/winter-wonderland-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "whoville character ai filter": {
+      "keyword": "whoville character ai filter",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/whoville-character-ai-filter",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "what if you fly ai": {
+      "keyword": "what if you fly ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/what-if-you-fly-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "welcome 2027 ai video": {
+      "keyword": "welcome 2027 ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/welcome-2027-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "we dont talk anymore ai dance generator": {
+      "keyword": "we dont talk anymore ai dance generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/we-dont-talk-anymore-ai-dance-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "water park video": {
+      "keyword": "water park video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/water-park-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tying my shoes tip cup ai video": {
+      "keyword": "tying my shoes tip cup ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/tying-my-shoes-tip-cup-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "truck driver ai video trend": {
+      "keyword": "truck driver ai video trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/truck-driver-ai-video-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tricycle crash ai trend": {
+      "keyword": "tricycle crash ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/tricycle-crash-ai-trend",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "trailer title animation": {
+      "keyword": "trailer title animation",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/trailer-title-animation",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tow truck video": {
+      "keyword": "tow truck video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/tow-truck-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "toesa quit job ai dance": {
+      "keyword": "toesa quit job ai dance",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/toesa-quit-job-ai-dance",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tiktok ai video": {
+      "keyword": "tiktok ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/tiktok-ai-video",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "tiger transition ai video": {
+      "keyword": "tiger transition ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/tiger-transition-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "the hot chick ice cream ai video": {
+      "keyword": "the hot chick ice cream ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/the-hot-chick-ice-cream-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "the hot chick ice cream ai": {
+      "keyword": "the hot chick ice cream ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/the-hot-chick-ice-cream-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "thanksgiving ai generator": {
+      "keyword": "thanksgiving ai generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/thanksgiving-ai-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "supercar night drive ai trend": {
+      "keyword": "supercar night drive ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/supercar-night-drive-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "soccer missed goal ai video": {
+      "keyword": "soccer missed goal ai video",
+      "first_observed_date": "2026-11-17",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/soccer-missed-goal-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-17",
+          "channel": "listing"
+        }
+      ]
+    },
+    "skincare ads": {
+      "keyword": "skincare ads",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/skincare-ads",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "shutup remix ai trend": {
+      "keyword": "shutup remix ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/shutup-remix-ai-trend",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "scuba diving video": {
+      "keyword": "scuba diving video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/scuba-diving-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "scoreboard template": {
+      "keyword": "scoreboard template",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/scoreboard-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "reverse hurdle ai trend": {
+      "keyword": "reverse hurdle ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/reverse-hurdle-ai-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "prompt seen christmas": {
+      "keyword": "prompt seen christmas",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/prompt-seen-christmas",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "product teaser": {
+      "keyword": "product teaser",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/product-teaser",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "process explainer video": {
+      "keyword": "process explainer video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/process-explainer-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "private jet ai video generator": {
+      "keyword": "private jet ai video generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/private-jet-ai-video-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "pop pop animation ai trend": {
+      "keyword": "pop pop animation ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/pop-pop-animation-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "personalized christmas video for kids": {
+      "keyword": "personalized christmas video for kids",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/personalized-christmas-video-for-kids",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "opa opa opa ai hair bounce": {
+      "keyword": "opa opa opa ai hair bounce",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/opa-opa-opa-ai-hair-bounce",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "olly olly ai dance": {
+      "keyword": "olly olly ai dance",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/olly-olly-ai-dance",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "oh my carne asada singing dog": {
+      "keyword": "oh my carne asada singing dog",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/oh-my-carne-asada-singing-dog",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "office design walkthrough": {
+      "keyword": "office design walkthrough",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/office-design-walkthrough",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "not today cupid ai video generator": {
+      "keyword": "not today cupid ai video generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/not-today-cupid-ai-video-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "need for speed ai video": {
+      "keyword": "need for speed ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/need-for-speed-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "my moon my man jesus ai photo": {
+      "keyword": "my moon my man jesus ai photo",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/my-moon-my-man-jesus-ai-photo",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "movie end credits": {
+      "keyword": "movie end credits",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/movie-end-credits",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "missed train dance ai video": {
+      "keyword": "missed train dance ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/missed-train-dance-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "marvel title template": {
+      "keyword": "marvel title template",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/marvel-title-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "lower third animation": {
+      "keyword": "lower third animation",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/lower-third-animation",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "lounge bar music": {
+      "keyword": "lounge bar music",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/lounge-bar-music",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "kite flying video": {
+      "keyword": "kite flying video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/kite-flying-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "kiss your phone ai trend": {
+      "keyword": "kiss your phone ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/kiss-your-phone-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "king jin ai video": {
+      "keyword": "king jin ai video",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/king-jin-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "jingle bell brazil dance ai generator": {
+      "keyword": "jingle bell brazil dance ai generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/jingle-bell-brazil-dance-ai-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "jatayu flying video editing tutorial": {
+      "keyword": "jatayu flying video editing tutorial",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/jatayu-flying-video-editing-tutorial",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "jatayu ai video": {
+      "keyword": "jatayu ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/jatayu-ai-video",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "james bond 007 ai reveal video generator": {
+      "keyword": "james bond 007 ai reveal video generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/james-bond-007-ai-reveal-video-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "james bond 007 ai photo generator": {
+      "keyword": "james bond 007 ai photo generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/james-bond-007-ai-photo-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "imagination love ai video": {
+      "keyword": "imagination love ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/imagination-love-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ig story ads": {
+      "keyword": "ig story ads",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ig-story-ads",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ice and fire video effect": {
+      "keyword": "ice and fire video effect",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ice-and-fire-video-effect",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "hunger games ai filter": {
+      "keyword": "hunger games ai filter",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/hunger-games-ai-filter",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "headlight restoration video": {
+      "keyword": "headlight restoration video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/headlight-restoration-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "hanuman ai video generator": {
+      "keyword": "hanuman ai video generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/hanuman-ai-video-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "halloween": {
+      "keyword": "halloween",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/halloween",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "halay ai trend": {
+      "keyword": "halay ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/halay-ai-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "guzarishon pe ai video": {
+      "keyword": "guzarishon pe ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/guzarishon-pe-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta wasted meme ai": {
+      "keyword": "gta wasted meme ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-wasted-meme-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 pfp": {
+      "keyword": "gta 6 pfp",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/image/gta-6-pfp",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 jet ski dog ai": {
+      "keyword": "gta 6 jet ski dog ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-6-jet-ski-dog-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 filter": {
+      "keyword": "gta 6 filter",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/gta-6-filter",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 ai video": {
+      "keyword": "gta 6 ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/gta-6-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 ai prompt": {
+      "keyword": "gta 6 ai prompt",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/gta-6-ai-prompt",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 5 goodbye ai video": {
+      "keyword": "gta 5 goodbye ai video",
+      "first_observed_date": "2026-11-19",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/gta-5-goodbye-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-19",
+          "channel": "listing"
+        }
+      ]
+    },
+    "golden statue baby kiss ai": {
+      "keyword": "golden statue baby kiss ai",
+      "first_observed_date": "2026-11-18",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/golden-statue-baby-kiss-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-18",
+          "channel": "listing"
+        }
+      ]
+    },
+    "formula one car": {
+      "keyword": "formula one car",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/formula-one-car",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "flower from nose ai": {
+      "keyword": "flower from nose ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/flower-from-nose-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dog ai video": {
+      "keyword": "dog ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/dog-ai-video",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dip on em dance ai trend": {
+      "keyword": "dip on em dance ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/dip-on-em-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dip on em ai dance": {
+      "keyword": "dip on em ai dance",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/dip-on-em-ai-dance",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "deck the halls dance trend tutorial": {
+      "keyword": "deck the halls dance trend tutorial",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/deck-the-halls-dance-trend-tutorial",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dark ride ai video": {
+      "keyword": "dark ride ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/dark-ride-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dancing crocodiles ai": {
+      "keyword": "dancing crocodiles ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/dancing-crocodiles-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "corporate video transitions": {
+      "keyword": "corporate video transitions",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/corporate-video-transitions",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cocktail bar": {
+      "keyword": "cocktail bar",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/cocktail-bar",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "cleaning transformation video": {
+      "keyword": "cleaning transformation video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/cleaning-transformation-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas photobooth ai": {
+      "keyword": "christmas photobooth ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/christmas-photobooth-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas photo prompts for men": {
+      "keyword": "christmas photo prompts for men",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/christmas-photo-prompts-for-men",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas photo prompts for girls": {
+      "keyword": "christmas photo prompts for girls",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/christmas-photo-prompts-for-girls",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas ai generator": {
+      "keyword": "christmas ai generator",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/christmas-ai-generator",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas": {
+      "keyword": "christmas",
+      "first_observed_date": "2026-11-17",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/christmas",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-17",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "chased by hyenas ai trend": {
+      "keyword": "chased by hyenas ai trend",
+      "first_observed_date": "2026-11-17",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/chased-by-hyenas-ai-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-17",
+          "channel": "listing"
+        }
+      ]
+    },
+    "cctv tiger fight ai video": {
+      "keyword": "cctv tiger fight ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/cctv-tiger-fight-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cctv tiger fight ai": {
+      "keyword": "cctv tiger fight ai",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/cctv-tiger-fight-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cat from every angle ai trend": {
+      "keyword": "cat from every angle ai trend",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/cat-from-every-angle-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cat ai video": {
+      "keyword": "cat ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/cat-ai-video",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "car reveal video": {
+      "keyword": "car reveal video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/car-reveal-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "car assembly animation": {
+      "keyword": "car assembly animation",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/car-assembly-animation",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "black friday advertising": {
+      "keyword": "black friday advertising",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/black-friday-advertising",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "black and white wet face ai photo": {
+      "keyword": "black and white wet face ai photo",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/black-and-white-wet-face-ai-photo",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "award announcement video": {
+      "keyword": "award announcement video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/award-announcement-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "auto parts showcase video": {
+      "keyword": "auto parts showcase video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/auto-parts-showcase-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "auto mechanic portfolio video": {
+      "keyword": "auto mechanic portfolio video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/auto-mechanic-portfolio-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "amv maker": {
+      "keyword": "amv maker",
+      "first_observed_date": "2026-11-19",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/amv-maker",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-19",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ai video maker": {
+      "keyword": "ai video maker",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/ai-video-maker",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai plot generator": {
+      "keyword": "ai plot generator",
+      "first_observed_date": "2026-11-19",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-plot-generator",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-19",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ai funny video": {
+      "keyword": "ai funny video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/ai-funny-video",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai fashion video edit": {
+      "keyword": "ai fashion video edit",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ai-fashion-video-edit",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "8 mile rap battle ai video": {
+      "keyword": "8 mile rap battle ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-20",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/8-mile-rap-battle-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
           "channel": "sitemap"
         }
       ]
@@ -1083,25 +3194,6 @@
         }
       ]
     },
-    "gta 5 goodbye ai video": {
-      "keyword": "gta 5 goodbye ai video",
-      "first_observed_date": "2026-11-19",
-      "last_observed_date": "2026-11-19",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/gta-5-goodbye-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-19",
-          "channel": "listing"
-        }
-      ]
-    },
     "gta 5 goodbye ai guide": {
       "keyword": "gta 5 goodbye ai guide",
       "first_observed_date": "2026-11-19",
@@ -1349,25 +3441,6 @@
         }
       ]
     },
-    "amv maker": {
-      "keyword": "amv maker",
-      "first_observed_date": "2026-11-19",
-      "last_observed_date": "2026-11-19",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/amv-maker",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-19",
-          "channel": "listing"
-        }
-      ]
-    },
     "airport finger circle ai transition": {
       "keyword": "airport finger circle ai transition",
       "first_observed_date": "2026-11-19",
@@ -1403,25 +3476,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-19",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "ai plot generator": {
-      "keyword": "ai plot generator",
-      "first_observed_date": "2026-11-19",
-      "last_observed_date": "2026-11-19",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/ai-plot-generator",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-19",
-          "channel": "listing"
         }
       ]
     },
@@ -1672,25 +3726,6 @@
         }
       ]
     },
-    "tying my shoes tip cup ai video": {
-      "keyword": "tying my shoes tip cup ai video",
-      "first_observed_date": "2026-11-18",
-      "last_observed_date": "2026-11-18",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/tying-my-shoes-tip-cup-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-18",
-          "channel": "listing"
-        }
-      ]
-    },
     "sunlight eye portrait ai": {
       "keyword": "sunlight eye portrait ai",
       "first_observed_date": "2026-11-18",
@@ -1786,25 +3821,6 @@
         }
       ]
     },
-    "pixar snow globe ai filter": {
-      "keyword": "pixar snow globe ai filter",
-      "first_observed_date": "2026-11-18",
-      "last_observed_date": "2026-11-18",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "MakeViral"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.makeviral.ai/templates/pixar-snow-globe-ai-filter",
-          "source": "MakeViral",
-          "first_observed_date": "2026-11-18",
-          "channel": "sitemap"
-        }
-      ]
-    },
     "pet dj ai guide": {
       "keyword": "pet dj ai guide",
       "first_observed_date": "2026-11-18",
@@ -1840,44 +3856,6 @@
           "source": "Zooop",
           "first_observed_date": "2026-11-18",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "opa opa opa ai hair bounce": {
-      "keyword": "opa opa opa ai hair bounce",
-      "first_observed_date": "2026-11-18",
-      "last_observed_date": "2026-11-18",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/opa-opa-opa-ai-hair-bounce",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-18",
-          "channel": "listing"
-        }
-      ]
-    },
-    "need for speed ai video": {
-      "keyword": "need for speed ai video",
-      "first_observed_date": "2026-11-18",
-      "last_observed_date": "2026-11-18",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/need-for-speed-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-18",
-          "channel": "listing"
         }
       ]
     },
@@ -1938,25 +3916,6 @@
         }
       ]
     },
-    "king jin ai video": {
-      "keyword": "king jin ai video",
-      "first_observed_date": "2026-11-18",
-      "last_observed_date": "2026-11-18",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/king-jin-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-18",
-          "channel": "listing"
-        }
-      ]
-    },
     "james bond reveal ai trend": {
       "keyword": "james bond reveal ai trend",
       "first_observed_date": "2026-11-18",
@@ -2011,25 +3970,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-18",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "golden statue baby kiss ai": {
-      "keyword": "golden statue baby kiss ai",
-      "first_observed_date": "2026-11-18",
-      "last_observed_date": "2026-11-18",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/golden-statue-baby-kiss-ai",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-18",
-          "channel": "listing"
         }
       ]
     },
@@ -2429,25 +4369,6 @@
           "source": "Media.io",
           "first_observed_date": "2026-11-17",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "soccer missed goal ai video": {
-      "keyword": "soccer missed goal ai video",
-      "first_observed_date": "2026-11-17",
-      "last_observed_date": "2026-11-17",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/soccer-missed-goal-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-17",
-          "channel": "listing"
         }
       ]
     },
@@ -3629,25 +5550,6 @@
         }
       ]
     },
-    "christmas": {
-      "keyword": "christmas",
-      "first_observed_date": "2026-11-17",
-      "last_observed_date": "2026-11-17",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Zooop"
-      ],
-      "evidence": [
-        {
-          "url": "https://zooop.ai/templates/christmas",
-          "source": "Zooop",
-          "first_observed_date": "2026-11-17",
-          "channel": "sitemap"
-        }
-      ]
-    },
     "chovy drinking water ai video": {
       "keyword": "chovy drinking water ai video",
       "first_observed_date": "2026-11-17",
@@ -3683,25 +5585,6 @@
           "source": "Media.io",
           "first_observed_date": "2026-11-17",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "chased by hyenas ai trend": {
-      "keyword": "chased by hyenas ai trend",
-      "first_observed_date": "2026-11-17",
-      "last_observed_date": "2026-11-17",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/chased-by-hyenas-ai-trend",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-17",
-          "channel": "listing"
         }
       ]
     },
@@ -32358,25 +34241,6 @@
         {
           "url": "https://dreamina.capcut.com/ai-video/illustration-lip-sync-ai",
           "source": "Dreamina",
-          "first_observed_date": "2026-11-13",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "if i was chatgpt trend": {
-      "keyword": "if i was chatgpt trend",
-      "first_observed_date": "2026-11-13",
-      "last_observed_date": "2026-11-13",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "MakeViral"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.makeviral.ai/templates/if-i-was-chatgpt-trend",
-          "source": "MakeViral",
           "first_observed_date": "2026-11-13",
           "channel": "sitemap"
         }
