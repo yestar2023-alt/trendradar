@@ -1,44 +1,88 @@
 {
-  "generated_at": "2026-11-19T23:03:01.974499+00:00",
-  "source_snapshot_at": "2026-11-19T23:02:58Z",
-  "source_video_count": 2540,
-  "published_last_24h_with_channel": 207,
-  "shared_name_groups": 0,
+  "generated_at": "2026-11-20T07:14:31.676608+00:00",
+  "source_snapshot_at": "2026-11-20T07:14:28Z",
+  "source_video_count": 2484,
+  "published_last_24h_with_channel": 233,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [],
-  "high_velocity_single_creator_watchlist": [
+  "cross_creator_groups": [
     {
-      "title": "What would YOU do to get revenge? 😏 #ai #movie #aianimation #artificialthings",
-      "channel": "Florss | Dream Frame Academy ♡ ",
-      "channel_id": "UCKDUYbvhGaPZyB-r8Mc83Ug",
-      "url": "https://www.youtube.com/watch?v=ww8cn03ao4o",
-      "published_at": "2026-11-19T06:33:57Z",
-      "first_seen_at": "2026-11-19T23:02:58Z",
-      "views": 158777,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "would do get revenge",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
+      "anchor": "#lifeisbutadream",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "PORSCHE 🚗 #automobile #10k #lifeisbutadream #trend #porsche #funny #children #drems #ai #aivideo",
+          "channel": "car vidio Ai ",
+          "channel_id": "UCkN0MD-iLHlJMWsrFcpi9oQ",
+          "url": "https://www.youtube.com/watch?v=G4J-8FLion8",
+          "published_at": "2026-11-19T11:12:37Z",
+          "first_seen_at": "2026-11-19T13:04:16Z",
+          "views": 592,
+          "observed_growth_per_hour": 11.4,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Dithawan Puja #ai #aivideo #lifeisbutadream #viral #viralai #shorts #short #trend #trending #pooja",
+          "channel": "Faizan Ai",
+          "channel_id": "UCjVXTgBj68Xvo5gP4s8Cc9A",
+          "url": "https://www.youtube.com/watch?v=CwodBNcosi8",
+          "published_at": "2026-11-20T01:22:16Z",
+          "first_seen_at": "2026-11-20T07:14:28Z",
+          "views": 312,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
     },
     {
-      "title": "🚜 Massive Tractor DJ Rig Setup #aianimation #animalstories",
-      "channel": " AI  ALL  ACTIVITY   !! 🌍",
-      "channel_id": "UCmF3RjMQg0vBOcGIPgFUO2g",
-      "url": "https://www.youtube.com/watch?v=rKn8bSNqifQ",
-      "published_at": "2026-11-19T01:08:54Z",
-      "first_seen_at": "2026-11-19T23:02:58Z",
-      "views": 156895,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "massive tractor dj rig",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
+      "anchor": "#explorepage",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "sheru ai video #sheru #trend #ai #aivideo #cartoon #trending #viral #trendingnow #explorepage #viral",
+          "channel": "Sheru ki duniya",
+          "channel_id": "UCO8OiS5MhPcAifYcu04QnFg",
+          "url": "https://www.youtube.com/watch?v=MTC6KBuiCFE",
+          "published_at": "2026-11-19T12:55:58Z",
+          "first_seen_at": "2026-11-19T13:04:16Z",
+          "views": 646,
+          "observed_growth_per_hour": 2.6,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "శుభ శుక్రవారం #shorts #status #viral #trending #explorepage #fyp #reels #friday #aivideo #trend #ai",
+          "channel": "Nãnï",
+          "channel_id": "UCNg9-rzsdA-XqEK3AqvVMdA",
+          "url": "https://www.youtube.com/watch?v=yI-Q3o5yk10",
+          "published_at": "2026-11-20T02:05:56Z",
+          "first_seen_at": "2026-11-20T07:14:28Z",
+          "views": 165,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
     }
-  ]
+  ],
+  "high_velocity_single_creator_watchlist": []
 }
