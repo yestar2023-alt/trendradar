@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T16:57:51.295923+00:00",
-  "source_snapshot_at": "2026-11-20T16:57:47Z",
-  "source_video_count": 2417,
-  "published_last_24h_with_channel": 214,
-  "shared_name_groups": 2,
+  "generated_at": "2026-11-21T01:30:23.061558+00:00",
+  "source_snapshot_at": "2026-11-21T01:30:19Z",
+  "source_video_count": 2443,
+  "published_last_24h_with_channel": 231,
+  "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=VDZ4Wr9siKE",
           "published_at": "2026-11-20T03:00:09Z",
           "first_seen_at": "2026-11-20T16:57:47Z",
-          "views": 28040,
-          "observed_growth_per_hour": null,
+          "views": 28768,
+          "observed_growth_per_hour": 85.2,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,8 +38,8 @@
           "url": "https://www.youtube.com/watch?v=FjN2019pqAk",
           "published_at": "2026-11-20T11:31:24Z",
           "first_seen_at": "2026-11-20T16:57:47Z",
-          "views": 1020,
-          "observed_growth_per_hour": null,
+          "views": 1819,
+          "observed_growth_per_hour": 93.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -50,8 +50,46 @@
           "url": "https://www.youtube.com/watch?v=5-q_TQ2h5G4",
           "published_at": "2026-11-20T05:41:24Z",
           "first_seen_at": "2026-11-20T16:57:47Z",
-          "views": 572,
+          "views": 621,
+          "observed_growth_per_hour": 5.7,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#explorepage",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Ai Generated Kala jamun recipe video#ai #shorts #youtube #youtubeshorts #viral #food #aivideo",
+          "channel": "RitikMastiZone ",
+          "channel_id": "UCb-5RyVR8DGo8MhYnljtj3Q",
+          "url": "https://www.youtube.com/watch?v=HR1Tpfmj6Aw",
+          "published_at": "2026-11-20T10:01:21Z",
+          "first_seen_at": "2026-11-21T01:30:19Z",
+          "views": 3822,
           "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "శుభ శుక్రవారం #shorts #status #viral #trending #explorepage #fyp #reels #friday #aivideo #trend #ai",
+          "channel": "Nãnï",
+          "channel_id": "UCNg9-rzsdA-XqEK3AqvVMdA",
+          "url": "https://www.youtube.com/watch?v=yI-Q3o5yk10",
+          "published_at": "2026-11-20T02:05:56Z",
+          "first_seen_at": "2026-11-20T07:14:28Z",
+          "views": 428,
+          "observed_growth_per_hour": 7.7,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -76,8 +114,8 @@
           "url": "https://www.youtube.com/watch?v=FjN2019pqAk",
           "published_at": "2026-11-20T11:31:24Z",
           "first_seen_at": "2026-11-20T16:57:47Z",
-          "views": 1020,
-          "observed_growth_per_hour": null,
+          "views": 1819,
+          "observed_growth_per_hour": 93.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -88,8 +126,8 @@
           "url": "https://www.youtube.com/watch?v=5-q_TQ2h5G4",
           "published_at": "2026-11-20T05:41:24Z",
           "first_seen_at": "2026-11-20T16:57:47Z",
-          "views": 572,
-          "observed_growth_per_hour": null,
+          "views": 621,
+          "observed_growth_per_hour": 5.7,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
