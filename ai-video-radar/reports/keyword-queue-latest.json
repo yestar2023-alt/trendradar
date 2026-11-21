@@ -1,10 +1,10 @@
 {
-  "checked_date": "2026-11-20",
-  "input_url_rows": 112,
-  "unique_urls_in_batch": 112,
-  "audited_url_rows": 112,
-  "unique_keywords_in_ledger": 3330,
-  "pending_trends": 3330,
+  "checked_date": "2026-11-21",
+  "input_url_rows": 122,
+  "unique_urls_in_batch": 122,
+  "audited_url_rows": 122,
+  "unique_keywords_in_ledger": 3440,
+  "pending_trends": 3440,
   "keywords": {
     "old town road ai video": {
       "keyword": "old town road ai video",
@@ -322,6 +322,2305 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
           "channel": "sitemap"
+        }
+      ]
+    },
+    "zalima new trend video": {
+      "keyword": "zalima new trend video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/zalima-new-trend-video",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "youtube video template": {
+      "keyword": "youtube video template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/youtube-video-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "x vs 1000 cuts ai video": {
+      "keyword": "x vs 1000 cuts ai video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/x-vs-1000-cuts-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "where to use seedance at lowest cost": {
+      "keyword": "where to use seedance at lowest cost",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/where-to-use-seedance-at-lowest-cost",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "waterfall travel": {
+      "keyword": "waterfall travel",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/waterfall-travel",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "water flyboard ai trend": {
+      "keyword": "water flyboard ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/water-flyboard-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "volleyball video edit": {
+      "keyword": "volleyball video edit",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/volleyball-video-edit",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "vn trending templates": {
+      "keyword": "vn trending templates",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/vn-trending-templates",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "viral3": {
+      "keyword": "viral3",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/viral3",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "viral videos": {
+      "keyword": "viral videos",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/viral-videos",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "village video": {
+      "keyword": "village video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/village-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "vertical drama": {
+      "keyword": "vertical drama",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/vertical-drama",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending videos": {
+      "keyword": "trending videos",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-videos",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending templates 2026": {
+      "keyword": "trending templates 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-templates-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending template for boys": {
+      "keyword": "trending template for boys",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-template-for-boys",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending template 2027": {
+      "keyword": "trending template 2027",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-template-2027",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending short video": {
+      "keyword": "trending short video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-short-video",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending punjabi": {
+      "keyword": "trending punjabi",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-punjabi",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending now 2026": {
+      "keyword": "trending now 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-now-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending kannada songs": {
+      "keyword": "trending kannada songs",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-kannada-songs",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending filter": {
+      "keyword": "trending filter",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-filter",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending effect": {
+      "keyword": "trending effect",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-effect",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trending edits of 2026": {
+      "keyword": "trending edits of 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trending-edits-of-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trend heart": {
+      "keyword": "trend heart",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trend-heart",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "trend 2024": {
+      "keyword": "trend 2024",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trend-2024",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "three opening credit budget worksheet": {
+      "keyword": "three opening credit budget worksheet",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/three-opening-credit-budget-worksheet",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "the box podium meme ai": {
+      "keyword": "the box podium meme ai",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/the-box-podium-meme-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "thailand trend template": {
+      "keyword": "thailand trend template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/thailand-trend-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "telugu new trending template": {
+      "keyword": "telugu new trending template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/telugu-new-trending-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "taekwondo edit": {
+      "keyword": "taekwondo edit",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/taekwondo-edit",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "status video template": {
+      "keyword": "status video template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/status-video-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "snake ai video prompt": {
+      "keyword": "snake ai video prompt",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/snake-ai-video-prompt",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "skincare ads": {
+      "keyword": "skincare ads",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/skincare-ads",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "short clips": {
+      "keyword": "short clips",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/short-clips",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "sheru bhai ai video editing prompt": {
+      "keyword": "sheru bhai ai video editing prompt",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/sheru-bhai-ai-video-editing-prompt",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "scuba diving video": {
+      "keyword": "scuba diving video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/scuba-diving-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "scoreboard template": {
+      "keyword": "scoreboard template",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/scoreboard-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "scooter edit": {
+      "keyword": "scooter edit",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/scooter-edit",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "rao edits": {
+      "keyword": "rao edits",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/rao-edits",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "rally video": {
+      "keyword": "rally video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/rally-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "rain bike": {
+      "keyword": "rain bike",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/rain-bike",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "punjabi songs template trending 2026": {
+      "keyword": "punjabi songs template trending 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/punjabi-songs-template-trending-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "product teaser": {
+      "keyword": "product teaser",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/product-teaser",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "private jet entrance ai video": {
+      "keyword": "private jet entrance ai video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/private-jet-entrance-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "pretty girls love hindi": {
+      "keyword": "pretty girls love hindi",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/pretty-girls-love-hindi",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "photo with lyrics": {
+      "keyword": "photo with lyrics",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/photo-with-lyrics",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "peru travel video": {
+      "keyword": "peru travel video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/peru-travel-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "november rain ai trend": {
+      "keyword": "november rain ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/november-rain-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "no i aint crazy yb ai trend": {
+      "keyword": "no i aint crazy yb ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/no-i-aint-crazy-yb-ai-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new viral 2026 templates": {
+      "keyword": "new viral 2026 templates",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-viral-2026-templates",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new trending templates": {
+      "keyword": "new trending templates",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-trending-templates",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new trending template song": {
+      "keyword": "new trending template song",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-trending-template-song",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new trending 2026": {
+      "keyword": "new trending 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-trending-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new trend editing": {
+      "keyword": "new trend editing",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-trend-editing",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new template 2026 gujarati": {
+      "keyword": "new template 2026 gujarati",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-template-2026-gujarati",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "new photos template trending": {
+      "keyword": "new photos template trending",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/new-photos-template-trending",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "napoleon dynamite dance ai": {
+      "keyword": "napoleon dynamite dance ai",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/napoleon-dynamite-dance-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "mr tumble filter ai": {
+      "keyword": "mr tumble filter ai",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/mr-tumble-filter-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "marvel title template": {
+      "keyword": "marvel title template",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/marvel-title-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "make google merchant center product video": {
+      "keyword": "make google merchant center product video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/make-google-merchant-center-product-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "lounge bar music": {
+      "keyword": "lounge bar music",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/lounge-bar-music",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "lonyo ai dance generator": {
+      "keyword": "lonyo ai dance generator",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/lonyo-ai-dance-generator",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "latest trends 2026": {
+      "keyword": "latest trends 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/latest-trends-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "latest trending edits 2026": {
+      "keyword": "latest trending edits 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/latest-trending-edits-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "karate video": {
+      "keyword": "karate video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/karate-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "kabaddi video": {
+      "keyword": "kabaddi video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/kabaddi-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "image to video tools preserve packaging text": {
+      "keyword": "image to video tools preserve packaging text",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/image-to-video-tools-preserve-packaging-text",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "im a celebrity jungle filter ai": {
+      "keyword": "im a celebrity jungle filter ai",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/im-a-celebrity-jungle-filter-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ig story ads": {
+      "keyword": "ig story ads",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ig-story-ads",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "huss huss huss ai trend": {
+      "keyword": "huss huss huss ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/huss-huss-huss-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "how to make warfare intro ai video": {
+      "keyword": "how to make warfare intro ai video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Summrs"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.summrs.com/blog/how-to-make-warfare-intro-ai-video",
+          "source": "Summrs",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "how to make a lyric video": {
+      "keyword": "how to make a lyric video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/how-to-make-a-lyric-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "hot trends 2026": {
+      "keyword": "hot trends 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/hot-trends-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "hot trend 2026": {
+      "keyword": "hot trend 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/hot-trend-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "horse riding video": {
+      "keyword": "horse riding video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/horse-riding-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "home stall video": {
+      "keyword": "home stall video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/home-stall-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "here we go again gta meme ai": {
+      "keyword": "here we go again gta meme ai",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/here-we-go-again-gta-meme-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "hanuman ji ai video": {
+      "keyword": "hanuman ji ai video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/hanuman-ji-ai-video",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 swamp airboat escape ai video": {
+      "keyword": "gta 6 swamp airboat escape ai video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/gta-6-swamp-airboat-escape-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "gta 6 girlfriend lucia ai trend": {
+      "keyword": "gta 6 girlfriend lucia ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-6-girlfriend-lucia-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta 6 car wash ai trend": {
+      "keyword": "gta 6 car wash ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-6-car-wash-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "frozen viking warrior ai": {
+      "keyword": "frozen viking warrior ai",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/frozen-viking-warrior-ai",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "free delivery video": {
+      "keyword": "free delivery video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/free-delivery-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "formula one car": {
+      "keyword": "formula one car",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/formula-one-car",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "everygen ai alternatives": {
+      "keyword": "everygen ai alternatives",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/everygen-ai-alternatives",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "employee spotlight video": {
+      "keyword": "employee spotlight video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/employee-spotlight-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dropped truck gta 6 ai trend": {
+      "keyword": "dropped truck gta 6 ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/dropped-truck-gta-6-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "dessert advertising": {
+      "keyword": "dessert advertising",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/dessert-advertising",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cutscene": {
+      "keyword": "cutscene",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/cutscene",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "creative matrix template": {
+      "keyword": "creative matrix template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/creative-matrix-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cool stylish": {
+      "keyword": "cool stylish",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/cool-stylish",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "coffee video": {
+      "keyword": "coffee video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/coffee-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "cocktail bar": {
+      "keyword": "cocktail bar",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/cocktail-bar",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "claude motion alternatives": {
+      "keyword": "claude motion alternatives",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/claude-motion-alternatives",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "churi template": {
+      "keyword": "churi template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/churi-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "christmas pet concert guide": {
+      "keyword": "christmas pet concert guide",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/christmas-pet-concert-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas pet concert": {
+      "keyword": "christmas pet concert",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/christmas-pet-concert",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "chatgpt trend": {
+      "keyword": "chatgpt trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/chatgpt-trend",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "catering promotion": {
+      "keyword": "catering promotion",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/catering-promotion",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "bus video": {
+      "keyword": "bus video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/bus-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "boys new trending template 2026": {
+      "keyword": "boys new trending template 2026",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/boys-new-trending-template-2026",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "boom clap confetti ai trend": {
+      "keyword": "boom clap confetti ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/boom-clap-confetti-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "bob filter ai trend": {
+      "keyword": "bob filter ai trend",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/bob-filter-ai-trend",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "black friday advertising": {
+      "keyword": "black friday advertising",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/black-friday-advertising",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-20",
+          "channel": "listing"
+        }
+      ]
+    },
+    "best video resizing tools": {
+      "keyword": "best video resizing tools",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/best-video-resizing-tools",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "bali vibes video": {
+      "keyword": "bali vibes video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/bali-vibes-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "badmashi template for boys": {
+      "keyword": "badmashi template for boys",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/badmashi-template-for-boys",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "automotive detailing video": {
+      "keyword": "automotive detailing video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/automotive-detailing-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "australia travel": {
+      "keyword": "australia travel",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/australia-travel",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "aura edit 999999": {
+      "keyword": "aura edit 999999",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/aura-edit-999999",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "attractive edit aesthetic": {
+      "keyword": "attractive edit aesthetic",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/attractive-edit-aesthetic",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "attitude reels": {
+      "keyword": "attitude reels",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/attitude-reels",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ask and answer": {
+      "keyword": "ask and answer",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/ask-and-answer",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "artlist alternatives for ai video": {
+      "keyword": "artlist alternatives for ai video",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/artlist-alternatives-for-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "american classic": {
+      "keyword": "american classic",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/american-classic",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai kpop group": {
+      "keyword": "ai kpop group",
+      "first_observed_date": "2026-11-19",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-kpop-group",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-19",
+          "channel": "listing"
+        }
+      ]
+    },
+    "ai dialogue animation tools two consistent characters": {
+      "keyword": "ai dialogue animation tools two consistent characters",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/ai-dialogue-animation-tools-two-consistent-characters",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "5 6 videos template": {
+      "keyword": "5 6 videos template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/5-6-videos-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "4u": {
+      "keyword": "4u",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/4u",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "4 step video template": {
+      "keyword": "4 step video template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/4-step-video-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
+        }
+      ]
+    },
+    "3 clip video template": {
+      "keyword": "3 clip video template",
+      "first_observed_date": "2026-11-21",
+      "last_observed_date": "2026-11-21",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/3-clip-video-template",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-21",
+          "channel": "listing"
         }
       ]
     },
@@ -800,25 +3099,6 @@
         }
       ]
     },
-    "skincare ads": {
-      "keyword": "skincare ads",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/skincare-ads",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
-        }
-      ]
-    },
     "shutup remix ai trend": {
       "keyword": "shutup remix ai trend",
       "first_observed_date": "2026-11-20",
@@ -835,44 +3115,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-20",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "scuba diving video": {
-      "keyword": "scuba diving video",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/scuba-diving-video",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
-        }
-      ]
-    },
-    "scoreboard template": {
-      "keyword": "scoreboard template",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/scoreboard-template",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
         }
       ]
     },
@@ -911,25 +3153,6 @@
           "source": "Media.io",
           "first_observed_date": "2026-11-20",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "product teaser": {
-      "keyword": "product teaser",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/product-teaser",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
         }
       ]
     },
@@ -1180,25 +3403,6 @@
         }
       ]
     },
-    "marvel title template": {
-      "keyword": "marvel title template",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/marvel-title-template",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
-        }
-      ]
-    },
     "lower third animation": {
       "keyword": "lower third animation",
       "first_observed_date": "2026-11-20",
@@ -1215,25 +3419,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-20",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "lounge bar music": {
-      "keyword": "lounge bar music",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/lounge-bar-music",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
         }
       ]
     },
@@ -1405,25 +3590,6 @@
           "source": "Media.io",
           "first_observed_date": "2026-11-20",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "ig story ads": {
-      "keyword": "ig story ads",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/ig-story-ads",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
         }
       ]
     },
@@ -1712,25 +3878,6 @@
         }
       ]
     },
-    "formula one car": {
-      "keyword": "formula one car",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/formula-one-car",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
-        }
-      ]
-    },
     "flower from nose ai": {
       "keyword": "flower from nose ai",
       "first_observed_date": "2026-11-20",
@@ -1880,25 +4027,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-20",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "cocktail bar": {
-      "keyword": "cocktail bar",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/cocktail-bar",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
         }
       ]
     },
@@ -2146,25 +4274,6 @@
           "source": "Dreamina",
           "first_observed_date": "2026-11-20",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "black friday advertising": {
-      "keyword": "black friday advertising",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/black-friday-advertising",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-20",
-          "channel": "listing"
         }
       ]
     },
@@ -3476,25 +5585,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-19",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "ai kpop group": {
-      "keyword": "ai kpop group",
-      "first_observed_date": "2026-11-19",
-      "last_observed_date": "2026-11-19",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/ai-kpop-group",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-19",
-          "channel": "listing"
         }
       ]
     },

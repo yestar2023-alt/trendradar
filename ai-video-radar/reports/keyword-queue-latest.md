@@ -1,11 +1,11 @@
 # AI Video complete URL and keyword inventory
 
-Report date: **2026-11-20**
+Report date: **2026-11-21**
 
-- URL rows reviewed: **112**
-- Distinct URL observations: **112**
-- Keyword candidates preserved (including earlier scans): **3330**
-- Keywords without verified Trends evidence: **3330**
+- URL rows reviewed: **122**
+- Distinct URL observations: **122**
+- Keyword candidates preserved (including earlier scans): **3440**
+- Keywords without verified Trends evidence: **3440**
 
 The short daily Top 30 display is not the full candidate universe.
 Full URL coverage: url-audit-latest.csv. Full keyword coverage: keyword-queue-latest.csv.
@@ -25,11 +25,11 @@ No Google Trends, SERP, or original website publication dates were inferred.
 - **tough like a gorilla ai lip sync** — 2 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/tough-like-a-gorilla-ai-lip-sync
 - **stormzy shut up ai video** — 2 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/stormzy-shut-up-ai-video
 - **dog drummer ai** — 2 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/dog-drummer-ai
-- **zoolander stare ai video generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/zoolander-stare-ai-video-generator
-- **zoolander stare ai** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/zoolander-stare-ai
-- **your next opponent is you ai video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/your-next-opponent-is-you-ai-video
-- **you are nice you are pretty ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/you-are-nice-you-are-pretty-ai-trend
-- **x factor mysterious girl ai video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/x-factor-mysterious-girl-ai-video
-- **wwe tag team partner ai photo generator** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/wwe-tag-team-partner-ai-photo-generator
-- **winter wonderland dance ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/winter-wonderland-dance-ai-trend
-- **whoville character ai filter** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/whoville-character-ai-filter
+- **zalima new trend video** — 1 sources · PENDING_NAME_REVIEW · https://www.capcut.com/explore/zalima-new-trend-video
+- **youtube video template** — 1 sources · PENDING_NAME_REVIEW · https://www.capcut.com/explore/youtube-video-template
+- **x vs 1000 cuts ai video** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.media.io/ai/explore/zone/x-vs-1000-cuts-ai-video
+- **where to use seedance at lowest cost** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/where-to-use-seedance-at-lowest-cost
+- **waterfall travel** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/waterfall-travel
+- **water flyboard ai trend** — 1 sources · PENDING_TRENDS_VERIFICATION · https://www.makeviral.ai/templates/water-flyboard-ai-trend
+- **volleyball video edit** — 1 sources · PENDING_TRENDS_VERIFICATION · https://dreamina.capcut.com/ai-video/volleyball-video-edit
+- **vn trending templates** — 1 sources · PENDING_NAME_REVIEW · https://www.capcut.com/explore/vn-trending-templates
