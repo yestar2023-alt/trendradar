@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-21 20:38
-- 数据库视频：2364；24小时内且有频道ID的非教程候选：149
-- 自动发现跨账号同名/同词线索：1
+- 最新成功快照（北京）：2026-11-22 05:38
+- 数据库视频：2346；24小时内且有频道ID的非教程候选：228
+- 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,7 +13,7 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. sheru bhai
+### 1. #lovestory
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：2；视频：3
@@ -21,15 +21,26 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ai video 12k  | [Sheru bhai ka trend 📈video..#shorts #viralvideo](https://www.youtube.com/watch?v=aEu7j6c-mgg) | 2026-11-21 14:46 | 2026-11-21 20:38 | 1439 | 待多次采样 | 作者文字自述AI |
-| FX Veer | [Sheru bhai on top🔥 #ai #edit](https://www.youtube.com/watch?v=sum0eMRGfGY) | 2026-11-21 05:05 | 2026-11-21 20:38 | 1399 | 待多次采样 | AI制作未验证 |
-| NeuralTamil | [Sheru Bhai யார்? 😱 இந்த AI Lion-ஐ உருவாக்கியது யார்? 🦁🔥 #Shorts](https://www.youtube.com/watch?v=Ic3s8tolzoE) | 2026-11-20 23:30 | 2026-11-21 20:38 | 679 | 待多次采样 | 作者文字自述AI |
+| Chiêu Chill | [Thiếu nữ bắt ma x Quỷ Vương: ai gài bẫy ai???#animation #hoathinhtrungquoc #lovestory #manhua](https://www.youtube.com/watch?v=cbj8LtIGjLo) | 2026-11-21 18:40 | 2026-11-22 05:38 | 4040 | 待多次采样 | AI制作未验证 |
+| AI Story Junction | [Part:- 58 Pyar tune kya kiya #love #viral #lovestory #aianimation #youtubeshorts](https://www.youtube.com/watch?v=r5U7ICsHSI0) | 2026-11-21 20:18 | 2026-11-22 05:38 | 2764 | 待多次采样 | 作者文字自述AI |
+| MEnimation  | [প্রথম দেখা 😍পার্ট -5।#bangla #lovestory #aivideo #trend](https://www.youtube.com/watch?v=IbPBKhfEbg4) | 2026-11-21 17:51 | 2026-11-21 20:38 | 83 | 6.1 | 作者文字自述AI |
+
+### 2. #wildlife
+
+- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
+
+| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
+|---|---|---|---|---:|---:|---|
+| Afzal | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=5co9u6l3NH0) | 2026-11-21 15:02 | 2026-11-22 05:38 | 1779 | 待多次采样 | 作者文字自述AI |
+| Ai trend channel  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=OuAO4WXbKfc) | 2026-11-21 12:18 | 2026-11-22 05:38 | 1351 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
+| Abdurrohman | [2-qism Buvi #2danimation #aianimation #animation #stickman](https://www.youtube.com/watch?v=wmv7ejY7Fe8) | 10万级早期观察，不是爆款 | 2026-11-21 10:25 | 2026-11-22 05:38 | 112062 | 待二次采样 |
 
 ## 人工核验清单
 

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-21T12:38:26.247585+00:00",
-  "source_snapshot_at": "2026-11-21T12:38:23Z",
-  "source_video_count": 2364,
-  "published_last_24h_with_channel": 149,
-  "shared_name_groups": 1,
+  "generated_at": "2026-11-21T21:38:44.144681+00:00",
+  "source_snapshot_at": "2026-11-21T21:38:40Z",
+  "source_video_count": 2346,
+  "published_last_24h_with_channel": 228,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "sheru bhai",
-      "anchor_type": "phrase",
+      "anchor": "#lovestory",
+      "anchor_type": "tag",
       "unique_channels": 3,
       "ai_claimed_channels": 2,
       "video_count": 3,
@@ -20,37 +20,75 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Sheru bhai ka trend 📈video..#shorts #viralvideo",
-          "channel": "ai video 12k ",
-          "channel_id": "UCJXIT5icNyd8AW-z3ameV4Q",
-          "url": "https://www.youtube.com/watch?v=aEu7j6c-mgg",
-          "published_at": "2026-11-21T06:46:29Z",
-          "first_seen_at": "2026-11-21T12:38:23Z",
-          "views": 1439,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Sheru bhai on top🔥 #ai #edit",
-          "channel": "FX Veer",
-          "channel_id": "UCU75aq2xIvT9cuHsZoa0BIg",
-          "url": "https://www.youtube.com/watch?v=sum0eMRGfGY",
-          "published_at": "2026-11-20T21:05:36Z",
-          "first_seen_at": "2026-11-21T12:38:23Z",
-          "views": 1399,
+          "title": "Thiếu nữ bắt ma x Quỷ Vương: ai gài bẫy ai???#animation #hoathinhtrungquoc #lovestory #manhua",
+          "channel": "Chiêu Chill",
+          "channel_id": "UCEatd6b0Xaml9HcquNLB-OQ",
+          "url": "https://www.youtube.com/watch?v=cbj8LtIGjLo",
+          "published_at": "2026-11-21T10:40:35Z",
+          "first_seen_at": "2026-11-21T21:38:40Z",
+          "views": 4040,
           "observed_growth_per_hour": null,
           "ai_evidence": "AI制作未验证",
           "actions": []
         },
         {
-          "title": "Sheru Bhai யார்? 😱 இந்த AI Lion-ஐ உருவாக்கியது யார்? 🦁🔥 #Shorts",
-          "channel": "NeuralTamil",
-          "channel_id": "UCiF3yviq8UJOnRXdQZ-yS8w",
-          "url": "https://www.youtube.com/watch?v=Ic3s8tolzoE",
-          "published_at": "2026-11-20T15:30:19Z",
+          "title": "Part:- 58 Pyar tune kya kiya #love #viral #lovestory #aianimation #youtubeshorts",
+          "channel": "AI Story Junction",
+          "channel_id": "UCzL8BiWwO7X86-Gk37zMKaA",
+          "url": "https://www.youtube.com/watch?v=r5U7ICsHSI0",
+          "published_at": "2026-11-21T12:18:03Z",
+          "first_seen_at": "2026-11-21T21:38:40Z",
+          "views": 2764,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "প্রথম দেখা 😍পার্ট -5।#bangla #lovestory #aivideo #trend",
+          "channel": "MEnimation ",
+          "channel_id": "UCBpJI_Klje12a1AHugirAFA",
+          "url": "https://www.youtube.com/watch?v=IbPBKhfEbg4",
+          "published_at": "2026-11-21T09:51:10Z",
           "first_seen_at": "2026-11-21T12:38:23Z",
-          "views": 679,
+          "views": 83,
+          "observed_growth_per_hour": 6.1,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#wildlife",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "possible_reuploads",
+      "near_duplicate_caption_fraction": 1.0,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 12,
+      "examples": [
+        {
+          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "Afzal",
+          "channel_id": "UChTogU5RxlMCZ9Tm-R0berw",
+          "url": "https://www.youtube.com/watch?v=5co9u6l3NH0",
+          "published_at": "2026-11-21T07:02:40Z",
+          "first_seen_at": "2026-11-21T21:38:40Z",
+          "views": 1779,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "Ai trend channel ",
+          "channel_id": "UCbklYlb9T-qzDpefsCbRDZw",
+          "url": "https://www.youtube.com/watch?v=OuAO4WXbKfc",
+          "published_at": "2026-11-21T04:18:26Z",
+          "first_seen_at": "2026-11-21T21:38:40Z",
+          "views": 1351,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
@@ -58,5 +96,22 @@
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": []
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "2-qism Buvi #2danimation #aianimation #animation #stickman",
+      "channel": "Abdurrohman",
+      "channel_id": "UCkjE36Y3cGYCf8-PstDCr_w",
+      "url": "https://www.youtube.com/watch?v=wmv7ejY7Fe8",
+      "published_at": "2026-11-21T02:25:42Z",
+      "first_seen_at": "2026-11-21T21:38:40Z",
+      "views": 112062,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "#2danimation",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    }
+  ]
 }
