@@ -1,103 +1,10 @@
 {
-  "built_at": "2026-11-21T01:30:22.967721+00:00",
-  "source_snapshot_at": "2026-11-21T01:30:19Z",
-  "snapshot_video_count": 2443,
-  "named_theme_count": 2,
+  "built_at": "2026-11-21T12:38:26.143481+00:00",
+  "source_snapshot_at": "2026-11-21T12:38:23Z",
+  "snapshot_video_count": 2364,
+  "named_theme_count": 0,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [
-    {
-      "theme_id": "car_restoration",
-      "name": "Car Transformation / 废车变超跑",
-      "status": "仅候选/尚未确认新玩法",
-      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
-      "concept": "车辆从废旧到崭新的视觉变化",
-      "input": "一张车辆照片",
-      "risk": "汽车品牌/Logo 商标与真实维修误导",
-      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
-      "existing_before": null,
-      "previous_evidence_url": null,
-      "videos": 1,
-      "channel_count": 1,
-      "claimed_ai_creations": 1,
-      "independent_claimed_creator_count": 1,
-      "max_observed_views": 1368,
-      "first_observed_at": "2026-11-20T16:57:47Z",
-      "examples": [
-        {
-          "video_id": "RkcAS6kiw2M",
-          "title": "Old Car to Luxury Supercar Transformation 🤯🔥 | AI Car Evolution #shorts #AITransformation",
-          "url": "https://www.youtube.com/watch?v=RkcAS6kiw2M",
-          "channel": "TRANSFORMX AI",
-          "channel_id": "UCcXQ9H8GhDftaFL1atoMtGQ",
-          "published_at": "2026-11-20T12:30:07Z",
-          "first_seen_at": "2026-11-20T16:57:47Z",
-          "views": 1368,
-          "observed_growth_per_hour": 35.6,
-          "ai_evidence": "作者文字/标签自述AI",
-          "creative_claimed": true
-        }
-      ]
-    },
-    {
-      "theme_id": "jhinga_lala",
-      "name": "Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
-      "status": "已有玩法/不算今日新词",
-      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
-      "concept": "跟随现有口号/音乐进行搞笑短舞",
-      "input": "自有授权素材或本人肖像",
-      "risk": "音频版权、模仿素材授权与批量搬运",
-      "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
-      "existing_before": "2026-09-15",
-      "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
-      "videos": 3,
-      "channel_count": 3,
-      "claimed_ai_creations": 0,
-      "independent_claimed_creator_count": 0,
-      "max_observed_views": 61884,
-      "first_observed_at": "2026-11-21T01:30:19Z",
-      "examples": [
-        {
-          "video_id": "y9b5qw3HKPM",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=y9b5qw3HKPM",
-          "channel": "4 August",
-          "channel_id": "UCH8xtYiwKV3uU7QWsIcv6lw",
-          "published_at": "2026-11-20T01:30:30Z",
-          "first_seen_at": "2026-11-21T01:30:19Z",
-          "views": 61884,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "cY0pGwv3ErE",
-          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
-          "url": "https://www.youtube.com/watch?v=cY0pGwv3ErE",
-          "channel": "Cute Raahi's Dairy ",
-          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
-          "published_at": "2026-11-20T06:30:23Z",
-          "first_seen_at": "2026-11-21T01:30:19Z",
-          "views": 3586,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        },
-        {
-          "video_id": "bjk-kmrBlao",
-          "title": "Jhinga lala hu hu kaka dada mama 😹#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending",
-          "url": "https://www.youtube.com/watch?v=bjk-kmrBlao",
-          "channel": "Ai CReaTions",
-          "channel_id": "UCNfZyBmNaWo1wPKQL7f8EIQ",
-          "published_at": "2026-11-20T07:47:40Z",
-          "first_seen_at": "2026-11-21T01:30:19Z",
-          "views": 1913,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未核实",
-          "creative_claimed": false
-        }
-      ]
-    }
-  ],
+  "themes": [],
   "unmatched_creative_candidates": []
 }
