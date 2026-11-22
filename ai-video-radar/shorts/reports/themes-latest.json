@@ -1,20 +1,57 @@
 {
-  "built_at": "2026-11-22T06:46:06.357209+00:00",
-  "source_snapshot_at": "2026-11-22T06:46:03Z",
-  "snapshot_video_count": 2357,
-  "named_theme_count": 0,
+  "built_at": "2026-11-22T16:16:36.708422+00:00",
+  "source_snapshot_at": "2026-11-22T16:16:33Z",
+  "snapshot_video_count": 2320,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
-  "unmatched_creative_candidates": [
+  "themes": [
     {
-      "title": "10 मुर्गियों का ऐसा कमाल! 🐓😱",
-      "url": "https://www.youtube.com/watch?v=2rhJ8bbwaNc",
-      "views": 1246999,
-      "channel": "Rukh ji Stories",
-      "first_seen_at": "2026-11-22T06:46:03Z",
-      "published_at": "2026-11-21T07:40:57Z",
-      "observed_growth_per_hour": null
+      "theme_id": "car_restoration",
+      "name": "Car Transformation / 废车变超跑",
+      "status": "仅候选/尚未确认新玩法",
+      "verdict": "单个或未核实AI视频；仅观察，不建议立即建站",
+      "concept": "车辆从废旧到崭新的视觉变化",
+      "input": "一张车辆照片",
+      "risk": "汽车品牌/Logo 商标与真实维修误导",
+      "caution": "汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分",
+      "existing_before": null,
+      "previous_evidence_url": null,
+      "videos": 2,
+      "channel_count": 2,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 1599,
+      "first_observed_at": "2026-11-22T16:16:33Z",
+      "examples": [
+        {
+          "video_id": "L2CuClK3XH8",
+          "title": "🚀 From ZERO to a BEAST! 🖤🔥 Watch this insane AI car transformation! 🤯🏎️ Wait for the final reveal! 👀",
+          "url": "https://www.youtube.com/watch?v=L2CuClK3XH8",
+          "channel": "AI CREATORTEJAS",
+          "channel_id": "UC_16BCUw-Wfy2vjBUSfz8kA",
+          "published_at": "2026-11-22T04:53:31Z",
+          "first_seen_at": "2026-11-22T16:16:33Z",
+          "views": 1599,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "QgRX_YvH6fc",
+          "title": "From Silver to LIME GREEN! 😱🔥 INSANE Supercar Transformation #shorts #Supercar #CarTransformation",
+          "url": "https://www.youtube.com/watch?v=QgRX_YvH6fc",
+          "channel": "TRANSFORMX AI",
+          "channel_id": "UCcXQ9H8GhDftaFL1atoMtGQ",
+          "published_at": "2026-11-22T04:30:02Z",
+          "first_seen_at": "2026-11-22T16:16:33Z",
+          "views": 1174,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
     }
-  ]
+  ],
+  "unmatched_creative_candidates": []
 }
