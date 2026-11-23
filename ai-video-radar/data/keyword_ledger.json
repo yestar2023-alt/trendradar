@@ -1,10 +1,10 @@
 {
-  "checked_date": "2026-11-22",
-  "input_url_rows": 75,
-  "unique_urls_in_batch": 75,
-  "audited_url_rows": 75,
-  "unique_keywords_in_ledger": 3501,
-  "pending_trends": 3501,
+  "checked_date": "2026-11-23",
+  "input_url_rows": 13,
+  "unique_urls_in_batch": 13,
+  "audited_url_rows": 13,
+  "unique_keywords_in_ledger": 3512,
+  "pending_trends": 3512,
   "keywords": {
     "pixar snow globe ai filter": {
       "keyword": "pixar snow globe ai filter",
@@ -68,6 +68,32 @@
           "url": "https://dreamina.capcut.com/ai-video/old-town-road-ai-video",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "waiting on my fries ai trend": {
+      "keyword": "waiting on my fries ai trend",
+      "first_observed_date": "2026-11-22",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral",
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/waiting-on-my-fries-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-22",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://zooop.ai/blog/waiting-on-my-fries-ai-trend",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-23",
           "channel": "sitemap"
         }
       ]
@@ -384,6 +410,215 @@
         }
       ]
     },
+    "waiting on my fries": {
+      "keyword": "waiting on my fries",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/waiting-on-my-fries",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "trend templates 2026 2027": {
+      "keyword": "trend templates 2026 2027",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "CapCut Trending"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capcut.com/explore/trend-templates-2026-2027",
+          "source": "CapCut Trending",
+          "first_observed_date": "2026-11-23",
+          "channel": "listing"
+        }
+      ]
+    },
+    "guzarishon pe ai trend": {
+      "keyword": "guzarishon pe ai trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/guzarishon-pe-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "convertible drift ai trend": {
+      "keyword": "convertible drift ai trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/convertible-drift-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas hug from heaven ai trend": {
+      "keyword": "christmas hug from heaven ai trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/christmas-hug-from-heaven-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "c is for cherry ai trend": {
+      "keyword": "c is for cherry ai trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/c-is-for-cherry-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "arabic poetry recitation ai trend": {
+      "keyword": "arabic poetry recitation ai trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/arabic-poetry-recitation-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai mermaid transformation": {
+      "keyword": "ai mermaid transformation",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ai-mermaid-transformation",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ai cow makeup trend": {
+      "keyword": "ai cow makeup trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ai-cow-makeup-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "365 elevator ai trend": {
+      "keyword": "365 elevator ai trend",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/365-elevator-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-23",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "12": {
+      "keyword": "12",
+      "first_observed_date": "2026-11-23",
+      "last_observed_date": "2026-11-23",
+      "review_status": "PENDING_NAME_REVIEW",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/page/12",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-23",
+          "channel": "listing"
+        }
+      ]
+    },
     "where to use seedance at lowest cost": {
       "keyword": "where to use seedance at lowest cost",
       "first_observed_date": "2026-11-21",
@@ -417,25 +652,6 @@
         {
           "url": "https://dreamina.capcut.com/ai-video/what-sound-does-a-dinosaur-make",
           "source": "Dreamina",
-          "first_observed_date": "2026-11-22",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "waiting on my fries ai trend": {
-      "keyword": "waiting on my fries ai trend",
-      "first_observed_date": "2026-11-22",
-      "last_observed_date": "2026-11-22",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "MakeViral"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.makeviral.ai/templates/waiting-on-my-fries-ai-trend",
-          "source": "MakeViral",
           "first_observed_date": "2026-11-22",
           "channel": "sitemap"
         }

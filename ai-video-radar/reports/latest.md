@@ -1,61 +1,43 @@
-# AI 视频新增词日报 | 2026-11-22（北京时间）
+# AI 视频新增词日报 | 2026-11-23（北京时间）
 
-- 本次完成检查：16 个频道；失败/不可用：4 个频道
-- **有历史快照比对的新 URL：75 条（当日累计，非真实网页发布日期）**
-- **本轮扫描额外发现：75 条 URL**
-- **需核实的新关键词候选（跨站均衡核验）：30 个**
-- **本次核验详情页：30 条，覆盖 4 个有候选的来源**（每日归档池 75 条；不限于本次新发现）
-- **本轮原始URL全量明细存档：75 条**（如非零，可查看 `reports/2026-11-22-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
+- 本次完成检查：15 个频道；失败/不可用：5 个频道
+- **有历史快照比对的新 URL：13 条（当日累计，非真实网页发布日期）**
+- **本轮扫描额外发现：13 条 URL**
+- **需核实的新关键词候选（跨站均衡核验）：12 个**
+- **本次核验详情页：12 条，覆盖 3 个有候选的来源**（每日归档池 13 条；不限于本次新发现）
+- **本轮原始URL全量明细存档：13 条**（如非零，可查看 `reports/2026-11-23-all-new-urls.csv`；/create入口单独标记，不等于新模板发布）
 
 ## 候选新词（基于 URL 差集，热度尚未核实）
 
 | 首次发现 | 候选规范词 | 网站 | 新出现的链接 | 检测类型 |
 |---|---|---|---|---|
-| 2026-11-04 | capcut instagram trending | CapCut Trending | [页面1](https://www.capcut.com/template-detail/Instagram-Trend-Reels-By-IRFAN-EDITS-irfanedits-insta/7488774192935095605) | 模板列表首次出现 |
-| 2026-11-22 | bandit ai trend rap bandit with a friend | MakeViral | [页面1](https://www.makeviral.ai/templates/bandit-juice-wrld-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | ai arrest video make a doorbell cam arrest prank from one photo | Zooop | [页面1](https://zooop.ai/blog/ai-arrest-video) | 进入 Sitemap |
-| 2026-11-22 | consulting for ai service videos | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/consulting-template-tutorial) | 进入 Sitemap |
-| 2026-11-22 | capcut new trending song | CapCut Trending | [页面1](https://www.capcut.com/template-detail/Slow-Motion-share-capcut-slowmotion-newtemplate/7399615679307009335) | 模板列表首次出现 |
-| 2026-11-22 | black and white wet face portrait ai wet look photo | MakeViral | [页面1](https://www.makeviral.ai/templates/black-and-white-wet-look-ai-photo) | 进入 Sitemap |
-| 2026-11-22 | hanuman ji ai video the blessing trend from one photo | Zooop | [页面1](https://zooop.ai/blog/hanuman-ji-ai-video-guide) | 进入 Sitemap |
-| 2026-11-22 | guzarishon pe viral trend prompt for hand swipe videos | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/guzarishon-pe-viral-trend-prompt) | 进入 Sitemap |
-| 2026-11-22 | capcut sada clan | CapCut Trending | [页面1](https://www.capcut.com/template-detail/capcut-viralcapcut/7603006981598661905) | 模板列表首次出现 |
-| 2026-11-22 | eight legends trend ai graincore portraits of you | MakeViral | [页面1](https://www.makeviral.ai/templates/eight-legends-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | how to catch santa on camera | Zooop | [页面1](https://zooop.ai/blog/how-to-catch-santa-on-camera) | 进入 Sitemap |
-| 2026-11-22 | meme transition effects for funny ai video edits | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/meme-transition-effects) | 进入 Sitemap |
-| 2026-11-22 | capcut viral us | CapCut Trending | [页面1](https://www.capcut.com/template-detail/for-you-page/7635694967087779093) | 模板列表首次出现 |
-| 2026-11-22 | homesick for a person i ll never see again ai video | MakeViral | [页面1](https://www.makeviral.ai/templates/homesick-for-a-person-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | santa cam ai catch santa on camera at home | Zooop | [页面1](https://zooop.ai/templates/video/catch-santa-on-camera) | 进入 Sitemap |
-| 2026-11-22 | pixar snow globe ai filter create a 3d keepsake video | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/pixar-snow-globe-ai-filter) | 进入 Sitemap |
-| 2026-11-15 | capcut dil laga leya | CapCut Trending | [页面1](https://www.capcut.com/template-detail/fyp-viral-trend-reelsbyali-capcut/7596642037504478517) | 模板列表首次出现 |
-| 2026-11-22 | keep going run ai the masked crew cheers you on | MakeViral | [页面1](https://www.makeviral.ai/templates/keep-going-run-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | ai arrest video doorbell cam arrest prank | Zooop | [页面1](https://zooop.ai/templates/video/doorbell-cam-arrest) | 进入 Sitemap |
-| 2026-11-22 | transfer dance motion and check character foot contacts | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/transfer-dance-to-character-check-foot-contacts) | 进入 Sitemap |
-| 2026-11-10 | capcut pairon mein bandhan | CapCut Trending | [页面1](https://www.capcut.com/template-detail/instagramtrendingreels-oldhindisong-newviraltemplate/7662095126944156949) | 模板列表首次出现 |
-| 2026-11-22 | love handstand trend spell love upside down with ai | MakeViral | [页面1](https://www.makeviral.ai/templates/love-handstand-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | hanuman ji ai video get his blessing from 1 photo | Zooop | [页面1](https://zooop.ai/templates/video/hanuman-ji-ai-video) | 进入 Sitemap |
-| 2026-11-21 | where to use seedance for the lowest cost | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/where-to-use-seedance-at-lowest-cost) | 进入 Sitemap |
-| 2026-11-22 | capcut uttay dekh slowmo | CapCut Trending | [页面1](https://www.capcut.com/template-detail/trendingcapcut-viraltiktok-slowmo-gangster-fyp/7589342336199511349) | 模板列表首次出现 |
-| 2026-11-22 | low budget amanda ai trend dance the mews house song | MakeViral | [页面1](https://www.makeviral.ai/templates/low-budget-amanda-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | ai video generators with draft previews before hd | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/ai-generators-low-cost-video-previews) | 进入 Sitemap |
-| 2026-11-22 | capcut raja slowmo | CapCut Trending | [页面1](https://www.capcut.com/template-detail/zagedits-foryou-trending-slowmotion-dialogue/7629348247013739796) | 模板列表首次出现 |
-| 2026-11-22 | motorcycle mecha transformation ai mecha ride trend | MakeViral | [页面1](https://www.makeviral.ai/templates/mecha-ride-ai-trend) | 进入 Sitemap |
-| 2026-11-22 | best ai avatar video generators by starting material | Dreamina | [页面1](https://dreamina.capcut.com/ai-video/best-ai-avatar-video-generators) | 进入 Sitemap |
+| 2026-11-23 | trend templates 2026 2027 capcut | CapCut Trending | [页面1](https://www.capcut.com/explore/trend-templates-2026-2027) | 模板列表首次出现 |
+| 2026-11-23 | 365 elevator trend make the sampagne ai duo edit | MakeViral | [页面1](https://www.makeviral.ai/templates/365-elevator-ai-trend) | 进入 Sitemap |
+| 2026-11-23 | blog page 12 | Zooop | [页面1](https://zooop.ai/blog/page/12) | 模板列表首次出现 |
+| 2026-11-23 | cow makeup trend ai cow makeup transition from 1 photo | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-cow-makeup-trend) | 进入 Sitemap |
+| 2026-11-23 | waiting on my fries ai the taco shop dance video with a friend | Zooop | [页面1](https://zooop.ai/blog/waiting-on-my-fries-ai-trend) | 进入 Sitemap |
+| 2026-11-23 | ai mermaid transformation splash mermaid filter video | MakeViral | [页面1](https://www.makeviral.ai/templates/ai-mermaid-transformation) | 进入 Sitemap |
+| 2026-11-23 | waiting on my fries ai taco shop dance video | Zooop | [页面1](https://zooop.ai/templates/video/waiting-on-my-fries) | 进入 Sitemap |
+| 2026-11-23 | arabic poetry recitation ai trend be the iraqi poet | MakeViral | [页面1](https://www.makeviral.ai/templates/arabic-poetry-recitation-ai-trend) | 进入 Sitemap |
+| 2026-11-23 | c is for cherry trend sign it from one photo with ai | MakeViral | [页面1](https://www.makeviral.ai/templates/c-is-for-cherry-ai-trend) | 进入 Sitemap |
+| 2026-11-23 | christmas in heaven ai the christmas hug from heaven | MakeViral | [页面1](https://www.makeviral.ai/templates/christmas-hug-from-heaven-ai-trend) | 进入 Sitemap |
+| 2026-11-23 | convertible drift ai trend donuts in a red convertible | MakeViral | [页面1](https://www.makeviral.ai/templates/convertible-drift-ai-trend) | 进入 Sitemap |
+| 2026-11-23 | guzarishon pe gaur kijiye ai trend guzarish transition | MakeViral | [页面1](https://www.makeviral.ai/templates/guzarishon-pe-ai-trend) | 进入 Sitemap |
 
 > 注意：这里的“新增”是自上次**成功快照**以来新增的 URL，不等于网页在当天发布；发现词 ≠ 已确认爆火。
 
 ## 可点开的核查入口（供运营核实趋势和竞品）
 
-- **capcut instagram trending**： [TikTok](https://www.tiktok.com/search?q=capcut+instagram+trending) · [YouTube](https://www.youtube.com/results?search_query=capcut+instagram+trending) · [Google](https://www.google.com/search?q=capcut+instagram+trending) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+instagram+trending)
-- **bandit ai trend rap bandit with a friend**： [TikTok](https://www.tiktok.com/search?q=bandit+ai+trend+rap+bandit+with+a+friend) · [YouTube](https://www.youtube.com/results?search_query=bandit+ai+trend+rap+bandit+with+a+friend) · [Google](https://www.google.com/search?q=bandit+ai+trend+rap+bandit+with+a+friend) · [Google Trends](https://trends.google.com/trends/explore?q=bandit+ai+trend+rap+bandit+with+a+friend)
-- **ai arrest video make a doorbell cam arrest prank from one photo**： [TikTok](https://www.tiktok.com/search?q=ai+arrest+video+make+a+doorbell+cam+arrest+prank+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=ai+arrest+video+make+a+doorbell+cam+arrest+prank+from+one+photo) · [Google](https://www.google.com/search?q=ai+arrest+video+make+a+doorbell+cam+arrest+prank+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=ai+arrest+video+make+a+doorbell+cam+arrest+prank+from+one+photo)
-- **consulting for ai service videos**： [TikTok](https://www.tiktok.com/search?q=consulting+for+ai+service+videos) · [YouTube](https://www.youtube.com/results?search_query=consulting+for+ai+service+videos) · [Google](https://www.google.com/search?q=consulting+for+ai+service+videos) · [Google Trends](https://trends.google.com/trends/explore?q=consulting+for+ai+service+videos)
-- **capcut new trending song**： [TikTok](https://www.tiktok.com/search?q=capcut+new+trending+song) · [YouTube](https://www.youtube.com/results?search_query=capcut+new+trending+song) · [Google](https://www.google.com/search?q=capcut+new+trending+song) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+new+trending+song)
-- **black and white wet face portrait ai wet look photo**： [TikTok](https://www.tiktok.com/search?q=black+and+white+wet+face+portrait+ai+wet+look+photo) · [YouTube](https://www.youtube.com/results?search_query=black+and+white+wet+face+portrait+ai+wet+look+photo) · [Google](https://www.google.com/search?q=black+and+white+wet+face+portrait+ai+wet+look+photo) · [Google Trends](https://trends.google.com/trends/explore?q=black+and+white+wet+face+portrait+ai+wet+look+photo)
-- **hanuman ji ai video the blessing trend from one photo**： [TikTok](https://www.tiktok.com/search?q=hanuman+ji+ai+video+the+blessing+trend+from+one+photo) · [YouTube](https://www.youtube.com/results?search_query=hanuman+ji+ai+video+the+blessing+trend+from+one+photo) · [Google](https://www.google.com/search?q=hanuman+ji+ai+video+the+blessing+trend+from+one+photo) · [Google Trends](https://trends.google.com/trends/explore?q=hanuman+ji+ai+video+the+blessing+trend+from+one+photo)
-- **guzarishon pe viral trend prompt for hand swipe videos**： [TikTok](https://www.tiktok.com/search?q=guzarishon+pe+viral+trend+prompt+for+hand+swipe+videos) · [YouTube](https://www.youtube.com/results?search_query=guzarishon+pe+viral+trend+prompt+for+hand+swipe+videos) · [Google](https://www.google.com/search?q=guzarishon+pe+viral+trend+prompt+for+hand+swipe+videos) · [Google Trends](https://trends.google.com/trends/explore?q=guzarishon+pe+viral+trend+prompt+for+hand+swipe+videos)
-- **capcut sada clan**： [TikTok](https://www.tiktok.com/search?q=capcut+sada+clan) · [YouTube](https://www.youtube.com/results?search_query=capcut+sada+clan) · [Google](https://www.google.com/search?q=capcut+sada+clan) · [Google Trends](https://trends.google.com/trends/explore?q=capcut+sada+clan)
-- **eight legends trend ai graincore portraits of you**： [TikTok](https://www.tiktok.com/search?q=eight+legends+trend+ai+graincore+portraits+of+you) · [YouTube](https://www.youtube.com/results?search_query=eight+legends+trend+ai+graincore+portraits+of+you) · [Google](https://www.google.com/search?q=eight+legends+trend+ai+graincore+portraits+of+you) · [Google Trends](https://trends.google.com/trends/explore?q=eight+legends+trend+ai+graincore+portraits+of+you)
+- **trend templates 2026 2027 capcut**： [TikTok](https://www.tiktok.com/search?q=trend+templates+2026+2027+capcut) · [YouTube](https://www.youtube.com/results?search_query=trend+templates+2026+2027+capcut) · [Google](https://www.google.com/search?q=trend+templates+2026+2027+capcut) · [Google Trends](https://trends.google.com/trends/explore?q=trend+templates+2026+2027+capcut)
+- **365 elevator trend make the sampagne ai duo edit**： [TikTok](https://www.tiktok.com/search?q=365+elevator+trend+make+the+sampagne+ai+duo+edit) · [YouTube](https://www.youtube.com/results?search_query=365+elevator+trend+make+the+sampagne+ai+duo+edit) · [Google](https://www.google.com/search?q=365+elevator+trend+make+the+sampagne+ai+duo+edit) · [Google Trends](https://trends.google.com/trends/explore?q=365+elevator+trend+make+the+sampagne+ai+duo+edit)
+- **blog page 12**： [TikTok](https://www.tiktok.com/search?q=blog+page+12) · [YouTube](https://www.youtube.com/results?search_query=blog+page+12) · [Google](https://www.google.com/search?q=blog+page+12) · [Google Trends](https://trends.google.com/trends/explore?q=blog+page+12)
+- **cow makeup trend ai cow makeup transition from 1 photo**： [TikTok](https://www.tiktok.com/search?q=cow+makeup+trend+ai+cow+makeup+transition+from+1+photo) · [YouTube](https://www.youtube.com/results?search_query=cow+makeup+trend+ai+cow+makeup+transition+from+1+photo) · [Google](https://www.google.com/search?q=cow+makeup+trend+ai+cow+makeup+transition+from+1+photo) · [Google Trends](https://trends.google.com/trends/explore?q=cow+makeup+trend+ai+cow+makeup+transition+from+1+photo)
+- **waiting on my fries ai the taco shop dance video with a friend**： [TikTok](https://www.tiktok.com/search?q=waiting+on+my+fries+ai+the+taco+shop+dance+video+with+a+friend) · [YouTube](https://www.youtube.com/results?search_query=waiting+on+my+fries+ai+the+taco+shop+dance+video+with+a+friend) · [Google](https://www.google.com/search?q=waiting+on+my+fries+ai+the+taco+shop+dance+video+with+a+friend) · [Google Trends](https://trends.google.com/trends/explore?q=waiting+on+my+fries+ai+the+taco+shop+dance+video+with+a+friend)
+- **ai mermaid transformation splash mermaid filter video**： [TikTok](https://www.tiktok.com/search?q=ai+mermaid+transformation+splash+mermaid+filter+video) · [YouTube](https://www.youtube.com/results?search_query=ai+mermaid+transformation+splash+mermaid+filter+video) · [Google](https://www.google.com/search?q=ai+mermaid+transformation+splash+mermaid+filter+video) · [Google Trends](https://trends.google.com/trends/explore?q=ai+mermaid+transformation+splash+mermaid+filter+video)
+- **waiting on my fries ai taco shop dance video**： [TikTok](https://www.tiktok.com/search?q=waiting+on+my+fries+ai+taco+shop+dance+video) · [YouTube](https://www.youtube.com/results?search_query=waiting+on+my+fries+ai+taco+shop+dance+video) · [Google](https://www.google.com/search?q=waiting+on+my+fries+ai+taco+shop+dance+video) · [Google Trends](https://trends.google.com/trends/explore?q=waiting+on+my+fries+ai+taco+shop+dance+video)
+- **arabic poetry recitation ai trend be the iraqi poet**： [TikTok](https://www.tiktok.com/search?q=arabic+poetry+recitation+ai+trend+be+the+iraqi+poet) · [YouTube](https://www.youtube.com/results?search_query=arabic+poetry+recitation+ai+trend+be+the+iraqi+poet) · [Google](https://www.google.com/search?q=arabic+poetry+recitation+ai+trend+be+the+iraqi+poet) · [Google Trends](https://trends.google.com/trends/explore?q=arabic+poetry+recitation+ai+trend+be+the+iraqi+poet)
+- **c is for cherry trend sign it from one photo with ai**： [TikTok](https://www.tiktok.com/search?q=c+is+for+cherry+trend+sign+it+from+one+photo+with+ai) · [YouTube](https://www.youtube.com/results?search_query=c+is+for+cherry+trend+sign+it+from+one+photo+with+ai) · [Google](https://www.google.com/search?q=c+is+for+cherry+trend+sign+it+from+one+photo+with+ai) · [Google Trends](https://trends.google.com/trends/explore?q=c+is+for+cherry+trend+sign+it+from+one+photo+with+ai)
+- **christmas in heaven ai the christmas hug from heaven**： [TikTok](https://www.tiktok.com/search?q=christmas+in+heaven+ai+the+christmas+hug+from+heaven) · [YouTube](https://www.youtube.com/results?search_query=christmas+in+heaven+ai+the+christmas+hug+from+heaven) · [Google](https://www.google.com/search?q=christmas+in+heaven+ai+the+christmas+hug+from+heaven) · [Google Trends](https://trends.google.com/trends/explore?q=christmas+in+heaven+ai+the+christmas+hug+from+heaven)
 
 本期不输出未经验证的搜索量、视频播放数，也不为了凑足 Top 3 推荐旧词。
 
@@ -68,6 +50,12 @@
 
 | 候选词 | 月量 | 日量 | Intitle | KD | 所需外链 | KGR | EKGR | KDROI(%) | 数据推算说明 | 市场 | 数据来源/日期 | 状态 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
+| waiting on my fries ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| ai mermaid transformation | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| arabic poetry recitation ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| christmas in heaven ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| convertible drift ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
+| guzarishon pe gaur kijiye ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | bandit ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | ai arrest video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | consulting for ai service videos | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
@@ -102,12 +90,6 @@
 | 8 mile rap battle ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | cat from every angle ai trend | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 | cctv tiger fight ai video | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| dip on em dance ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai funny video generator | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| chased by hyenas ai trend savanna chase video from your photo | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| olly olly ai dance | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| gta 6 jet ski dog ai | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
-| ai video maker | — | — | — | — | — | — | — | — | 缺失 / 缺失 | 未注明/未注明 | 尚无数据源 / 未注明 | 等待真实数据 |
 
 可通过 \`data/keyword_metrics.csv\` 导入真实数据。全自动付费取数需单独启用，未启用时不编造数字。
 
@@ -120,10 +102,10 @@
 | CapCut Trending | not a sitemap-based feed | 70 links from 1/1 listings |
 | Viggle Meme | 1 relevant URLs in sitemap | 4 links from 1/1 listings |
 | Higgsfield Viral | 184 relevant URLs in sitemap | 27 links from 2/2 listings |
-| MakeViral | 622 relevant URLs in sitemap | 605 links from 2/2 listings |
-| Zooop | 314 relevant URLs in sitemap | 123 links from 2/2 listings |
+| MakeViral | 630 relevant URLs in sitemap | 613 links from 2/2 listings |
+| Zooop | 316 relevant URLs in sitemap | 124 links from 2/2 listings |
 | PixVerse | 0 relevant URLs in sitemap | no server-rendered template links (possibly JS/login) |
-| Media.io | 3092 relevant URLs in sitemap | 157 links from 3/3 listings |
+| Media.io | 3092 relevant URLs in sitemap | 141 links from 1/3 listings; inaccessible: /ai/explore/zone/ai-video-trend-generator, /ai/viral-studio; listing coverage incomplete, previous baseline preserved |
 | Dreamina | 3052 relevant URLs in sitemap | 33 links from 2/2 listings |
 
 逐站采集详情及基线/不可用状态见 [health-latest.csv](health-latest.csv)。频道不可用不等于 0 新增。
