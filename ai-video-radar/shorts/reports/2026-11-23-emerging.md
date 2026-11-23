@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-23 08:51
-- 数据库视频：2345；24小时内且有频道ID的非教程候选：241
-- 自动发现跨账号同名/同词线索：3
+- 最新成功快照（北京）：2026-11-23 22:37
+- 数据库视频：2248；24小时内且有频道ID的非教程候选：150
+- 自动发现跨账号同名/同词线索：2
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,31 +13,18 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. all characters
+### 1. sheru bhai
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：2；其中AI文字自述频道：2；视频：2
+- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ToonmiraX | [🔥 Mr Bean All Cartoon Characters In Real Life / Realistic AI Transformation Part 2 😱 / ToonmiraX](https://www.youtube.com/watch?v=WTcjl87ynd0) | 2026-11-22 20:35 | 2026-11-23 00:16 | 29623 | 2,445.5 | 作者文字自述AI |
-| JeetAnimora | [🔥 Mr Bean All Cartoon Characters In Real Life / Real Child Look / AI Generated Transformation](https://www.youtube.com/watch?v=j-yMPseMEZ8) | 2026-11-22 19:12 | 2026-11-23 00:16 | 4354 | 306.0 | 作者文字自述AI |
-| BK REACTIONS | [Shiva Cartoon VS Army Version 🪖🔥 // All Characters Army Transformation / AI Cartoon](https://www.youtube.com/watch?v=UnaABphOx6w) | 2026-11-22 11:13 | 2026-11-23 00:16 | 561 | 8.3 | 作者文字自述AI |
+| telugu ai creator  | [SHERU BHAI #explorepage #aivideo #aishorts #sherubhaiai #trending #trend #reels #shorts #viral](https://www.youtube.com/watch?v=g0MI1dKDytk) | 2026-11-23 21:40 | 2026-11-23 22:37 | 237 | 待多次采样 | 作者文字自述AI |
+| sheru bhaii | [sheru bhai ki sad story 😢 #trend #viral #ytstudio #sheru #aivideo](https://www.youtube.com/watch?v=KcICkLwca-Q) | 2026-11-23 20:41 | 2026-11-23 22:37 | 0 | 待多次采样 | 作者文字自述AI |
 
-### 2. #football
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：2；视频：3
-- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Manoj Wambule Vlogs | [Haaland's legs went missing 💀 #football #meme #shorts](https://www.youtube.com/watch?v=gRcmLL9SUMg) | 2026-11-22 19:07 | 2026-11-23 08:51 | 20660 | 待多次采样 | 作者文字自述AI |
-| Epic Football TV | [😂 Ronaldo Joins Bangladesh Army! 🇧🇩🔥 AI Funny Transformation #shorts](https://www.youtube.com/watch?v=yP2CvO79zvA) | 2026-11-22 18:00 | 2026-11-23 00:16 | 3405 | 212.6 | 作者文字自述AI |
-| mytechnoz | [#funny #ai #football #shorts#memes #trending](https://www.youtube.com/watch?v=PCPjUPn7J0o) | 2026-11-22 13:44 | 2026-11-23 00:16 | 3022 | 128.5 | AI制作未验证 |
-
-### 3. mr bean all characters
+### 2. #lifeisbutadream
 
 - 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
 - 独立频道：2；其中AI文字自述频道：2；视频：2
@@ -45,8 +32,8 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ToonmiraX | [🔥 Mr Bean All Cartoon Characters In Real Life / Realistic AI Transformation Part 2 😱 / ToonmiraX](https://www.youtube.com/watch?v=WTcjl87ynd0) | 2026-11-22 20:35 | 2026-11-23 00:16 | 29623 | 2,445.5 | 作者文字自述AI |
-| JeetAnimora | [🔥 Mr Bean All Cartoon Characters In Real Life / Real Child Look / AI Generated Transformation](https://www.youtube.com/watch?v=j-yMPseMEZ8) | 2026-11-22 19:12 | 2026-11-23 00:16 | 4354 | 306.0 | 作者文字自述AI |
+| Shivam Ahir Yadav | [#song #music #lifeisbutadream #ai #aivideo #hindisong #shorts #trend](https://www.youtube.com/watch?v=P3DSxxxxcrI) | 2026-11-23 17:28 | 2026-11-23 22:37 | 477 | 待多次采样 | 作者文字自述AI |
+| Prajapati Vipul | [#10k #automobile #lifeisbutadream #trend #ihavethisthingwithplants #ai #edit #aivideo](https://www.youtube.com/watch?v=Vhen8Qwdqs4) | 2026-11-23 19:21 | 2026-11-23 22:37 | 0 | 待多次采样 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 

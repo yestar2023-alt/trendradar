@@ -1,8 +1,8 @@
 # AI Shorts 新玩法归组与独立模仿证据（自动候选）
 
-- 数据时间（北京）：2026-11-23 08:51
+- 数据时间（北京）：2026-11-23 22:37
 - 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询
-- 保存的历史状态池：2345 条；仅使用最近24小时发布的视频归组为 2 个主题
+- 保存的历史状态池：2248 条；仅使用最近24小时发布的视频归组为 0 个主题
 - 有两个及以上独立账号文字自述AI的**候选主题**：0（不等于同一玩法的模仿已证实）
 - 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**
 
@@ -12,33 +12,6 @@
 > 只有独立视频截图/动作、跨平台传播、搜索意图及竞品历史都复核后，才可给出真正新词 Top。
 
 ## 窄义玩法候选与历史
-
-### 1. Car Transformation / 废车变超跑
-
-- 自动状态：**仅候选/尚未确认新玩法**；建议：单个或未核实AI视频；仅观察，不建议立即建站
-- 近期匹配视频：2；不同频道：2；文字自述AI的视频：0；其中独立作者频道：0
-- 最大单条观测播放量：1982；首次系统观察：2026-11-23 00:16（不等于真实首发）
-- 可复刻概念：车辆从废旧到崭新的视觉变化；输入素材：一张车辆照片
-- 混淆与排除：汽车修复和直接魔法变车可能是不同玩法，必须人工进一步拆分；风险：汽车品牌/Logo 商标与真实维修误导
-
-| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
-|---|---|---|---|---:|---|---:|
-| AI CREATORTEJAS | [🚀 From ZERO to a BEAST! 🖤🔥 Watch this insane AI car transformation! 🤯🏎️ Wait for the final reveal! 👀](https://www.youtube.com/watch?v=L2CuClK3XH8) | 2026-11-22 12:53 | 2026-11-23 00:16 | 1982 | AI制作未核实 | 44.6 |
-| TRANSFORMX AI | [From Silver to LIME GREEN! 😱🔥 INSANE Supercar Transformation #shorts #Supercar #CarTransformation](https://www.youtube.com/watch?v=QgRX_YvH6fc) | 2026-11-22 12:30 | 2026-11-23 00:16 | 1194 | AI制作未核实 | 2.3 |
-
-### 2. Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗
-
-- 自动状态：**已有玩法/不算今日新词**；建议：排除今日新增词；只做历史/现有竞品跟踪
-- 近期匹配视频：2；不同频道：2；文字自述AI的视频：0；其中独立作者频道：0
-- 最大单条观测播放量：62911；首次系统观察：2026-11-23 08:51（不等于真实首发）
-- 可复刻概念：跟随现有口号/音乐进行搞笑短舞；输入素材：自有授权素材或本人肖像
-- 混淆与排除：9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿；风险：音频版权、模仿素材授权与批量搬运
-- **不属于今日新发现玩法的历史证据：** 不晚于 2026-09-15 已有相关内容或商业页面（不能推断真正起源），[https://www.youtube.com/watch?v=hFpsTmThUpo](https://www.youtube.com/watch?v=hFpsTmThUpo)
-
-| 频道 | 原视频 | 原发布日期（北京） | 系统首见（北京） | 单条播放 | AI证据 | 真实采样增速/时 |
-|---|---|---|---|---:|---|---:|
-| 4 August | [Jhinga lala hu hu kaka dada mama 😂#funny #comedy #dance #ai #reels #youtubeshorts #shorts #trending](https://www.youtube.com/watch?v=dyyPMEz5Z2M) | 2026-11-22 09:30 | 2026-11-23 08:51 | 62911 | AI制作未核实 | 待多次采样 |
-| Cute Raahi's Dairy  | [Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts](https://www.youtube.com/watch?v=qukVix9Z04M) | 2026-11-22 09:15 | 2026-11-23 08:51 | 5805 | AI制作未核实 | 待多次采样 |
 
 ## 单条超过100万播放，但尚未匹配具体玩法的 AI 自述视频
 
