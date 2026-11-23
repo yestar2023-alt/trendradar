@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T16:16:36.826167+00:00",
-  "source_snapshot_at": "2026-11-22T16:16:33Z",
-  "source_video_count": 2320,
-  "published_last_24h_with_channel": 219,
+  "generated_at": "2026-11-23T00:51:55.283373+00:00",
+  "source_snapshot_at": "2026-11-23T00:51:51Z",
+  "source_video_count": 2345,
+  "published_last_24h_with_channel": 241,
   "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=WTcjl87ynd0",
           "published_at": "2026-11-22T12:35:37Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 8620,
-          "observed_growth_per_hour": null,
+          "views": 29623,
+          "observed_growth_per_hour": 2445.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -38,8 +38,8 @@
           "url": "https://www.youtube.com/watch?v=j-yMPseMEZ8",
           "published_at": "2026-11-22T11:12:58Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 1726,
-          "observed_growth_per_hour": null,
+          "views": 4354,
+          "observed_growth_per_hour": 306.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -50,8 +50,8 @@
           "url": "https://www.youtube.com/watch?v=UnaABphOx6w",
           "published_at": "2026-11-22T03:13:02Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 490,
-          "observed_growth_per_hour": null,
+          "views": 561,
+          "observed_growth_per_hour": 8.3,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "transform"
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "anchor": "#cartransformation",
+      "anchor": "#football",
       "anchor_type": "tag",
       "unique_channels": 3,
       "ai_claimed_channels": 2,
@@ -68,45 +68,45 @@
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
       "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": false,
+      "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Wooden Nissan Juke to REAL Beast! 🤯🔥 #NissanJuke #WoodToReal #AITransformation #cartransformation",
-          "channel": "ReviveGrage2.0",
-          "channel_id": "UCsfPRJtM18Z_Ky61RI2p1_w",
-          "url": "https://www.youtube.com/watch?v=t4K27LOkJ4g",
-          "published_at": "2026-11-21T22:09:18Z",
-          "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 1268,
+          "title": "Haaland's legs went missing 💀 #football #meme #shorts",
+          "channel": "Manoj Wambule Vlogs",
+          "channel_id": "UClGe7CEfruY2AHNM8lClsEA",
+          "url": "https://www.youtube.com/watch?v=gRcmLL9SUMg",
+          "published_at": "2026-11-22T11:07:40Z",
+          "first_seen_at": "2026-11-23T00:51:51Z",
+          "views": 20660,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "From Silver to LIME GREEN! 😱🔥 INSANE Supercar Transformation #shorts #Supercar #CarTransformation",
-          "channel": "TRANSFORMX AI",
-          "channel_id": "UCcXQ9H8GhDftaFL1atoMtGQ",
-          "url": "https://www.youtube.com/watch?v=QgRX_YvH6fc",
-          "published_at": "2026-11-22T04:30:02Z",
+          "title": "😂 Ronaldo Joins Bangladesh Army! 🇧🇩🔥 AI Funny Transformation #shorts",
+          "channel": "Epic Football TV",
+          "channel_id": "UC1HzoO6vl2iwxai45Fga7gw",
+          "url": "https://www.youtube.com/watch?v=yP2CvO79zvA",
+          "published_at": "2026-11-22T10:00:18Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 1174,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "AI制作未验证",
+          "views": 3405,
+          "observed_growth_per_hour": 212.6,
+          "ai_evidence": "作者文字自述AI",
           "actions": [
             "transform"
           ]
         },
         {
-          "title": "#McLarenArtura #McLaren #CarTransformation #AITransformation #Supercars #LuxuryCars #HybridSupercar",
-          "channel": "Car_care17",
-          "channel_id": "UCpc2jQIJiCDOH8q_aUw1x9g",
-          "url": "https://www.youtube.com/watch?v=QzHv4dry3Bc",
-          "published_at": "2026-11-22T11:24:06Z",
+          "title": "#funny #ai #football #shorts#memes #trending",
+          "channel": "mytechnoz",
+          "channel_id": "UC9FLwOPr-5wE0jfQRTmZd7Q",
+          "url": "https://www.youtube.com/watch?v=PCPjUPn7J0o",
+          "published_at": "2026-11-22T05:44:35Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 1016,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
+          "views": 3022,
+          "observed_growth_per_hour": 128.5,
+          "ai_evidence": "AI制作未验证",
           "actions": []
         }
       ]
@@ -130,8 +130,8 @@
           "url": "https://www.youtube.com/watch?v=WTcjl87ynd0",
           "published_at": "2026-11-22T12:35:37Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 8620,
-          "observed_growth_per_hour": null,
+          "views": 29623,
+          "observed_growth_per_hour": 2445.5,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
@@ -142,30 +142,13 @@
           "url": "https://www.youtube.com/watch?v=j-yMPseMEZ8",
           "published_at": "2026-11-22T11:12:58Z",
           "first_seen_at": "2026-11-22T16:16:33Z",
-          "views": 1726,
-          "observed_growth_per_hour": null,
+          "views": 4354,
+          "observed_growth_per_hour": 306.0,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
       ]
     }
   ],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "Stupid AI Responses From The Future…😭 #deadinternettheory #aifails #ailoveyou #funny #memes",
-      "channel": "AskedItDumb",
-      "channel_id": "UCzMo2SRU2tT_a8Ld77va2AA",
-      "url": "https://www.youtube.com/watch?v=OWj7LxbqpEg",
-      "published_at": "2026-11-21T19:10:14Z",
-      "first_seen_at": "2026-11-22T16:16:33Z",
-      "views": 334282,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "stupid responses future",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }

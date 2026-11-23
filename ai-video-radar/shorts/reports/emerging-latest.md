@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-23 00:16
-- 数据库视频：2320；24小时内且有频道ID的非教程候选：219
+- 最新成功快照（北京）：2026-11-23 08:51
+- 数据库视频：2345；24小时内且有频道ID的非教程候选：241
 - 自动发现跨账号同名/同词线索：3
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -21,21 +21,21 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ToonmiraX | [🔥 Mr Bean All Cartoon Characters In Real Life / Realistic AI Transformation Part 2 😱 / ToonmiraX](https://www.youtube.com/watch?v=WTcjl87ynd0) | 2026-11-22 20:35 | 2026-11-23 00:16 | 8620 | 待多次采样 | 作者文字自述AI |
-| JeetAnimora | [🔥 Mr Bean All Cartoon Characters In Real Life / Real Child Look / AI Generated Transformation](https://www.youtube.com/watch?v=j-yMPseMEZ8) | 2026-11-22 19:12 | 2026-11-23 00:16 | 1726 | 待多次采样 | 作者文字自述AI |
-| BK REACTIONS | [Shiva Cartoon VS Army Version 🪖🔥 // All Characters Army Transformation / AI Cartoon](https://www.youtube.com/watch?v=UnaABphOx6w) | 2026-11-22 11:13 | 2026-11-23 00:16 | 490 | 待多次采样 | 作者文字自述AI |
+| ToonmiraX | [🔥 Mr Bean All Cartoon Characters In Real Life / Realistic AI Transformation Part 2 😱 / ToonmiraX](https://www.youtube.com/watch?v=WTcjl87ynd0) | 2026-11-22 20:35 | 2026-11-23 00:16 | 29623 | 2,445.5 | 作者文字自述AI |
+| JeetAnimora | [🔥 Mr Bean All Cartoon Characters In Real Life / Real Child Look / AI Generated Transformation](https://www.youtube.com/watch?v=j-yMPseMEZ8) | 2026-11-22 19:12 | 2026-11-23 00:16 | 4354 | 306.0 | 作者文字自述AI |
+| BK REACTIONS | [Shiva Cartoon VS Army Version 🪖🔥 // All Characters Army Transformation / AI Cartoon](https://www.youtube.com/watch?v=UnaABphOx6w) | 2026-11-22 11:13 | 2026-11-23 00:16 | 561 | 8.3 | 作者文字自述AI |
 
-### 2. #cartransformation
+### 2. #football
 
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：未观察到（不等于新）
+- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
 - 独立频道：3；其中AI文字自述频道：2；视频：3
 - 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ReviveGrage2.0 | [Wooden Nissan Juke to REAL Beast! 🤯🔥 #NissanJuke #WoodToReal #AITransformation #cartransformation](https://www.youtube.com/watch?v=t4K27LOkJ4g) | 2026-11-22 06:09 | 2026-11-23 00:16 | 1268 | 待多次采样 | 作者文字自述AI |
-| TRANSFORMX AI | [From Silver to LIME GREEN! 😱🔥 INSANE Supercar Transformation #shorts #Supercar #CarTransformation](https://www.youtube.com/watch?v=QgRX_YvH6fc) | 2026-11-22 12:30 | 2026-11-23 00:16 | 1174 | 待多次采样 | AI制作未验证 |
-| Car_care17 | [#McLarenArtura #McLaren #CarTransformation #AITransformation #Supercars #LuxuryCars #HybridSupercar](https://www.youtube.com/watch?v=QzHv4dry3Bc) | 2026-11-22 19:24 | 2026-11-23 00:16 | 1016 | 待多次采样 | 作者文字自述AI |
+| Manoj Wambule Vlogs | [Haaland's legs went missing 💀 #football #meme #shorts](https://www.youtube.com/watch?v=gRcmLL9SUMg) | 2026-11-22 19:07 | 2026-11-23 08:51 | 20660 | 待多次采样 | 作者文字自述AI |
+| Epic Football TV | [😂 Ronaldo Joins Bangladesh Army! 🇧🇩🔥 AI Funny Transformation #shorts](https://www.youtube.com/watch?v=yP2CvO79zvA) | 2026-11-22 18:00 | 2026-11-23 00:16 | 3405 | 212.6 | 作者文字自述AI |
+| mytechnoz | [#funny #ai #football #shorts#memes #trending](https://www.youtube.com/watch?v=PCPjUPn7J0o) | 2026-11-22 13:44 | 2026-11-23 00:16 | 3022 | 128.5 | AI制作未验证 |
 
 ### 3. mr bean all characters
 
@@ -45,14 +45,14 @@
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| ToonmiraX | [🔥 Mr Bean All Cartoon Characters In Real Life / Realistic AI Transformation Part 2 😱 / ToonmiraX](https://www.youtube.com/watch?v=WTcjl87ynd0) | 2026-11-22 20:35 | 2026-11-23 00:16 | 8620 | 待多次采样 | 作者文字自述AI |
-| JeetAnimora | [🔥 Mr Bean All Cartoon Characters In Real Life / Real Child Look / AI Generated Transformation](https://www.youtube.com/watch?v=j-yMPseMEZ8) | 2026-11-22 19:12 | 2026-11-23 00:16 | 1726 | 待多次采样 | 作者文字自述AI |
+| ToonmiraX | [🔥 Mr Bean All Cartoon Characters In Real Life / Realistic AI Transformation Part 2 😱 / ToonmiraX](https://www.youtube.com/watch?v=WTcjl87ynd0) | 2026-11-22 20:35 | 2026-11-23 00:16 | 29623 | 2,445.5 | 作者文字自述AI |
+| JeetAnimora | [🔥 Mr Bean All Cartoon Characters In Real Life / Real Child Look / AI Generated Transformation](https://www.youtube.com/watch?v=j-yMPseMEZ8) | 2026-11-22 19:12 | 2026-11-23 00:16 | 4354 | 306.0 | 作者文字自述AI |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| AskedItDumb | [Stupid AI Responses From The Future…😭 #deadinternettheory #aifails #ailoveyou #funny #memes](https://www.youtube.com/watch?v=OWj7LxbqpEg) | 10万级早期观察，不是爆款 | 2026-11-22 03:10 | 2026-11-23 00:16 | 334282 | 待二次采样 |
+| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
 
 ## 人工核验清单
 
