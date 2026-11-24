@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-24T02:54:21.603929+00:00",
-  "source_snapshot_at": "2026-11-24T02:54:18Z",
-  "source_video_count": 2287,
-  "published_last_24h_with_channel": 213,
-  "shared_name_groups": 8,
+  "generated_at": "2026-11-24T14:51:38.709336+00:00",
+  "source_snapshot_at": "2026-11-24T14:51:35Z",
+  "source_video_count": 2232,
+  "published_last_24h_with_channel": 169,
+  "shared_name_groups": 2,
   "independent_claimed_and_same_action_candidates": 1,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
@@ -19,7 +19,7 @@
       "classification": "potential_same_action",
       "near_duplicate_caption_fraction": 0.5,
       "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 86.7,
+      "priority_points_not_seo_score": 96.8,
       "examples": [
         {
           "title": "Micky mouse characters gender swapped  | Gender-swap | AI Transformation | Cartoon | micky mouse",
@@ -28,8 +28,8 @@
           "url": "https://www.youtube.com/watch?v=egYPvaQol-c",
           "published_at": "2026-11-23T17:30:15Z",
           "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 4685,
-          "observed_growth_per_hour": null,
+          "views": 6902,
+          "observed_growth_per_hour": 185.4,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "swap"
@@ -42,8 +42,8 @@
           "url": "https://www.youtube.com/watch?v=C6LUDRBGLPk",
           "published_at": "2026-11-23T15:23:23Z",
           "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 3143,
-          "observed_growth_per_hour": null,
+          "views": 5929,
+          "observed_growth_per_hour": 233.0,
           "ai_evidence": "作者文字自述AI",
           "actions": [
             "swap"
@@ -52,253 +52,7 @@
       ]
     },
     {
-      "anchor": "all characters",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.67,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🔥 Mr Bean All Cartoon Characters In Real Life  | Real  Farmer Look | Ai Generated Transformation ",
-          "channel": "TURN TO REAL",
-          "channel_id": "UCsR421ZqzvIkTuP13_2W3LA",
-          "url": "https://www.youtube.com/watch?v=7xOXBMYyFf8",
-          "published_at": "2026-11-23T03:00:22Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 36932,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Mr Bean All Cartoon Characters In Real Life | Real Child Look | AI Generated Transformation",
-          "channel": "Toon Rivora",
-          "channel_id": "UC9EDYEukGzKvCbzusBdJ0sg",
-          "url": "https://www.youtube.com/watch?v=GfyoQ45VjB0",
-          "published_at": "2026-11-23T03:41:11Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 19753,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Shiva Cartoon All Characters As Girls | Female Life Version AI Transformation | Realistic Look",
-          "channel": "Subham Varma official",
-          "channel_id": "UCq620dzZvX0YeQcYMYqm47Q",
-          "url": "https://www.youtube.com/watch?v=zpOipDTMMSc",
-          "published_at": "2026-11-23T06:02:21Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 474,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "mr bean characters",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": false,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "What If Mr. Bean Characters Were CHILDREN? 🥹🔥 | AI Transformation",
-          "channel": "DreamyNights",
-          "channel_id": "UCeHJsjH9g7gcv4qKPdj8x7A",
-          "url": "https://www.youtube.com/watch?v=RyFAyzfoQT8",
-          "published_at": "2026-11-23T14:26:58Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 6432,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Mr bean Characters as Babies! 🍼👶🏻 Cutest AI Transformation ",
-          "channel": "Rk cartoon menia",
-          "channel_id": "UC0-_mUHMyjBCmykMGkWDGtQ",
-          "url": "https://www.youtube.com/watch?v=NCk92JJknsk",
-          "published_at": "2026-11-23T11:59:37Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 5950,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "sheru bhai",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "SHERU BHAI #explorepage #aivideo #aishorts #sherubhaiai #trending #trend #reels #shorts #viral",
-          "channel": "telugu ai creator ",
-          "channel_id": "UCP4rMGAPTd7M3UbNjQ6tInA",
-          "url": "https://www.youtube.com/watch?v=g0MI1dKDytk",
-          "published_at": "2026-11-23T13:40:37Z",
-          "first_seen_at": "2026-11-23T14:37:25Z",
-          "views": 2668,
-          "observed_growth_per_hour": 197.9,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "sheru bhai ki sad story 😢 #trend #viral #ytstudio #sheru #aivideo",
-          "channel": "sheru bhaii",
-          "channel_id": "UCZL9ucJfc5DVzzM7I0CPlnw",
-          "url": "https://www.youtube.com/watch?v=KcICkLwca-Q",
-          "published_at": "2026-11-23T12:41:07Z",
-          "first_seen_at": "2026-11-23T14:37:25Z",
-          "views": 0,
-          "observed_growth_per_hour": 0.0,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "characters as",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Mr bean Characters as Babies! 🍼👶🏻 Cutest AI Transformation ",
-          "channel": "Rk cartoon menia",
-          "channel_id": "UC0-_mUHMyjBCmykMGkWDGtQ",
-          "url": "https://www.youtube.com/watch?v=NCk92JJknsk",
-          "published_at": "2026-11-23T11:59:37Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 5950,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
-        },
-        {
-          "title": "Shiva Cartoon All Characters As Girls | Female Life Version AI Transformation | Realistic Look",
-          "channel": "Subham Varma official",
-          "channel_id": "UCq620dzZvX0YeQcYMYqm47Q",
-          "url": "https://www.youtube.com/watch?v=zpOipDTMMSc",
-          "published_at": "2026-11-23T06:02:21Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 474,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#aifashion",
-      "anchor_type": "tag",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Magical Jeweled Snake Transforms Into a Luxury High Heel! 😍✨ #Shorts # #aifashion #aitransformation",
-          "channel": "Magic Glam Studio",
-          "channel_id": "UClSpdmkHESXZUXl0xPn14ow",
-          "url": "https://www.youtube.com/watch?v=M_s1Zyrn0OA",
-          "published_at": "2026-11-23T10:00:35Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 10583,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
-        },
-        {
-          "title": "Ai Fashion 💞  #aishorts #viral #trending #fashionshow #aivideo #designer",
-          "channel": "Muqadam Tv",
-          "channel_id": "UCMeOOHBtGsEpUJgZQvqPtNw",
-          "url": "https://www.youtube.com/watch?v=ztSFN5i-lsg",
-          "published_at": "2026-11-23T09:25:15Z",
-          "first_seen_at": "2026-11-23T14:37:25Z",
-          "views": 130,
-          "observed_growth_per_hour": 2.8,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "mr bean all characters",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
-      "ai_claimed_channels": 2,
-      "video_count": 2,
-      "title_actions_shared": [],
-      "classification": "possible_reuploads",
-      "near_duplicate_caption_fraction": 1.0,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 12,
-      "examples": [
-        {
-          "title": "🔥 Mr Bean All Cartoon Characters In Real Life  | Real  Farmer Look | Ai Generated Transformation ",
-          "channel": "TURN TO REAL",
-          "channel_id": "UCsR421ZqzvIkTuP13_2W3LA",
-          "url": "https://www.youtube.com/watch?v=7xOXBMYyFf8",
-          "published_at": "2026-11-23T03:00:22Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 36932,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Mr Bean All Cartoon Characters In Real Life | Real Child Look | AI Generated Transformation",
-          "channel": "Toon Rivora",
-          "channel_id": "UC9EDYEukGzKvCbzusBdJ0sg",
-          "url": "https://www.youtube.com/watch?v=GfyoQ45VjB0",
-          "published_at": "2026-11-23T03:41:11Z",
-          "first_seen_at": "2026-11-24T02:54:18Z",
-          "views": 19753,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "#lifeisbutadream",
+      "anchor": "#wildlife",
       "anchor_type": "tag",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -310,26 +64,26 @@
       "priority_points_not_seo_score": 12,
       "examples": [
         {
-          "title": "#song #music #lifeisbutadream #ai #aivideo #hindisong #shorts #trend",
-          "channel": "Shivam Ahir Yadav",
-          "channel_id": "UC-GFKpo8TqlnFE7WafnZusQ",
-          "url": "https://www.youtube.com/watch?v=P3DSxxxxcrI",
-          "published_at": "2026-11-23T09:28:36Z",
-          "first_seen_at": "2026-11-23T14:37:25Z",
-          "views": 577,
-          "observed_growth_per_hour": 8.1,
+          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "Ai trend channel ",
+          "channel_id": "UCbklYlb9T-qzDpefsCbRDZw",
+          "url": "https://www.youtube.com/watch?v=rXBZ-J9zFdY",
+          "published_at": "2026-11-24T08:13:29Z",
+          "first_seen_at": "2026-11-24T14:51:35Z",
+          "views": 1323,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "#10k #automobile #lifeisbutadream #trend #ihavethisthingwithplants #ai #edit #aivideo",
-          "channel": "Prajapati Vipul",
-          "channel_id": "UCkN0MD-iLHlJMWsrFcpi9oQ",
-          "url": "https://www.youtube.com/watch?v=Vhen8Qwdqs4",
-          "published_at": "2026-11-23T11:21:50Z",
-          "first_seen_at": "2026-11-23T14:37:25Z",
-          "views": 0,
-          "observed_growth_per_hour": 0.0,
+          "title": "Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife",
+          "channel": "Feelsfly",
+          "channel_id": "UCFtPMg3oUm2D5ueS8KFCubQ",
+          "url": "https://www.youtube.com/watch?v=6yB9cv7cteM",
+          "published_at": "2026-11-24T03:45:17Z",
+          "first_seen_at": "2026-11-24T14:51:35Z",
+          "views": 1267,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
