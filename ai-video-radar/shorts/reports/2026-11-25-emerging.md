@@ -1,8 +1,8 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-25 08:43
-- 数据库视频：2220；24小时内且有频道ID的非教程候选：197
-- 自动发现跨账号同名/同词线索：2
+- 最新成功快照（北京）：2026-11-25 22:21
+- 数据库视频：2127；24小时内且有频道ID的非教程候选：144
+- 自动发现跨账号同名/同词线索：0
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
 
@@ -13,34 +13,12 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. #wildlife
-
-- 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：3；其中AI文字自述频道：3；视频：3
-- 相同动作词：无；主文案复用比例：67%；人工复核优先级分：35/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Preyward | [Talons First! An Osprey's Fish Catch 🐟 #shorts](https://www.youtube.com/watch?v=UrDj7EjoQXU) | 2026-11-24 21:45 | 2026-11-25 08:43 | 7494 | 待多次采样 | 作者文字自述AI |
-| Ai trend channel  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=rXBZ-J9zFdY) | 2026-11-24 16:13 | 2026-11-24 22:51 | 1418 | 9.6 | 作者文字自述AI |
-| Feelsfly | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=6yB9cv7cteM) | 2026-11-24 11:45 | 2026-11-24 22:51 | 1286 | 1.9 | 作者文字自述AI |
-
-### 2. #animallife
-
-- 初判：多账号粘贴近似相同标题——疑似批量转发，未证实独立创作；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：100%；人工复核优先级分：12/100（并非SEO评分）
-
-| 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
-|---|---|---|---|---:|---:|---|
-| Ai trend channel  | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=rXBZ-J9zFdY) | 2026-11-24 16:13 | 2026-11-24 22:51 | 1418 | 9.6 | 作者文字自述AI |
-| Feelsfly | [Ai animation cat video #cat #pets #3danimation #wildlife #funny #animallife](https://www.youtube.com/watch?v=6yB9cv7cteM) | 2026-11-24 11:45 | 2026-11-24 22:51 | 1286 | 1.9 | 作者文字自述AI |
-
+本轮没有足够具体且由两个独立作者共同使用的名字或标签。
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
 | 作者 | 具体视频（原链接） | 播放层级 | 原发布（北京） | 首见（北京） | 观看量 | 真实采样增速/时 |
 |---|---|---|---|---|---:|---:|
-| Laugh Riot Daily 😂🔥 | [What If Michael Jackson’s Dance Style Got a 2026 Makeover? 🔥](https://www.youtube.com/watch?v=3cEXu30YRHU) | 10万级早期观察，不是爆款 | 2026-11-24 19:47 | 2026-11-25 08:43 | 167565 | 待二次采样 |
+| — | 本轮没有达到10万播放的单作者候选 | — | — | — | — | — |
 
 ## 人工核验清单
 
