@@ -1,10 +1,96 @@
 {
-  "built_at": "2026-11-24T14:51:38.622682+00:00",
-  "source_snapshot_at": "2026-11-24T14:51:35Z",
-  "snapshot_video_count": 2232,
-  "named_theme_count": 0,
+  "built_at": "2026-11-25T00:44:00.969254+00:00",
+  "source_snapshot_at": "2026-11-25T00:43:57Z",
+  "snapshot_video_count": 2220,
+  "named_theme_count": 1,
   "claimed_multi_creator_themes": 0,
   "confirmed_new_seo_keywords": 0,
-  "themes": [],
+  "themes": [
+    {
+      "theme_id": "jhinga_lala",
+      "name": "Jhinga Lala Hu Hu / 印度舞蹈搞笑旧梗",
+      "status": "已有玩法/不算今日新词",
+      "verdict": "排除今日新增词；只做历史/现有竞品跟踪",
+      "concept": "跟随现有口号/音乐进行搞笑短舞",
+      "input": "自有授权素材或本人肖像",
+      "risk": "音频版权、模仿素材授权与批量搬运",
+      "caution": "9月已有AI舞蹈作品；多个账号相同标题不等于新趋势首发或真正独立模仿",
+      "existing_before": "2026-09-15",
+      "previous_evidence_url": "https://www.youtube.com/watch?v=hFpsTmThUpo",
+      "videos": 5,
+      "channel_count": 2,
+      "claimed_ai_creations": 0,
+      "independent_claimed_creator_count": 0,
+      "max_observed_views": 7042,
+      "first_observed_at": "2026-11-25T00:43:57Z",
+      "examples": [
+        {
+          "video_id": "AcnTWEgWv18",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=AcnTWEgWv18",
+          "channel": "Cute Raahi's Dairy ",
+          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
+          "published_at": "2026-11-24T06:30:33Z",
+          "first_seen_at": "2026-11-25T00:43:57Z",
+          "views": 7042,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "FH0eeq4DngY",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=FH0eeq4DngY",
+          "channel": "Cute Raahi's Dairy ",
+          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
+          "published_at": "2026-11-24T01:15:32Z",
+          "first_seen_at": "2026-11-25T00:43:57Z",
+          "views": 6614,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "QzE0STIu6Yo",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=QzE0STIu6Yo",
+          "channel": "Cute Raahi's Dairy ",
+          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
+          "published_at": "2026-11-24T08:10:22Z",
+          "first_seen_at": "2026-11-25T00:43:57Z",
+          "views": 5571,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "Xv_ZcxEN4Pw",
+          "title": "Jhinga lala hu hu kaka dada mama 😂#funny​ #comedy​ #dance​ #ai​ #reels​ #youtubeshorts",
+          "url": "https://www.youtube.com/watch?v=Xv_ZcxEN4Pw",
+          "channel": "Cute Raahi's Dairy ",
+          "channel_id": "UCQCAyo0KXiTJcPzWIWAs-Ew",
+          "published_at": "2026-11-24T01:00:30Z",
+          "first_seen_at": "2026-11-25T00:43:57Z",
+          "views": 4414,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        },
+        {
+          "video_id": "SABxSqx2sOw",
+          "title": "Jhinga lala hu hu kaka dada mama😂🤣#comedy #funny #dance #ai #reels #youtubeshorts #shorts #trending",
+          "url": "https://www.youtube.com/watch?v=SABxSqx2sOw",
+          "channel": "Nkg kushvaha ",
+          "channel_id": "UCJXCZ7ToOz2gZT4YqLcxNSw",
+          "published_at": "2026-11-24T02:41:05Z",
+          "first_seen_at": "2026-11-25T00:43:57Z",
+          "views": 2266,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未核实",
+          "creative_claimed": false
+        }
+      ]
+    }
+  ],
   "unmatched_creative_candidates": []
 }
