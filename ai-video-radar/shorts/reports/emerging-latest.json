@@ -1,49 +1,59 @@
 {
-  "generated_at": "2026-11-26T00:20:15.120752+00:00",
-  "source_snapshot_at": "2026-11-26T00:20:11Z",
-  "source_video_count": 2185,
-  "published_last_24h_with_channel": 214,
+  "generated_at": "2026-11-26T13:53:17.814190+00:00",
+  "source_snapshot_at": "2026-11-26T13:53:14Z",
+  "source_video_count": 2105,
+  "published_last_24h_with_channel": 167,
   "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
-      "anchor": "mr bean all characters",
-      "anchor_type": "phrase",
-      "unique_channels": 2,
+      "anchor": "#animasi",
+      "anchor_type": "tag",
+      "unique_channels": 3,
       "ai_claimed_channels": 2,
-      "video_count": 2,
+      "video_count": 3,
       "title_actions_shared": [],
       "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.5,
+      "near_duplicate_caption_fraction": 0.33,
       "previously_observed_older_video": true,
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "🔥 Mr Bean All Cartoon Characters In Real Life  | Real  Child Look | Ai Generated Transformation p-3",
-          "channel": "TURN TO REAL",
-          "channel_id": "UCsR421ZqzvIkTuP13_2W3LA",
-          "url": "https://www.youtube.com/watch?v=sFT8Ngj7lbE",
-          "published_at": "2026-11-25T03:00:29Z",
-          "first_seen_at": "2026-11-26T00:20:11Z",
-          "views": 24298,
+          "title": "Tragedi Dompet Tipis Siklus Gaji Sehari - 11  #aianimation #animasi #aivideo #aimotiongraphics",
+          "channel": "Relatable Story",
+          "channel_id": "UCjbk6Nyg9NOfaBncKKzhwNw",
+          "url": "https://www.youtube.com/watch?v=54989r1dRx0",
+          "published_at": "2026-11-25T19:48:29Z",
+          "first_seen_at": "2026-11-26T13:53:14Z",
+          "views": 1477,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "🔥Mr Bean All Cartoon Characters In Christmas Life || Cartoon Ai Transformation",
-          "channel": "Enjoyment_Mithun",
-          "channel_id": "UC_UGVvSDRq6_OShGPPWuTJg",
-          "url": "https://www.youtube.com/watch?v=Io7iEH0SUto",
-          "published_at": "2026-11-25T05:30:10Z",
-          "first_seen_at": "2026-11-26T00:20:11Z",
-          "views": 2560,
+          "title": "Waduh! Mainan Fatimah dikuasai monster kuman! #edukasi #aianimation #animasi",
+          "channel": "Fatimah Child's",
+          "channel_id": "UCdbe2YOJOt8sMzlXflc7jNA",
+          "url": "https://www.youtube.com/watch?v=AoTsWsw7U-w",
+          "published_at": "2026-11-26T02:00:30Z",
+          "first_seen_at": "2026-11-26T13:53:14Z",
+          "views": 1371,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "transform"
-          ]
+          "actions": []
+        },
+        {
+          "title": "perang tersingkat di dunia, cuma 38 menit #shorts #fypシ #funny  #ai #animasi #misteri #animation",
+          "channel": "si penasaran sejarah",
+          "channel_id": "UClbqbNVrBr0ATybU_144BVw",
+          "url": "https://www.youtube.com/watch?v=jubxadeTxE8",
+          "published_at": "2026-11-25T14:04:19Z",
+          "first_seen_at": "2026-11-26T13:53:14Z",
+          "views": 1229,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
         }
       ]
     }

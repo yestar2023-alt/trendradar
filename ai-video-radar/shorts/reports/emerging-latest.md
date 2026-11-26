@@ -1,7 +1,7 @@
 # AI Shorts 自动新玩法挖掘（动态提名，非已验证爆款）
 
-- 最新成功快照（北京）：2026-11-26 08:20
-- 数据库视频：2185；24小时内且有频道ID的非教程候选：214
+- 最新成功快照（北京）：2026-11-26 21:53
+- 数据库视频：2105；24小时内且有频道ID的非教程候选：167
 - 自动发现跨账号同名/同词线索：1
 - 其中“同名+共同动作词+至少2个AI自述账号”：0
 - 已独立核实的新 SEO 关键词：**0（需核验画面、模仿和 SERP）**
@@ -13,16 +13,17 @@
 
 ## 自动发现的跨作者同名候选（最多15组）
 
-### 1. mr bean all characters
+### 1. #animasi
 
 - 初判：仅同名/同题材——未确认同一效果；历史快照里是否发现更早视频：是
-- 独立频道：2；其中AI文字自述频道：2；视频：2
-- 相同动作词：无；主文案复用比例：50%；人工复核优先级分：35/100（并非SEO评分）
+- 独立频道：3；其中AI文字自述频道：2；视频：3
+- 相同动作词：无；主文案复用比例：33%；人工复核优先级分：35/100（并非SEO评分）
 
 | 作者频道 | 原视频 | 发布时间（北京） | 本系统首见（北京） | 播放量 | 采样增速/小时 | AI证据 |
 |---|---|---|---|---:|---:|---|
-| TURN TO REAL | [🔥 Mr Bean All Cartoon Characters In Real Life  / Real  Child Look / Ai Generated Transformation p-3](https://www.youtube.com/watch?v=sFT8Ngj7lbE) | 2026-11-25 11:00 | 2026-11-26 08:20 | 24298 | 待多次采样 | 作者文字自述AI |
-| Enjoyment_Mithun | [🔥Mr Bean All Cartoon Characters In Christmas Life // Cartoon Ai Transformation](https://www.youtube.com/watch?v=Io7iEH0SUto) | 2026-11-25 13:30 | 2026-11-26 08:20 | 2560 | 待多次采样 | 作者文字自述AI |
+| Relatable Story | [Tragedi Dompet Tipis Siklus Gaji Sehari - 11  #aianimation #animasi #aivideo #aimotiongraphics](https://www.youtube.com/watch?v=54989r1dRx0) | 2026-11-26 03:48 | 2026-11-26 21:53 | 1477 | 待多次采样 | 作者文字自述AI |
+| Fatimah Child's | [Waduh! Mainan Fatimah dikuasai monster kuman! #edukasi #aianimation #animasi](https://www.youtube.com/watch?v=AoTsWsw7U-w) | 2026-11-26 10:00 | 2026-11-26 21:53 | 1371 | 待多次采样 | 作者文字自述AI |
+| si penasaran sejarah | [perang tersingkat di dunia, cuma 38 menit #shorts #fypシ #funny  #ai #animasi #misteri #animation](https://www.youtube.com/watch?v=jubxadeTxE8) | 2026-11-25 22:04 | 2026-11-26 21:53 | 1229 | 待多次采样 | AI制作未验证 |
 
 ## 单作者观察名单（至少10万播放；不足百万不叫爆款）
 
