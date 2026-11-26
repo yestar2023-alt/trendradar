@@ -1,11 +1,52 @@
 {
-  "generated_at": "2026-11-25T14:21:08.236648+00:00",
-  "source_snapshot_at": "2026-11-25T14:21:05Z",
-  "source_video_count": 2127,
-  "published_last_24h_with_channel": 144,
-  "shared_name_groups": 0,
+  "generated_at": "2026-11-26T00:20:15.120752+00:00",
+  "source_snapshot_at": "2026-11-26T00:20:11Z",
+  "source_video_count": 2185,
+  "published_last_24h_with_channel": 214,
+  "shared_name_groups": 1,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [],
+  "cross_creator_groups": [
+    {
+      "anchor": "mr bean all characters",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "🔥 Mr Bean All Cartoon Characters In Real Life  | Real  Child Look | Ai Generated Transformation p-3",
+          "channel": "TURN TO REAL",
+          "channel_id": "UCsR421ZqzvIkTuP13_2W3LA",
+          "url": "https://www.youtube.com/watch?v=sFT8Ngj7lbE",
+          "published_at": "2026-11-25T03:00:29Z",
+          "first_seen_at": "2026-11-26T00:20:11Z",
+          "views": 24298,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "🔥Mr Bean All Cartoon Characters In Christmas Life || Cartoon Ai Transformation",
+          "channel": "Enjoyment_Mithun",
+          "channel_id": "UC_UGVvSDRq6_OShGPPWuTJg",
+          "url": "https://www.youtube.com/watch?v=Io7iEH0SUto",
+          "published_at": "2026-11-25T05:30:10Z",
+          "first_seen_at": "2026-11-26T00:20:11Z",
+          "views": 2560,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "transform"
+          ]
+        }
+      ]
+    }
+  ],
   "high_velocity_single_creator_watchlist": []
 }
