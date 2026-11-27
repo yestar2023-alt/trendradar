@@ -1,9 +1,9 @@
 # 新词机会报告 · AI 视频
 
-- 检查时间（UTC）：**2026-11-26T05:29:54+00:00**
-- 全部候选节点：**4010**
-- 高优先级：**6**
-- 排除明显噪音：**1231**
+- 检查时间（UTC）：**2026-11-27T05:24:55+00:00**
+- 全部候选节点：**4153**
+- 高优先级：**7**
+- 排除明显噪音：**1336**
 - 本轮真实 SERP 请求：**0**
 - 已核验前十结果：**0**
 - SERP 凭证可用：**否**
@@ -20,14 +20,15 @@
 | [can chatgpt make videos](https://www.google.com/search?q=can+chatgpt+make+videos&gl=us&hl=en) | 82 | 140.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [image to video ai free unlimited without login](https://www.google.com/search?q=image+to+video+ai+free+unlimited+without+login&gl=us&hl=en) | 79 | 110.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [free ai video generator](https://www.google.com/search?q=free+ai+video+generator&gl=us&hl=en) | 65 | 80.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
+| [ai rapper voice generator free](https://www.google.com/search?q=ai+rapper+voice+generator+free&gl=us&hl=en) | 62 | 19800.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 
 ## 完整分类统计
 | 状态 | 数量 |
 |---|---:|
-| EXCLUDED_NOISE | 1231 |
-| HIGH_PRIORITY_RESEARCH | 6 |
-| RESEARCH_QUEUE | 2662 |
-| WATCH_ONLY | 111 |
+| EXCLUDED_NOISE | 1336 |
+| HIGH_PRIORITY_RESEARCH | 7 |
+| RESEARCH_QUEUE | 2685 |
+| WATCH_ONLY | 125 |
 
 注意：首次观察并不等于关键词刚诞生。仅相关查询暴涨不能证明真实可获得流量。
 未配置 SERPER_API_KEY 时自动保留待验证状态及 Google 搜索链接；不调用付费服务。

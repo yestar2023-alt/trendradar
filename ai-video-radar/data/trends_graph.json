@@ -11449,7 +11449,8 @@
         "ai image to video",
         "free image to video",
         "free ai image to video",
-        "free image to video generator"
+        "free image to video generator",
+        "ai voice generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "QUEUED",
@@ -13776,7 +13777,8 @@
         "free ai image to video",
         "image to video ai generator",
         "free image to video generator",
-        "best image to video ai"
+        "best image to video ai",
+        "ai voice generator"
       ],
       "first_observed_at": "2026-11-12T16:17:11+00:00",
       "status": "CHECKED",
@@ -57479,7 +57481,9 @@
     "ai character voice generator": {
       "keyword": "ai character voice generator",
       "depth": 0,
-      "parents": [],
+      "parents": [
+        "ai voice generator"
+      ],
       "first_observed_at": "2026-11-13",
       "status": "QUEUED",
       "last_checked_at": null,
@@ -61391,12 +61395,697 @@
         "ai logo generator"
       ],
       "first_observed_at": "2026-11-15T03:08:36+00:00",
-      "status": "QUEUED",
-      "last_checked_at": null,
+      "status": "CHECKED",
+      "last_checked_at": "2026-11-27T05:24:53+00:00",
       "next_check_at": null,
-      "rising": [],
-      "top": [],
-      "interest_over_time": []
+      "rising": [
+        {
+          "query": "ai rapper voice generator free",
+          "value": 19800,
+          "formatted_value": "Breakout",
+          "link": "https://trends.google.com/trends/explore?q=ai+rapper+voice+generator+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "super smash bros.4/ultimate announcer ai voice generator",
+          "value": 19200,
+          "formatted_value": "Breakout",
+          "link": "https://trends.google.com/trends/explore?q=super+smash+bros.4/ultimate+announcer+ai+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "chatterbox ai",
+          "value": 16850,
+          "formatted_value": "Breakout",
+          "link": "https://trends.google.com/trends/explore?q=chatterbox+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai rapper voice generator",
+          "value": 70,
+          "formatted_value": "+70%",
+          "link": "https://trends.google.com/trends/explore?q=ai+rapper+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "google ai voice generator text to speech",
+          "value": 40,
+          "formatted_value": "+40%",
+          "link": "https://trends.google.com/trends/explore?q=google+ai+voice+generator+text+to+speech&date=now+7-d&geo=US"
+        }
+      ],
+      "top": [
+        {
+          "query": "ai voice generator free",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=ai+voice+generator+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "free voice generator",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=free+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "text to voice",
+          "value": 49,
+          "formatted_value": "49",
+          "link": "https://trends.google.com/trends/explore?q=text+to+voice&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai text to voice generator",
+          "value": 48,
+          "formatted_value": "48",
+          "link": "https://trends.google.com/trends/explore?q=ai+text+to+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "text to voice generator",
+          "value": 48,
+          "formatted_value": "48",
+          "link": "https://trends.google.com/trends/explore?q=text+to+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "text to speech",
+          "value": 39,
+          "formatted_value": "39",
+          "link": "https://trends.google.com/trends/explore?q=text+to+speech&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai voice generator text to speech",
+          "value": 39,
+          "formatted_value": "39",
+          "link": "https://trends.google.com/trends/explore?q=ai+voice+generator+text+to+speech&date=now+7-d&geo=US"
+        },
+        {
+          "query": "voice generator text to speech",
+          "value": 39,
+          "formatted_value": "39",
+          "link": "https://trends.google.com/trends/explore?q=voice+generator+text+to+speech&date=now+7-d&geo=US"
+        },
+        {
+          "query": "text to speech free",
+          "value": 20,
+          "formatted_value": "20",
+          "link": "https://trends.google.com/trends/explore?q=text+to+speech+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "best ai voice generator",
+          "value": 19,
+          "formatted_value": "19",
+          "link": "https://trends.google.com/trends/explore?q=best+ai+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "free ai voice generator text to speech",
+          "value": 18,
+          "formatted_value": "18",
+          "link": "https://trends.google.com/trends/explore?q=free+ai+voice+generator+text+to+speech&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai audio generator",
+          "value": 17,
+          "formatted_value": "17",
+          "link": "https://trends.google.com/trends/explore?q=ai+audio+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai voice song generator",
+          "value": 16,
+          "formatted_value": "16",
+          "link": "https://trends.google.com/trends/explore?q=ai+voice+song+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai song generator",
+          "value": 15,
+          "formatted_value": "15",
+          "link": "https://trends.google.com/trends/explore?q=ai+song+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "google ai voice generator",
+          "value": 13,
+          "formatted_value": "13",
+          "link": "https://trends.google.com/trends/explore?q=google+ai+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "free ai video generator",
+          "value": 12,
+          "formatted_value": "12",
+          "link": "https://trends.google.com/trends/explore?q=free+ai+video+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai voice over generator",
+          "value": 11,
+          "formatted_value": "11",
+          "link": "https://trends.google.com/trends/explore?q=ai+voice+over+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai music generator",
+          "value": 10,
+          "formatted_value": "10",
+          "link": "https://trends.google.com/trends/explore?q=ai+music+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai voice over",
+          "value": 10,
+          "formatted_value": "10",
+          "link": "https://trends.google.com/trends/explore?q=ai+voice+over&date=now+7-d&geo=US"
+        },
+        {
+          "query": "best ai voice generator free",
+          "value": 9,
+          "formatted_value": "9",
+          "link": "https://trends.google.com/trends/explore?q=best+ai+voice+generator+free&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai image generator",
+          "value": 8,
+          "formatted_value": "8",
+          "link": "https://trends.google.com/trends/explore?q=ai+image+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "fish ai",
+          "value": 8,
+          "formatted_value": "8",
+          "link": "https://trends.google.com/trends/explore?q=fish+ai&date=now+7-d&geo=US"
+        },
+        {
+          "query": "elevenlabs",
+          "value": 8,
+          "formatted_value": "8",
+          "link": "https://trends.google.com/trends/explore?q=elevenlabs&date=now+7-d&geo=US"
+        },
+        {
+          "query": "ai character voice generator",
+          "value": 8,
+          "formatted_value": "8",
+          "link": "https://trends.google.com/trends/explore?q=ai+character+voice+generator&date=now+7-d&geo=US"
+        },
+        {
+          "query": "character voice generator",
+          "value": 7,
+          "formatted_value": "7",
+          "link": "https://trends.google.com/trends/explore?q=character+voice+generator&date=now+7-d&geo=US"
+        }
+      ],
+      "interest_over_time": [
+        {
+          "date": "2026-11-23T02:00:00+00:00",
+          "value": 41,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T03:00:00+00:00",
+          "value": 31,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T04:00:00+00:00",
+          "value": 51,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T05:00:00+00:00",
+          "value": 43,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T06:00:00+00:00",
+          "value": 54,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T07:00:00+00:00",
+          "value": 59,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T08:00:00+00:00",
+          "value": 94,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T09:00:00+00:00",
+          "value": 87,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T13:00:00+00:00",
+          "value": 27,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T14:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T15:00:00+00:00",
+          "value": 30,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T16:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T17:00:00+00:00",
+          "value": 31,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T18:00:00+00:00",
+          "value": 20,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T19:00:00+00:00",
+          "value": 33,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T20:00:00+00:00",
+          "value": 24,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T21:00:00+00:00",
+          "value": 27,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T22:00:00+00:00",
+          "value": 36,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T23:00:00+00:00",
+          "value": 33,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T00:00:00+00:00",
+          "value": 24,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T01:00:00+00:00",
+          "value": 33,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T02:00:00+00:00",
+          "value": 30,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T03:00:00+00:00",
+          "value": 34,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T04:00:00+00:00",
+          "value": 24,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T05:00:00+00:00",
+          "value": 62,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T06:00:00+00:00",
+          "value": 69,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T07:00:00+00:00",
+          "value": 64,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T08:00:00+00:00",
+          "value": 75,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T13:00:00+00:00",
+          "value": 24,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T14:00:00+00:00",
+          "value": 17,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T15:00:00+00:00",
+          "value": 26,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T16:00:00+00:00",
+          "value": 27,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T17:00:00+00:00",
+          "value": 27,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T18:00:00+00:00",
+          "value": 25,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T19:00:00+00:00",
+          "value": 26,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T20:00:00+00:00",
+          "value": 26,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T21:00:00+00:00",
+          "value": 33,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T22:00:00+00:00",
+          "value": 28,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T23:00:00+00:00",
+          "value": 32,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T00:00:00+00:00",
+          "value": 29,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T01:00:00+00:00",
+          "value": 35,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T02:00:00+00:00",
+          "value": 22,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T03:00:00+00:00",
+          "value": 33,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T04:00:00+00:00",
+          "value": 32,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T05:00:00+00:00",
+          "value": 47,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T06:00:00+00:00",
+          "value": 53,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T07:00:00+00:00",
+          "value": 40,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T08:00:00+00:00",
+          "value": 60,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T14:00:00+00:00",
+          "value": 19,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T15:00:00+00:00",
+          "value": 17,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T16:00:00+00:00",
+          "value": 25,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T17:00:00+00:00",
+          "value": 25,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T18:00:00+00:00",
+          "value": 28,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T19:00:00+00:00",
+          "value": 24,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T20:00:00+00:00",
+          "value": 27,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T21:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T22:00:00+00:00",
+          "value": 28,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T23:00:00+00:00",
+          "value": 21,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T00:00:00+00:00",
+          "value": 35,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T01:00:00+00:00",
+          "value": 33,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T02:00:00+00:00",
+          "value": 38,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T03:00:00+00:00",
+          "value": 36,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T04:00:00+00:00",
+          "value": 38,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T05:00:00+00:00",
+          "value": 39,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T06:00:00+00:00",
+          "value": 41,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T07:00:00+00:00",
+          "value": 41,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T08:00:00+00:00",
+          "value": 44,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T14:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T15:00:00+00:00",
+          "value": 25,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T16:00:00+00:00",
+          "value": 19,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T17:00:00+00:00",
+          "value": 19,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T18:00:00+00:00",
+          "value": 21,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T19:00:00+00:00",
+          "value": 15,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T20:00:00+00:00",
+          "value": 21,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T21:00:00+00:00",
+          "value": 22,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T22:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T23:00:00+00:00",
+          "value": 20,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T00:00:00+00:00",
+          "value": 16,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T01:00:00+00:00",
+          "value": 17,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T02:00:00+00:00",
+          "value": 16,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T03:00:00+00:00",
+          "value": 23,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T04:00:00+00:00",
+          "value": 42,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T05:00:00+00:00",
+          "value": 0,
+          "is_partial": true
+        }
+      ],
+      "geo": "US",
+      "timeframe": "now 7-d"
     },
     "canva ai image generator": {
       "keyword": "canva ai image generator",
@@ -64335,12 +65024,535 @@
         "free ai image to video generator"
       ],
       "first_observed_at": "2026-11-17T05:15:56+00:00",
-      "status": "QUEUED",
-      "last_checked_at": null,
+      "status": "CHECKED",
+      "last_checked_at": "2026-11-27T05:24:53+00:00",
       "next_check_at": null,
-      "rising": [],
-      "top": [],
-      "interest_over_time": []
+      "rising": [
+        {
+          "query": "image to video ai free unlimited without login",
+          "value": 1130600,
+          "formatted_value": "Breakout",
+          "link": "https://trends.google.com/trends/explore?q=image+to+video+ai+free+unlimited+without+login&date=now+7-d&geo=US"
+        }
+      ],
+      "top": [
+        {
+          "query": "ai image to video generator free unlimited",
+          "value": 100,
+          "formatted_value": "100",
+          "link": "https://trends.google.com/trends/explore?q=ai+image+to+video+generator+free+unlimited&date=now+7-d&geo=US"
+        },
+        {
+          "query": "image to video ai free unlimited without login",
+          "value": 30,
+          "formatted_value": "30",
+          "link": "https://trends.google.com/trends/explore?q=image+to+video+ai+free+unlimited+without+login&date=now+7-d&geo=US"
+        }
+      ],
+      "interest_over_time": [
+        {
+          "date": "2026-11-23T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T17:00:00+00:00",
+          "value": 100,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-23T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-24T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-25T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T05:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T06:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T07:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T08:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T09:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T10:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T11:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T12:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T13:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T14:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T15:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T16:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T17:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T18:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T19:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T20:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T21:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T22:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-26T23:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T00:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T01:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T02:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T03:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T04:00:00+00:00",
+          "value": 0,
+          "is_partial": false
+        },
+        {
+          "date": "2026-11-27T05:00:00+00:00",
+          "value": 0,
+          "is_partial": true
+        }
+      ],
+      "geo": "US",
+      "timeframe": "now 7-d"
     },
     "chatgpt image generator": {
       "keyword": "chatgpt image generator",
@@ -71126,12 +72338,14 @@
         "image to video ai generator"
       ],
       "first_observed_at": "2026-11-23T04:02:50+00:00",
-      "status": "QUEUED",
-      "last_checked_at": null,
+      "status": "CHECKED",
+      "last_checked_at": "2026-11-27T05:24:53+00:00",
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "geo": "US",
+      "timeframe": "now 7-d"
     },
     "image to video ai free unlimited without login": {
       "keyword": "image to video ai free unlimited without login",
@@ -73246,7 +74460,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "trending black cat funny video edit vn code": {
       "keyword": "trending black cat funny video edit vn code",
@@ -73282,7 +74497,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "thanksgiving bend ai dance": {
       "keyword": "thanksgiving bend ai dance",
@@ -73306,7 +74522,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "show your stance ai trend": {
       "keyword": "show your stance ai trend",
@@ -73318,7 +74535,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "sheru bhai boss entry": {
       "keyword": "sheru bhai boss entry",
@@ -73330,7 +74548,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "rampage dance": {
       "keyword": "rampage dance",
@@ -73354,7 +74573,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "pet taxi ai": {
       "keyword": "pet taxi ai",
@@ -73366,7 +74586,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "pet piano concert guide": {
       "keyword": "pet piano concert guide",
@@ -73378,7 +74599,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "pet piano concert": {
       "keyword": "pet piano concert",
@@ -73390,7 +74612,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "nicole kidman pet dance guide": {
       "keyword": "nicole kidman pet dance guide",
@@ -73426,7 +74649,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "leo cheers ai guide": {
       "keyword": "leo cheers ai guide",
@@ -73438,7 +74662,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "leo cheers ai": {
       "keyword": "leo cheers ai",
@@ -73450,7 +74675,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "laisse tomber les filles trend": {
       "keyword": "laisse tomber les filles trend",
@@ -73462,7 +74688,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "kung fu turkey ai trend": {
       "keyword": "kung fu turkey ai trend",
@@ -73474,7 +74701,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ice drift ai trend": {
       "keyword": "ice drift ai trend",
@@ -73486,7 +74714,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "hunger games dance ai trend": {
       "keyword": "hunger games dance ai trend",
@@ -73510,7 +74739,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "happiness loves silence ai trend": {
       "keyword": "happiness loves silence ai trend",
@@ -73522,7 +74752,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "hand pinch filter ai video": {
       "keyword": "hand pinch filter ai video",
@@ -73546,7 +74777,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "gobble gobble dance ai trend": {
       "keyword": "gobble gobble dance ai trend",
@@ -73570,7 +74802,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "giant statue ai trend": {
       "keyword": "giant statue ai trend",
@@ -73582,7 +74815,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ghost wife halloween ai trend": {
       "keyword": "ghost wife halloween ai trend",
@@ -73594,7 +74828,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "drake burning bridges": {
       "keyword": "drake burning bridges",
@@ -73606,7 +74841,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "dj cooking ai trend": {
       "keyword": "dj cooking ai trend",
@@ -73618,7 +74854,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "desi batman ai trend": {
       "keyword": "desi batman ai trend",
@@ -73630,7 +74867,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "cinematix luxury walk flow ai video prompt": {
       "keyword": "cinematix luxury walk flow ai video prompt",
@@ -73654,7 +74892,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "chibi christmas heart ai": {
       "keyword": "chibi christmas heart ai",
@@ -73666,7 +74905,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "cat funny meme capcut template": {
       "keyword": "cat funny meme capcut template",
@@ -73690,7 +74930,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "baldi": {
       "keyword": "baldi",
@@ -73702,7 +74943,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "baki prisoners meme ai trend": {
       "keyword": "baki prisoners meme ai trend",
@@ -73726,7 +74968,8 @@
       "next_check_at": null,
       "rising": [],
       "top": [],
-      "interest_over_time": []
+      "interest_over_time": [],
+      "quality_gate": "SKIPPED_NOISE"
     },
     "ai surprise kiss video": {
       "keyword": "ai surprise kiss video",
@@ -73745,6 +74988,1776 @@
       "depth": 0,
       "parents": [],
       "first_observed_at": "2026-11-26",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "zodiac birthday ai trend": {
+      "keyword": "zodiac birthday ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "zany dance ai video": {
+      "keyword": "zany dance ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "yagmurda takla ai trend": {
+      "keyword": "yagmurda takla ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "yacht boarding fail ai trend": {
+      "keyword": "yacht boarding fail ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "winter car drift ai video": {
+      "keyword": "winter car drift ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "will byers dance ai trend": {
+      "keyword": "will byers dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "virtual insanity ai trend": {
+      "keyword": "virtual insanity ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "virgen de guadalupe hug ai trend": {
+      "keyword": "virgen de guadalupe hug ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tory lanez freestyle ai trend": {
+      "keyword": "tory lanez freestyle ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "topview drama studio": {
+      "keyword": "topview drama studio",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "tiny me in a box ai trend": {
+      "keyword": "tiny me in a box ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "terminator 2 dance ai trend": {
+      "keyword": "terminator 2 dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "taekwondo kick ai trend": {
+      "keyword": "taekwondo kick ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "suitcase motorcycle ai trend": {
+      "keyword": "suitcase motorcycle ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "stop the truck ai trend": {
+      "keyword": "stop the truck ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "slap contest ai trend": {
+      "keyword": "slap contest ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "show you off ai trend": {
+      "keyword": "show you off ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "shooting range ai trend": {
+      "keyword": "shooting range ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "shidda pampi ai trend": {
+      "keyword": "shidda pampi ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "shiba barber dance ai trend": {
+      "keyword": "shiba barber dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "seesaw bowl catch ai trend": {
+      "keyword": "seesaw bowl catch ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "second day of boxing ai trend": {
+      "keyword": "second day of boxing ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "sammi meri war song template": {
+      "keyword": "sammi meri war song template",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "run around the earth ai trend": {
+      "keyword": "run around the earth ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "rich family ai trend": {
+      "keyword": "rich family ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "red carpet dance ai video": {
+      "keyword": "red carpet dance ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "rain dance": {
+      "keyword": "rain dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "putin trump karaoke ai trend": {
+      "keyword": "putin trump karaoke ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "plane wing pose ai trend": {
+      "keyword": "plane wing pose ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "old couple money slap ai trend": {
+      "keyword": "old couple money slap ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "nyc 360 orbit ai trend": {
+      "keyword": "nyc 360 orbit ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "nursery rhyme video maker": {
+      "keyword": "nursery rhyme video maker",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "no chick fil a sauce ai trend": {
+      "keyword": "no chick fil a sauce ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ninja cat ai trend": {
+      "keyword": "ninja cat ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "monkey vs lions ai trend": {
+      "keyword": "monkey vs lions ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "meu pai paga minha faculdade ai trend": {
+      "keyword": "meu pai paga minha faculdade ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "masterchef cat ai trend": {
+      "keyword": "masterchef cat ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "mama lulwa avengers ai trend": {
+      "keyword": "mama lulwa avengers ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "mal habibi trend": {
+      "keyword": "mal habibi trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kungfu grandpa": {
+      "keyword": "kungfu grandpa",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kung fu wall climb ai trend": {
+      "keyword": "kung fu wall climb ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kung fu panda ai trend": {
+      "keyword": "kung fu panda ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kindness edit": {
+      "keyword": "kindness edit",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "kim jong un uno ai trend": {
+      "keyword": "kim jong un uno ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "khabib vs goat ai trend": {
+      "keyword": "khabib vs goat ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jump and tumble": {
+      "keyword": "jump and tumble",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "jamaican bam bam": {
+      "keyword": "jamaican bam bam",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "istanbul lion ai trend": {
+      "keyword": "istanbul lion ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "if you grab me imma bite you": {
+      "keyword": "if you grab me imma bite you",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ibiza final boss ai trend": {
+      "keyword": "ibiza final boss ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "i want it that way lineup ai trend": {
+      "keyword": "i want it that way lineup ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "i celebrate me": {
+      "keyword": "i celebrate me",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hydraulic press ai video": {
+      "keyword": "hydraulic press ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "his team is losing ai trend": {
+      "keyword": "his team is losing ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "heart frame portrait ai trend": {
+      "keyword": "heart frame portrait ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "halay template": {
+      "keyword": "halay template",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hair restoration machine ai trend": {
+      "keyword": "hair restoration machine ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hair dryer bald prank ai trend": {
+      "keyword": "hair dryer bald prank ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "hair braiding machine ai trend": {
+      "keyword": "hair braiding machine ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta cat on the bus ai trend": {
+      "keyword": "gta cat on the bus ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 pc players ai trend": {
+      "keyword": "gta 6 pc players ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 night drive ai trend": {
+      "keyword": "gta 6 night drive ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gta 6 end of the world ai trend": {
+      "keyword": "gta 6 end of the world ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "grim reaper grandma cat ai trend": {
+      "keyword": "grim reaper grandma cat ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "grew up with gta ai trend": {
+      "keyword": "grew up with gta ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "grandpa said hed handle dinner ai video": {
+      "keyword": "grandpa said hed handle dinner ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "grandma gta ai trend": {
+      "keyword": "grandma gta ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "gobble gobble dance ai video": {
+      "keyword": "gobble gobble dance ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "garbage collector ai trend": {
+      "keyword": "garbage collector ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "freaked out x dilbar": {
+      "keyword": "freaked out x dilbar",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "englishman in new york ai trend": {
+      "keyword": "englishman in new york ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ela ke cavucadinha ai trend": {
+      "keyword": "ela ke cavucadinha ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "drunk garbage truck ai trend": {
+      "keyword": "drunk garbage truck ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "doorframe jump fail ai trend": {
+      "keyword": "doorframe jump fail ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dog playing gta 6 ai trend": {
+      "keyword": "dog playing gta 6 ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dog flipping pancake ai trend": {
+      "keyword": "dog flipping pancake ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dhoom machale wheelie ai trend": {
+      "keyword": "dhoom machale wheelie ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "dart throw ai trend": {
+      "keyword": "dart throw ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cycling parrot ai trend": {
+      "keyword": "cycling parrot ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cozy christmas ai trend": {
+      "keyword": "cozy christmas ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cortis redred dance ai trend": {
+      "keyword": "cortis redred dance ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "copines dance": {
+      "keyword": "copines dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cook pardon": {
+      "keyword": "cook pardon",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "coming up roses": {
+      "keyword": "coming up roses",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cleaning my boyfriends ps5 ai trend": {
+      "keyword": "cleaning my boyfriends ps5 ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "chacha": {
+      "keyword": "chacha",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "cat singing happy birthday ai video": {
+      "keyword": "cat singing happy birthday ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "car entry ai video": {
+      "keyword": "car entry ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "can i help you miss ai video": {
+      "keyword": "can i help you miss ai video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "bodycam ai video generator": {
+      "keyword": "bodycam ai video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "big rocco football skills ai trend": {
+      "keyword": "big rocco football skills ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "big biscuit johnson ai trend": {
+      "keyword": "big biscuit johnson ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "bicycle balance challenge ai trend": {
+      "keyword": "bicycle balance challenge ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "bhangra group": {
+      "keyword": "bhangra group",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "best ai video enhancers for low resolution footage and difficult repairs": {
+      "keyword": "best ai video enhancers for low resolution footage and difficult repairs",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "best ai avatar generators for profile pictures character assets and speaking video": {
+      "keyword": "best ai avatar generators for profile pictures character assets and speaking video",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "bersin jadi ai trend": {
+      "keyword": "bersin jadi ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "beat it soccer fail ai trend": {
+      "keyword": "beat it soccer fail ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "bathroom broadway ai trend": {
+      "keyword": "bathroom broadway ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "baloch girl hunter ai trend": {
+      "keyword": "baloch girl hunter ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "baile de rod y odette ai dance": {
+      "keyword": "baile de rod y odette ai dance",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "autodraft ai": {
+      "keyword": "autodraft ai",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "apsara aali temple": {
+      "keyword": "apsara aali temple",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai toy animation generator": {
+      "keyword": "ai toy animation generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai rap battle trend": {
+      "keyword": "ai rap battle trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai courtroom video generator": {
+      "keyword": "ai courtroom video generator",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai claw machine trend": {
+      "keyword": "ai claw machine trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7688935582801644821": {
+      "keyword": "7688935582801644821",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7672089103164362004": {
+      "keyword": "7672089103164362004",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7629551042761461000": {
+      "keyword": "7629551042761461000",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7625271435673603348": {
+      "keyword": "7625271435673603348",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7598593090240269573": {
+      "keyword": "7598593090240269573",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7551832956181007677": {
+      "keyword": "7551832956181007677",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "7495391928456842549": {
+      "keyword": "7495391928456842549",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "3 hours of sleep dog ai trend": {
+      "keyword": "3 hours of sleep dog ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "2011 jupiter incident ai trend": {
+      "keyword": "2011 jupiter incident ai trend",
+      "depth": 0,
+      "parents": [],
+      "first_observed_at": "2026-11-27",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai rapper voice generator free": {
+      "keyword": "ai rapper voice generator free",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "super smash bros.4/ultimate announcer ai voice generator": {
+      "keyword": "super smash bros.4/ultimate announcer ai voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "chatterbox ai": {
+      "keyword": "chatterbox ai",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai rapper voice generator": {
+      "keyword": "ai rapper voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "google ai voice generator text to speech": {
+      "keyword": "google ai voice generator text to speech",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai voice generator free": {
+      "keyword": "ai voice generator free",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "free voice generator": {
+      "keyword": "free voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "text to voice": {
+      "keyword": "text to voice",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai text to voice generator": {
+      "keyword": "ai text to voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "text to voice generator": {
+      "keyword": "text to voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "text to speech": {
+      "keyword": "text to speech",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai voice generator text to speech": {
+      "keyword": "ai voice generator text to speech",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "voice generator text to speech": {
+      "keyword": "voice generator text to speech",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "text to speech free": {
+      "keyword": "text to speech free",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "best ai voice generator": {
+      "keyword": "best ai voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "free ai voice generator text to speech": {
+      "keyword": "free ai voice generator text to speech",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai audio generator": {
+      "keyword": "ai audio generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai voice song generator": {
+      "keyword": "ai voice song generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai song generator": {
+      "keyword": "ai song generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "google ai voice generator": {
+      "keyword": "google ai voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai voice over generator": {
+      "keyword": "ai voice over generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai music generator": {
+      "keyword": "ai music generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "ai voice over": {
+      "keyword": "ai voice over",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "best ai voice generator free": {
+      "keyword": "best ai voice generator free",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "fish ai": {
+      "keyword": "fish ai",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "elevenlabs": {
+      "keyword": "elevenlabs",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
+      "status": "QUEUED",
+      "last_checked_at": null,
+      "next_check_at": null,
+      "rising": [],
+      "top": [],
+      "interest_over_time": []
+    },
+    "character voice generator": {
+      "keyword": "character voice generator",
+      "depth": 2,
+      "parents": [
+        "ai voice generator"
+      ],
+      "first_observed_at": "2026-11-27T05:24:53+00:00",
       "status": "QUEUED",
       "last_checked_at": null,
       "next_check_at": null,
@@ -79169,16 +82182,256 @@
       "observed_at": "2026-11-25T05:42:34+00:00",
       "formatted_value": "42",
       "value": 42
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai rapper voice generator free",
+      "type": "rising",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "Breakout",
+      "value": 19800
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "super smash bros.4/ultimate announcer ai voice generator",
+      "type": "rising",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "Breakout",
+      "value": 19200
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "chatterbox ai",
+      "type": "rising",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "Breakout",
+      "value": 16850
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai rapper voice generator",
+      "type": "rising",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "+70%",
+      "value": 70
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "google ai voice generator text to speech",
+      "type": "rising",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "+40%",
+      "value": 40
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai voice generator free",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "100",
+      "value": 100
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "free voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "100",
+      "value": 100
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "text to voice",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "49",
+      "value": 49
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai text to voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "48",
+      "value": 48
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "text to voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "48",
+      "value": 48
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "text to speech",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "39",
+      "value": 39
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai voice generator text to speech",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "39",
+      "value": 39
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "voice generator text to speech",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "39",
+      "value": 39
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "text to speech free",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "20",
+      "value": 20
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "best ai voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "19",
+      "value": 19
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "free ai voice generator text to speech",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "18",
+      "value": 18
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai audio generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "17",
+      "value": 17
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai voice song generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "16",
+      "value": 16
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai song generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "15",
+      "value": 15
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "google ai voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "13",
+      "value": 13
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "free ai video generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "12",
+      "value": 12
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai voice over generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "11",
+      "value": 11
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai music generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "10",
+      "value": 10
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai voice over",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "10",
+      "value": 10
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "best ai voice generator free",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "9",
+      "value": 9
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai image generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "8",
+      "value": 8
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "fish ai",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "8",
+      "value": 8
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "elevenlabs",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "8",
+      "value": 8
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "ai character voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "8",
+      "value": 8
+    },
+    {
+      "parent": "ai voice generator",
+      "child": "character voice generator",
+      "type": "top",
+      "observed_at": "2026-11-27T05:24:53+00:00",
+      "formatted_value": "7",
+      "value": 7
     }
   ],
   "last_run": {
-    "checked_at": "2026-11-26T05:29:50+00:00",
-    "new_seeds": 43,
+    "checked_at": "2026-11-27T05:24:53+00:00",
+    "new_seeds": 116,
     "attempted": 3,
     "success": 3,
-    "new_terms": 0,
+    "new_terms": 27,
     "rate_limited": false,
-    "queued": 3968,
+    "queued": 4108,
     "mode": "LIVE_HTTP"
   }
 }
