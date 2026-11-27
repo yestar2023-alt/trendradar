@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-11-27T00:34:46.513959+00:00",
-  "source_snapshot_at": "2026-11-27T00:34:42Z",
-  "source_video_count": 2123,
-  "published_last_24h_with_channel": 180,
+  "generated_at": "2026-11-27T13:50:49.992046+00:00",
+  "source_snapshot_at": "2026-11-27T13:50:46Z",
+  "source_video_count": 2003,
+  "published_last_24h_with_channel": 144,
   "shared_name_groups": 0,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [],
-  "high_velocity_single_creator_watchlist": [
-    {
-      "title": "আলোর পথে এহসান – ৩৭তম পর্ব  ফ্যাক্টরির ষড়যন্ত্রের জাল ছিন্ন করে কি সত্যের জয় হবে?  Islamic Drama",
-      "channel": "Wisehaven  ",
-      "channel_id": "UC6TPOkBRPxd9nEld13n3CQg",
-      "url": "https://www.youtube.com/watch?v=g21R4C3hygI",
-      "published_at": "2026-11-26T07:00:13Z",
-      "first_seen_at": "2026-11-27T00:34:42Z",
-      "views": 237264,
-      "observed_growth_per_hour": null,
-      "ai_evidence": "作者文字自述AI",
-      "actions": [],
-      "suggested_search_phrase_unverified": "এহস ৩৭তম পর টর",
-      "confidence": "单作者、作者自述AI；需核验画面和模仿",
-      "historically_known_named_format": false,
-      "view_tier": "10万级早期观察，不是爆款"
-    }
-  ]
+  "high_velocity_single_creator_watchlist": []
 }
