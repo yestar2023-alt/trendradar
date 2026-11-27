@@ -1,71 +1,127 @@
 ﻿first_observed_date,source,url,url_type,channel,source_listing_title,title_verified,observation
-2026-11-26,Viggle Meme,https://viggle.ai/templates/baldi,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/cat-clap,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/drake-burning-bridges,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/hotel-lobby,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/king-nasir-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/lil-yachty-walkout,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/rampage-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Viggle Meme,https://viggle.ai/templates/toc-toc-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/ai-cat-dance-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/ai-surprise-kiss-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/baki-prisoners-meme-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/chibi-christmas-heart-ai,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/christmas-cat-snow-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/desi-batman-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/dj-cooking-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/ghost-wife-halloween-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/giant-statue-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/glove-knock-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/gobble-gobble-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/gta-wanted-poster-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/happiness-loves-silence-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/hunger-games-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/ice-drift-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/kung-fu-turkey-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/show-your-stance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/skibidi-babidi-boo-freestyle-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/theres-such-a-difference-half-face-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,MakeViral,https://www.makeviral.ai/templates/villain-trend-ai,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/blog/baby-riding-reindeer-with-santa-guide,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/blog/leo-cheers-ai-guide,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/blog/nicole-kidman-pet-dance-guide,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/blog/pet-piano-concert-guide,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/blog/pet-taxi-ai-guide,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/templates/video/baby-riding-reindeer-with-santa,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/templates/video/leo-cheers-ai,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/templates/video/nicole-kidman-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/templates/video/pet-piano-concert,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Zooop,https://zooop.ai/templates/video/pet-taxi-ai,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/aura-farming-boat-dance-ai,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/boyfriend-makeup-prank-filter,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/candle-reveal-ai-video-prompt,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/cat-funny-meme-capcut-template,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/cinematix-luxury-walk-flow-ai-video-prompt,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/eight-legends-trend-tutorial,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/gta-6-apocalypse-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/gta-6-boat-getaway-ai-video-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/gta-6-dj-ai-video-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/gta-6-intro-game-ai-edit-video-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/gta-6-neon-pursuit-drive-ai-video-generator,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/gta-6-police-chase-ai-video-generator,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/hand-of-god-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/hand-pinch-filter-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/hanukkah-ai-video-generator,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/hero-funk-ai-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/kiss-your-phone-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/laisse-tomber-les-filles-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/love-handstand-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/low-budget-amanda-ai-video-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/mexico-pterodactyl-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/my-moon-my-gay-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/pet-red-carpet-arrival-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/ray-ray-wants-answers-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/sheru-bhai-boss-entry,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/stones-to-castle-video-editing-tutorial,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/thanksgiving-bend-ai-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/trending-black-cat-funny-video-edit-vn-code,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/wow-you-can-really-dance-f1-driver-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/wwe-ai-fight-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/you-met-me-at-a-very-chinese-time-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
-2026-11-26,Dreamina,https://dreamina.capcut.com/ai-video/thanksgiving-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/Slow-Motion-share-capcut-slowmotion-newtemplate/7399615679307009335,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/TikTok-Trending-Smoth-SlowMotion-trending-tiktok-pro/7495391928456842549,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/fyp-trend-viraltiktokaudio/7551832956181007677,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/slowmo-slowmotion-for-viral-viraltempalete/7629551042761461000,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/sohanefx-trending-CreateTask-viral/7539912117269417269,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/trendtiktok-newtrend/7672089103164362004,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/viral-fyp-foryou/7598593090240269573,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/viraltiktokaudio-gataonly-slowmotion-tiktoktrend/7552755886771555637,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/viraltiktokaudio-trend-livephoto-viralgroup/7625271435673603348,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,CapCut Trending,https://www.capcut.com/template-detail/viraltiktokaudio-viralgroup-wannabeonyourmind-trend/7688935582801644821,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/2011-jupiter-incident-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/3-hours-of-sleep-dog-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/ai-claw-machine-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/ai-rap-battle-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/baloch-girl-hunter-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/bathroom-broadway-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/beat-it-soccer-fail-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/bersin-jadi-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/bicycle-balance-challenge-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/big-biscuit-johnson-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/big-rocco-football-skills-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/cleaning-my-boyfriends-ps5-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/cortis-redred-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/cozy-christmas-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/cycling-parrot-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/dart-throw-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/dhoom-machale-wheelie-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/dog-flipping-pancake-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/dog-playing-gta-6-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/doorframe-jump-fail-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/drunk-garbage-truck-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/ela-ke-cavucadinha-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/englishman-in-new-york-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/garbage-collector-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/grandma-gta-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/grew-up-with-gta-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/grim-reaper-grandma-cat-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/gta-6-end-of-the-world-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/gta-6-night-drive-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/gta-6-pc-players-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/gta-cat-on-the-bus-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/hair-braiding-machine-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/hair-dryer-bald-prank-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/hair-restoration-machine-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/heart-frame-portrait-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/his-team-is-losing-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/i-want-it-that-way-lineup-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/ibiza-final-boss-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/istanbul-lion-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/khabib-vs-goat-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/kim-jong-un-uno-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/kung-fu-panda-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/kung-fu-wall-climb-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/mama-lulwa-avengers-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/masterchef-cat-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/meu-pai-paga-minha-faculdade-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/monkey-vs-lions-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/ninja-cat-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/no-chick-fil-a-sauce-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/nyc-360-orbit-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/old-couple-money-slap-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/plane-wing-pose-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/putin-trump-karaoke-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/rich-family-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/run-around-the-earth-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/second-day-of-boxing-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/seesaw-bowl-catch-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/shiba-barber-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/shidda-pampi-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/shooting-range-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/show-you-off-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/slap-contest-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/stop-the-truck-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/suitcase-motorcycle-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/taekwondo-kick-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/terminator-2-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/tiny-me-in-a-box-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/tory-lanez-freestyle-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/virgen-de-guadalupe-hug-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/virtual-insanity-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/will-byers-dance-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/yacht-boarding-fail-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/yagmurda-takla-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,MakeViral,https://www.makeviral.ai/templates/zodiac-birthday-ai-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/baile-de-rod-y-odette-ai-dance,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/can-i-help-you-miss-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/cat-singing-happy-birthday-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/gobble-gobble-dance-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/grandpa-said-hed-handle-dinner-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/red-carpet-dance-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/winter-car-drift-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Media.io,https://www.media.io/ai/explore/zone/zany-dance-ai-video,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/ai-courtroom-video-generator,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/ai-toy-animation-generator,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/apsara-aali-temple,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/autodraft-ai,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/best-ai-avatar-generators-for-profile-pictures-character-assets-and-speaking-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/best-ai-video-enhancers-for-low-resolution-footage-and-difficult-repairs,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/bhangra-group,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/bodycam-ai-video-generator,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/car-entry-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/chacha,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/christmas-lights-car-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/coming-up-roses,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/cook-pardon,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/copines-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/freaked-out-x-dilbar,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/halay-template,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/hydraulic-press-ai-video,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/i-celebrate-me,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/if-you-grab-me-imma-bite-you,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/jamaican-bam-bam,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/jump-and-tumble,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/kindness-edit,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/kungfu-grandpa,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/mal-habibi-trend,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/nursery-rhyme-video-maker,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/rain-dance,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/sammi-meri-war-song-template,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/topview-drama-studio,candidate_detail_url,sitemap,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/ai-influencer-creation-tools,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/ai-video-generators-lifelike-motion,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/ai-video-generators-product-ads,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/image-to-video-animation-tools,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/text-to-video-ai-tools-compared,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
+2026-11-27,Dreamina,https://dreamina.capcut.com/ai-video/turn-text-into-video-ai-scene-by-scene,candidate_detail_url,listing,,False,observed_new_since_previous_successful_snapshot_not_publish_date
