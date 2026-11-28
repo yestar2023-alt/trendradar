@@ -1,11 +1,169 @@
 {
-  "generated_at": "2026-11-27T13:50:49.992046+00:00",
-  "source_snapshot_at": "2026-11-27T13:50:46Z",
-  "source_video_count": 2003,
-  "published_last_24h_with_channel": 144,
-  "shared_name_groups": 0,
+  "generated_at": "2026-11-28T00:02:16.791690+00:00",
+  "source_snapshot_at": "2026-11-28T00:02:12Z",
+  "source_video_count": 2080,
+  "published_last_24h_with_channel": 221,
+  "shared_name_groups": 3,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
-  "cross_creator_groups": [],
-  "high_velocity_single_creator_watchlist": []
+  "cross_creator_groups": [
+    {
+      "anchor": "masha bear",
+      "anchor_type": "phrase",
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Masha and the Bear Characters Gender Swap | AI Transformation",
+          "channel": "Rohidas Cartoon Life ",
+          "channel_id": "UCpje-mJsU0TXKjV_5Wn892A",
+          "url": "https://www.youtube.com/watch?v=L_W6NGUl2SQ",
+          "published_at": "2026-11-27T13:30:01Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 11432,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "swap"
+          ]
+        },
+        {
+          "title": "Masha and The Bear All Cartoon Characters in  Wedding version | Ai Generated Transformation ",
+          "channel": "Axxu Toons",
+          "channel_id": "UCpC9ApFimlb_5BePYFIOhoQ",
+          "url": "https://www.youtube.com/watch?v=6W1sd2jI4kI",
+          "published_at": "2026-11-27T01:30:12Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 3269,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Masha and the Bear Cartoon All Characters in VAMPIRE Version 🩸🧛 | Dark Vampire AI Transformation",
+          "channel": "RauSoni2.0",
+          "channel_id": "UCfQ6Zyt7vZMAetdXZGB9Plw",
+          "url": "https://www.youtube.com/watch?v=l522cLAoTyg",
+          "published_at": "2026-11-27T11:04:28Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 3072,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "all characters",
+      "anchor_type": "phrase",
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "🔥 Mr Bean All Cartoon Characters In Real Life  | Real Wedding Look | Ai Generated Transformation",
+          "channel": "TURN TO REAL",
+          "channel_id": "UCsR421ZqzvIkTuP13_2W3LA",
+          "url": "https://www.youtube.com/watch?v=daBc6CigeF8",
+          "published_at": "2026-11-27T03:00:28Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 39905,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Masha and The Bear All Cartoon Characters in  Wedding version | Ai Generated Transformation ",
+          "channel": "Axxu Toons",
+          "channel_id": "UCpC9ApFimlb_5BePYFIOhoQ",
+          "url": "https://www.youtube.com/watch?v=6W1sd2jI4kI",
+          "published_at": "2026-11-27T01:30:12Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 3269,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Masha and the Bear Cartoon All Characters in VAMPIRE Version 🩸🧛 | Dark Vampire AI Transformation",
+          "channel": "RauSoni2.0",
+          "channel_id": "UCfQ6Zyt7vZMAetdXZGB9Plw",
+          "url": "https://www.youtube.com/watch?v=l522cLAoTyg",
+          "published_at": "2026-11-27T11:04:28Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 3072,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "hey bhagwan ek thar",
+      "anchor_type": "phrase",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Hey Bhagwan Ek Thar Dedo Trend 😂💸 | AI Photo Transformation #TrendingAITransformation",
+          "channel": "Usha Sharma",
+          "channel_id": "UCFRr71OK7PTwn_6fEgRjCKg",
+          "url": "https://www.youtube.com/watch?v=Qnj6xfXoAPM",
+          "published_at": "2026-11-27T05:39:15Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 6070,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Hey Bhagwan Ek Thar Dedo 😂 AI Video Editing #shorts #trending #instagram",
+          "channel": "Pratik Tech Guide",
+          "channel_id": "UC6zapJIaAVyqIa1tEl-XnfA",
+          "url": "https://www.youtube.com/watch?v=pw_DRJR4i5U",
+          "published_at": "2026-11-27T13:29:29Z",
+          "first_seen_at": "2026-11-27T13:50:46Z",
+          "views": 1557,
+          "observed_growth_per_hour": 136.3,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    }
+  ],
+  "high_velocity_single_creator_watchlist": [
+    {
+      "title": "November 27, 2026🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light",
+      "channel": "Ghibli world 5yg",
+      "channel_id": "UCK6uh-8HaEZZUjbfyZsF5zQ",
+      "url": "https://www.youtube.com/watch?v=DnqkH0pYlc0",
+      "published_at": "2026-11-27T01:53:26Z",
+      "first_seen_at": "2026-11-28T00:02:12Z",
+      "views": 2073083,
+      "observed_growth_per_hour": null,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [],
+      "suggested_search_phrase_unverified": "november hot summer night",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "百万播放候选，仍需验证AI"
+    }
+  ]
 }
