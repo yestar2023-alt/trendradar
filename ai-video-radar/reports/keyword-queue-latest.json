@@ -1,10 +1,10 @@
 {
-  "checked_date": "2026-11-27",
-  "input_url_rows": 126,
-  "unique_urls_in_batch": 126,
-  "audited_url_rows": 126,
-  "unique_keywords_in_ledger": 3791,
-  "pending_trends": 3791,
+  "checked_date": "2026-11-28",
+  "input_url_rows": 45,
+  "unique_urls_in_batch": 45,
+  "audited_url_rows": 45,
+  "unique_keywords_in_ledger": 3828,
+  "pending_trends": 3828,
   "keywords": {
     "mexico pterodactyl ai trend": {
       "keyword": "mexico pterodactyl ai trend",
@@ -134,6 +134,188 @@
           "url": "https://dreamina.capcut.com/ai-video/old-town-road-ai-video",
           "source": "Dreamina",
           "first_observed_date": "2026-11-15",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "zany dance ai video": {
+      "keyword": "zany dance ai video",
+      "first_observed_date": "2026-11-27",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/zany-dance-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-27",
+          "channel": "listing"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/zany-dance-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "teach me how to dougie ai": {
+      "keyword": "teach me how to dougie ai",
+      "first_observed_date": "2026-11-19",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina",
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/teach-me-how-to-dougie-ai",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-19",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://www.media.io/ai/explore/zone/teach-me-how-to-dougie-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-28",
+          "channel": "listing"
+        }
+      ]
+    },
+    "second day of boxing ai": {
+      "keyword": "second day of boxing ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop",
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/second-day-of-boxing-ai",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://www.media.io/ai/explore/zone/second-day-of-boxing-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-28",
+          "channel": "listing"
+        }
+      ]
+    },
+    "red carpet dance ai video": {
+      "keyword": "red carpet dance ai video",
+      "first_observed_date": "2026-11-27",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/red-carpet-dance-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-27",
+          "channel": "listing"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/red-carpet-dance-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "little house on the prairie ai dance": {
+      "keyword": "little house on the prairie ai dance",
+      "first_observed_date": "2026-11-25",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/little-house-on-the-prairie-ai-dance",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-25",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://www.makeviral.ai/templates/little-house-on-the-prairie-ai-dance",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "kung fu turkey ai trend": {
+      "keyword": "kung fu turkey ai trend",
+      "first_observed_date": "2026-11-26",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/kung-fu-turkey-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-26",
+          "channel": "sitemap"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/kung-fu-turkey-ai-trend",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gobble gobble dance ai video": {
+      "keyword": "gobble gobble dance ai video",
+      "first_observed_date": "2026-11-27",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io",
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/gobble-gobble-dance-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-27",
+          "channel": "listing"
+        },
+        {
+          "url": "https://dreamina.capcut.com/ai-video/gobble-gobble-dance-ai-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
           "channel": "sitemap"
         }
       ]
@@ -1230,6 +1412,709 @@
         }
       ]
     },
+    "yesyes meme": {
+      "keyword": "yesyes meme",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/yesyes-meme",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "yes tokyo ai dance": {
+      "keyword": "yes tokyo ai dance",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/yes-tokyo-ai-dance",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "workday vlog": {
+      "keyword": "workday vlog",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/workday-vlog",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "umbrella ai trend": {
+      "keyword": "umbrella ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/umbrella-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "talking bodies template": {
+      "keyword": "talking bodies template",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/talking-bodies-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "spiderman fridge fail ai trend": {
+      "keyword": "spiderman fridge fail ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/spiderman-fridge-fail-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "sky memorial ai template": {
+      "keyword": "sky memorial ai template",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/sky-memorial-ai-template",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "singing birthday pet ai": {
+      "keyword": "singing birthday pet ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/singing-birthday-pet-ai",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "secret meeting": {
+      "keyword": "secret meeting",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/secret-meeting",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "say it right dance ai": {
+      "keyword": "say it right dance ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/say-it-right-dance-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-28",
+          "channel": "listing"
+        }
+      ]
+    },
+    "random switch ai dance": {
+      "keyword": "random switch ai dance",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/random-switch-ai-dance",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "oiioii review": {
+      "keyword": "oiioii review",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/oiioii-review",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "navier red dress ai trend": {
+      "keyword": "navier red dress ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/navier-red-dress-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "kung fu turkey ai guide": {
+      "keyword": "kung fu turkey ai guide",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/kung-fu-turkey-ai-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "kung fu turkey ai": {
+      "keyword": "kung fu turkey ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/kung-fu-turkey-ai",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "kitchen helper ai template": {
+      "keyword": "kitchen helper ai template",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/kitchen-helper-ai-template",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "if we ever broke up ai dance": {
+      "keyword": "if we ever broke up ai dance",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/if-we-ever-broke-up-ai-dance",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "hold up dance ai trend": {
+      "keyword": "hold up dance ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/hold-up-dance-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "hobby horsing": {
+      "keyword": "hobby horsing",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/hobby-horsing",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "helicopter skydive ai guide": {
+      "keyword": "helicopter skydive ai guide",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/blog/helicopter-skydive-ai-guide",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "helicopter skydive ai": {
+      "keyword": "helicopter skydive ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/helicopter-skydive-ai",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "hanuman ji mahadev blessing": {
+      "keyword": "hanuman ji mahadev blessing",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/hanuman-ji-mahadev-blessing",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "haaland memes": {
+      "keyword": "haaland memes",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/haaland-memes",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta shopping spree ai trend": {
+      "keyword": "gta shopping spree ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/gta-shopping-spree-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "gta cat on the bus ai": {
+      "keyword": "gta cat on the bus ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/gta-cat-on-the-bus-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-28",
+          "channel": "listing"
+        }
+      ]
+    },
+    "gta 6 ai video": {
+      "keyword": "gta 6 ai video",
+      "first_observed_date": "2026-11-20",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/gta-6-ai-video",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-20",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "glove knock filter ai": {
+      "keyword": "glove knock filter ai",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Media.io"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.media.io/ai/explore/zone/glove-knock-filter-ai",
+          "source": "Media.io",
+          "first_observed_date": "2026-11-28",
+          "channel": "listing"
+        }
+      ]
+    },
+    "finger gun alter ego reel prompt": {
+      "keyword": "finger gun alter ego reel prompt",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/finger-gun-alter-ego-reel-prompt",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "drunk santa ai trend": {
+      "keyword": "drunk santa ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/drunk-santa-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "colors of broken heart ai template": {
+      "keyword": "colors of broken heart ai template",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/colors-of-broken-heart-ai-template",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "christmas chibi hearts": {
+      "keyword": "christmas chibi hearts",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Zooop"
+      ],
+      "evidence": [
+        {
+          "url": "https://zooop.ai/templates/video/christmas-chibi-hearts",
+          "source": "Zooop",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "child playing video": {
+      "keyword": "child playing video",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/child-playing-video",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "challenge godzilla": {
+      "keyword": "challenge godzilla",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/challenge-godzilla",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "can i help you miss ai trend": {
+      "keyword": "can i help you miss ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/can-i-help-you-miss-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "black suit boss walk": {
+      "keyword": "black suit boss walk",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/black-suit-boss-walk",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "bad blood template": {
+      "keyword": "bad blood template",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "Dreamina"
+      ],
+      "evidence": [
+        {
+          "url": "https://dreamina.capcut.com/ai-video/bad-blood-template",
+          "source": "Dreamina",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
+    "ana al ghaltan car ai trend": {
+      "keyword": "ana al ghaltan car ai trend",
+      "first_observed_date": "2026-11-28",
+      "last_observed_date": "2026-11-28",
+      "review_status": "PENDING_TRENDS_VERIFICATION",
+      "trends_status": "NOT_CHECKED",
+      "serp_status": "NOT_CHECKED",
+      "sources": [
+        "MakeViral"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.makeviral.ai/templates/ana-al-ghaltan-car-ai-trend",
+          "source": "MakeViral",
+          "first_observed_date": "2026-11-28",
+          "channel": "sitemap"
+        }
+      ]
+    },
     "zodiac birthday ai trend": {
       "keyword": "zodiac birthday ai trend",
       "first_observed_date": "2026-11-27",
@@ -1246,25 +2131,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-27",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "zany dance ai video": {
-      "keyword": "zany dance ai video",
-      "first_observed_date": "2026-11-27",
-      "last_observed_date": "2026-11-27",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/zany-dance-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-27",
-          "channel": "listing"
         }
       ]
     },
@@ -1740,25 +2606,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-27",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "red carpet dance ai video": {
-      "keyword": "red carpet dance ai video",
-      "first_observed_date": "2026-11-27",
-      "last_observed_date": "2026-11-27",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/red-carpet-dance-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-27",
-          "channel": "listing"
         }
       ]
     },
@@ -2557,25 +3404,6 @@
           "source": "MakeViral",
           "first_observed_date": "2026-11-27",
           "channel": "sitemap"
-        }
-      ]
-    },
-    "gobble gobble dance ai video": {
-      "keyword": "gobble gobble dance ai video",
-      "first_observed_date": "2026-11-27",
-      "last_observed_date": "2026-11-27",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/gobble-gobble-dance-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-27",
-          "channel": "listing"
         }
       ]
     },
@@ -3985,25 +4813,6 @@
         }
       ]
     },
-    "kung fu turkey ai trend": {
-      "keyword": "kung fu turkey ai trend",
-      "first_observed_date": "2026-11-26",
-      "last_observed_date": "2026-11-26",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "MakeViral"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.makeviral.ai/templates/kung-fu-turkey-ai-trend",
-          "source": "MakeViral",
-          "first_observed_date": "2026-11-26",
-          "channel": "sitemap"
-        }
-      ]
-    },
     "ice drift ai trend": {
       "keyword": "ice drift ai trend",
       "first_observed_date": "2026-11-26",
@@ -4986,25 +5795,6 @@
       "evidence": [
         {
           "url": "https://www.media.io/ai/explore/zone/little-house-on-the-prairie-ai-dance-old",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-25",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "little house on the prairie ai dance": {
-      "keyword": "little house on the prairie ai dance",
-      "first_observed_date": "2026-11-25",
-      "last_observed_date": "2026-11-25",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/little-house-on-the-prairie-ai-dance",
           "source": "Media.io",
           "first_observed_date": "2026-11-25",
           "channel": "sitemap"
@@ -11148,25 +11938,6 @@
         }
       ]
     },
-    "gta 6 ai video": {
-      "keyword": "gta 6 ai video",
-      "first_observed_date": "2026-11-20",
-      "last_observed_date": "2026-11-20",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Media.io"
-      ],
-      "evidence": [
-        {
-          "url": "https://www.media.io/ai/explore/zone/gta-6-ai-video",
-          "source": "Media.io",
-          "first_observed_date": "2026-11-20",
-          "channel": "sitemap"
-        }
-      ]
-    },
     "gta 6 ai prompt": {
       "keyword": "gta 6 ai prompt",
       "first_observed_date": "2026-11-20",
@@ -11790,25 +12561,6 @@
           "url": "https://www.media.io/ai/explore/zone/8-mile-rap-battle-ai-video",
           "source": "Media.io",
           "first_observed_date": "2026-11-20",
-          "channel": "sitemap"
-        }
-      ]
-    },
-    "teach me how to dougie ai": {
-      "keyword": "teach me how to dougie ai",
-      "first_observed_date": "2026-11-19",
-      "last_observed_date": "2026-11-19",
-      "review_status": "PENDING_TRENDS_VERIFICATION",
-      "trends_status": "NOT_CHECKED",
-      "serp_status": "NOT_CHECKED",
-      "sources": [
-        "Dreamina"
-      ],
-      "evidence": [
-        {
-          "url": "https://dreamina.capcut.com/ai-video/teach-me-how-to-dougie-ai",
-          "source": "Dreamina",
-          "first_observed_date": "2026-11-19",
           "channel": "sitemap"
         }
       ]
