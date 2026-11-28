@@ -1,116 +1,126 @@
 {
-  "generated_at": "2026-11-28T00:02:16.791690+00:00",
-  "source_snapshot_at": "2026-11-28T00:02:12Z",
-  "source_video_count": 2080,
-  "published_last_24h_with_channel": 221,
-  "shared_name_groups": 3,
+  "generated_at": "2026-11-28T07:46:46.192665+00:00",
+  "source_snapshot_at": "2026-11-28T07:46:42Z",
+  "source_video_count": 2118,
+  "published_last_24h_with_channel": 237,
+  "shared_name_groups": 5,
   "independent_claimed_and_same_action_candidates": 0,
   "confirmed_new_seo_keywords": 0,
   "cross_creator_groups": [
     {
+      "anchor": "#explorepage",
+      "anchor_type": "tag",
+      "unique_channels": 3,
+      "ai_claimed_channels": 3,
+      "video_count": 3,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.33,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "SHERU BHAI #explorepage #aivideo #aishorts #sherubhaiai #trending #trend #viral #shorts #reels #ai",
+          "channel": "telugu ai creator ",
+          "channel_id": "UCP4rMGAPTd7M3UbNjQ6tInA",
+          "url": "https://www.youtube.com/watch?v=anOdSdVknSw",
+          "published_at": "2026-11-28T02:10:11Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 1202,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "Dilruba Dilnasheen..❤️|Fact|newsong|#art#ai#aishorts#aivideo  #yt#shorts#short#trend #ytshorts#viral",
+          "channel": "Entertainment zone  ",
+          "channel_id": "UCJTZjHQrxLswhzS0OCU1a1Q",
+          "url": "https://www.youtube.com/watch?v=zpHlj_u3sO4",
+          "published_at": "2026-11-28T01:45:20Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 827,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "#viral#ai#aivideo#fyb #fyp#explore#aishorts #explorepage#trending #trendingshortsi#asmr#trend#dance",
+          "channel": "WonderHub_27",
+          "channel_id": "UC1M8jBY8XuylCaJqvc6N7XQ",
+          "url": "https://www.youtube.com/watch?v=Esr-WFqnqQc",
+          "published_at": "2026-11-27T12:33:39Z",
+          "first_seen_at": "2026-11-27T13:50:46Z",
+          "views": 105,
+          "observed_growth_per_hour": 2.8,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "sheru bhai",
+      "anchor_type": "phrase",
+      "unique_channels": 4,
+      "ai_claimed_channels": 2,
+      "video_count": 4,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.25,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "🦁 SHERU BHAI KI ROYAL ENTRY 🔥 | AI Lion Transformation 😈 #shorts #sheru #oggy #happy #diwali #viral",
+          "channel": "@karan_2K",
+          "channel_id": "UCD-BuOVUdssf9VnKOcOHbMA",
+          "url": "https://www.youtube.com/watch?v=BDs-iTtlr-k",
+          "published_at": "2026-11-27T08:45:36Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 3035,
+          "observed_growth_per_hour": 189.5,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
+        {
+          "title": "SHERU BHAI #explorepage #aivideo #aishorts #sherubhaiai #trending #trend #viral #shorts #reels #ai",
+          "channel": "telugu ai creator ",
+          "channel_id": "UCP4rMGAPTd7M3UbNjQ6tInA",
+          "url": "https://www.youtube.com/watch?v=anOdSdVknSw",
+          "published_at": "2026-11-28T02:10:11Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 1202,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "sheru bhai ki dadi ka power 📈#sherubhai #sheru #ai #video #trend",
+          "channel": "Uday Raj",
+          "channel_id": "UCEAHmoAe6ZTBO8ddqRHT0Mg",
+          "url": "https://www.youtube.com/watch?v=YDIAuv_wVHA",
+          "published_at": "2026-11-27T11:32:35Z",
+          "first_seen_at": "2026-11-27T13:50:46Z",
+          "views": 19,
+          "observed_growth_per_hour": 0.0,
+          "ai_evidence": "AI制作未验证",
+          "actions": []
+        },
+        {
+          "title": "😱 क्या Sheru Bhai गांव का सरपंच बन पाएगा? 🦁👑 #sheru #sarpanch #ai #aishorts #viralshorts #trend",
+          "channel": "Appna Sheru",
+          "channel_id": "UC5N9116SWeFTZrX_DBdviWg",
+          "url": "https://www.youtube.com/watch?v=TVZhFHZTLRg",
+          "published_at": "2026-11-28T03:40:24Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 3,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
       "anchor": "masha bear",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "Masha and the Bear Characters Gender Swap | AI Transformation",
-          "channel": "Rohidas Cartoon Life ",
-          "channel_id": "UCpje-mJsU0TXKjV_5Wn892A",
-          "url": "https://www.youtube.com/watch?v=L_W6NGUl2SQ",
-          "published_at": "2026-11-27T13:30:01Z",
-          "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 11432,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": [
-            "swap"
-          ]
-        },
-        {
-          "title": "Masha and The Bear All Cartoon Characters in  Wedding version | Ai Generated Transformation ",
-          "channel": "Axxu Toons",
-          "channel_id": "UCpC9ApFimlb_5BePYFIOhoQ",
-          "url": "https://www.youtube.com/watch?v=6W1sd2jI4kI",
-          "published_at": "2026-11-27T01:30:12Z",
-          "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 3269,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Masha and the Bear Cartoon All Characters in VAMPIRE Version 🩸🧛 | Dark Vampire AI Transformation",
-          "channel": "RauSoni2.0",
-          "channel_id": "UCfQ6Zyt7vZMAetdXZGB9Plw",
-          "url": "https://www.youtube.com/watch?v=l522cLAoTyg",
-          "published_at": "2026-11-27T11:04:28Z",
-          "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 3072,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "all characters",
-      "anchor_type": "phrase",
-      "unique_channels": 3,
-      "ai_claimed_channels": 3,
-      "video_count": 3,
-      "title_actions_shared": [],
-      "classification": "shared_phrase_only",
-      "near_duplicate_caption_fraction": 0.33,
-      "previously_observed_older_video": true,
-      "priority_points_not_seo_score": 35,
-      "examples": [
-        {
-          "title": "🔥 Mr Bean All Cartoon Characters In Real Life  | Real Wedding Look | Ai Generated Transformation",
-          "channel": "TURN TO REAL",
-          "channel_id": "UCsR421ZqzvIkTuP13_2W3LA",
-          "url": "https://www.youtube.com/watch?v=daBc6CigeF8",
-          "published_at": "2026-11-27T03:00:28Z",
-          "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 39905,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Masha and The Bear All Cartoon Characters in  Wedding version | Ai Generated Transformation ",
-          "channel": "Axxu Toons",
-          "channel_id": "UCpC9ApFimlb_5BePYFIOhoQ",
-          "url": "https://www.youtube.com/watch?v=6W1sd2jI4kI",
-          "published_at": "2026-11-27T01:30:12Z",
-          "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 3269,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        },
-        {
-          "title": "Masha and the Bear Cartoon All Characters in VAMPIRE Version 🩸🧛 | Dark Vampire AI Transformation",
-          "channel": "RauSoni2.0",
-          "channel_id": "UCfQ6Zyt7vZMAetdXZGB9Plw",
-          "url": "https://www.youtube.com/watch?v=l522cLAoTyg",
-          "published_at": "2026-11-27T11:04:28Z",
-          "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 3072,
-          "observed_growth_per_hour": null,
-          "ai_evidence": "作者文字自述AI",
-          "actions": []
-        }
-      ]
-    },
-    {
-      "anchor": "hey bhagwan ek thar",
       "anchor_type": "phrase",
       "unique_channels": 2,
       "ai_claimed_channels": 2,
@@ -122,26 +132,104 @@
       "priority_points_not_seo_score": 35,
       "examples": [
         {
-          "title": "Hey Bhagwan Ek Thar Dedo Trend 😂💸 | AI Photo Transformation #TrendingAITransformation",
-          "channel": "Usha Sharma",
-          "channel_id": "UCFRr71OK7PTwn_6fEgRjCKg",
-          "url": "https://www.youtube.com/watch?v=Qnj6xfXoAPM",
-          "published_at": "2026-11-27T05:39:15Z",
+          "title": "Masha and the Bear Characters Gender Swap | AI Transformation",
+          "channel": "Rohidas Cartoon Life ",
+          "channel_id": "UCpje-mJsU0TXKjV_5Wn892A",
+          "url": "https://www.youtube.com/watch?v=L_W6NGUl2SQ",
+          "published_at": "2026-11-27T13:30:01Z",
           "first_seen_at": "2026-11-28T00:02:12Z",
-          "views": 6070,
+          "views": 14756,
+          "observed_growth_per_hour": 429.4,
+          "ai_evidence": "作者文字自述AI",
+          "actions": [
+            "swap"
+          ]
+        },
+        {
+          "title": "Masha and the Bear Cartoon All Characters in VAMPIRE Version 🩸🧛 | Dark Vampire AI Transformation",
+          "channel": "RauSoni2.0",
+          "channel_id": "UCfQ6Zyt7vZMAetdXZGB9Plw",
+          "url": "https://www.youtube.com/watch?v=l522cLAoTyg",
+          "published_at": "2026-11-27T11:04:28Z",
+          "first_seen_at": "2026-11-28T00:02:12Z",
+          "views": 3828,
+          "observed_growth_per_hour": 97.7,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#sherubhaiai",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "SHERU BHAI #explorepage #aivideo #aishorts #sherubhaiai #trending #trend #viral #shorts #reels #ai",
+          "channel": "telugu ai creator ",
+          "channel_id": "UCP4rMGAPTd7M3UbNjQ6tInA",
+          "url": "https://www.youtube.com/watch?v=anOdSdVknSw",
+          "published_at": "2026-11-28T02:10:11Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 1202,
           "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         },
         {
-          "title": "Hey Bhagwan Ek Thar Dedo 😂 AI Video Editing #shorts #trending #instagram",
-          "channel": "Pratik Tech Guide",
-          "channel_id": "UC6zapJIaAVyqIa1tEl-XnfA",
-          "url": "https://www.youtube.com/watch?v=pw_DRJR4i5U",
-          "published_at": "2026-11-27T13:29:29Z",
-          "first_seen_at": "2026-11-27T13:50:46Z",
-          "views": 1557,
-          "observed_growth_per_hour": 136.3,
+          "title": "MI 6 Trophy Loading  #sherubhai #aivideo #hitman #ipl2027#sheru #viral #tranding #trend #sherubhaiai",
+          "channel": "RJ CINEMATIC",
+          "channel_id": "UCnCrQiCffBlAW7v_IAlKvJA",
+          "url": "https://www.youtube.com/watch?v=MK2D3KRJqcg",
+          "published_at": "2026-11-28T05:42:02Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 167,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        }
+      ]
+    },
+    {
+      "anchor": "#drawing",
+      "anchor_type": "tag",
+      "unique_channels": 2,
+      "ai_claimed_channels": 2,
+      "video_count": 2,
+      "title_actions_shared": [],
+      "classification": "shared_phrase_only",
+      "near_duplicate_caption_fraction": 0.5,
+      "previously_observed_older_video": true,
+      "priority_points_not_seo_score": 35,
+      "examples": [
+        {
+          "title": "Dilruba Dilnasheen..❤️|Fact|newsong|#art#ai#aishorts#aivideo  #yt#shorts#short#trend #ytshorts#viral",
+          "channel": "Entertainment zone  ",
+          "channel_id": "UCJTZjHQrxLswhzS0OCU1a1Q",
+          "url": "https://www.youtube.com/watch?v=zpHlj_u3sO4",
+          "published_at": "2026-11-28T01:45:20Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 827,
+          "observed_growth_per_hour": null,
+          "ai_evidence": "作者文字自述AI",
+          "actions": []
+        },
+        {
+          "title": "doggies bhai on duty #dog #dogvideo #ai #drawing #amazingfacts",
+          "channel": "Mar well",
+          "channel_id": "UCIOKHGa1ZoX_q8vC8dyS7QA",
+          "url": "https://www.youtube.com/watch?v=Z_zdAyKtFec",
+          "published_at": "2026-11-28T05:31:25Z",
+          "first_seen_at": "2026-11-28T07:46:42Z",
+          "views": 4,
+          "observed_growth_per_hour": null,
           "ai_evidence": "作者文字自述AI",
           "actions": []
         }
@@ -150,17 +238,35 @@
   ],
   "high_velocity_single_creator_watchlist": [
     {
-      "title": "November 27, 2026🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light",
-      "channel": "Ghibli world 5yg",
-      "channel_id": "UCK6uh-8HaEZZUjbfyZsF5zQ",
-      "url": "https://www.youtube.com/watch?v=DnqkH0pYlc0",
-      "published_at": "2026-11-27T01:53:26Z",
+      "title": "Plastic Waste to Football Transformation! ♻️ | Ai Made | @Ai_Stories_By_Hoodie",
+      "channel": "Ai Stories By Hoodie",
+      "channel_id": "UCb5Xiej0tggStfyhnv1UVHw",
+      "url": "https://www.youtube.com/watch?v=mWhZ_PygF1c",
+      "published_at": "2026-11-27T12:30:01Z",
       "first_seen_at": "2026-11-28T00:02:12Z",
-      "views": 2073083,
+      "views": 253014,
+      "observed_growth_per_hour": 27146.6,
+      "ai_evidence": "作者文字自述AI",
+      "actions": [
+        "transform"
+      ],
+      "suggested_search_phrase_unverified": "plastic waste football",
+      "confidence": "单作者、作者自述AI；需核验画面和模仿",
+      "historically_known_named_format": false,
+      "view_tier": "10万级早期观察，不是爆款"
+    },
+    {
+      "title": "🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light",
+      "channel": "Miyazaki Ghibli",
+      "channel_id": "UCWC-dUpRadTjHuWx8n90z4g",
+      "url": "https://www.youtube.com/watch?v=5i5fSUZhYUc",
+      "published_at": "2026-11-27T09:40:31Z",
+      "first_seen_at": "2026-11-28T07:46:42Z",
+      "views": 1652384,
       "observed_growth_per_hour": null,
       "ai_evidence": "作者文字自述AI",
       "actions": [],
-      "suggested_search_phrase_unverified": "november hot summer night",
+      "suggested_search_phrase_unverified": "summer night until power",
       "confidence": "单作者、作者自述AI；需核验画面和模仿",
       "historically_known_named_format": false,
       "view_tier": "百万播放候选，仍需验证AI"

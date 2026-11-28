@@ -1,8 +1,8 @@
 # AI Shorts 新玩法归组与独立模仿证据（自动候选）
 
-- 数据时间（北京）：2026-11-28 08:02
+- 数据时间（北京）：2026-11-28 15:46
 - 本次由已有 YouTube Data API 视频快照分组；没有新增 API 查询
-- 保存的历史状态池：2080 条；仅使用最近24小时发布的视频归组为 0 个主题
+- 保存的历史状态池：2118 条；仅使用最近24小时发布的视频归组为 0 个主题
 - 有两个及以上独立账号文字自述AI的**候选主题**：0（不等于同一玩法的模仿已证实）
 - 经核实真正新关键词：**0（自动分类器不能确认新SEO词）**
 
@@ -17,7 +17,7 @@
 
 | 原视频 | 频道 | 播放量 | 观测增速/时 |
 |---|---|---:|---:|
-| [November 27, 2026🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light](https://www.youtube.com/watch?v=DnqkH0pYlc0) | Ghibli world 5yg | 2073083 | 待多次采样 |
+| [🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light](https://www.youtube.com/watch?v=5i5fSUZhYUc) | Miyazaki Ghibli | 1652384 | 待多次采样 |
 
 ## 当天是否可以建站？
 

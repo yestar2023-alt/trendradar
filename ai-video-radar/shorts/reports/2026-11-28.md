@@ -1,16 +1,16 @@
 # 最近24小时 AI 短视频：百万爆款候选（未核验画面）
 
-- 北京时间：2026-11-28 08:02
-- 视频发布时间窗口：2026-11-27 08:02 — 2026-11-28 08:02（北京时间）
+- 北京时间：2026-11-28 15:46
+- 视频发布时间窗口：2026-11-27 15:46 — 2026-11-28 15:46（北京时间）
 - 本轮搜索成功率：3/3；失败：0
 - 无AI关键词的跨地区热门短视频抽样：1/1次成功；本轮命中24小时短视频：50条
 - 其中只靠作者合成内容声明（标题/标签无AI词）检出的百万候选：0条
-- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：229
-- 全部候选中单条观看量≥1,000,000的视频：63（含非AI/未验证AI内容）
+- 最近24小时发布、时长≤180秒、已在本轮更新真实观看数据的视频候选：245
+- 全部候选中单条观看量≥1,000,000的视频：64（含非AI/未验证AI内容）
 - **百万爆款 AI/合成媒体候选：1**（单条≥1,000,000，且作者标题/标签自述AI，或YouTube API明确返回作者合成媒体声明）
-- **其他百万播放待核验视频：62**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）
-- **早期观察，非爆款：0**（单条≥100,000但未满百万）
-- 历史快照后首次观察到的原视频：150
+- **其他百万播放待核验视频：63**（不是已确认AI，不进入AI爆款榜；原视频在下方单独展示）
+- **早期观察，非爆款：1**（单条≥100,000但未满百万）
+- 历史快照后首次观察到的原视频：133
 - 搜索方式：关键词轮换+先前视频重新采样；不依赖九站模板监控
 
 > **严格定义**：爆款门槛是最近24小时内发布的单条视频，当前累计≥100万次观看。
@@ -25,79 +25,79 @@
 
 | 原视频链接 | 频道 | 官方发布时间（北京） | 本次累计播放量 | 真实观测增速/小时 | AI证据 |
 |---|---|---|---:|---:|---|
-| [November 27, 2026🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light](https://www.youtube.com/watch?v=DnqkH0pYlc0) | Ghibli world 5yg | 2026-11-27 09:53 | 2,073,083 | 待第二次采样 | 标题/标签自述 AI 制作（未经画面核验） |
+| [🔥It was a hot summer night... Until the power cut 🌛💡#ghibli #shorts #light](https://www.youtube.com/watch?v=5i5fSUZhYUc) | Miyazaki Ghibli | 2026-11-27 17:40 | 1,652,384 | 待第二次采样 | 标题/标签自述 AI 制作（未经画面核验） |
 
-## 其他百万播放视频（62条；AI身份未确认，单独供人工查看）
+## 其他百万播放视频（63条；AI身份未确认，单独供人工查看）
 
 > 这张表可能包含普通非AI爆款，不等于确认由AI生成、可复刻或有SEO机会。API未返回合成声明不是创作者明确否认AI。
 > 与上方已具AI文字/作者声明的百万候选互斥；只列本轮刷新真实观看数据、近24小时发布的短视频。最多前50条；全量见latest.csv。
 
 | 原视频（可点击） | 频道 | 官方发布（北京） | 采样播放量 | 合成媒体声明 | 发现来源 |
 |---|---|---|---:|---|---|
-| [He Fell Into the COUCH… and Found a SECRET WORLD! 😱](https://www.youtube.com/watch?v=Gpn3lwE3rJo) | Jett and Lyra | 2026-11-27 17:22 | 36,649,042 | API未返回 | broad_no_keyword:KR |
-| [Teaching my GF how to backflip 🤣](https://www.youtube.com/watch?v=eXE2vFCe-P4) | Cadel and Mia | 2026-11-27 20:30 | 8,000,120 | API未返回 | broad_no_keyword:KR |
-| [Daddy Cool (KING Version) / Shah Rukh Khan, Kareena / Sachin-Jigar, Arijit, Boney M, Shilpa, Kumaar](https://www.youtube.com/watch?v=2pIRdpQhvpU) | T-Series | 2026-11-27 22:27 | 7,212,197 | API未返回 | broad_no_keyword:KR |
-| [Padhai ka power🤯 #zidaanshahidaly #brothersister #shorts](https://www.youtube.com/watch?v=LsyZdJM6DIU) | Zidaan Shahid Aly | 2026-11-27 11:30 | 6,877,325 | API未返回 | broad_no_keyword:MX |
-| [VIVIMOS ADENTRO DE UN TROMPO GIGANTE!!!](https://www.youtube.com/watch?v=TfyVhNTz15s) | SoyGelo | 2026-11-27 09:30 | 6,121,283 | API未返回 | broad_no_keyword:MX |
-| [SAMPE DAPET JUTAAN❗️NIAT ISENG AJA TERNYATA DAPET JACKPOT😱](https://www.youtube.com/watch?v=w4rb0KtbMlk) | Adam Hidayat | 2026-11-27 15:43 | 4,355,791 | API未返回 | broad_no_keyword:MX |
-| [MI NOVIA ES MI PRIMA 💀 / #shorts](https://www.youtube.com/watch?v=oOhRJrOvTcw) | IsManuPlay | 2026-11-27 10:15 | 4,113,785 | API未返回 | broad_no_keyword:MX |
-| [CUANDO JUEGAS DEMASIADO GTA 6 💀🤣](https://www.youtube.com/watch?v=6box0hQ2KuY) | Alex Crashers | 2026-11-27 09:16 | 3,857,024 | API未返回 | broad_no_keyword:MX |
-| [SUBSCRIBE FOR 7 YEARS OF GOOD LUCK! 🍀😅 - #dance #funny #couple #shorts](https://www.youtube.com/watch?v=ThWPyTYGHAY) | Jasmin and James | 2026-11-27 18:50 | 3,547,114 | API未返回 | broad_no_keyword:KR |
-| [Mistry's Funny Prank Again🤣](https://www.youtube.com/watch?v=7_HFK7Vi-Zg) | Factomato | 2026-11-27 20:00 | 3,444,003 | API未返回 | broad_no_keyword:KR |
-| [Eehhh masih tidur deffan⁉️// Deffan Yeye Chanel // Shorts](https://www.youtube.com/watch?v=cxg94W1wRsc) | Deffan yeye chanel | 2026-11-27 09:00 | 3,269,977 | API未返回 | broad_no_keyword:KR |
-| [Why Did the New Boss Fire Every Cardiac Surgeon #fyp](https://www.youtube.com/watch?v=kyQUNu9Of5o) |  Agent’s Trail | 2026-11-27 09:41 | 3,115,541 | API未返回 | broad_no_keyword:KR |
-| [Happy Thanksgiving! Sending you lots of love 🫶🏻💕 #dinnerwithme #dinner #dinnerideas #cooking](https://www.youtube.com/watch?v=C_IKZF3wbHo) | Official Erica Sherwood | 2026-11-27 08:59 | 2,851,753 | API未返回 | broad_no_keyword:KR |
-| [बुज़ुर्ग कहते थे बाँटने से बढ़ता है #nazarbattu #moralstoryinhindi  #youtubeshorts](https://www.youtube.com/watch?v=zfE563jTTC4) | Nazarbattu भारत | 2026-11-27 11:36 | 2,814,060 | API未返回 | broad_no_keyword:MX |
-| [POV  They Made Prime Ronaldo Angry 💀🇵🇹 #shorts #azfook](https://www.youtube.com/watch?v=JPlGBCwfGB4) | FOOTBALL IS LIFE / POV ⚽ | 2026-11-27 09:14 | 2,691,653 | API未返回 | broad_no_keyword:KR |
-| [주차비를 절약하는 나만의 비밀루틴? #안전운전 #교통안전 #사례교육 #한문철TV #레전드](https://www.youtube.com/watch?v=r6SnCcSNv28) | 당신의 안전에 건배 | 2026-11-27 11:03 | 2,647,792 | API未返回 | broad_no_keyword:KR |
-| [Are you team LEFT or team RIGHT? #bybacademy #daotaonguoimau #thanhhuyennguyen #5g](https://www.youtube.com/watch?v=7B2_NdLdFrI) | BYB Academy | 2026-11-27 20:00 | 2,633,016 | API未返回 | broad_no_keyword:KR |
-| [Masala baati-daal in traditional way using ghee from rosier food #villagefood #recipe #villagelife](https://www.youtube.com/watch?v=TiFouLzwPuc) | Family Kitchen 100 | 2026-11-27 09:59 | 2,435,271 | API未返回 | broad_no_keyword:KR |
-| [Stairway To Heaven 🪽](https://www.youtube.com/watch?v=eaLYIn_eKSE) | Baseplate | 2026-11-27 12:00 | 2,312,947 | API未返回 | broad_no_keyword:KR |
-| [What If You Dug a 60-Foot Pool in Your Backyard?](https://www.youtube.com/watch?v=_t8anb4e8gs) | Mildly Elsewhere | 2026-11-27 11:24 | 2,294,893 | API未返回 | broad_no_keyword:KR |
-| [एक बार बना लिया तो बार-बार खाने का मन करेगा / मूली का अचार #shorts #viral](https://www.youtube.com/watch?v=kSXiSZbgaZc) | Maa Gori Bhandar | 2026-11-27 12:30 | 2,237,447 | API未返回 | broad_no_keyword:KR |
-| [He put me in a Minecraft mod… Roman Bearman](https://www.youtube.com/watch?v=iWpp1zzZjL4) | CarterPCs | 2026-11-27 09:36 | 2,224,792 | API未返回 | broad_no_keyword:MX |
-| [Little Man Tate (1991) / Todos aman a los sabelotodo 😊 #shorts #triste #cinema #pelicula](https://www.youtube.com/watch?v=n0EJzRICj-A) | Lil Resumen | 2026-11-27 16:52 | 2,216,833 | API未返回 | broad_no_keyword:KR |
-| [जाऊबाईंच्या एका ऑर्डरने धाकलीचं पितळ उघडं पडलं? 😱 #shabbassunbai](https://www.youtube.com/watch?v=BjNrsNeKaBg) | शाब्बास सुनबाई | 2026-11-27 13:32 | 2,145,627 | API未返回 | broad_no_keyword:KR |
-| [₹300 International Trip! India Nepal Train LAUNCH! Sarayu Kamala Express Ayodhya India #shorts](https://www.youtube.com/watch?v=aJmeQUtU_4E) | FactTechz | 2026-11-27 09:40 | 2,124,825 | API未返回 | broad_no_keyword:KR |
-| [बाजार का नया मंत्र - नीचे खरीदो, ऊपर बेचो! / #EditorsTake / #anujsinghal / N18S](https://www.youtube.com/watch?v=ZgjwHBSn-aU) | CNBC Awaaz. | 2026-11-27 10:21 | 2,094,541 | API未返回 | broad_no_keyword:KR |
-| [Bigg Boss Tamil Season 10 / 27th November 2026 - Promo 2](https://www.youtube.com/watch?v=5DlBjR-WiFk) | Vijay Television | 2026-11-27 14:38 | 2,049,367 | API未返回 | broad_no_keyword:MX |
-| [주유 5분 만에 '스르륵'..."고장 차량만 50대" / SBS / #D리포트](https://www.youtube.com/watch?v=cLvk3DnRzHc) | SBS 뉴스 | 2026-11-27 10:26 | 2,026,111 | API未返回 | broad_no_keyword:MX |
-| [自転車乗りだけが知っているロマン](https://www.youtube.com/watch?v=KDPqkB5HnKs) | タイムアタック | 2026-11-27 11:00 | 1,887,570 | API未返回 | broad_no_keyword:KR |
-| [How A Cold War Spy Hid His Camera 😮](https://www.youtube.com/watch?v=2QIBEpASFJQ) | Zack D. Films | 2026-11-27 21:30 | 1,857,961 | API未返回 | broad_no_keyword:KR |
-| [彌生「志村けん研ナオコの夫婦生活」#志村けん#研ナオコ#メシ#無い#夫婦生活](https://www.youtube.com/watch?v=A3SpLWOJks8) | 彌生 | 2026-11-27 08:32 | 1,850,851 | API未返回 | broad_no_keyword:KR |
-| [Bigg Boss Tamil Season 10 / 27th November 2026 - Promo 1](https://www.youtube.com/watch?v=QH_8a-gARzA) | Vijay Television | 2026-11-27 12:32 | 1,819,860 | API未返回 | broad_no_keyword:MX |
-| [How To Cut A Bagel Into Linked Halves 🤔](https://www.youtube.com/watch?v=RwYfQpbhpi0) | Zack D. Films | 2026-11-28 02:30 | 1,797,368 | API未返回 | broad_no_keyword:KR |
-| [If You Drink Water You Grow...  #roblox #shorts](https://www.youtube.com/watch?v=oyHTD0z-taU) | playit | 2026-11-27 13:00 | 1,782,431 | API未返回 | broad_no_keyword:MX |
-| [Bigg Boss Season 10 Telugu / Day 82 Promo 1 / Mon - Fri at 9:30 PM Sat & Sun at 9 PM / Nagarjuna](https://www.youtube.com/watch?v=3OqAU-errwE) | Star Maa | 2026-11-27 13:07 | 1,774,285 | API未返回 | broad_no_keyword:MX |
-| [" 가장 유명하다는 페이커 그 장면? "](https://www.youtube.com/watch?v=lmijQcz6HxI) | LCK 아카이브 | 2026-11-27 10:16 | 1,738,667 | API未返回 | broad_no_keyword:KR |
-| [दो कुर्सियों और सीमेंट से बना ऐसा अनोखा फिश पॉन्ड, जिसे देखकर हर कोई हैरान रह गया!](https://www.youtube.com/watch?v=6bwqH-TMHQQ) | Aysha Kanwal | 2026-11-27 09:03 | 1,700,521 | API未返回 | broad_no_keyword:KR |
-| [“one of my first trophies.” 💚](https://www.youtube.com/watch?v=2rkkksOxvug) | NFL | 2026-11-27 10:26 | 1,692,334 | API未返回 | broad_no_keyword:KR |
-| [Rang Daali Re / Panchayat Season 5 /Jitendra Kumar/ Anurag Saikia, Udit Narayan, Deepali Sathe, Juno](https://www.youtube.com/watch?v=ZhTBX9SYEvg) | Sony Music India | 2026-11-27 13:30 | 1,685,880 | API未返回 | broad_no_keyword:KR |
-| [Mi HERMANA se BURLÓ de mi CUARTO y así lo DECORÉ... 😝](https://www.youtube.com/watch?v=H_UsjXHmOF0) | ZS | 2026-11-27 08:10 | 1,671,541 | API未返回 | broad_no_keyword:KR |
-| [修学旅行中の緊急連絡　子どもと教員のリアル](https://www.youtube.com/watch?v=aQZfz_-b1ao) | ささT　元教師 | 2026-11-27 17:01 | 1,671,313 | API未返回 | broad_no_keyword:KR |
-| [坊主にする弟を見ていたママと兄の行動に世界が泣いた…😭✨](https://www.youtube.com/watch?v=-VAQXX6yYoE) | IORI - 天音維織 | 2026-11-27 15:57 | 1,668,877 | API未返回 | broad_no_keyword:KR |
-| [[뉴스 '꾹'] "컵홀더? 뭐 계기판이 옵션?" 눈 높아진 소비자들 '차갑다' (2026.11.27/MBC뉴스)](https://www.youtube.com/watch?v=M6rIEhhWOmk) | MBCNEWS | 2026-11-27 13:42 | 1,622,350 | API未返回 | broad_no_keyword:MX |
-| [Did you expect this collab? 😳🤭](https://www.youtube.com/watch?v=mmWiYKvL6QI) | Cadel and Mia | 2026-11-27 20:00 | 1,594,725 | API未返回 | broad_no_keyword:KR |
-| [Cheetah vs Antelope: The Ultimate Escape! 🐆🔥 #Cheetah #Antelope #Wildlife #Nature #shorts #trending](https://www.youtube.com/watch?v=VwAZq2AhMqA) | The Wild Vision | 2026-11-27 09:51 | 1,578,978 | API未返回 | broad_no_keyword:KR |
-| [COMPRÉ EL ATERRADOR HELADO DE ELFO DE COCARDO! 🔴🥥 #shorts](https://www.youtube.com/watch?v=4Xbh8UOK6mw) | Dipssy | 2026-11-27 09:00 | 1,531,220 | API未返回 | broad_no_keyword:KR |
-| [Capture The Flag 🚩](https://www.youtube.com/watch?v=aqa152rUIAw) | Baseplate | 2026-11-27 09:00 | 1,529,077 | API未返回 | broad_no_keyword:KR |
-| [Avengers: Doomsday / TV SPOT “REDEMPTION” CONCEPT / Marvel Studios](https://www.youtube.com/watch?v=FYHvlRJXG2A) | MovieTrailers Entertainment | 2026-11-27 22:30 | 1,522,072 | API未返回 | broad_no_keyword:KR |
-| [Who is Your Bench Partner?😍 #schoollife #studentlife #cbse #bestfriends #schoolfriends #bestie](https://www.youtube.com/watch?v=CvfZmDAnWug) | Jagriti Pahwa | 2026-11-27 21:30 | 1,497,798 | API未返回 | broad_no_keyword:KR |
-| [mau rilis apking v5 malah pada boxing gimana dah #andrast #freefire](https://www.youtube.com/watch?v=bHDqlyvlnk4) | Andra ST | 2026-11-27 16:30 | 1,478,331 | API未返回 | broad_no_keyword:MX |
+| [He Fell Into the COUCH… and Found a SECRET WORLD! 😱](https://www.youtube.com/watch?v=Gpn3lwE3rJo) | Jett and Lyra | 2026-11-27 17:22 | 57,322,030 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [Indian roller coaster hits different](https://www.youtube.com/watch?v=XHKKQljkA8w) | 김프로KIMPRO | 2026-11-27 17:00 | 14,169,800 | API未返回 | broad_no_keyword:PH |
+| [The Smallest Breath Won Again 😂🫧 #grandpa #baby](https://www.youtube.com/watch?v=HwT0SqSrNsQ) | Old Guy Energy | 2026-11-27 18:59 | 13,026,656 | API未返回 | broad_no_keyword:PH |
+| [Teaching my GF how to backflip 🤣](https://www.youtube.com/watch?v=eXE2vFCe-P4) | Cadel and Mia | 2026-11-27 20:30 | 12,703,310 | API未返回 | broad_no_keyword:KR |
+| [Daddy Cool (KING Version) / Shah Rukh Khan, Kareena / Sachin-Jigar, Arijit, Boney M, Shilpa, Kumaar](https://www.youtube.com/watch?v=2pIRdpQhvpU) | T-Series | 2026-11-27 22:27 | 11,280,952 | API未返回 | broad_no_keyword:KR |
+| [SUBSCRIBE FOR 7 YEARS OF GOOD LUCK! 🍀😅 - #dance #funny #couple #shorts](https://www.youtube.com/watch?v=ThWPyTYGHAY) | Jasmin and James | 2026-11-27 18:50 | 7,515,022 | API未返回 | broad_no_keyword:KR |
+| [Are you team LEFT or team RIGHT? #bybacademy #daotaonguoimau #thanhhuyennguyen #5g](https://www.youtube.com/watch?v=7B2_NdLdFrI) | BYB Academy | 2026-11-27 20:00 | 5,794,431 | API未返回 | broad_no_keyword:KR |
+| [Mistry's Funny Prank Again🤣](https://www.youtube.com/watch?v=7_HFK7Vi-Zg) | Factomato | 2026-11-27 20:00 | 5,421,269 | API未返回 | broad_no_keyword:KR |
+| [The Whole Black Friday Line Watched This 2 Year Old Warm Up 🛍️😂](https://www.youtube.com/watch?v=rqGe0uTMVCs) | Copycat Cuties | 2026-11-27 20:00 | 5,320,337 | API未返回 | broad_no_keyword:PH |
+| [THAT ROUGH BOOK PAGLU #shorts #friends #school #comedy #funny #fun #explore #relatable #schoollife](https://www.youtube.com/watch?v=1CM4x4ZyX24) | Baccha Mat Bolna | 2026-11-27 18:17 | 5,285,323 | API未返回 | broad_no_keyword:PH |
+| [She Touched the DARK Face Mask… Her Hands Stayed BLACK 😭🖤 #Shorts #Funny #Skincare](https://www.youtube.com/watch?v=31DRpozqgvE) | Veyra | 2026-11-27 18:22 | 4,962,302 | API未返回 | broad_no_keyword:PH |
+| [Why Some Garbage Trucks Have Two Steering Wheels](https://www.youtube.com/watch?v=l8t1f5hN3l8) | Timeless moments | 2026-11-27 16:53 | 4,454,713 | API未返回 | broad_no_keyword:PH |
+| [EETHA - Sindoor Se (Official Video) / Shraddha K, Randeep H / Ajay-Atul, Sneha S,Amitabh B / 4th Dec](https://www.youtube.com/watch?v=2rsCmGk_zGw) | Universal Music India | 2026-11-27 20:09 | 4,374,865 | API未返回 | broad_no_keyword:PH |
+| [How To Cut A Bagel Into Linked Halves 🤔](https://www.youtube.com/watch?v=RwYfQpbhpi0) | Zack D. Films | 2026-11-28 02:30 | 3,957,815 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [Little Man Tate (1991) / Todos aman a los sabelotodo 😊 #shorts #triste #cinema #pelicula](https://www.youtube.com/watch?v=n0EJzRICj-A) | Lil Resumen | 2026-11-27 16:52 | 3,667,894 | API未返回 | broad_no_keyword:KR |
+| [Train - Official Trailer / Vijay Sethupathi / Mysskin / Shruti Haasan / Kalaippuli S Thanu](https://www.youtube.com/watch?v=RpjvbsqyUUQ) | Saregama Tamil | 2026-11-27 19:33 | 3,509,986 | API未返回 | broad_no_keyword:PH |
+| [Fiz uma Pokébola Gigante](https://www.youtube.com/watch?v=CkFWR3kRlkc) | Mangrelo | 2026-11-28 05:30 | 3,280,625 | API未返回 | broad_no_keyword:PH |
+| [Delimitation Bill EXPOSED!](https://www.youtube.com/watch?v=Hw-2j76X3qg) | Dhruv Rathee | 2026-11-28 00:24 | 3,215,625 | API未返回 | broad_no_keyword:PH |
+| [Why Revolving Doors Have Side Doors 🤔](https://www.youtube.com/watch?v=8R9-se0PJmQ) | Zack D. Films | 2026-11-28 06:30 | 3,213,780 | API未返回 | broad_no_keyword:PH |
+| [Tip to make your character more interesting!](https://www.youtube.com/watch?v=-dh4l4pabJg) | Mitch Leeuwe | 2026-11-27 18:56 | 2,917,735 | API未返回 | broad_no_keyword:PH |
+| [Artist Puts Golden Horseshoes On A Flea 🧐](https://www.youtube.com/watch?v=1Tdmv3pWopU) | Zack D. Films | 2026-11-27 23:30 | 2,886,385 | API未返回 | broad_no_keyword:PH |
+| [坊主にする弟を見ていたママと兄の行動に世界が泣いた…😭✨](https://www.youtube.com/watch?v=-VAQXX6yYoE) | IORI - 天音維織 | 2026-11-27 15:57 | 2,875,386 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [Who is Your Bench Partner?😍 #schoollife #studentlife #cbse #bestfriends #schoolfriends #bestie](https://www.youtube.com/watch?v=CvfZmDAnWug) | Jagriti Pahwa | 2026-11-27 21:30 | 2,494,329 | API未返回 | broad_no_keyword:KR |
+| [mau rilis apking v5 malah pada boxing gimana dah #andrast #freefire](https://www.youtube.com/watch?v=bHDqlyvlnk4) | Andra ST | 2026-11-27 16:30 | 2,461,354 | API未返回 | broad_no_keyword:MX |
+| [クライマーが一番焦った出来事](https://www.youtube.com/watch?v=_0MflE72nyQ) | ピッコロショート | 2026-11-27 15:47 | 2,456,322 | API未返回 | broad_no_keyword:PH |
+| [por que os famosos se RECUSAM a dar autógrafo com caneta azul??](https://www.youtube.com/watch?v=0F5J3V_Q6BI) | Giuliana Mafra | 2026-11-28 03:00 | 2,438,568 | API未返回 | broad_no_keyword:PH |
+| [WE NEED TO KNOW! 😫 COMMENT FOR 7 YEARS OF GOOD LUCK! 🍀😅🤷‍♂️ - #dance #funny #couple #shorts](https://www.youtube.com/watch?v=oGpe51pibI8) | Cadel and Mia | 2026-11-28 08:12 | 2,396,824 | API未返回 | broad_no_keyword:PH |
+| [How A Cold War Spy Hid His Camera 😮](https://www.youtube.com/watch?v=2QIBEpASFJQ) | Zack D. Films | 2026-11-27 21:30 | 2,381,267 | API未返回 | broad_no_keyword:KR |
+| [🎉🎉🎉](https://www.youtube.com/watch?v=8akaFnFN9TE) | Israa Alhaj - إسراء الحج | 2026-11-27 23:51 | 2,363,802 | API未返回 | broad_no_keyword:PH |
+| [The Secret Way To Kill Creepers](https://www.youtube.com/watch?v=efcGiH6uggo) | camman18 | 2026-11-28 00:00 | 2,308,535 | API未返回 | broad_no_keyword:PH |
+| [He Reached Inside the TURKEY… and Found a LIVE CHICK! 🐥😂](https://www.youtube.com/watch?v=WMGkDTuTnXo) | Finn and Poppy | 2026-11-27 17:25 | 2,295,738 | API未返回 | broad_no_keyword:PH |
+| [修学旅行中の緊急連絡　子どもと教員のリアル](https://www.youtube.com/watch?v=aQZfz_-b1ao) | ささT　元教師 | 2026-11-27 17:01 | 2,292,523 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [Markas Bawah Sungai](https://www.youtube.com/watch?v=07qQYiJj8oE) | WarStoriesID | 2026-11-27 21:18 | 2,259,907 | API未返回 | broad_no_keyword:PH |
+| [お父さん気持ち悪いなwwwww#あるある #小学生](https://www.youtube.com/watch?v=WR_VAB3cEoE) | ともき | 2026-11-27 18:00 | 2,187,680 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [Diy Easy Miniature Air Dry Clay Craft Toys #clay #miniature #shorts #diy #viral #trending #iran](https://www.youtube.com/watch?v=TN40Y8sk3qk) | Coco Story Art | 2026-11-27 16:41 | 2,172,549 | API未返回 | broad_no_keyword:PH |
+| [Avengers: Doomsday / TV SPOT “REDEMPTION” CONCEPT / Marvel Studios](https://www.youtube.com/watch?v=FYHvlRJXG2A) | MovieTrailers Entertainment | 2026-11-27 22:30 | 2,157,897 | API未返回 | broad_no_keyword:KR |
+| [Did you expect this collab? 😳🤭](https://www.youtube.com/watch?v=mmWiYKvL6QI) | Cadel and Mia | 2026-11-27 20:00 | 2,061,024 | API未返回 | broad_no_keyword:KR |
+| [Guarantee Hai🔥Aisi Desi Ghee Dal Nai Khayi Hogi😱❤️](https://www.youtube.com/watch?v=NJmHFIg4E9E) | Shoaib Arora | 2026-11-27 17:14 | 2,018,985 | API未返回 | broad_no_keyword:PH |
+| [Nashtar Episode 37 Teaser - 27th November 2026](https://www.youtube.com/watch?v=bgNyB87GcEw) | Nashtar | 2026-11-28 00:45 | 2,017,207 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [FIND OUT TOMORROW ON SALISH’S 12 GAMES OF CHRISTMAS!!! YAYAYAY](https://www.youtube.com/watch?v=jHcR9xIWqxs) | yoangelolo | 2026-11-28 02:19 | 1,989,637 | API未返回 | broad_no_keyword:PH |
+| [Putting 100 Dice Through My Mate's Letterbox Part 9](https://www.youtube.com/watch?v=sv46xty_xrE) | Release The Owl | 2026-11-27 19:19 | 1,989,376 | API未返回 | broad_no_keyword:PH |
+| [His Favorite Game Took a Bullet for Him](https://www.youtube.com/watch?v=2xYWUUgSFAI) | Rennrat | 2026-11-28 00:00 | 1,817,813 | API未返回 | broad_no_keyword:PH |
+| [This Thirsty Elephant Had a Clever Idea! 🐘💧](https://www.youtube.com/watch?v=EnyxNUiZVUE) | Nextbee BD | 2026-11-27 16:11 | 1,815,052 | API未返回 | broad_no_keyword:PH |
+| [Taşacak Bu Deniz 41. Bölüm Fragmanı @trt1](https://www.youtube.com/watch?v=0_-I8T96hNQ) | Taşacak Bu Deniz | 2026-11-28 05:15 | 1,774,032 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [Best part of my wedding ♥️🥺](https://www.youtube.com/watch?v=_b-zRKK-EBI) | KK Create | 2026-11-27 20:24 | 1,726,418 | API未返回 | broad_no_keyword:KR |
+| [How we first met 🥹🥰](https://www.youtube.com/watch?v=vVB-4s-tx_I) | Cadel and Mia | 2026-11-28 03:30 | 1,609,771 | API未返回 | broad_no_keyword:PH |
+| [Youtube walo ne die itne sare surprises 🎁 #shorts #ytshorts #sejalgaba](https://www.youtube.com/watch?v=o0NjmVgCCLc) | Sejal Gaba Vlogs | 2026-11-27 22:09 | 1,580,951 | API未返回 | broad_no_keyword:KR, broad_no_keyword:PH |
+| [This Teacher Lied To Teach A Lesson…😳🧠](https://www.youtube.com/watch?v=LKS9GtJLZjA) | BoltMotivation | 2026-11-28 02:00 | 1,568,268 | API未返回 | broad_no_keyword:PH |
+| [She's Only 34, But Her Grey Hair Tells a Different Story 👀🤍](https://www.youtube.com/watch?v=wn7qTk9-jh8) | MakeupDiscovery | 2026-11-27 23:00 | 1,549,073 | API未返回 | broad_no_keyword:PH |
+| [何度席替えをしてもいじめっ子の隣になると経験すること😂 #shorts #席替え](https://www.youtube.com/watch?v=WJzkU1L6hhU) | カイログ / Kai6" | 2026-11-27 17:00 | 1,531,474 | API未返回 | broad_no_keyword:PH |
 
 ## 早期潜力观察（10万–99.9万；明确不是爆款，最多5条）
 
 | 原视频链接 | 官方发布时间（北京） | 累计播放量 | 真实观测增速/小时 |
 |---|---|---:|---:|
-| — | — | — | — |
+| [Plastic Waste to Football Transformation! ♻️ / Ai Made / @Ai_Stories_By_Hoodie](https://www.youtube.com/watch?v=mWhZ_PygF1c) | 2026-11-27 20:30 | 253,014 | 27,146.6 |
 
 ## 搜索覆盖和失败项
 
 | 本轮查询 | 排序 | 状态 | 返回视频条数 |
 |---|---|---|---:|
-| AI meme | viewCount | success | 50 |
-| AI transformation | viewCount | success | 50 |
-| broad_no_keyword:KR | viewCount | success | 50 |
+| AI video trend | date | success | 50 |
+| video IA viral | viewCount | success | 50 |
+| broad_no_keyword:PH | viewCount | success | 50 |
 
 ## 进一步SEO判断
 
