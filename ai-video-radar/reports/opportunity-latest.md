@@ -1,9 +1,9 @@
 # 新词机会报告 · AI 视频
 
-- 检查时间（UTC）：**2026-11-27T05:24:55+00:00**
-- 全部候选节点：**4153**
-- 高优先级：**7**
-- 排除明显噪音：**1336**
+- 检查时间（UTC）：**2026-11-28T04:59:52+00:00**
+- 全部候选节点：**4191**
+- 高优先级：**6**
+- 排除明显噪音：**1359**
 - 本轮真实 SERP 请求：**0**
 - 已核验前十结果：**0**
 - SERP 凭证可用：**否**
@@ -14,10 +14,9 @@
 
 | 关键词 | 研究分 | 相关查询涨幅 | SERP | 决策 |
 |---|---:|---|---|---|
+| [canva ai video generator](https://www.google.com/search?q=canva+ai+video+generator&gl=us&hl=en) | 90 | 60.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [darlink image to video](https://www.google.com/search?q=darlink+image+to+video&gl=us&hl=en) | 90 | 120.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [image to video ai with prompt online free](https://www.google.com/search?q=image+to+video+ai+with+prompt+online+free&gl=us&hl=en) | 84 | 251300.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
-| [everygen ai video generator](https://www.google.com/search?q=everygen+ai+video+generator&gl=us&hl=en) | 82 | 60.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
-| [can chatgpt make videos](https://www.google.com/search?q=can+chatgpt+make+videos&gl=us&hl=en) | 82 | 140.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [image to video ai free unlimited without login](https://www.google.com/search?q=image+to+video+ai+free+unlimited+without+login&gl=us&hl=en) | 79 | 110.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [free ai video generator](https://www.google.com/search?q=free+ai+video+generator&gl=us&hl=en) | 65 | 80.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
 | [ai rapper voice generator free](https://www.google.com/search?q=ai+rapper+voice+generator+free&gl=us&hl=en) | 62 | 19800.0 | NOT_CONFIGURED | NOT_BUILD_APPROVED |
@@ -25,10 +24,10 @@
 ## 完整分类统计
 | 状态 | 数量 |
 |---|---:|
-| EXCLUDED_NOISE | 1336 |
-| HIGH_PRIORITY_RESEARCH | 7 |
-| RESEARCH_QUEUE | 2685 |
-| WATCH_ONLY | 125 |
+| EXCLUDED_NOISE | 1359 |
+| HIGH_PRIORITY_RESEARCH | 6 |
+| RESEARCH_QUEUE | 2692 |
+| WATCH_ONLY | 134 |
 
 注意：首次观察并不等于关键词刚诞生。仅相关查询暴涨不能证明真实可获得流量。
 未配置 SERPER_API_KEY 时自动保留待验证状态及 Google 搜索链接；不调用付费服务。

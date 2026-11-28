@@ -1,16 +1,16 @@
 # Free Google Trends Related Queries graph
 
-Checked: 2026-11-27T05:24:53+00:00
+Checked: 2026-11-28T04:59:48+00:00
 
 - Mode: LIVE_HTTP
-- New seed names imported: 116
+- New seed names imported: 37
 - Provider calls attempted: 3
 - Successful requests: 3
-- New related-query nodes: 27
-- Pending requests: 4108
+- New related-query nodes: 1
+- Pending requests: 4143
 - Google throttled this run: False
-- Total graph nodes: 4153
-- Total parent-child edges: 707
+- Total graph nodes: 4191
+- Total parent-child edges: 711
 
 A Google Trends relative-interest value is NOT search volume.
 A related search query is NOT itself a verified SEO or build opportunity.
@@ -18,10 +18,6 @@ If a provider fails or returns no query, search demand is UNKNOWN, not zero.
 
 ## Recent discovered related queries (display only)
 
-- ai voice generator -> text to speech (top, 39)
-- ai voice generator -> ai voice generator text to speech (top, 39)
-- ai voice generator -> voice generator text to speech (top, 39)
-- ai voice generator -> text to speech free (top, 20)
 - ai voice generator -> best ai voice generator (top, 19)
 - ai voice generator -> free ai voice generator text to speech (top, 18)
 - ai voice generator -> ai audio generator (top, 17)
@@ -38,3 +34,7 @@ If a provider fails or returns no query, search demand is UNKNOWN, not zero.
 - ai voice generator -> elevenlabs (top, 8)
 - ai voice generator -> ai character voice generator (top, 8)
 - ai voice generator -> character voice generator (top, 7)
+- canva ai image generator -> canva ai video generator (rising, +60%)
+- canva ai image generator -> canva free ai image generator (rising, +40%)
+- canva ai image generator -> canva free ai image generator (top, 100)
+- canva ai image generator -> canva ai video generator (top, 40)
